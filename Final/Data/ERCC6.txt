@@ -1,0 +1,36 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM046039	cCGA-TGA	Arg77Term	229C>T	R77X	UV-sensitive syndrome	Horibata (2004) Proc Natl Acad Sci U S A 101:15410	PubMed 15486090
+CM099977	aCAG-TAG	Gln156Term	466C>T	Q156X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM980622	aCAG-TAG	Gln184Term	550C>T	Q184X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM099978	TGGg-TGA	Trp236Term	708G>A	W236X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM113243	aCAG-TAG	Gln256Term	766C>T	Q256X	Cockayne syndrome	Horibata (2011) Genes Cells 16:101	PubMed 21143350
+CM920242	gAAG-TAG	Lys337Term	1009A>T	K337X	Cockayne syndrome	Troelstra (1992) Cell 71:939	PubMed 1339317
+CM099980	gGAG-TAG	Glu379Term	1135G>T	E379X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM0910264	GGT-GAT	Gly399Asp	1196G>A	G399D	Bladder cancer, increased risk, association with	Chang (2009) Anticancer Res 29:5121	PubMed 20044625
+CM980623	cCGA-TGA	Arg453Term	1357C>T	R453X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM115334	gCAG-TAG	Gln463Term	1387C>T	Q463X	Cockayne syndrome	Zhang (2011) Eur J Med Genet 54:e389	PubMed 21477668
+CM980624	TGGc-TGA	Trp517Term	1551G>A	W517X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM099974	tCGA-TGA	Arg652Term	1954C>T	R652X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CG984340	aCAG-TAG	Gln664Term	1990C>T	Q664X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM980625	tCGG-TGG	Arg670Trp	2008C>T	R670W	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM099979	aAAT-GAT	Asn680Asp	2038A>G	N680D	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM083633	cCGA-TGA	Arg683Term	2047C>T	R683X	Cerebro-oculo-facio-skeletal syndrome	Laugel (2008) J Med Genet 45:564	PubMed 18628313
+CM099971	TGGt-TGC	Trp686Cys	2058G>C	W686C	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM099976	TCG-TTG	Ser687Leu	2060C>T	S687L	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM099973	gGGA-TGA	Gly715Term	2143G>T	G715X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM099972	aCAG-TAG	Gln723Term	2167C>T	Q723X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM980626	aCGA-TGA	Arg735Term	2203C>T	R735X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM980627	aTGG-AGG	Trp851Arg	2551T>A	W851R	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM980628	gCAG-TAG	Gln854Term	2560C>T	Q854X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM083635	gCGA-TGA	Arg857Term	2569C>T	R857X	Cerebro-oculo-facio-skeletal syndrome	Laugel (2008) J Med Genet 45:564	PubMed 18628313
+CM112347	TCA-TGA	Ser864Term	2591C>G	S864X	Cockayne syndrome	Bell (2011) Sci Transl Med 3:65ra4	PubMed 21228398
+CM099970	CTT-CCT	Leu871Pro	2612T>C	L871P	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250
+CM980629	gCGA-TGA	Arg947Term	2839C>T	R947X	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM980630	GTG-GGG	Val957Gly	2870T>G	V957G	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM083634	CTA-CCA	Leu987Pro	2960T>C	L987P	Cerebro-oculo-facio-skeletal syndrome	Laugel (2008) J Med Genet 45:564	PubMed 18628313
+CM980631	CCA-CTA	Pro1042Leu	3125C>T	P1042L	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM083636	tCGA-TGA	Arg1087Term	3259C>T	R1087X	Cerebro-oculo-facio-skeletal syndrome	Laugel (2008) J Med Genet 45:564	PubMed 18628313
+CM980632	CCT-CGT	Pro1095Arg	3284C>G	P1095R	Cockayne syndrome	Mallery (1998) Am J Hum Genet 62:77	PubMed 9443879
+CM076169	cATG-GTG	Met1097Val	3289A>G	M1097V	Reduced chromosomal damage in coke oven workers, association with	Cheng (2007) Biomarkers 12:76	PubMed 17438655
+CM980633	cAGA-GGA	Arg1213Gly	3637A>G	R1213G	Colorectal cancer, increased risk, association with	Berndt (2006) Cancer Epidemiol Biomarkers Prev 15:2263	PubMed 17119055
+CM099975	cCGA-TGA	Arg1288Term	3862C>T	R1288X	Cockayne syndrome	Laugel (2009) Hum Mutat 31:113	PubMed 19894250

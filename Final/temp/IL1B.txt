@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM040228	TTCg-TTT	Phe105Phe	315C>T	F105F	Malaria, severity, association with	Walley (2004) Eur J Hum Genet 12:132	PubMed 14673470

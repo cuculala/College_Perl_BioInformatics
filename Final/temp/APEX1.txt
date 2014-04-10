@@ -1,0 +1,7 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM071559	CAGa-CAC	Gln51His	153G>C	Q51H	Colorectal adenoma, association with	Berndt (2007) Cancer Res 67:1395	PubMed 17283177
+CM984700	CTA-CGA	Leu104Arg	311T>G	L104R	Amyotrophic lateral sclerosis	Olkowski (1998) Neuroreport 9:239	PubMed 9507962
+CM984701	GAAg-GAC	Glu126Asp	378A>C	E126D	Amyotrophic lateral sclerosis	Olkowski (1998) Neuroreport 9:239	PubMed 9507962
+CM063843	GATg-GAG	Asp148Glu	444T>G	D148E	Amyotrophic lateral sclerosis, association with	Hayward (1999) Neurology 52:1899	PubMed 10371543
+CM984702	GAT-GGT	Asp283Gly	848A>G	D283G	Amyotrophic lateral sclerosis	Olkowski (1998) Neuroreport 9:239	PubMed 9507962
+CM984703	GGC-GCC	Gly306Ala	917G>C	G306A	Amyotrophic lateral sclerosis	Olkowski (1998) Neuroreport 9:239	PubMed 9507962

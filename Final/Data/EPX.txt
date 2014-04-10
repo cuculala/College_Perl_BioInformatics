@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067664	CAGc-CAC	Gln122His	366G>C	Q122H	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM940371	CGC-CAC	Arg286His	857G>A	R286H	Eosinophil peroxidase deficiency	Romano (1994) Proc Natl Acad Sci U S A 91:12496	PubMed 7809065
+CM010222	aGAC-AAC	Asp648Asn	1942G>A	D648N	Eosinophil peroxidase deficiency	Nakagawa (2001) Hum Mutat 17:235	PubMed 11241847

@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM103224	CGC-CAC	Arg558His	1673G>A	R558H	Lung cancer, association with	Guo (2010) J Med Genet 47:616	PubMed 20516147

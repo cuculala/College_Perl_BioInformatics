@@ -1,0 +1,350 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM960074	gGAA-AAA	Glu2Lys	4G>A	E2K	Androgen insensitivity syndrome	Choong (1996) J Clin Invest 98:1423	PubMed 8823308
+CM061639	cCAG-TAG	Gln28Term	82C>T	Q28X	Pseudohermaphroditism, male	Katayama (2006) Hum Genet 119:516	PubMed 16528518
+CM033749	CAG-CTG	Gln58Leu	173A>T	Q58L	Infertility, male	Lund (2003) Fertil Steril 79:1647	PubMed 12801573
+CM054646	gCAG-TAG	Gln59Term	175C>T	Q59X	Androgen insensitivity syndrome	Holterhus (2005) J Mol Med 83:1005	PubMed 16283146
+CM930034	gCAG-TAG	Gln60Term	178C>T	Q60X	Androgen insensitivity syndrome	Zoppi (1993) J Clin Invest 91:1105	PubMed 8450040
+CM109424	gCAG-TAG	Gln61Term	181C>T	Q61X	Androgen insensitivity syndrome	Dell (2010) Eur Rev Med Pharmacol Sci 14:947	PubMed 21284344
+CM087266	gCAG-TAG	Gln67Term	199C>T	Q67X	Androgen insensitivity syndrome	Cheikhelard (2008) J Urol 180:1496	PubMed 18710728
+CM0910243	gCAG-TAG	Gln70Term	208C>T	Q70X	Androgen insensitivity syndrome	Philibert (2009) Fertil Steril 94:472	PubMed 19463997
+CM092018	CAG-CGG	Gln71Arg	212A>G	Q71R	Azoospermia, hypergonadotropic	Hose (2009) Fertil Steril 92:390.e9	PubMed 19361789
+HM060027	gCAG-TAG	Gln73Term	217C>T	Q73X	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:681 Source:	Online submission
+CM102196	gCAG-TAG	Gln76Term	226C>T	Q76X	Androgen insensitivity syndrome	Philibert (2009) Fertil Steril 94:472	PubMed 19463997
+CM102197	gCAG-TAG	Gln86Term	256C>T	Q86X	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM060835	gCAG-TAG	Gln88Term	262C>T	Q88X	Androgen insensitivity syndrome	Jaaskelainen (2006) Hum Mutat 27:291	PubMed 16470553
+CM025321	gCAG-TAG	Gln90Term	268C>T	Q90X	Androgen insensitivity syndrome	Bouvattier (2002) J Clin Endocrinol Metab 87:29	PubMed 11788616
+CM993439	gCAA-TAA	Gln115Term	343C>T	Q115X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM074014	gCAG-TAG	Gln120Term	358C>T	Q120X	Androgen insensitivity syndrome	Berg (2007) J Pediatr 150:434	PubMed 17382127
+CM035615	TCG-TAG	Ser121Term	362C>A	S121X	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM077228	cAAG-TAG	Lys143Term	427A>T	K143X	Androgen insensitivity syndrome	Jarzabek (2007) Gynecol Endocrinol 23:499	PubMed 17852420
+HM971841	cGAG-TAG	Glu155Term	463G>T	E155X	Androgen insensitivity syndrome	Copelli (1999) Asian J Androl 1:73	PubMed 11225909
+HM060024	aGCT-ACT	Ala159Thr	475G>A	A159T	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:680 Source:	Online submission
+CM993440	TTA-TGA	Leu174Term	521T>G	L174X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM973002	CAA-CGA	Gln196Arg	587A>G	Q196R	Androgen insensitivity syndrome	Komori (1997) J Obstet Gynaecol Res 23:277	PubMed 9255042
+CM051843	GAGg-GAA	Glu213Glu	639G>A	E213E	Androgenetic alopecia, reduced risk, association with	Hayes (2005) Cancer Epidemiol Biomarkers Prev 14:993	PubMed 15824176
+CM983646	gGGG-AGG	Gly216Arg	646G>A	G216R	Androgen insensitivity syndrome	Wang (1998) Clin Genet 54:185	PubMed 9788719
+CM043256	TACt-TAG	Tyr225Term	675C>G	Y225X	Androgen insensitivity syndrome	Hannema (2004) J Clin Endocrinol Metab 89:5815	PubMed 15531547
+CM012332	AACg-AAA	Asn235Lys	705C>A	N235K	Infertility, male	Giwercman (2001)	Clin Endocrinol
+CM118675	gGCA-TCA	Ala242Ser	724G>T	A242S	Androgen insensitivity syndrome	Goglia (2011) Fertil Steril epub:epub	PubMed 21962961
+CM058323	gTCG-CCG	Ser244Pro	730T>C	S244P	Infertility, male	Gottlieb (2005) Reprod Biomed Online 10:42	PubMed 15705293
+HM060025	GGC-GTC	Gly248Val	743G>T	G248V	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:681 Source:	Online submission
+CM983647	CTG-CCG	Leu257Pro	770T>C	L257P	Androgen insensitivity syndrome	Tanaka (1998) Gynecol Endocrinol 12:75	PubMed 9610419
+CM064980	aCTT-TTT	Leu272Phe	814C>T	L272F	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM035613	cGAA-TAA	Glu289Term	865G>T	E289X	Androgen insensitivity syndrome	Holterhus (2003) Genome Biol 4:R37	PubMed 12801411
+CM005383	AGCg-AGA	Ser298Arg	894C>A	S298R	Prostate cancer	Yu (2000) Sheng Wu Hua Xue Yu Sheng Wu Wu Li Xue Bao 32:459	PubMed 12058191
+CM064982	CCG-CTG	Pro342Leu	1025C>T	P342L	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM064983	cGAG-CAG	Glu355Gln	1063G>C	E355Q	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM993441	cGAG-TAG	Glu355Term	1063G>T	E355X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM950084	cGGA-TGA	Gly373Term	1117G>T	G373X	Androgen insensitivity syndrome	Davies (1995)	Clin Endocrinol
+CM102217	CCT-CGT	Pro380Arg	1139C>G	P380R	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM993914	CCG-CGG	Pro392Arg	1175C>G	P392R	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM001957	cCCG-TCG	Pro392Ser	1174C>T	P392S	Infertility, idiopathic	Hiort (2000) J Clin Endocrinol Metab 85:2810	PubMed 10946887
+HM060023	TACg-TAA	Tyr395Term	1185C>A	Y395X	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:680 Source:	Online submission
+CM0910237	TACg-TAG	Tyr395Term	1185C>G	Y395X	Androgen insensitivity syndrome	Philibert (2009) Fertil Steril 94:472	PubMed 19463997
+CM993442	gCAG-TAG	Gln405Term	1213C>T	Q405X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM123041	cCGC-AGC	Arg407Ser	1219C>A	R407S	Androgen insensitivity syndrome	Lagarde (2012) J Biol Chem 287:10905	PubMed 22334658
+CM056297	AGC-AAC	Ser413Asn	1238G>A	S413N	Androgen insensitivity syndrome	Holterhus (2005) Exp Clin Endocrinol Diabetes 113:457	PubMed 16151980
+CM056299	TCC-TTC	Ser434Phe	1301C>T	S434F	Androgen insensitivity syndrome	Holterhus (2005) Exp Clin Endocrinol Diabetes 113:457	PubMed 16151980
+CM105891	cGAA-TAA	Glu442Term	1324G>T	E442X	Androgen insensitivity syndrome	Shunchang (2010) Eur J Obstet Gynecol Reprod Biol epub:epub	PubMed 20833465
+CM113249	aGAA-TAA	Glu443Term	1327G>T	E443X	Androgen insensitivity syndrome	Luo (2011) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 28:176	PubMed 21462130
+CM102198	gGGT-AGT	Gly455Ser	1363G>A	G455S	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM064984	GCG-GTG	Ala475Val	1424C>T	A475V	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM993443	TACg-TAA	Tyr481Term	1443C>A	Y481X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:527	PubMed 10571951
+CM015295	tCAG-TAG	Gln488Term	1462C>T	Q488X	Androgen insensitivity syndrome	Boehmer (2001) J Clin Endocrinol Metab 86:4151	PubMed 11549642
+CM003403	gGGC-AGC	Gly492Ser	1474G>A	G492S	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM962530	TGG-TAG	Trp503Term	1508G>A	W503X	Androgen insensitivity syndrome	Bruggenwirth (1996) J Steroid Biochem Mol Biol 58:569	PubMed 8918984
+CM108882	cCCT-ACT	Pro505Thr	1513C>A	P505T	Infertility, male	Mirfakhraie (2010) J Androl 32:367	PubMed 21127309
+CM064985	GGC-GAC	Gly507Asp	1520G>A	G507D	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM984198	GTGc-GTA	Val512Val	1536G>A	V512V	Infertility, male	Hiort (1998) AR LSDB entry :0339	Source: LSDB
+CM086775	TATc-TAA	Tyr514Term	1542T>A	Y514X	Androgen insensitivity syndrome	Radpour (2009) J Androl 30:230	PubMed 19023143
+CM910604	TACg-TAG	Tyr535Term	1605C>G	Y535X	Androgen insensitivity syndrome	McPhaul (1991) FASEB J 5:2910	PubMed 1752359
+CM942022	TTGc-TTT	Leu548Phe	1644G>T	L548F	Androgen insensitivity syndrome	Bouvattier (2002) J Clin Endocrinol Metab 87:29	PubMed 11788616
+CM962713	gCCC-TCC	Pro549Ser	1645C>T	P549S	Hypospadias	Sutherland (1996) J Urol 156:828	PubMed 8683794
+CM101161	gACC-TCC	Thr559Ser	1675A>T	T559S	Prostate cancer	Hu (2010) Asian J Androl :	PubMed 20173765
+CM920069	TGC-TAC	Cys560Tyr	1679G>A	C560Y	Androgen insensitivity syndrome	Zoppi (1992) Mol Endocrinol 6:409	PubMed 1316540
+CM060838	TGT-TAT	Cys563Tyr	1688G>A	C563Y	Androgen insensitivity syndrome	Jaaskelainen (2006) Hum Mutat 27:291	PubMed 16470553
+CM102199	GGG-GAG	Gly569Glu	1706G>A	G569E	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM942023	tGGG-TGG	Gly569Trp	1705G>T	G569W	Androgen insensitivity syndrome	Lobaccaro (1994)	Clin Endocrinol
+CM952077	GGG-GTG	Gly569Val	1706G>T	G569V	Hypospadias	Allera (1995) J Clin Endocrinol Metab 80:2697	PubMed 7673412
+HM971969	CAC-CGC	His571Arg	1712A>G	H571R	Androgen insensitivity syndrome	Moreira-Filho (2001) Hum Genet 109:242 Source:	Online submission
+CM983648	TAT-TGT	Tyr572Cys	1715A>G	Y572C	Androgen insensitivity syndrome	Komori (1998) Arch Gynecol Obstet 261:95	PubMed 9544375
+CM020013	cTAT-CAT	Tyr572His	1714T>C	Y572H	Androgen insensitivity syndrome	Boehmer (2001) J Clin Endocrinol Metab 86:4151	PubMed 11549642
+CM962531	GCT-GAT	Ala574Asp	1721C>A	A574D	Androgen insensitivity syndrome	Bruggenwirth (1998) Endocrinology 139:103	PubMed 9421404
+CM102200	aGCT-CCT	Ala574Pro	1720G>C	A574P	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM920070	aTGT-CGT	Cys577Arg	1729T>C	C577R	Androgen insensitivity syndrome	Zoppi (1992) Mol Endocrinol 6:409	PubMed 1316540
+CM910605	TGT-TTT	Cys577Phe	1730G>T	C577F	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM013691	tGGA-AGA	Gly578Arg	1732G>A	G578R	Androgen insensitivity syndrome	Nguyen (2001) Mol Endocrinol 15:1790	PubMed 11579211
+CM105634	AGC-AAC	Ser579Asn	1736G>A	S579N	Androgen insensitivity syndrome	Xiao (2010) Chin	Med J
+CM003404	AGC-ACC	Ser579Thr	1736G>C	S579T	Androgen insensitivity syndrome Lundberg	Giwercman (2000) Horm Res 53:83	PubMed 10971094
+CM960075	TGC-TTC	Cys580Phe	1739G>T	C580F	Androgen insensitivity syndrome	Imasaki (1996) Mol Cell Endocrinol 120:15	PubMed 8809734
+CM102201	TGCa-TGG	Cys580Trp	1740C>G	C580W	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM931180	TGC-TAC	Cys580Tyr	1739G>A	C580Y	Androgen insensitivity syndrome	Sultan (1993) J Steroid Biochem Mol Biol 46:519	PubMed 8240973
+CM081158	AAG-AGG	Lys581Arg	1742A>G	K581R	Androgen insensitivity syndrome	Katsumata (2008) Endocr J 55:225	PubMed 18270433
+CM053775	gGTC-CTC	Val582Leu	1744G>C	V582L	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM931181	gGTC-TTC	Val582Phe	1744G>T	V582F	Androgen insensitivity syndrome	Lumbroso (1993) Fertil Steril 60:814	PubMed 8224266
+CM940085	TTC-TCC	Phe583Ser	1748T>C	F583S	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM980103	TTC-TAC	Phe583Tyr	1748T>A	F583Y	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM102202	TTCa-TTG	Phe584Leu	1752C>G	F584L	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM931182	AGA-AAA	Arg586Lys	1757G>A	R586K	Androgen insensitivity syndrome	Sultan (1993) J Steroid Biochem Mol Biol 46:519	PubMed 8240973
+CM092734	GCC-GAC	Ala587Asp	1760C>A	A587D	Androgen insensitivity syndrome	Rajender (2009) Fertil Steril 91:933.e23	PubMed 19062009
+HM971970	GGG-GAG	Gly590Glu	1769G>A	G590E	Androgen insensitivity syndrome	Moreira-Filho (2001) Hum Genet 109:242 Source:	Online submission
+CM102647	gAAA-GAA	Lys591Glu	1771A>G	K591E	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM900024	gAAA-TAA	Lys591Term	1771A>T	K591X	Androgen insensitivity syndrome	Marcelli (1990) Mol Endocrinol 4:1105	PubMed 2293020
+CM102204	TACc-TAA	Tyr594Term	1782C>A	Y594X	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM920071	cGCC-ACC	Ala597Thr	1789G>A	A597T	Reifenstein syndrome	Klocker (1992) Am J Hum Genet 50:1318	PubMed 1598912
+CM040372	AGCa-AGG	Ser598Arg	1794C>G	S598R	Androgen insensitivity syndrome	Giwercman (2004) Horm Res 61:58	PubMed 14646391
+CM920072	cAGC-GGC	Ser598Gly	1792A>G	S598G	Androgen insensitivity syndrome	Zoppi (1992) Mol Endocrinol 6:409	PubMed 1316540
+CM993915	AGC-ACC	Ser598Thr	1793G>C	S598T	Androgen insensitivity syndrome	Nordenskjold (1999) Urol Res 27:49	PubMed 10092153
+CM940086	TGC-TTC	Cys602Phe	1805G>T	C602F	Androgen insensitivity syndrome	Baldazzi (1994) Hum Mol Genet 3:1169	PubMed 7981689
+CM103683	TGC-TCC	Cys602Ser	1805G>C	C602S	Androgen insensitivity syndrome	Singh (2010) J Steroid Biochem Mol Biol epub:epub	PubMed 20493947
+CM035611	cACT-CCT	Thr603Pro	1807A>C	T603P	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM0910152	ATT-AAT	Ile604Asn	1811T>A	I604N	Androgen insensitivity syndrome	Elfferich (2009) Sex Dev 3:237	PubMed 19851057
+CM940087	tGAT-TAT	Asp605Tyr	1813G>T	D605Y	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM920073	CGA-CAA	Arg608Gln	1823G>A	R608Q	Breast cancer, male	Wooster (1992) Nat Genet 2:132	PubMed 1303262
+CM003405	cCGA-TGA	Arg608Term	1822C>T	R608X	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM920074	AGG-AAG	Arg609Lys	1826G>A	R609K	Androgen insensitivity syndrome	Saunders (1992)	Clin Endocrinol
+CM960076	AAT-ACT	Asn611Thr	1832A>C	N611T	Androgen insensitivity syndrome	Weidemann (1996)	Clin Endocrinol
+CM003406	TGT-TAT	Cys612Tyr	1835G>A	C612Y	Androgen insensitivity syndrome	Mockel (2000) Geburtshilfe und Frauenheilkunde 60:232 PubMed: No	PubMed ID
+CM053776	TGT-TAT	Cys615Tyr	1844G>A	C615Y	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM003407	tCGT-GGT	Arg616Gly	1846C>G	R616G	Androgen insensitivity syndrome	Giwercman (2000) Horm Res 53:83	PubMed 10971094
+CM930035	CGT-CAT	Arg616His	1847G>A	R616H	Androgen insensitivity syndrome	Mowszowicz (1993) Mol Endocrinol 7:861	PubMed 8413310
+CM910043	CGT-CCT	Arg616Pro	1847G>C	R616P	Androgen insensitivity syndrome	Marcelli (1991) J Clin Invest 87:1123	PubMed 1999491
+CM107345	tCGT-AGT	Arg616Ser	1846C>A	R616S	Androgen insensitivity syndrome	Sharma (2010) Fertil Steril epub:epub	PubMed 20888558
+CM942024	CTT-CGT	Leu617Arg	1850T>G	L617R	Androgen insensitivity syndrome De	Bellis (1994) J Clin Endocrinol Metab 78:513	PubMed 8126121
+CM962532	CTT-CCT	Leu617Pro	1850T>C	L617P	Androgen insensitivity syndrome	Lobaccaro (1996) Mol Cell Endocrinol 116:137	PubMed 8647313
+CM910606	CGG-CCG	Arg618Pro	1853G>C	R618P	Androgen insensitivity syndrome	Marcelli (1991) J Clin Invest 87:1123	PubMed 1999491
+CM102205	aTGT-CGT	Cys620Arg	1858T>C	C620R	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM051844	cCGG-TGG	Arg630Trp	1888C>T	R630W	Androgen insensitivity syndrome	Deeb (2005)	Clin Endocrinol
+CM993916	aCAG-TAG	Gln641Term	1921C>T	Q641X	Androgen insensitivity syndrome	Yaegashi (1999) Tohoku J Exp Med 187:263	PubMed 10458483
+CM962533	GCT-GAT	Ala646Asp	1937C>A	A646D	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM1110298	cACC-GCC	Thr650Ala	1948A>G	T650A	Premature ovarian failure	Panda (2011) Gynecol Endocrinol 27:572	PubMed 20672904
+CM064981	cAGC-GGC	Ser651Gly	1951A>G	S651G	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM021248	tGAG-AAG	Glu654Lys	1960G>A	E654K	Androgen insensitivity syndrome	Giwercman (2002) J Clin Endocrinol Metab 87:2623	PubMed 12050225
+CM1110299	cCAG-AAG	Gln658Lys	1972C>A	Q658K	Premature ovarian failure	Panda (2011) Gynecol Endocrinol 27:572	PubMed 20672904
+CM010763	cCAG-TAG	Gln658Term	1972C>T	Q658X	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM920995	ATT-AAT	Ile665Asn	1994T>A	I665N	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM042293	ATT-ACT	Ile665Thr	1994T>C	I665T	Hypospadias	Wang (2004) Eur J Hum Genet 12:706	PubMed 15266301
+CM980104	CCC-CAC	Pro672His	2015C>A	P672H	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM0910153	gCCC-TCC	Pro672Ser	2014C>T	P672S	Androgen insensitivity syndrome	Elfferich (2009) Sex Dev 3:237	PubMed 19851057
+CM950085	CTG-CCG	Leu678Pro	2033T>C	L678P	Androgen insensitivity syndrome	Belsham (1995) Hum Mutat 5:28	PubMed 7537149
+CM102219	ATT-AAT	Ile681Asn	2042T>A	I681N	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM053771	ATT-ACT	Ile681Thr	2042T>C	I681T	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM0910185	GAGc-GAT	Glu682Asp	2046G>T	E682D	Androgen insensitivity syndrome	Wu (2009) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 26:606	PubMed 19953479
+CM980105	tGAG-AAG	Glu682Lys	2044G>A	E682K	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM040373	tGAG-TAG	Glu682Term	2044G>T	E682X	Androgen insensitivity syndrome	MacLean (2004) Hum Mutat 23:287	PubMed 14974091
+CM053774	gCCA-GCA	Pro683Ala	2047C>G	P683A	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM014504	gCCA-ACA	Pro683Thr	2047C>A	P683T	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+CM931183	tGTA-ATA	Val685Ile	2053G>A	V685I	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM980106	gTGT-CGT	Cys687Arg	2059T>C	C687R	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM970103	GCT-GTT	Ala688Val	2063C>T	A688V	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM980107	GGA-GAA	Gly689Glu	2066G>A	G689E	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM000299	tGGA-TGA	Gly689Term	2065G>T	G689X	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM022195	CAC-CCC	His690Pro	2069A>C	H690P	Androgen insensitivity syndrome	Rosa (2002) J Clin Endocrinol Metab 87:4378	PubMed 12213902
+CM043257	GAC-GTC	Asp691Val	2072A>T	D691V	Androgen insensitivity syndrome	Hannema (2004) J Clin Endocrinol Metab 89:5815	PubMed 15531547
+CM087267	cCAG-TAG	Gln694Term	2080C>T	Q694X	Androgen insensitivity syndrome	Cheikhelard (2008) J Urol 180:1496	PubMed 18710728
+CM910044	cGAC-AAC	Asp696Asn	2086G>A	D696N	Androgen insensitivity syndrome	Ris-Stalpers (1991) Mol Endocrinol 5:1562	PubMed 1775137
+CM910045	cGAC-CAC	Asp696His	2086G>C	D696H	Androgen insensitivity syndrome	Ris-Stalpers (1991) Mol Endocrinol 5:1562	PubMed 1775137
+CM102206	cGAC-TAC	Asp696Tyr	2086G>T	D696Y	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM980108	GAC-GTC	Asp696Val	2087A>T	D696V	Androgen insensitivity syndrome	Dork (1997) Hum Mutat 11:337	PubMed 9554754
+CM124326	TTTg-TTG	Phe698Leu	2094T>G	F698L	Androgen insensitivity syndrome	Ning (2012) Urology epub:epub	PubMed 22608796
+CM000300	cTTG-ATG	Leu701Met	2101T>A	L701M	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM010764	gCTC-ATC	Leu702Ile	2104C>A	L702I	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM000301	gCTC-TTC	Leu702Phe	2104C>T	L702F	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM920996	cTCT-GCT	Ser703Ala	2107T>G	S703A	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM000302	tAGC-TGC	Ser704Cys	2110A>T	S704C	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM000303	tAGC-GGC	Ser704Gly	2110A>G	S704G	Androgen insensitivity syndrome	Radmayr (1997) J Urol 158:1553	PubMed 9302173
+CM024554	AAT-ATT	Asn706Ile	2117A>T	N706I	Androgen insensitivity syndrome	Avila (2002) J Clin Endocrinol Metab 87:182	PubMed 11788645
+CM920075	AAT-AGT	Asn706Ser	2117A>G	N706S	Androgen insensitivity syndrome De	Bellis (1992) Mol Endocrinol 6:1909	PubMed 1480178
+CM021942	cAAT-TAT	Asn706Tyr	2116A>T	N706Y	Androgen insensitivity syndrome	Sills (2002) Int J Mol Med 9:45	PubMed 11744994
+CM960077	CTG-CGG	Leu708Arg	2123T>G	L708R	Androgen insensitivity syndrome	Lumbraso (1996) J Clin Endocrinol Metab 81:1984	PubMed 8626869
+CM940088	GGA-GCA	Gly709Ala	2126G>C	G709A	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM104900	GGA-GAA	Gly709Glu	2126G>A	G709E	Androgen insensitivity syndrome	Rajender (2010) J Androl epub:epub	PubMed 20671138
+CM952078	GGA-GTA	Gly709Val	2126G>T	G709V	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM067640	aGAG-AAG	Glu710Lys	2128G>A	E710K	Androgen insensitivity syndrome	Georget (2006) Mol Endocrinol 20:724	PubMed 16373394
+CM000304	AGA-ACA	Arg711Thr	2132G>C	R711T	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM014505	aCAG-GAG	Gln712Glu	2134C>G	Q712E	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+CM0910133	aCAG-TAG	Gln712Term	2134C>T	Q712X	Androgen insensitivity syndrome	Bianca (2009) Fetal Diagn Ther 26:167	PubMed 19844078
+CM970104	gCTT-TTT	Leu713Phe	2137C>T	L713F	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM121740	gCTT-GTT	Leu713Val	2137C>G	L713V	Androgen insensitivity syndrome	Rajender (2012) J Androl epub:epub	PubMed 22362076
+HM060022	gTGG-CGG	Trp719Arg	2155T>C	W719R	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:680 Source:	Online submission
+CM995270	TGG-TCG	Trp719Ser	2156G>C	W719S	Pseudohermaphroditism, male	Ribeiro (1999) J Endocr Genet 1:91 PubMed: No	PubMed ID
+CM900025	TGGg-TGA	Trp719Term	2157G>A	W719X	Androgen insensitivity syndrome	Sai (1990) Am J Hum Genet 46:1095	PubMed 2339702
+CM984066	TTGc-TTC	Leu723Phe	2169G>C	L723F	Androgen insensitivity syndrome	Hiort (1998) J Pediatr 132:939	PubMed 9627582
+HM060026	CCT-CTT	Pro724Leu	2171C>T	P724L	Androgen insensitivity syndrome	Mueller (2006) Hum Genet 119:681 Source:	Online submission
+CM000305	gCCT-TCT	Pro724Ser	2170C>T	P724S	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM040374	GGC-GCC	Gly725Ala	2174G>C	G725A	Androgen insensitivity syndrome	MacLean (2004) Hum Mutat 23:287	PubMed 14974091
+CM003408	GGC-GAC	Gly725Asp	2174G>A	G725D	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM000306	tGGC-AGC	Gly725Ser	2173G>A	G725S	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM060837	GGC-GTC	Gly725Val	2174G>T	G725V	Androgen insensitivity syndrome	Jaaskelainen (2006) Hum Mutat 27:291	PubMed 16470553
+CM952079	cTTC-CTC	Phe726Leu	2176T>C	F726L	Androgen insensitivity syndrome	Quigley (1995) Endocr Rev 16:271	PubMed 7671849
+CM004545	CGC-CTC	Arg727Leu	2180G>T	R727L	Prostate cancer	Elo (1995) J Clin Endocrinol Metab 80:3494	PubMed 8530589
+CM942025	AACt-AAG	Asn728Lys	2184C>G	N728K	Defective spermatogenesis	Yong (1994) Lancet 344:826	PubMed 7993455
+CM920076	TTA-TCA	Leu729Ser	2186T>C	L729S	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM973003	cGAC-AAC	Asp733Asn	2197G>A	D733N	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM920997	cGAC-TAC	Asp733Tyr	2197G>T	D733Y	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM983649	CAGa-CAT	Gln734His	2202G>T	Q734H	Androgen insensitivity syndrome	Hiort (1998) J Pediatr 132:939	PubMed 9627582
+CM097195	CAG-CTG	Gln734Leu	2201A>T	Q734L	Androgen insensitivity syndrome	Girardin (2009) J Pediatr 155:439	PubMed 19732585
+CM074013	cCAG-TAG	Gln734Term	2200C>T	Q734X	Androgen insensitivity syndrome	Barbaro (2007)	Clin Endocrinol
+CM053772	cATT-TTT	Ile738Phe	2212A>T	I738F	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM952080	ATT-ACT	Ile738Thr	2213T>C	I738T	Androgen insensitivity syndrome	Quigley (1995) Endocr Rev 16:271	PubMed 7671849
+CM0910154	CAG-CGG	Gln739Arg	2216A>G	Q739R	Androgen insensitivity syndrome	Elfferich (2009) Sex Dev 3:237	PubMed 19851057
+CM014160	gTAC-GAC	Tyr740Asp	2218T>G	Y740D	Androgen insensitivity syndrome	Suzuki (2001) Int J Androl 24:183	PubMed 11380707
+CM041242	TCC-TGC	Ser741Cys	2222C>G	S741C	Androgen insensitivity syndrome	Pitteloud (2004) J Clin Endocrinol Metab 89:1053	PubMed 15001585
+CM920077	cTGG-CGG	Trp742Arg	2224T>C	W742R	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM035617	TGGa-TGC	Trp742Cys	2226G>C	W742C	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM942110	TGGa-TGT	Trp742Cys	2226G>T	W742C	Androgen insensitivity syndrome	Karl (1994) AR LSDB entry Meeting abstract:0032	Source: LSDB
+CM024555	TGG-TTG	Trp742Leu	2225G>T	W742L	Androgen insensitivity syndrome	Avila (2002) J Clin Endocrinol Metab 87:182	PubMed 11788645
+CM920078	ATGg-ATA	Met743Ile	2229G>A	M743I	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM942026	gATG-GTG	Met743Val	2227A>G	M743V	Androgen insensitivity syndrome	Ris-Stalpers (1994) Pediatr Res 36:227	PubMed 7970939
+CM010765	gGGG-AGG	Gly744Arg	2230G>A	G744R	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM014506	GGG-GAG	Gly744Glu	2231G>A	G744E	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+CM930036	GGG-GTG	Gly744Val	2231G>T	G744V	Reifenstein syndrome	Nakao (1993) J Clin Endocrinol Metab 77:103	PubMed 8325932
+CM952081	gCTC-TTC	Leu745Phe	2233C>T	L745F	Androgen insensitivity syndrome	Brinkmann (1995) J Steroid Biochem Mol Biol 53:443	PubMed 7626493
+CM074012	ATGg-ATC	Met746Ile	2238G>C	M746I	Androgen insensitivity syndrome	Bonagura (2007) Mol Cell Endocrinol 263:79	PubMed 17011702
+CM053770	ATGg-ATT	Met746Ile	2238G>T	M746I	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM102220	cATG-CTG	Met746Leu	2236A>C	M746L	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM942027	ATG-ACG	Met746Thr	2237T>C	M746T	Androgen insensitivity syndrome	Ris-Stalpers (1994) Pediatr Res 36:227	PubMed 7970939
+CM970105	gGTG-ATG	Val747Met	2239G>A	V747M	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM102207	TTT-TGT	Phe748Cys	2243T>G	F748C	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM064986	gTTT-ATT	Phe748Ile	2242T>A	F748I	Infertility, male	Ferlin (2006)	Clin Endocrinol
+CM920079	GCC-GAC	Ala749Asp	2246C>A	A749D	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM034206	ATG-ACG	Met750Thr	2249T>C	M750T	Androgen insensitivity syndrome	Van (2003) Eur J Pediatr 162:781	PubMed 13680382
+CM920080	cATG-GTG	Met750Val	2248A>G	M750V	Androgen insensitivity syndrome	Jakubiczka (1992) Hum Genet 90:311	PubMed 1487249
+CM920081	GGC-GAC	Gly751Asp	2252G>A	G751D	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM952082	cTGG-AGG	Trp752Arg	2254T>A	W752R	Androgen insensitivity syndrome	Brinkmann (1995) J Steroid Biochem Mol Biol 53:443	PubMed 7626493
+CM993917	TGGc-TGA	Trp752Term	2256G>A	W752X	Androgen insensitivity syndrome	Yaegashi (1999) Tohoku J Exp Med 187:263	PubMed 10458483
+CM980109	CGA-CAA	Arg753Gln	2258G>A	R753Q	Pseudohermaphroditism, male	Cabral (1998) Braz J Med Biol Res 31:775	PubMed 9698822
+CM920998	gCGA-TGA	Arg753Term	2257C>T	R753X	Androgen insensitivity syndrome	Yaegashi (1999) Tohoku J Exp Med 187:263	PubMed 10458483
+CM940089	TTCa-TTA	Phe755Leu	2265C>A	F755L	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM051845	TTC-TCC	Phe755Ser	2264T>C	F755S	Androgen insensitivity syndrome	Deeb (2005)	Clin Endocrinol
+CM930037	cTTC-GTC	Phe755Val	2263T>G	F755V	Androgen insensitivity syndrome	Lobaccaro (1993) Hum Mol Genet 2:1041	PubMed 8103398
+CM860026	AAT-AGT	Asn757Ser	2270A>G	N757S	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM983650	AAC-ACC	Asn759Thr	2276A>C	N759T	Androgen insensitivity syndrome	Yong (1998) Mol Cell Endocrinol 137:41	PubMed 9607727
+CM920082	TCC-TTC	Ser760Phe	2279C>T	S760F	Androgen insensitivity syndrome De	Bellis (1992) Mol Endocrinol 6:1909	PubMed 1480178
+HM971971	cTCC-ACC	Ser760Thr	2278T>A	S760T	Androgen insensitivity syndrome	Moreira-Filho (2001) Hum Genet 109:242 Source:	Online submission
+CM053769	ATG-ACG	Met762Thr	2285T>C	M762T	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM920083	gCTC-TTC	Leu763Phe	2287C>T	L763F	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM910046	TAC-TGC	Tyr764Cys	2291A>G	Y764C	Androgen insensitivity syndrome	McPhaul (1991) J Clin Invest 87:1413	PubMed 2010552
+CM952083	cTAC-CAC	Tyr764His	2290T>C	Y764H	Androgen insensitivity syndrome	Quigley (1995) Endocr Rev 16:271	PubMed 7671849
+CM942111	cTTC-CTC	Phe765Leu	2293T>C	F765L	Androgen insensitivity syndrome	Ris-Stalpers (1994) Pediatr Res 36:227	PubMed 7970939
+CM921035	TTCg-TTG	Phe765Leu	2295C>G	F765L	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM010766	cGCC-TCC	Ala766Ser	2296G>T	A766S	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM920084	cGCC-ACC	Ala766Thr	2296G>A	A766T	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM920999	GCC-GTC	Ala766Val	2297C>T	A766V	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM015296	cCCT-GCT	Pro767Ala	2299C>G	P767A	Androgen insensitivity syndrome	Boehmer (2001) J Clin Endocrinol Metab 86:4151	PubMed 11549642
+CM920085	cCCT-TCT	Pro767Ser	2299C>T	P767S	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM931184	GATc-GAG	Asp768Glu	2304T>G	D768E	Androgen insensitivity syndrome	Lobaccaro (1993) AR LSDB entry Meeting abstract:0170	Source: LSDB
+CM0910978	tGAT-TAT	Asp768Tyr	2302G>T	D768Y	Androgen insensitivity syndrome	Taes (2009) Bone 45:392	PubMed 19376280
+CM113244	GAT-GTT	Asp768Val	2303A>T	D768V	Androgen insensitivity syndrome	Corbetta (2011) Fertil Steril 95:1119.e9	PubMed 20971460
+CM015297	tCTG-ATG	Leu769Met	2305C>A	L769M	Androgen insensitivity syndrome	Boehmer (2001) J Clin Endocrinol Metab 86:4151	PubMed 11549642
+CM000307	CTG-CCG	Leu769Pro	2306T>C	L769P	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM035616	tCTG-GTG	Leu769Val	2305C>G	L769V	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM940090	cAAT-CAT	Asn772His	2314A>C	N772H	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM993918	GAG-GCG	Glu773Ala	2318A>C	E773A	Androgen insensitivity syndrome	Shkolny (1999) J Clin Endocrinol Metab 84:805	PubMed 10022458
+CM973004	GAG-GGG	Glu773Gly	2318A>G	E773G	Androgen insensitivity syndrome	Tincello (1997)	Clin Endocrinol
+CM950086	tGAG-TAG	Glu773Term	2317G>T	E773X	Androgen insensitivity syndrome	Imasaki (1995) Endocr J 42:643	PubMed 8574287
+CM900026	cCGC-TGC	Arg775Cys	2323C>T	R775C	Androgen insensitivity syndrome	Brown (1990) Mol Endocrinol 4:1759	PubMed 2082179
+CM920086	CGC-CAC	Arg775His	2324G>A	R775H	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM940091	cCGG-TGG	Arg780Trp	2338C>T	R780W	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM920087	ATGt-ATA	Met781Ile	2343G>A	M781I	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM970106	ATGt-ATT	Met781Ile	2343G>T	M781I	Androgen insensitivity syndrome	Jakubiczka (1997) Hum Mutat 9:57	PubMed 8990010
+CM102208	gTAC-GAC	Tyr782Asp	2344T>G	Y782D	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM980110	TGT-TAT	Cys785Tyr	2354G>A	C785Y	Androgen insensitivity syndrome	Giwercman (1998) Hum Genet 103:529	PubMed 9856504
+CM921000	cCGA-TGA	Arg787Term	2359C>T	R787X	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM102210	ATGa-ATA	Met788Ile	2364G>A	M788I	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM102211	ATGa-ATT	Met788Ile	2364G>T	M788I	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM034207	ATG-AAG	Met788Lys	2363T>A	M788K	Androgen insensitivity syndrome	Van (2003) Eur J Pediatr 162:781	PubMed 13680382
+CM920088	aATG-GTG	Met788Val	2362A>G	M788V	Androgen insensitivity syndrome	Nakao (1992) J Clin Endocrinol Metab 74:1152	PubMed 1569163
+CM993919	AGGc-AGT	Arg789Ser	2367G>T	R789S	Androgen insensitivity syndrome	Lumroso (1999) AR LSDB entry Meeting abstract:0406	Source: LSDB
+CM940092	cCTC-TTC	Leu791Phe	2371C>T	L791F	Androgen insensitivity syndrome	Tsukada (1994) J Clin Endocrinol Metab 79:1202	PubMed 7962294
+CM085244	CTC-CCC	Leu791Pro	2372T>C	L791P	Androgen insensitivity syndrome	Raicu (2008) Asian J Androl 10:687	PubMed 18097502
+CM921001	GAGt-GAC	Glu794Asp	2382G>C	E794D	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM970107	TTT-TCT	Phe795Ser	2384T>C	F795S	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM900027	TGGc-TGA	Trp797Term	2391G>A	W797X	Androgen insensitivity syndrome	Marcelli (1990) J Clin Invest 85:1522	PubMed 2332504
+CM920089	cCAA-GAA	Gln799Glu	2395C>G	Q799E	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM045276	cCAA-TAA	Gln799Term	2395C>T	Q799X	Androgen insensitivity syndrome	Ignacak (2004) Gynecol Endocrinol 19:178	PubMed 15724799
+CM032832	ACC-ATC	Thr801Ile	2402C>T	T801I	Androgen insensitivity syndrome	Galli-Tsinopoulou (2003) J Pediatr Endocrinol Metab 16:149	PubMed 12713250
+CM010767	CAG-CGG	Gln803Arg	2408A>G	Q803R	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM003409	gGAA-AAA	Glu804Lys	2410G>A	E804K	Androgen insensitivity syndrome	Sawai (2000) J Hum Genet 45:342	PubMed 11185742
+CM087269	aTTC-ATC	Phe805Ile	2413T>A	F805I	Androgen insensitivity syndrome	Cheikhelard (2008) J Urol 180:1496	PubMed 18710728
+CM030374	aTTC-CTC	Phe805Leu	2413T>C	F805L	Androgen insensitivity syndrome	Gad (2003) Clin Genet 63:59	PubMed 12519373
+CM931185	TGC-TAC	Cys807Tyr	2420G>A	C807Y	Androgen insensitivity syndrome	Brown (1993) Eur J Pediatr 152:S62	PubMed 8339746
+CM930038	ATG-AGG	Met808Arg	2423T>G	M808R	Androgen insensitivity syndrome	Adeyemo (1993) Hum Mol Genet 2:1809	PubMed 8281140
+CM993920	ATG-ACG	Met808Thr	2423T>C	M808T	Androgen insensitivity syndrome	Ong (1999) Lancet 354:1444	PubMed 10543676
+CM950087	cATG-GTG	Met808Val	2422A>G	M808V	Androgen insensitivity syndrome	Murono (1995) Hum Mutat 6:152	PubMed 7581399
+CM993921	aCTC-TTC	Leu813Phe	2437C>T	L813F	Androgen insensitivity syndrome	Yaegashi (1999) Tohoku J Exp Med 187:263	PubMed 10458483
+CM060834	CTC-CCC	Leu813Pro	2438T>C	L813P	Androgen insensitivity syndrome	Jaaskelainen (2006) Hum Mutat 27:291	PubMed 16470553
+CM921002	AGC-AAC	Ser815Asn	2444G>A	S815N	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM041243	tCCA-GCA	Pro818Ala	2452C>G	P818A	Androgen insensitivity syndrome	Lumbroso (2004) J Mol Endocrinol 32:679	PubMed 15171708
+HM060563	CCA-CTA	Pro818Leu	2453C>T	P818L	Androgen insensitivity syndrome	Turek-Plewa (2006) Hum Genet 119:361 Source:	Online submission
+CM003410	GAT-GGT	Asp820Gly	2459A>G	D820G	Androgen insensitivity syndrome	Choi (2000) Arch Gynecol Obstet 263:201	PubMed 10834333
+CM983651	GGG-GCG	Gly821Ala	2462G>C	G821A	Androgen insensitivity syndrome	Tanaka (1998) Gynecol Endocrinol 12:75	PubMed 9610419
+CM921003	gCTG-GTG	Leu822Val	2464C>G	L822V	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM003411	tCAA-AAA	Gln825Lys	2473C>A	Q825K	Androgen insensitivity syndrome	Giwercman (2000) J Clin Endocrinol Metab 85:2253	PubMed 10852459
+CM014507	cTTT-GTT	Phe828Val	2482T>G	F828V	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+CM113995	aCTT-TTT	Leu831Phe	2491C>T	L831F	Androgen insensitivity syndrome, partial	Petroli (2011) BMC Res Notes 4:	PubMed 21645389
+CM010768	aCTT-GTT	Leu831Val	2491C>G	L831V	Androgen insensitivity syndrome	Chavez (2001) Clin Genet 59:185	PubMed 11260228
+CM900028	CGA-CAA	Arg832Gln	2495G>A	R832Q	Androgen insensitivity syndrome	Brown (1990) Mol Endocrinol 4:1759	PubMed 2082179
+CM950088	CGA-CTA	Arg832Leu	2495G>T	R832L	Androgen insensitivity syndrome	Shkolny (1995) Hum Mol Genet 4:515	PubMed 7633398
+CM920090	tCGA-TGA	Arg832Term	2494C>T	R832X	Androgen insensitivity syndrome De	Bellis (1992) Mol Endocrinol 6:1909	PubMed 1480178
+CM920091	TAC-TGC	Tyr835Cys	2504A>G	Y835C	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM102212	aCTC-GTC	Leu839Val	2515C>G	L839V	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM920093	tCGT-TGT	Arg841Cys	2521C>T	R841C	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM980111	tCGT-GGT	Arg841Gly	2521C>G	R841G	Androgen insensitivity syndrome	Giwercman (1998) Hum Genet 103:529	PubMed 9856504
+CM920092	CGT-CAT	Arg841His	2522G>A	R841H	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM993110	tCGT-AGT	Arg841Ser	2521C>A	R841S	Androgen insensitivity syndrome	Melo (1999) Hum Mutat 14:353	PubMed 10502786
+CM980112	ATC-AGC	Ile842Ser	2525T>G	I842S	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM024556	ATT-AAT	Ile843Asn	2528T>A	I843N	Androgen insensitivity syndrome	Avila (2002) J Clin Endocrinol Metab 87:182	PubMed 11788645
+CM980113	ATT-ACT	Ile843Thr	2528T>C	I843T	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM053773	GCA-GAA	Ala844Glu	2531C>A	A844E	Androgen insensitivity syndrome	Ledig (2005) Horm Res 63:263	PubMed 15925895
+CM970108	TCA-TGA	Ser854Term	2561C>G	S854X	Androgen insensitivity syndrome	Jakubiczka (1997) Hum Mutat 9:57	PubMed 8990010
+CM920094	AGA-AAA	Arg855Lys	2564G>A	R855K	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM920096	aCGC-TGC	Arg856Cys	2566C>T	R856C	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM035610	aCGC-GGC	Arg856Gly	2566C>G	R856G	Androgen insensitivity syndrome	Holterhus (2003) Genome Biol 4:R37	PubMed 12801411
+CM920095	CGC-CAC	Arg856His	2567G>A	R856H	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM000308	TTCt-TTG	Phe857Leu	2571C>G	F857L	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM980114	TACc-TAG	Tyr858Term	2574C>G	Y858X	Androgen insensitivity syndrome	Hiort (1998) J Pediatr 132:939	PubMed 9627582
+CM060836	gCTC-TTC	Leu860Phe	2578C>T	L860F	Androgen insensitivity syndrome & Leydig cell hyperplasia	Singh (2006) J Androl 27:510	PubMed 16582414
+CM087270	ACC-AAC	Thr861Asn	2582C>A	T861N	Androgen insensitivity syndrome	Cheikhelard (2008) J Urol 180:1496	PubMed 18710728
+CM931186	CTG-CGG	Leu864Arg	2591T>G	L864R	Androgen insensitivity syndrome	Brown (1993) Eur J Pediatr 152:S62	PubMed 8339746
+CM920098	gGAC-AAC	Asp865Asn	2593G>A	D865N	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM920097	GAC-GGC	Asp865Gly	2594A>G	D865G	Androgen insensitivity syndrome De	Bellis (1992) Mol Endocrinol 6:1909	PubMed 1480178
+CM000309	cTCC-CCC	Ser866Pro	2596T>C	S866P	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872
+CM920099	GTG-GAG	Val867Glu	2600T>A	V867E	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM920100	cGTG-TTG	Val867Leu	2599G>T	V867L	Androgen insensitivity syndrome	Saunders (1992)	Clin Endocrinol
+CM890012	cGTG-ATG	Val867Met	2599G>A	V867M	Androgen insensitivity syndrome	Lubahn (1989) Proc Natl Acad Sci U S A 86:9534	PubMed 2594783
+CM087268	gCAG-TAG	Gln868Term	2602C>T	Q868X	Androgen insensitivity syndrome	Cheikhelard (2008) J Urol 180:1496	PubMed 18710728
+CM920101	ATTg-ATG	Ile870Met	2610T>G	I870M	Androgen insensitivity syndrome	Batch (1992) Hum Mol Genet 1:497	PubMed 1307250
+CM973708	GCG-GAG	Ala871Glu	2612C>A	A871E	Androgen insensitivity syndrome	Knoke (1997) Cancer Genet Cytogenet 98:139	PubMed 9332480
+CM940093	GCG-GGG	Ala871Gly	2612C>G	A871G	Androgen insensitivity syndrome	Hiort (1994) Hum Mol Genet 3:1163	PubMed 7981687
+CM980115	GCG-GTG	Ala871Val	2612C>T	A871V	Androgen insensitivity syndrome	Hiort (1994) Eur J Pediatr 153:317	PubMed 8033918
+CM993922	gAGA-GGA	Arg872Gly	2614A>G	R872G	Androgen insensitivity syndrome	Shkolny (1999) J Clin Endocrinol Metab 84:805	PubMed 10022458
+CM014508	CAT-CGT	His875Arg	2624A>G	H875R	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+HM090063	ACT-ATT	Thr878Ile	2633C>T	T878I	Androgen insensitivity syndrome	Mueller (2010) Hum Genet 127:479	PubMed 20135149
+CM014509	tGAC-TAC	Asp880Tyr	2638G>T	D880Y	Androgen insensitivity syndrome	Chavez (2001) J Hum Genet 46:560	PubMed 11587068
+CM086652	CTA-CCA	Leu882Pro	2645T>C	L882P	Androgen insensitivity syndrome	Galani (2008) Fertil Steril 90:2008.e1	PubMed 18342859
+CM950089	gCTA-GTA	Leu882Val	2644C>G	L882V	Androgen insensitivity syndrome	Davies (1995)	Clin Endocrinol
+CM910047	cAAG-TAG	Lys884Term	2650A>T	K884X	Androgen insensitivity syndrome	Trifiro (1991) Am J Med Genet 40:493	PubMed 1720929
+CM040375	TCA-TAA	Ser885Term	2654C>A	S885X	Androgen insensitivity syndrome	MacLean (2004) Hum Mutat 23:287	PubMed 14974091
+CM990170	cATG-GTG	Met887Val	2659A>G	M887V	Defective spermatogenesis	Ghadessy (1999) J Clin Invest 103:1517	PubMed 10359561
+CM102222	cGTG-CTG	Val890Leu	2668G>C	V890L	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM000310	cGTG-ATG	Val890Met	2668G>A	V890M	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM995145	gGAC-AAC	Asp891Asn	2671G>A	D891N	Prostate cancer	Taplin (1999) Cancer Res 59:2511	PubMed 10363963
+CM983652	CCG-CTG	Pro893Leu	2678C>T	P893L	Androgen insensitivity syndrome	Knoke (1998) Hum Mutat 12:220 PubMed: No	PubMed ID
+CM993923	tCCG-TCG	Pro893Ser	2677C>T	P893S	Androgen insensitivity syndrome	Peters (1999) Mol Cell Endocrinol 148:47	PubMed 10221770
+CM980116	ATG-ACG	Met896Thr	2687T>C	M896T	Androgen insensitivity syndrome	Giwercman (1998) Hum Genet 103:529	PubMed 9856504
+CM035614	gATC-TTC	Ile899Phe	2695A>T	I899F	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM980117	ATC-ACC	Ile899Thr	2696T>C	I899T	Androgen insensitivity syndrome	Hiort (1996) Am J Med Genet 63:218	PubMed 8723113
+CM056298	gCAA-AAA	Gln903Lys	2707C>A	Q903K	Androgen insensitivity syndrome	Umar (2005) J Clin Endocrinol Metab 90:507	PubMed 15486055
+CM102213	aGTG-TTG	Val904Leu	2710G>T	V904L	Androgen insensitivity syndrome	Audi (2010) J Clin Endocrinol Metab 95:1876	PubMed 20150575
+CM920102	aGTG-ATG	Val904Met	2710G>A	V904M	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM035612	CCC-CGC	Pro905Arg	2714C>G	P905R	Androgen insensitivity syndrome	Melo (2003) J Clin Endocrinol Metab 88:3241	PubMed 12843171
+CM920103	CCC-CAC	Pro905His	2714C>A	P905H	Androgen insensitivity syndrome	McPhaul (1992) J Clin Invest 90:2097	PubMed 1430233
+CM921004	gCCC-TCC	Pro905Ser	2713C>T	P905S	Androgen insensitivity syndrome	Pinsky (1992) Clin Invest Med 15:456	PubMed 1458719
+CM000311	cCTT-TTT	Leu908Phe	2722C>T	L908F	Androgen insensitivity syndrome	Bevan (1997) J Steroid Biochem Mol Biol 61:19	PubMed 9328206
+CM962534	tGGG-AGG	Gly910Arg	2728G>A	G910R	Androgen insensitivity syndrome	Choong (1996) J Clin Endocrinol Metab 81:236	PubMed 8550758
+CM993924	aGTC-CTC	Val912Leu	2734G>C	V912L	Androgen insensitivity syndrome	Knoke (1999) Andrologia 31:199	PubMed 10470409
+CM100922	CCC-CGC	Pro914Arg	2741C>G	P914R	Pseudohermaphroditism, male	Wu (2010) Fertil Steril epub:epub	PubMed 20056211
+CM931187	gCCC-TCC	Pro914Ser	2740C>T	P914S	Androgen insensitivity syndrome	Gottlieb (1999) Hum Mutat 14:103	PubMed 10425033
+CM973005	TTCc-TTG	Phe917Leu	2751C>G	F917L	Androgen insensitivity syndrome	Radmayr (1997) J Urol 158:1553	PubMed 9302173
+CM000312	CAC-CGC	His918Arg	2753A>G	H918R	Androgen insensitivity syndrome	Ahmed (2000) J Clin Endocrinol Metab 85:658	PubMed 10690872

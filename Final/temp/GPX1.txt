@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM061794	CCC-CTC	Pro200Leu	599C>T	P200L	Lung cancer, association with	Ratnasinghe (2000) Cancer Res 60:6381	PubMed 11103801

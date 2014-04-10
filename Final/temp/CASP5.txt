@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM092500	aGTC-CTC	Val334Leu	1000G>C	V334L	Lung cancer, association with	Ulybina (2009) Cancer Lett 278:183	PubMed 19203830

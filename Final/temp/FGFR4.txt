@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM023917	cGGG-AGG	Gly388Arg	1162G>A	G388R	Cancer, accelerated progression, association with	Bange (2002) Cancer Res 62:840	PubMed 11830541

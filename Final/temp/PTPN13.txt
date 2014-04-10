@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM099365	ATAc-ATG	Ile1527Met	4581A>G	I1527M	Squamous cell carcinoma of head & neck, association with	Niu (2009) Carcinogenesis 30:2053	PubMed 19892796
+CM067710	gGAG-AAG	Glu1630Lys	4888G>A	E1630K	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161

@@ -1,0 +1,9 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM942312	AGG-AAG	Arg521Lys	1562G>A	R521K	Altered transmembrane signaling	Moriai (1994) Proc Natl Acad Sci U S A 91:10217	PubMed 7937865
+CM113961	cCGC-GGC	Arg776Gly	2326C>G	R776G	Lung cancer, susceptibility to	Centeno (2011) BMC Cancer 11:172	PubMed 21575252
+CM067987	CAGc-CAA	Gln787Gln	2361G>A	Q787Q	Lung cancer, association with	Zhang (2006) J Thorac Oncol 1:635	PubMed 17409930
+CM054664	ACG-ATG	Thr790Met	2369C>T	T790M	Lung cancer, susceptibility to	Bell (2005) Nat Genet 37:1315	PubMed 16258541
+CM085969	cGGC-AGC	Gly796Ser	2386G>A	G796S	Squamous cell carcinoma of head & neck	Schwentner (2008) Head Neck 30:1040	PubMed 18528899
+CM1010052	cCGT-TGT	Arg831Cys	2491C>T	R831C	Lung cancer, susceptibility to	Chung (2010) J Clin Oncol 28:e701	PubMed 20823418
+CM082606	cGTA-ATA	Val843Ile	2527G>A	V843I	Lung cancer	Ikeda (2008) Ann Thorac Surg 85:1430	PubMed 18355544
+CM100209	gCGC-TGC	Arg977Cys	2929C>T	R977C	Breast cancer, association with	Choura (2010) Protein J 29:50	PubMed 20049516

@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067456	CAT-CGT	His239Arg	716A>G	H239R	Lung adenocarcinoma, association with	Maniwa (2006) Cancer 106:1117	PubMed 16444745

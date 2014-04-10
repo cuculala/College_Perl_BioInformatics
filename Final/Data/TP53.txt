@@ -1,0 +1,190 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM074603	cGTT-ATT	Val31Ile	91G>A	V31I	Gastric cancer	Yamada (2007) Carcinogenesis 28:2013	PubMed 17690113
+CM107390	cCAA-TAA	Gln38Term	112C>T	Q38X	Breast cancer	Wilson (2010) J Med Genet 47:771	PubMed 20805372
+CM052370	cCCG-TCG	Pro47Ser	139C>T	P47S	Reduced apoptotic ability, association with	Li (2005) J Biol Chem 280:24245	PubMed 15851479
+CM077985	ATTg-ATA	Ile50Ile	150T>A	I50I	Basal cell carcinoma	Suarez-Martinez (2007) P R Health Sci J 26:349	PubMed 18246963
+CM120852	tGAA-TAA	Glu62Term	184G>T	E62X	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM961374	CGC-CCC	Arg72Pro	215G>C	R72P	Lung cancer, association with	Murata (1996) Carcinogenesis 17:261	PubMed 8625447
+CM961375	CCG-CTG	Pro82Leu	245C>T	P82L	Breast cancer	Sun (1996) Oncogene 13:407	PubMed 8710380
+CM065495	TGGc-TGA	Trp91Term	273G>A	W91X	Breast cancer	Lalloo (2006) Eur J Cancer 42:1143	PubMed 16644204
+CM045203	tGTC-ATC	Val97Ile	289G>A	V97I	Breast cancer	Hedau (2004) Breast Cancer Res Treat 88:177	PubMed 15564800
+CM073388	TACc-TAA	Tyr103Term	309C>A	Y103X	Li-Fraumeni syndrome	Manoukian (2007) Eur J Cancer 43:601	PubMed 17224268
+CM043949	gGGC-TGC	Gly105Cys	313G>T	G105C	Li-Fraumeni syndrome	Bendig (2004) Cancer Genet Cytogenet 154:22	PubMed 15381368
+CM013441	AGCt-AGG	Ser106Arg	318C>G	S106R	Carcinoma	Kimura (2001) Jpn J Clin Oncol 31:349	PubMed 11518751
+CM984590	CGT-CTT	Arg110Leu	329G>T	R110L	Li-Fraumeni syndrome	Rines (1998) Carcinogenesis 19:979	PubMed 9667734
+CM115383	CGT-CCT	Arg110Pro	329G>C	R110P	Li-Fraumeni syndrome with gastric cancer	Masciari (2011) Genet Med 13:651	PubMed 21552135
+CM921039	cAAG-TAG	Lys120Term	358A>T	K120X	Sarcoma	Toguchida (1992) N Engl J Med 326:1301	PubMed 1565143
+CM065494	GTG-GGG	Val122Gly	365T>G	V122G	Breast cancer	Lalloo (2006) Eur J Cancer 42:1143	PubMed 16644204
+CM102351	ACG-AGG	Thr125Arg	374C>G	T125R	Li-Fraumeni syndrome	Morgan (2010) Hum Mutat 31:484	PubMed 20127978
+CM118879	gTAC-AAC	Tyr126Asn	376T>A	Y126N	Peritoneal carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM115636	TAC-TGC	Tyr126Cys	377A>G	Y126C	Carcinoma	Monti (2011) Clin Cancer Res 9:271	PubMed 21343334
+CM120849	CTC-CAC	Leu130His	389T>A	L130H	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM016206	cCTC-TTC	Leu130Phe	388C>T	L130F	Breast cancer	Chompret (2001) J Med Genet 38:43	PubMed 11332399
+CM087281	AAC-ATC	Asn131Ile	392A>T	N131I	Choroid plexus carcinoma	Agarwalla (2008) Pediatr Neurosurg 44:501	PubMed 19127094
+CM086989	cAAG-CAG	Lys132Gln	394A>C	K132Q	Multiple cancers	Delaney (2008) J Pediatr Hematol Oncol 30:803	PubMed 18989156
+CM973641	cAAG-GAG	Lys132Glu	394A>G	K132E	Li-Fraumeni syndrome	Goi (1997) Cancer Res 57:1895	PubMed 9157982
+CM973400	ATG-AGG	Met133Arg	398T>G	M133R	Li-Fraumeni syndrome	Saeki (1997) J Mol Med 75:50	PubMed 9020384
+CM910373	ATG-ACG	Met133Thr	398T>C	M133T	Li-Fraumeni syndrome	Law (1991) Cancer Res 51:6385	PubMed 1933902
+CM083195	TTT-TAT	Phe134Tyr	401T>A	F134Y	Li-Fraumeni syndrome	Shlien (2008) Proc Natl Acad Sci U S A 105:11264	PubMed 18685109
+CM064342	CAAc-CAT	Gln136His	408A>T	Q136H	Prostrate cancer	Zheng (2006) Hum Mutat 27:1062	PubMed 16941491
+CM971503	cCAA-TAA	Gln136Term	406C>T	Q136X	Li-Fraumeni syndrome	Varley (1997) Cancer Res 57:3245	PubMed 9242456
+CM983475	gGCC-CCC	Ala138Pro	412G>C	A138P	Li-Fraumeni syndrome	Sedlacek (1998) Br J Cancer 77:1034	PubMed 9569035
+CM942116	gGCC-TCC	Ala138Ser	412G>T	A138S	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM123559	GCC-GTC	Ala138Val	413C>T	A138V	Breast cancer	Lee (2012) Breast Cancer Res 14:R66	PubMed 22507745
+CM993216	TGC-TAC	Cys141Tyr	422G>A	C141Y	Li-Fraumeni syndrome	Zhou (1999) Ann Neurol 46:913	PubMed 10589545
+CM023462	CAG-CTG	Gln144Leu	431A>T	Q144L	Li-Fraumeni syndrome	Patrikidou (2002) Oral Oncol 38:383	PubMed 12076704
+CM102352	gCAG-TAG	Gln144Term	430C>T	Q144X	Li-Fraumeni syndrome	Morgan (2010) Hum Mutat 31:484	PubMed 20127978
+CM107391	TGG-TAG	Trp146Term	437G>A	W146X	Breast cancer	Wilson (2010) J Med Genet 47:771	PubMed 20805372
+CM101750	TGGg-TGA	Trp146Term	438G>A	W146X	Li-Fraumeni syndrome De	Moura (2010) Int J Oncol 36:983	PubMed 20198344
+CM120847	aCCC-GCC	Pro151Ala	451C>G	P151A	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM941326	aCCC-TCC	Pro151Ser	451C>T	P151S	Astrocytoma	Chung (1991) Genes Chromosomes Cancer 3:323	PubMed 1686725
+CM012662	aCCC-ACC	Pro151Thr	451C>A	P151T	Li-Fraumeni syndrome	Vahteristo (2001) Cancer Res 61:5718	PubMed 11479205
+CM941327	CCG-CTG	Pro152Leu	455C>T	P152L	Adrenocortical carcinoma	Wagner (1994) J Natl Cancer Inst 86:1707	PubMed 7966399
+CM951223	GGC-GTC	Gly154Val	461G>T	G154V	Glioblastoma	Chen (1995) Cancer Genet Cytogenet 82:106	PubMed 7664239
+CM942117	ACC-AAC	Thr155Asn	464C>A	T155N	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+HM090066	ACC-ATC	Thr155Ile	464C>T	T155I	Li-Fraumeni syndrome	Saxena (2010) Hum Genet 127:480	PubMed 20135149
+CM984589	CGC-CAC	Arg156His	467G>A	R156H	Li-Fraumeni syndrome	Rines (1998) Carcinogenesis 19:979	PubMed 9667734
+CM121763	cCGC-TGC	Arg158Cys	472C>T	R158C	Adrenocortical carcinoma	Herrmann (2012) J Clin Endocrinol Metab 97:E476	PubMed 22170717
+CM004341	cCGC-GGC	Arg158Gly	472C>G	R158G	Li-Fraumeni syndrome	Chompret (2000) Br J Cancer 82:1932	PubMed 10864200
+CM994513	CGC-CAC	Arg158His	473G>A	R158H	Adrenocortical carcinoma	Varley (1999) Am J Hum Genet 65:995	PubMed 10486318
+CM102353	CGC-CCC	Arg158Pro	473G>C	R158P	Li-Fraumeni syndrome	Morgan (2010) Hum Mutat 31:484	PubMed 20127978
+CM983887	ATC-AAC	Ile162Asn	485T>A	I162N	Cytosarcoma phyllodes	Bot (1998) Diagn Mol Pathol 7:295	PubMed 10207667
+CM942135	TAC-TGC	Tyr163Cys	488A>G	Y163C	Osteosarcoma	McIntyre (1994) J Clin Oncol 12:925	PubMed 8164043
+CM942118	aCAG-AAG	Gln167Lys	499C>A	Q167K	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM115637	gGTT-TTT	Val172Phe	514G>T	V172F	Carcinoma	Monti (2011) Clin Cancer Res 9:271	PubMed 21343334
+CM070299	tGTG-ATG	Val173Met	517G>A	V173M	Li-Fraumeni syndrome	Achatz (2007) Cancer Lett 245:96	PubMed 16494995
+CM942119	gAGG-GGG	Arg174Gly	520A>G	R174G	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM118880	gCGC-TGC	Arg175Cys	523C>T	R175C	Ovarian carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM011013	gCGC-GGC	Arg175Gly	523C>G	R175G	Li-Fraumeni syndrome	Bougeard (2001) J Med Genet 38:253	PubMed 11370630
+CM951224	CGC-CAC	Arg175His	524G>A	R175H	Osteosarcoma	McIntyre (1994) J Clin Oncol 12:925	PubMed 8164043
+CM062017	CGC-CTC	Arg175Leu	524G>T	R175L	Adrenocortical carcinoma	West (2006) Cancer Res 66:5056	PubMed 16707427
+CM102507	CCC-CGC	Pro177Arg	530C>G	P177R	Adrenocortical carcinoma	Ide (2010) Jpn J Clin Oncol :	PubMed 20421238
+CM111332	cCAC-GAC	His178Asp	532C>G	H178D	Li-Fraumeni syndrome	Wozniak (2011) Pediatr Hematol Oncol epub:epub	PubMed 21345075
+CM0910925	CATg-CAA	His179Gln	537T>A	H179Q	Li-Fraumeni syndrome	Gonzalez (2009) J Med Genet 46:689	PubMed 19556618
+CM067054	cCAT-TAT	His179Tyr	535C>T	H179Y	Li-Fraumeni syndrome	Lefrou (2006) Gastroenterol Clin Biol 30:484	PubMed 16633321
+CM941328	tGAG-AAG	Glu180Lys	538G>A	E180K	Li-Fraumeni syndrome	Birch (1994) Cancer Res 54:1298	PubMed 8118819
+CM920672	gCGC-TGC	Arg181Cys	541C>T	R181C	Breast cancer	Sidransky (1992) Cancer Res 52:2984	PubMed 1581912
+CM920671	CGC-CAC	Arg181His	542G>A	R181H	Breast cancer	Borresen (1992) Cancer Res 52:3234	PubMed 1591732
+CM942120	CGC-CTC	Arg181Leu	542G>T	R181L	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM056067	CGC-CCC	Arg181Pro	542G>C	R181P	Choroid plexus carcinoma, childhood	Krutilkova (2005) Eur J Cancer 41:1597	PubMed 15925506
+CM101594	CTG-CCG	Leu188Pro	563T>C	L188P	Breast cancer	Cao (2010) Breast Cancer Res Treat 119:295	PubMed 19238535
+CM031755	GCC-GTC	Ala189Val	566C>T	A189V	Multiple cancers	Miyaki (2003) Gut 52:304	PubMed 12524418
+CM951225	CAT-CGT	His193Arg	578A>G	H193R	Li-Fraumeni syndrome	Frebourg (1995) Am J Hum Genet 56:608	PubMed 7887414
+CM083194	CAT-CCT	His193Pro	578A>C	H193P	Li-Fraumeni syndrome	Shlien (2008) Proc Natl Acad Sci U S A 105:11264	PubMed 18685109
+CM120848	tCTT-TTT	Leu194Phe	580C>T	L194F	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM092575	ATC-ACC	Ile195Thr	584T>C	I195T	Glioblastoma & colon cancer	Yamada (2009) Int J Cancer 125:973	PubMed 19405127
+CM984587	CGA-CCA	Arg196Pro	587G>C	R196P	Li-Fraumeni syndrome	Rines (1998) Carcinogenesis 19:979	PubMed 9667734
+CM941329	cCGA-TGA	Arg196Term	586C>T	R196X	Adrenocortical carcinoma	Grayson (1994) Am J Pediatr Hematol Oncol 16:341	PubMed 7978053
+CM994748	GTG-GAG	Val197Glu	590T>A	V197E	Multiple cancers	Gallo (1999) Int J Cancer 82:180	PubMed 10389749
+CM070297	aGTG-ATG	Val197Met	589G>A	V197M	Colorectal cancer	Achatz (2007) Cancer Lett 245:96	PubMed 16494995
+CM121764	gCGT-TGT	Arg202Cys	604C>T	R202C	Adrenocortical carcinoma	Herrmann (2012) J Clin Endocrinol Metab 97:E476	PubMed 22170717
+CM971504	cAGA-TGA	Arg209Term	625A>T	R209X	Osteosarcoma	McIntyre (1994) J Clin Oncol 12:925	PubMed 8164043
+CM004573	aAAC-TAC	Asn210Tyr	628A>T	N210Y	Familial adenomatous polyposis	Zajac (2000) Neoplasma 47:335	PubMed 11263856
+CM004906	CGA-CAA	Arg213Gln	638G>A	R213Q	Choroid plexus carcinoma	Becherini (2008) Neuropathol Appl Neurobiol 34:564	PubMed 18208484
+CM022474	CGA-CCA	Arg213Pro	638G>C	R213P	Li-Fraumeni syndrome	Dockhorn-Dworniczak (1996) Eur J Cancer 32A:1359	PubMed 8869100
+CM951226	tCGA-TGA	Arg213Term	637C>T	R213X	Multiple cancers	Horio (1994) Oncogene 9:1231	PubMed 8134126
+CM103210	CAT-CGT	His214Arg	641A>G	H214R	Li-Fraumeni syndrome	Ruijs (2010) J Med Genet 47:421	PubMed 20522432
+CM035961	gGTG-ATG	Val217Met	649G>A	V217M	Altered transcriptional activity	Kato (2003) Proc Natl Acad Sci U S A 100:8424	PubMed 12826609
+CM941330	gCCC-TCC	Pro219Ser	655C>T	P219S	Adrenocortical carcinoma	Wagner (1994) J Natl Cancer Inst 86:1707	PubMed 7966399
+CM951227	TAT-TGT	Tyr220Cys	659A>G	Y220C	Li-Fraumeni syndrome	Birch (1994) Cancer Res 54:1298	PubMed 8118819
+CM015378	TAT-TCT	Tyr220Ser	659A>C	Y220S	Meningioma	Joachim (2001) Int J Cancer 94:218	PubMed 11668501
+CM103211	CCG-CTG	Pro222Leu	665C>T	P222L	Li-Fraumeni syndrome	Ruijs (2010) J Med Genet 47:421	PubMed 20522432
+CM951228	cTCT-ACT	Ser227Thr	679T>A	S227T	Rhabdomyosarcoma	Diller (1995) J Clin Invest 95:1606	PubMed 7706467
+CM103212	ATC-ACC	Ile232Thr	695T>C	I232T	Li-Fraumeni syndrome	Ruijs (2010) J Med Genet 47:421	PubMed 20522432
+CM951229	cCAC-AAC	His233Asn	697C>A	H233N	Glioma	Li (1995) Int J Cancer 64:383	PubMed 8550239
+CM993217	cCAC-GAC	His233Asp	697C>G	H233D	Glioma	Zhou (1999) Ann Neurol 46:913	PubMed 10589545
+CM035576	TAC-TGC	Tyr234Cys	701A>G	Y234C	Li-Fraumeni syndrome	Pepper (2003) Cell Cycle 2:53	PubMed 12695689
+CM941331	cAAC-GAC	Asn235Asp	703A>G	N235D	Adrenocortical carcinoma	Wagner (1994) J Natl Cancer Inst 86:1707	PubMed 7966399
+CM951230	AAC-AGC	Asn235Ser	704A>G	N235S	Rhabdomyosarcoma	Diller (1995) J Clin Invest 95:1606	PubMed 7706467
+CM004907	TAC-TGC	Tyr236Cys	707A>G	Y236C	Li-Fraumeni syndrome	Rines (1998) Carcinogenesis 19:979	PubMed 9667734
+CM011014	ATGt-ATA	Met237Ile	711G>A	M237I	Li-Fraumeni syndrome	Bougeard (2001) J Med Genet 38:253	PubMed 11370630
+CM056070	gTGT-GGT	Cys238Gly	712T>G	C238G	Choroid plexus carcinoma, childhood	Krutilkova (2005) Eur J Cancer 41:1597	PubMed 15925506
+CM025271	gTGT-AGT	Cys238Ser	712T>A	C238S	Li-Fraumeni syndrome	Balmana (2002)	Med Clin
+CM034930	TGT-TAT	Cys238Tyr	713G>A	C238Y	Leukaemia/lymphoma	Nichols (2003) J Clin Oncol 21:4505	PubMed 14673037
+CM920673	TCC-TTC	Ser241Phe	722C>T	S241F	Sarcoma	Toguchida (1992) N Engl J Med 326:1301	PubMed 1565143
+CM942121	tTCC-ACC	Ser241Thr	721T>A	S241T	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM107067	cTGC-CGC	Cys242Arg	724T>C	C242R	Breast cancer	Wilson (2010) J Med Genet 47:771	PubMed 20805372
+CM102354	TGCa-TGA	Cys242Term	726C>A	C242X	Li-Fraumeni syndrome	Morgan (2010) Hum Mutat 31:484	PubMed 20127978
+CM910618	TGC-TAC	Cys242Tyr	725G>A	C242Y	Ependymoma	Metzger (1991) Proc Natl Acad Sci U S A 88:7825	PubMed 1679237
+CM070298	GGC-GAC	Gly244Asp	731G>A	G244D	Breast and colorectal cancer	Achatz (2007) Cancer Lett 245:96	PubMed 16494995
+CM056069	GGC-GTC	Gly244Val	731G>T	G244V	Choroid plexus carcinoma, childhood	Krutilkova (2005) Eur J Cancer 41:1597	PubMed 15925506
+CM010463	cGGC-CGC	Gly245Arg	733G>C	G245R	Adenocarcinoma	Rogozin (2001) Hum Mutat 17:83	PubMed 11180592
+CM900209	GGC-GAC	Gly245Asp	734G>A	G245D	Li-Fraumeni syndrome	Srivastava (1990) Nature 348:747	PubMed 2259385
+CM900210	cGGC-TGC	Gly245Cys	733G>T	G245C	Li-Fraumeni syndrome	Malkin (1990) Science 250:1233	PubMed 1978757
+CM920674	cGGC-AGC	Gly245Ser	733G>A	G245S	Osteosarcoma	Toguchida (1992) N Engl J Med 326:1301	PubMed 1565143
+CM010464	GGC-GTC	Gly245Val	734G>T	G245V	Lung cancer	Rogozin (2001) Hum Mutat 17:83	PubMed 11180592
+CM942294	cATG-GTG	Met246Val	736A>G	M246V	Multiple cancers	Bardeesy (1994) Nat Genet 7:91	PubMed 8075648
+CM920675	CGG-CAG	Arg248Gln	743G>A	R248Q	Sarcoma	Toguchida (1992) N Engl J Med 326:1301	PubMed 1565143
+CM010465	cCGG-GGG	Arg248Gly	742C>G	R248G	Thyroid tumour	Rogozin (2001) Hum Mutat 17:83	PubMed 11180592
+CM900211	cCGG-TGG	Arg248Trp	742C>T	R248W	Li-Fraumeni syndrome	Malkin (1990) Science 250:1233	PubMed 1978757
+CM973401	CCC-CTC	Pro250Leu	749C>T	P250L	Colorectal cancer	Tsuchiya (1997) TP53 LSDB entry Unpublished:10776	Source: LSDB
+CM114005	cATC-CTC	Ile251Leu	751A>C	I251L	Li-Fraumeni syndrome	Wu (2011) Hum Genet 129:663	PubMed 21305319
+CM951231	ATCc-ATG	Ile251Met	753C>G	I251M	Glioma	Li (1995) Int J Cancer 64:383	PubMed 8550239
+CM900212	CTC-CCC	Leu252Pro	755T>C	L252P	Li-Fraumeni syndrome	Malkin (1990) Science 250:1233	PubMed 1978757
+CM102355	cACA-GCA	Thr256Ala	766A>G	T256A	Li-Fraumeni syndrome	Morgan (2010) Hum Mutat 31:484	PubMed 20127978
+CM951232	ACA-ATA	Thr256Ile	767C>T	T256I	Glioblastoma	Chen (1995) Cancer Genet Cytogenet 82:106	PubMed 7664239
+CM941332	CTG-CAG	Leu257Gln	770T>A	L257Q	Li-Fraumeni syndrome	Mazoyer (1994) Oncogene 9:1237	PubMed 8134127
+CM900213	gGAA-AAA	Glu258Lys	772G>A	E258K	Li-Fraumeni syndrome	Malkin (1990) Science 250:1233	PubMed 1978757
+CM971505	CTG-CCG	Leu265Pro	794T>C	L265P	Li-Fraumeni syndrome	Cornelis (1997) Hum Mutat 9:157	PubMed 9067756
+CM921040	CGG-CAG	Arg267Gln	800G>A	R267Q	Breast cancer	Prosser (1992) Br J Cancer 65:527	PubMed 1562462
+CM120851	aCGG-TGG	Arg267Trp	799C>T	R267W	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM942136	GAG-GTG	Glu271Val	812A>T	E271V	Osteosarcoma	McIntyre (1994) J Clin Oncol 12:925	PubMed 8164043
+CM942122	GTG-GCG	Val272Ala	815T>C	V272A	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM920676	gGTG-TTG	Val272Leu	814G>T	V272L	Li-Fraumeni syndrome	Felix (1992) J Clin Invest 89:640	PubMed 1737852
+CM951233	gCGT-TGT	Arg273Cys	817C>T	R273C	Li-Fraumeni syndrome	Eeles (1993) Oncogene 8:1269	PubMed 8479749
+CM010471	gCGT-GGT	Arg273Gly	817C>G	R273G	Leukaemia/lymphoma	Brugieres (1993) Cancer Res 53:452	PubMed 8425176
+CM920677	CGT-CAT	Arg273His	818G>A	R273H	Li-Fraumeni syndrome	Malkin (1992) N Engl J Med 326:1309	PubMed 1565144
+CM004342	CGT-CTT	Arg273Leu	818G>T	R273L	Multiple cancers	Chompret (2000) Br J Cancer 82:1932	PubMed 10864200
+CM010472	CGT-CCT	Arg273Pro	818G>C	R273P	Carcinoma	Rogozin (2001) Hum Mutat 17:83	PubMed 11180592
+CM010473	gCGT-AGT	Arg273Ser	817C>A	R273S	Carcinoma	McIntyre (1994) J Clin Oncol 12:925	PubMed 8164043
+CM076568	TGT-TTT	Cys275Phe	824G>T	C275F	Li-Fraumeni-like syndrome	Trkova (2007) Cancer 110:694	PubMed 17567834
+CM951234	TGT-TAT	Cys275Tyr	824G>A	C275Y	Li-Fraumeni syndrome	Frebourg (1995) Am J Hum Genet 56:608	PubMed 7887414
+CM065496	TGTc-TGA	Cys277Term	831T>A	C277X	Breast cancer, increased risk	Walsh (2006) JAMA 295:1379	PubMed 16551709
+CM078491	TGT-TAT	Cys277Tyr	830G>A	C277Y	Osteosarcoma	Monti (2007) Clin Cancer Res 13:3789	PubMed 17606709
+CM120850	tCCT-GCT	Pro278Ala	832C>G	P278A	Breast cancer	Melhem-Bertrandt (2012) Cancer 118:908	PubMed 21761402
+CM961376	CCT-CTT	Pro278Leu	833C>T	P278L	Breast cancer	Speiser (1996) Br J Cancer 74:269	PubMed 8688334
+CM011015	tCCT-TCT	Pro278Ser	832C>T	P278S	Li-Fraumeni syndrome	Bougeard (2001) J Med Genet 38:253	PubMed 11370630
+CM052927	tCCT-ACT	Pro278Thr	832C>A	P278T	Li-Fraumeni syndrome	Guran (2005) Cancer Genet Cytogenet 160:164	PubMed 15993273
+CM993218	AGA-AAA	Arg280Lys	839G>A	R280K	Glioma	Zhou (1999) Ann Neurol 46:913	PubMed 10589545
+CM114008	GAC-GCC	Asp281Ala	842A>C	D281A	Li-Fraumeni syndrome	Wu (2011) Hum Genet 129:663	PubMed 21305319
+CM076566	aGAC-AAC	Asp281Asn	841G>A	D281N	Breast cancer	Salmon (2007)	Clin Oncol
+CM056068	GAC-GGC	Asp281Gly	842A>G	D281G	Choroid plexus carcinoma, childhood	Krutilkova (2005) Eur J Cancer 41:1597	PubMed 15925506
+CM004343	GAC-GTC	Asp281Val	842A>T	D281V	Osteosarcoma	Chompret (2000) Br J Cancer 82:1932	PubMed 10864200
+CM004344	CGG-CAG	Arg282Gln	845G>A	R282Q	Neuroblastoma	Chompret (2000) Br J Cancer 82:1932	PubMed 10864200
+CM056413	cCGG-GGG	Arg282Gly	844C>G	R282G	Li-Fraumeni syndrome	Poli (2005) Tumori 91:96	PubMed 15850016
+CM920678	cCGG-TGG	Arg282Trp	844C>T	R282W	Osteosarcoma	Toguchida (1992) N Engl J Med 326:1301	PubMed 1565143
+CM041458	gCGC-TGC	Arg283Cys	847C>T	R283C	Gastric cancer	Keller (2004) J Med Genet 41:e89	PubMed 15173255
+CM021154	CGC-CAC	Arg283His	848G>A	R283H	Astrocytoma	Fulchi (2002) Cancer Res 62:2897	PubMed 12019170
+CM995136	aGAG-CAG	Glu285Gln	853G>C	E285Q	Multiple cancers	Yonemoto (1999) Anticancer Res 19:5563	PubMed 10697617
+CM123560	aGAG-AAG	Glu285Lys	853G>A	E285K	Breast cancer	Lee (2012) Breast Cancer Res 14:R66	PubMed 22507745
+CM083790	GAG-GTG	Glu285Val	854A>T	E285V	Choroid plexus carcinoma, childhood	Russell-Swetek (2008) J Med Genet 45:603	PubMed 18762572
+CM920679	GAA-GCA	Glu286Ala	857A>C	E286A	Adrenocortical carcinoma	Sameshima (1992) J Natl Cancer Inst 84:703	PubMed 1569604
+CM076567	gGAA-AAA	Glu286Lys	856G>A	E286K	Li-Fraumeni-like syndrome	Trkova (2007) Cancer 110:694	PubMed 17567834
+CM044948	aGAG-TAG	Glu287Term	859G>T	E287X	Li-Fraumeni syndrome	Kim (2004) J Hum Genet 49:591	PubMed 15368100
+CM993905	CGC-CAC	Arg290His	869G>A	R290H	Li-Fraumeni syndrome	Quesnel (1999) Oncogene 18:3970	PubMed 10435620
+CM065493	CGC-CTC	Arg290Leu	869G>T	R290L	Li-Fraumeni syndrome	Anensen (2006) Leukemia 20:734	PubMed 16437140
+CM994791	AAA-ATA	Lys292Ile	875A>T	K292I	Li-Fraumeni syndrome	Guran (1999) Cancer Genet Cytogenet 113:145	PubMed 10484981
+CM910627	aGGG-TGG	Gly293Trp	877G>T	G293W	Astrocytoma	Chung (1991) Genes Chromosomes Cancer 3:323	PubMed 1686725
+CM031387	cGAG-TAG	Glu298Term	892G>T	E298X	Sarcoma	Hwang (2003) Am J Hum Genet 72:975	PubMed 12610779
+CM121213	CCAg-CCG	Pro301Pro	903A>G	P301P	Breast cancer	Rashid (2012) Fam Cancer epub:epub	PubMed 22311583
+CM942123	AAG-ATG	Lys305Met	914A>T	K305M	Glioma	Kyritsis (1994) J Natl Cancer Inst 86:344	PubMed 8308926
+CM100445	CGA-CAA	Arg306Gln	917G>A	R306Q	Breast and/or ovarian cancer	Blanco (2010) Clin Genet 77:193	PubMed 19930417
+CM951235	CGA-CCA	Arg306Pro	917G>C	R306P	Rhabdomyosarcoma	Diller (1995) J Clin Invest 95:1606	PubMed 7706467
+CM971506	gCGA-TGA	Arg306Term	916C>T	R306X	Li-Fraumeni syndrome	Cornelis (1997) Hum Mutat 9:157	PubMed 9067756
+CM055562	gCCC-TCC	Pro309Ser	925C>T	P309S	Li-Fraumeni syndrome	Guran (2005) Clin Lab Haematol 27:135	PubMed 15784129
+CM920680	GGA-GTA	Gly325Val	974G>T	G325V	Li-Fraumeni syndrome	Malkin (1992) N Engl J Med 326:1309	PubMed 1565144
+CM121765	ATCc-ATG	Ile332Met	996C>G	I332M	Adrenocortical carcinoma	Herrmann (2012) J Clin Endocrinol Metab 97:E476	PubMed 22170717
+CM044725	tGAG-TAG	Glu336Term	1006G>T	E336X	Multiple cancers	Nogales (2004) Mod Pathol 17:868	PubMed 15073606
+CM981929	gCGC-TGC	Arg337Cys	1009C>T	R337C	Li-Fraumeni syndrome	Lomax (1997) Oncogene 14:1869	PubMed 9150393
+CM012663	CGC-CAC	Arg337His	1010G>A	R337H	Adrenocortical carcinoma	Chompret (2000) Br J Cancer 82:1932	PubMed 10864200
+CM104660	CGC-CCC	Arg337Pro	1010G>C	R337P	Li-Fraumeni syndrome	Karakas (2010) Pediatr Hematol Oncol 27:297	PubMed 20426520
+CM984588	cGAG-TAG	Glu339Term	1015G>T	E339X	Li-Fraumeni syndrome	Rines (1998) Carcinogenesis 19:979	PubMed 9667734
+CM098494	CGA-CCA	Arg342Pro	1025G>C	R342P	Li-Fraumeni syndrome	Fiszer-Maliszewska (2009) Fam Cancer 8:541	PubMed 19714490
+CM004908	cCGA-TGA	Arg342Term	1024C>T	R342X	Li-Fraumeni-like syndrome	Trkova (2007) Cancer 110:694	PubMed 17567834
+CM103214	aGAG-TAG	Glu343Term	1027G>T	E343X	Li-Fraumeni syndrome	Ruijs (2010) J Med Genet 47:421	PubMed 20522432
+CM961377	CTG-CCG	Leu344Pro	1031T>C	L344P	Li-Fraumeni syndrome	Varley (1996) Oncogene 12:2437	PubMed 8649785
+CM123558	tGAG-TAG	Glu346Term	1036G>T	E346X	Breast cancer	Lee (2012) Breast Cancer Res 14:R66	PubMed 22507745
+CM073387	CCA-CTA	Pro359Leu	1076C>T	P359L	Li-Fraumeni syndrome	Idbaih (2007) Cancer Genet Cytogenet 176:121	PubMed 17656254
+CM035962	GGG-GCG	Gly360Ala	1079G>C	G360A	Altered transcriptional activity	Kato (2003) Proc Natl Acad Sci U S A 100:8424	PubMed 12826609
+CM031388	tCAC-TAC	His365Tyr	1093C>T	H365Y	Sarcoma	Hwang (2003) Am J Hum Genet 72:975	PubMed 12610779
+CM078492	cTCC-GCC	Ser366Ala	1096T>G	S366A	Carcinoma	Monti (2007) Clin Cancer Res 13:3789	PubMed 17606709

@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM061640	aAGC-GGC	Ser1416Gly	4246A>G	S1416G	Lung cancer, reduced risk in Mexican Americans, association with	Gu (2006) Cancer 106:2707	PubMed 16691626
+CM074015	CGT-CAT	Arg1427His	4280G>A	R1427H	Diabetes, type 2, association with	Fu (2007) Diabetes 56:1363	PubMed 17369523

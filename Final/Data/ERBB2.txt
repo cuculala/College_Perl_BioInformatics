@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM004332	cATC-GTC	Ile655Val	1963A>G	I655V	Breast cancer, increased risk, association with	Xie (2000) J Natl Cancer Inst 92:412	PubMed 10699071
+CM087578	gCCC-GCC	Pro1170Ala	3508C>G	P1170A	Lung cancer, increased risk in females, non-smokers and non-drinkers	Jo (2008) BMC Cancer 8:359	PubMed 19055823

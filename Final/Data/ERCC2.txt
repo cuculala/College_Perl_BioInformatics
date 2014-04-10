@@ -1,0 +1,41 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM970440	cGGG-AGG	Gly47Arg	139G>A	G47R	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM085389	TCC-TTC	Ser51Phe	152C>T	S51F	Xeroderma pigmentosum	Boyle (2008) Hum Mutat 29:1194	PubMed 18470933
+CM010223	aACT-GCT	Thr76Ala	226A>G	T76A	Xeroderma pigmentosum	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM940372	CGC-CAC	Arg112His	335G>A	R112H	Trichothiodystrophy	Broughton (1994) Nat Genet 7:189	PubMed 7920640
+CM057545	CGCt-CGA	Arg156Arg	468C>A	R156R	Lung adenocarcinoma, increased risk, association with	Yin (2005) Cancer Lett 223:219	PubMed 15896456
+CM972916	cGAC-AAC	Asp234Asn	700G>A	D234N	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM980612	TGC-TAC	Cys259Tyr	776G>A	C259Y	Trichothiodystrophy	Botta (1998) Am J Hum Genet 63:1036	PubMed 9758621
+CM015299	cGAC-AAC	Asp312Asn	934G>A	D312N	Increased response to UV, association with	Seker (2001) Cancer Res 61:7430	PubMed 11606376
+CM085388	CGC-CAC	Arg378His	1133G>A	R378H	Xeroderma pigmentosum	Boyle (2008) Hum Mutat 29:1194	PubMed 18470933
+CM099642	cCAG-TAG	Gln452Term	1354C>T	Q452X	Xeroderma pigmentosum	Ueda (2009) J Exp Med 206:3031	PubMed 19934020
+CM940373	aCTG-GTG	Leu461Val	1381C>G	L461V	Xeroderma pigmentosum	Frederick (1994) Hum Mol Genet 3:1783	PubMed 7849702
+CM013388	CTG-CCG	Leu485Pro	1454T>C	L485P	Xeroderma pigmentosum	Broughton (2001) Hum Mol Genet 10:2539	PubMed 11709541
+CM010224	aCGG-GGG	Arg487Gly	1459C>G	R487G	Trichothiodystrophy	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM010225	CGG-CAG	Arg511Gln	1532G>A	R511Q	Xeroderma pigmentosum	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM970441	cAGC-CGC	Ser541Arg	1621A>C	S541R	Xeroderma pigmentosum	Kobayashi (1997) Hum Mutat 9:322	PubMed 9101292
+CM970442	TAC-TGC	Tyr542Cys	1625A>G	Y542C	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM010226	CGC-CCC	Arg592Pro	1775G>C	R592P	Trichothiodystrophy	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM010227	gGCC-CCC	Ala594Pro	1780G>C	A594P	Trichothiodystrophy	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM972917	CGG-CTG	Arg601Leu	1802G>T	R601L	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM010228	cCGG-TGG	Arg601Trp	1801C>T	R601W	Xeroderma pigmentosum	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM950363	GGC-GAC	Gly602Asp	1805G>A	G602D	Xeroderma pigmentosum	Takayama (1995) Cancer Res 55:5656	PubMed 7585650
+CM940374	CGG-CCG	Arg616Pro	1847G>C	R616P	Trichothiodystrophy	Broughton (1994) Nat Genet 7:189	PubMed 7920640
+CM972918	gCGG-TGG	Arg616Trp	1846C>T	R616W	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM960514	gCGC-TGC	Arg658Cys	1972C>T	R658C	Trichothiodystrophy	Takayama (1996) Am J Hum Genet 58:263	PubMed 8571952
+CM013903	gCGC-GGC	Arg658Gly	1972C>G	R658G	Trichothiodystrophy	Viprakasit (2001) Hum Mol Genet 10:2797	PubMed 11734544
+CM960513	CGC-CAC	Arg658His	1973G>A	R658H	Trichothiodystrophy	Takayama (1996) Am J Hum Genet 58:263	PubMed 8571952
+CM091461	cCAG-TAG	Gln662Term	1984C>T	Q662X	Trichothiodystrophy	Botta (2009) Hum Mutat 30:438	PubMed 19085937
+CM010229	gTGT-CGT	Cys663Arg	1987T>C	C663R	Trichothiodystrophy	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM010230	tCGG-TGG	Arg666Trp	1996C>T	R666W	Xeroderma pigmentosum	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM980613	GAC-GGC	Asp673Gly	2018A>G	D673G	Trichothiodystrophy	Botta (1998) Am J Hum Genet 63:1036	PubMed 9758621
+CM950364	cGGC-CGC	Gly675Arg	2023G>C	G675R	Xeroderma pigmentosum	Broughton (1995) Am J Hum Genet 56:167	PubMed 7825573
+CM010231	cGAC-AAC	Asp681Asn	2041G>A	D681N	Xeroderma pigmentosum	Lehmann (2001) Genes Dev 15:15	PubMed 11156600
+CM970443	CGG-CAG	Arg683Gln	2048G>A	R683Q	Xeroderma pigmentosum	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM950365	gCGG-TGG	Arg683Trp	2047C>T	R683W	Xeroderma pigmentosum	Takayama (1995) Cancer Res 55:5656	PubMed 7585650
+CM052870	GACg-GAT	Asp711Asp	2133C>T	D711D	Reduced risk oligodendroglioma development, association	Yang (2005) Cancer 103:2363	PubMed 15834925
+CM972919	gGGT-CGT	Gly713Arg	2137G>C	G713R	Trichothiodystrophy	Taylor (1997) Proc Natl Acad Sci U S A 94:8658	PubMed 9238033
+CM960515	gCGG-TGG	Arg722Trp	2164C>T	R722W	Trichothiodystrophy	Takayama (1996) Am J Hum Genet 58:263	PubMed 8571952
+CM970444	gGCA-CCA	Ala725Pro	2173G>C	A725P	Trichothiodystrophy	Takayama (1997) Hum Mutat 9:519	PubMed 9195225
+CM940375	aCAG-TAG	Gln726Term	2176C>T	Q726X	Xeroderma pigmentosum	Frederick (1994) Hum Mol Genet 3:1783	PubMed 7849702
+CM004814	gAAG-CAG	Lys751Gln	2251A>C	K751Q	Basal cell carcinoma, reduced risk, association with	Dybdahl (1999) Cancer Epidemiol Biomarkers Prev 8:77	PubMed 9950243

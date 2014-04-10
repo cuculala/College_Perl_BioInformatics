@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067720	AAG-ACG	Lys101Thr	302A>C	K101T	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM055547	CGG-CAG	Arg354Gln	1061G>A	R354Q	Cleft lip	Vieira (2005) PLoS Genet 1:e64	PubMed 16327884

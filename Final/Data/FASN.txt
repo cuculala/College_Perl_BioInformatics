@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM042032	cGTC-ATC	Val1483Ile	4447G>A	V1483I	Reduced substrate oxidation rate, association with	Kovacs (2004) Diabetes 53:1915	PubMed 15220220
+CM067666	CGC-CAC	Arg1694His	5081G>A	R1694H	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM118303	cCGG-TGG	Arg1819Trp	5455C>T	R1819W	Intellectual disability	Najmabadi (2011) Nature 478:57	PubMed 21937992

@@ -1,0 +1,22 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM091115	ATG-AGG	Met1Arg	2T>G	M1R	Xeroderma	pigmentosum	(C) Khan
+CM057469	aGAA-TAA	Glu149Term	445G>T	E149X	Xeroderma	pigmentosum	(C) Lam
+CM066617	tCGA-TGA	Arg155Term	463C>T	R155X	Xeroderma	pigmentosum	(C) Khan
+CM001390	tCGA-TGA	Arg220Term	658C>T	R220X	Xeroderma	pigmentosum	(C) Chavanne
+CM112197	TTC-TCC	Phe302Ser	905T>C	F302S	Bladder cancer, increased risk	Qiao (2011) Carcinogenesis 32:516	PubMed 21273643
+CM930747	CCT-CAT	Pro334His	1001C>A	P334H	Xeroderma	pigmentosum	(C) Li
+CM112198	aCGG-TGG	Arg393Trp	1177C>T	R393W	Bladder cancer, increased risk	Qiao (2011) Carcinogenesis 32:516	PubMed 21273643
+CM066616	gCGA-TGA	Arg415Term	1243C>T	R415X	Xeroderma	pigmentosum	(C) Khan
+CM103001	gCAG-TAG	Gln467Term	1399C>T	Q467X	Xeroderma	pigmentosum	(C) Soufir
+CM068096	CGT-CAT	Arg492His	1475G>A	R492H	Colorectal cancer, increased risk, association with	Berndt (2006) Cancer Epidemiol Biomarkers Prev 15:2263	PubMed 17119055
+CM057944	GCG-GTG	Ala499Val	1496C>T	A499V	Lung cancer, association with	Hu (2005) Int J Cancer 115:478	PubMed 15700316
+CM066614	aAAA-TAA	Lys522Term	1564A>T	K522X	Xeroderma	pigmentosum	(C) Khan
+CM057470	cCAG-TAG	Gln554Term	1660C>T	Q554X	Xeroderma	pigmentosum	(C) Lam
+CM103002	TATg-TAA	Tyr568Term	1704T>A	Y568X	Xeroderma	pigmentosum	(C) Soufir
+CM001391	cCGA-TGA	Arg579Term	1735C>T	R579X	Xeroderma	pigmentosum	(C) Chavanne
+CM065522	tCGT-TGT	Arg671Cys	2011C>T	R671C	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM001392	TGG-TCG	Trp690Ser	2069G>C	W690S	Xeroderma	pigmentosum	(C) Chavanne
+CM066615	gAAG-TAG	Lys692Term	2074A>T	K692X	Xeroderma	pigmentosum	(C) Khan
+CM088344	CCC-CTC	Pro703Leu	2108C>T	P703L	Xeroderma	pigmentosum	(C) Jacobelli
+CM001393	cCGA-TGA	Arg718Term	2152C>T	R718X	Xeroderma	pigmentosum	(C) Chavanne
+CM070359	gAAG-CAG	Lys939Gln	2815A>C	K939Q	DNA repair rate, association with	Vodicka (2004) Carcinogenesis 25:757	PubMed 14729591

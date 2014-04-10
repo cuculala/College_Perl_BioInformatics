@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM062443	CGA-CTA	Arg41Leu	122G>T	R41L	Leukemia, risk, association with	Rudd (2006) Blood 108:638	PubMed 16574953

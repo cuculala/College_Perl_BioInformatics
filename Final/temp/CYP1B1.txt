@@ -1,0 +1,126 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM011310	ATG-ACG	Met1Thr	2T>C	M1T	Peters' anomaly	Vincent (2001) J Med Genet 38:324	PubMed 11403040
+CM023062	cCAG-TAG	Gln19Term	55C>T	Q19X	Glaucoma, primary congenital	Stoilov (2002) Invest Ophthalmol Vis Sci 43:1820	PubMed 12036985
+CM093566	CTG-CGG	Leu24Arg	71T>G	L24R	Glaucoma, primary congenital	Tanwar (2009) Mol Vis 15:1200	PubMed 19536304
+CM066037	TCG-TGG	Ser28Trp	83C>G	S28W	Glaucoma, primary open angle	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM0910850	cCAG-TAG	Gln37Term	109C>T	Q37X	Glaucoma, primary congenital	Narooie-Nejad (2009) Mol Vis 15:2155	PubMed 19898634
+CM066554	gCAA-TAA	Gln42Term	124C>T	Q42X	Glaucoma, primary congenital	Chavarria-Soley (2006) Mol Vis 12:523	PubMed 16735994
+CM004824	cCGG-GGG	Arg48Gly	142C>G	R48G	Higher catalytic activity	Hanna (2000) Cancer Res 60:3440	PubMed 10910054
+CM071681	CCG-CTG	Pro52Leu	155C>T	P52L	Hepatocellular adenoma, increased risk with mutated TCF1	Jeannot (2007) Cancer Res 67:2611	PubMed 17363580
+CM980496	TGGc-TGC	Trp57Cys	171G>C	W57C	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM011311	TGGc-TGA	Trp57Term	171G>A	W57X	Peters' anomaly	Vincent (2001) J Med Genet 38:324	PubMed 11403040
+CM087791	ATCg-ATG	Ile60Met	180C>G	I60M	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM980497	GGA-GAA	Gly61Glu	182G>A	G61E	Glaucoma, primary congenital	Bejjani (1998) Am J Hum Genet 62:325	PubMed 9463332
+CM000136	CTG-CCG	Leu77Pro	230T>C	L77P	Glaucoma, primary congenital	Bejjani (2000) Hum Mol Genet 9:367	PubMed 10655546
+CM042334	cTAC-AAC	Tyr81Asn	241T>A	Y81N	Glaucoma, primary open angle	Melki (2004) J Med Genet 41:647	PubMed 15342693
+CM076138	TACg-TAA	Tyr81Term	243C>A	Y81X	Glaucoma, primary congenital	Chitsazian (2007) J Mol Diagn 9:382	PubMed 17591938
+CM087792	GTG-GCG	Val95Ala	284T>C	V95A	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM091076	GCC-GAC	Ala106Asp	317C>A	A106D	Glaucoma, primary congenital	Campos-Mollo (2009) Mol Vis 15:417	PubMed 19234632
+CM087790	cCTG-GTG	Leu107Val	319C>G	L107V	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM116836	gCAG-TAG	Gln109Term	325C>T	Q109X	Corneal opacification / infantile glaucoma	Kelberman (2011) Ophthalmology 118:1865	PubMed 21600657
+CM074134	gCAG-TAG	Gln110Term	328C>T	Q110X	Glaucoma, primary congenital	Ramprasad (2007) Ophthalmic Genet 28:17	PubMed 17454743
+CM044873	cGCC-CCC	Ala115Pro	343G>C	A115P	Glaucoma, primary congenital	Reddy (2004) Mol Vis 10:696	PubMed 15475877
+CM066032	CGG-CCG	Arg117Pro	350G>C	R117P	Glaucoma, primary congenital	Hollander (2006) Am J Ophthalmol 142:993	PubMed 17157584
+CM074132	cCGG-TGG	Arg117Trp	349C>T	R117W	Glaucoma, primary congenital	Bagiyeva (2007) Mol Vis 13:1458	PubMed 17893647
+CM087795	gCCG-TCG	Pro118Ser	352C>T	P118S	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM066555	gCCG-ACG	Pro118Thr	352C>A	P118T	Peters' anomaly	Vincent (2006) Mol Vis 12:506	PubMed 16735991
+CM003809	gGCC-TCC	Ala119Ser	355G>T	A119S	Breast or lung cancer, association with	Watanabe (2000) Pharmacogenetics 10:25	PubMed 10739169
+CM044870	ATG-AGG	Met132Arg	395T>G	M132R	Glaucoma, primary congenital	Reddy (2004) Mol Vis 10:696	PubMed 15475877
+CM087794	TTC-TCC	Phe134Ser	401T>C	F134S	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+HM030008	CAG-CGG	Gln144Arg	431A>G	Q144R	Glaucoma, primary congenital	Chakrabarti (2003) Hum Genet 113:556 Source:	Online submission
+CM066029	CAGc-CAT	Gln144His	432G>T	Q144H	Glaucoma, primary open angle	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM044871	CAG-CCG	Gln144Pro	431A>C	Q144P	Glaucoma, primary congenital	Reddy (2004) Mol Vis 10:696	PubMed 15475877
+CM066034	gCGG-TGG	Arg145Trp	433C>T	R145W	Glaucoma, primary open angle	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM060951	cCAG-TAG	Gln159Term	475C>T	Q159X	Glaucoma, primary congenital	Brinkmann (2006) Hum Genet 118:779 Source:	Online submission
+CM104163	cCGC-TGC	Arg163Cys	487C>T	R163C	Glaucoma, primary congenital	Hilal (2010) Mol Vis 16:1215	PubMed 20664688
+CM100151	GGC-GAC	Gly168Asp	503G>A	G168D	Glaucoma, primary congenital	López-Garrido (2010) Clin Genet 77:70	PubMed 19793111
+CM072976	cGAG-AAG	Glu173Lys	517G>A	E173K	Glaucoma, primary congenital	El-Ashry (2007) J Glaucoma 16:104	PubMed 17224759
+CM091077	cGAG-TAG	Glu173Term	517G>T	E173X	Glaucoma, primary congenital	Campos-Mollo (2009) Mol Vis 15:417	PubMed 19234632
+CM085964	CTG-CGG	Leu177Arg	530T>G	L177R	Glaucoma, primary congenital	Firasat (2008) Mol Vis 14:2002	PubMed 18989382
+CM091788	CTG-CCG	Leu177Pro	530T>C	L177P	Glaucoma, primary congenital	Weisschuh (2009) Am J Ophthalmol 147:744	PubMed 19195637
+CM066030	cGCC-CCC	Ala189Pro	565G>C	A189P	Ocular hypertension	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM091790	cTTC-CTC	Phe190Leu	568T>C	F190L	Glaucoma, primary congenital	Weisschuh (2009) Am J Ophthalmol 147:744	PubMed 19195637
+CM093567	TTCc-TTA	Phe190Leu	570C>A	F190L	Glaucoma, primary congenital	Tanwar (2009) Mol Vis 15:1200	PubMed 19536304
+CM074133	cGAC-TAC	Asp192Tyr	574G>T	D192Y	Glaucoma, primary congenital	Dimasi (2007) Clin Genet 72:255	PubMed 17718864
+CM014340	GAC-GTC	Asp192Val	575A>T	D192V	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM023063	CCG-CTG	Pro193Leu	578C>T	P193L	Glaucoma, primary congenital	Panicker (2002) Invest Ophthalmol Vis Sci 43:1358	PubMed 11980847
+CM014341	cGTC-ATC	Val198Ile	592G>A	V198I	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM076136	GCC-GAC	Ala202Asp	605C>A	A202D	Glaucoma, primary congenital	Chitsazian (2007) J Mol Diagn 9:382	PubMed 17591938
+CM083624	AAC-AGC	Asn203Ser	608A>G	N203S	Glaucoma, primary congenital	Chavarria-Soley (2008) Hum Mutat 29:1147	PubMed 18470941
+CM066035	gTGT-CGT	Cys209Arg	625T>C	C209R	Glaucoma, primary congenital	Hollander (2006) Am J Ophthalmol 142:993	PubMed 17157584
+CM030031	AGC-ATC	Ser215Ile	644G>T	S215I	Glaucoma, primary congenital	Sitorus (2003) J Med Genet 40:e9	PubMed 12525557
+CM014173	cGAA-AAA	Glu229Lys	685G>A	E229K	Glaucoma, primary congenital	Michels-Rautenstrauss (2001) J Glaucoma 10:354	PubMed 11558822
+HM0665	aGAG-AAG	Glu230Lys	688G>A	E230K	Glaucoma, primary open angle	Ray (2007) Hum Genet 121:291 Source:	Online submission
+CM033363	cGGG-CGG	Gly232Arg	694G>C	G232R	Glaucoma, primary congenital	Colomb (2003) Hum Mutat 22:496	PubMed 14635112
+CM044872	cAGC-CGC	Ser239Arg	715A>C	S239R	Glaucoma, primary congenital	Reddy (2004) Mol Vis 10:696	PubMed 15475877
+CM033364	gCAG-TAG	Gln248Term	742C>T	Q248X	Glaucoma, primary congenital	Colomb (2003) Hum Mutat 22:496	PubMed 14635112
+BM1113072	AACc-AAA	Asn252Lys	756C>A	N252K	Glaucoma, newborn	Khan (2011) Ophthalmic Genet 32:138	PubMed 21306220
+CM091078	TTCg-TTA	Phe261Leu	783C>A	F261L	Glaucoma, primary congenital	Campos-Mollo (2009) Mol Vis 15:417	PubMed 19234632
+CM091079	cGAG-TAG	Glu262Term	784G>T	E262X	Glaucoma, primary congenital	Campos-Mollo (2009) Mol Vis 15:417	PubMed 19234632
+CM099870	gCAC-GAC	His279Asp	835C>G	H279D	Glaucoma, primary congenital	Tanwar (2009) Mol Vis 15:2926	PubMed 20057908
+CM014342	TGCg-TGA	Cys280Term	840C>A	C280X	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM980498	cGAA-TAA	Glu281Term	841G>T	E281X	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM091789	AGC-AAC	Ser282Asn	845G>A	S282N	Glaucoma, primary congenital	Weisschuh (2009) Am J Ophthalmol 147:744	PubMed 19195637
+CM087868	gGCC-ACC	Ala287Thr	859G>A	A287T	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM076135	GAC-GGC	Asp291Gly	872A>G	D291G	Glaucoma, primary congenital	Chitsazian (2007) J Mol Diagn 9:382	PubMed 17591938
+CM071680	ATG-AAG	Met292Lys	875T>A	M292K	Glaucoma, primary open angle	Kumar (2007) Mol Vis 13:667	PubMed 17563717
+CM087793	AAC-AGC	Asn319Ser	956A>G	N319S	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM014343	cGTA-TTA	Val320Leu	958G>T	V320L	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM074135	GGC-GAC	Gly329Asp	986G>A	G329D	Glaucoma, primary congenital	Dimasi (2007) Clin Genet 72:255	PubMed 17718864
+CM071682	cGGC-AGC	Gly329Ser	985G>A	G329S	Hepatocellular adenoma, increased risk with mutated TCF1	Jeannot (2007) Cancer Res 67:2611	PubMed 17363580
+CM074136	GGC-GTC	Gly329Val	986G>T	G329V	Glaucoma, primary congenital	Bagiyeva (2007) Mol Vis 13:1458	PubMed 17893647
+CM066031	cGCC-TCC	Ala330Ser	988G>T	A330S	Ocular hypertension	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM091263	TCC-TAC	Ser336Tyr	1007C>A	S336Y	Glaucoma, primary congenital	Yang (2009) Mol Vis 15:432	PubMed 19247456
+CM099871	CAGt-CAT	Gln340His	1020G>T	Q340H	Glaucoma, primary congenital	Tanwar (2009) Mol Vis 15:2926	PubMed 20057908
+CM091080	TGGc-TGA	Trp341Term	1023G>A	W341X	Glaucoma, primary congenital	Campos-Mollo (2009) Mol Vis 15:417	PubMed 19234632
+CM020105	cCTC-TTC	Leu345Phe	1033C>T	L345F	Glaucoma, primary open angle	Vincent (2002) Am J Hum Genet 70:448	PubMed 11774072
+CM014174	tCGA-TGA	Arg355Term	1063C>T	R355X	Glaucoma, primary congenital	Michels-Rautenstrauss (2001) J Glaucoma 10:354	PubMed 11558822
+CM087788	GTC-GAC	Val363Asp	1088T>A	V363D	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM004520	cGTG-ATG	Val364Met	1090G>A	V364M	Glaucoma, primary congenital	Ohtake (2000) Ophthalmic Genet 21:191	PubMed 11184479
+CM980499	gGGG-TGG	Gly365Trp	1093G>T	G365W	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM076134	cCGT-TGT	Arg368Cys	1102C>T	R368C	Glaucoma, primary congenital	Chitsazian (2007) J Mol Diagn 9:382	PubMed 17591938
+CM000137	CGT-CAT	Arg368His	1103G>A	R368H	Glaucoma, primary congenital	Bejjani (2000) Hum Mol Genet 9:367	PubMed 10655546
+CM087789	CGT-CTT	Arg368Leu	1103G>T	R368L	Glaucoma, primary congenital	Chen (2008) Arch Ophthalmol 126:1443	PubMed 18852424
+CM980500	tGAC-AAC	Asp374Asn	1120G>A	D374N	Glaucoma, primary congenital	Bejjani (1998) Am J Hum Genet 62:325	PubMed 9463332
+CM085965	GACc-GAG	Asp374Glu	1122C>G	D374E	Glaucoma, primary congenital	Firasat (2008) Mol Vis 14:2002	PubMed 18989382
+CM094335	CTG-CAG	Leu378Gln	1133T>A	L378Q	Glaucoma, primary congenital Della	Paolera (2009) J Glaucoma 19:176	PubMed 19528825
+CM980501	CCC-CTC	Pro379Leu	1136C>T	P379L	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM078114	cCTT-TTT	Leu385Phe	1153C>T	L385F	Glaucoma, primary congenital	Jiang (2007) Zhonghua Yan Ke Za Zhi 43:779	PubMed 18070520
+CM980502	tGAA-AAA	Glu387Lys	1159G>A	E387K	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM060950	aGCC-ACC	Ala388Thr	1162G>A	A388T	Glaucoma, primary congenital	Alfadhli (2006) Am J Ophthalmol 141:512	PubMed 16490498
+CM043837	gCGC-TGC	Arg390Cys	1168C>T	R390C	Glaucoma, primary congenital	Curry (2004) Ophthalmic Genet 25:3	PubMed 15255109
+CM980503	CGC-CAC	Arg390His	1169G>A	R390H	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM000138	gCGC-AGC	Arg390Ser	1168C>A	R390S	Glaucoma, primary congenital	Bejjani (2000) Hum Mol Genet 9:367	PubMed 10655546
+CM033365	ATT-AGT	Ile399Ser	1196T>G	I399S	Glaucoma, primary congenital	Colomb (2003) Hum Mutat 22:496	PubMed 14635112
+CM074137	tCCT-TCT	Pro400Ser	1198C>T	P400S	Glaucoma, primary congenital	Dimasi (2007) Clin Genet 72:255	PubMed 17718864
+CM066038	tGTC-TTC	Val409Phe	1225G>T	V409F	Glaucoma, primary open angle	Lopez-Garrido (2006) Mol Vis 12:748	PubMed 16862072
+CM033366	cAAC-TAC	Asn423Tyr	1267A>T	N423Y	Glaucoma, primary congenital	Colomb (2003) Hum Mutat 22:496	PubMed 14635112
+CM100958	GACc-GAG	Asp430Glu	1290C>G	D430E	Glaucoma, primary congenital	Fuse (2010) Jpn J Ophthalmol 54:1	PubMed 20151268
+CM004465	aCTG-GTG	Leu432Val	1294C>G	L432V	Prostate cancer, association with	Fukatsu (2004) Anticancer Res 24:2431	PubMed 15330195
+CM076137	gTGG-CGG	Trp434Arg	1300T>C	W434R	Glaucoma, primary open angle	Chakrabarti (2007) Invest Ophthalmol Vis Sci 48:5439	PubMed 18055790
+CM066556	TGGc-TGA	Trp434Term	1302G>A	W434X	Glaucoma, primary congenital	Chavarria-Soley (2006) Mol Vis 12:523	PubMed 16735994
+CM980504	CCG-CTG	Pro437Leu	1310C>T	P437L	Glaucoma, primary congenital	Stoilov (1998) Am J Hum Genet 62:573	PubMed 9497261
+CM119733	GAT-GGT	Asp441Gly	1322A>G	D441G	Glaucoma, primary congenital	Abu-Amero (2011) Mol Vis 11:2911	PubMed 22128238
+CM030032	CCA-CGA	Pro442Arg	1325C>G	P442R	Glaucoma, primary congenital	Sitorus (2003) J Med Genet 40:e9	PubMed 12525557
+CM014175	GCT-GGT	Ala443Gly	1328C>G	A443G	Glaucoma, primary congenital	Michels-Rautenstrauss (2001) J Glaucoma 10:354	PubMed 11558822
+CM014344	CGA-CAA	Arg444Gln	1331G>A	R444Q	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM033367	tCGA-TGA	Arg444Term	1330C>T	R444X	Glaucoma, primary congenital	Colomb (2003) Hum Mutat 22:496	PubMed 14635112
+HM030007	TTC-TGC	Phe445Cys	1334T>G	F445C	Glaucoma, primary congenital	Chakrabarti (2003) Hum Genet 113:556 Source:	Online submission
+CM082588	aTTC-ATC	Phe445Ile	1333T>A	F445I	Glaucoma, primary congenital	Sivadorai (2008) Clin Genet 74:82	PubMed 18537981
+CM0910851	TTC-TCC	Phe445Ser	1334T>C	F445S	Glaucoma, primary congenital	Narooie-Nejad (2009) Mol Vis 15:2155	PubMed 19898634
+CM994676	AAC-AGC	Asn453Ser	1358A>G	N453S	Higher catalytic activity	Shimada (1999) Carcinogenesis 20:1607	PubMed 10426814
+CM116627	GTG-GAG	Val460Glu	1379T>A	V460E	Glaucoma, newborn	Khan (2011) Ophthalmic Genet 32:138	PubMed 21306220
+CM044874	GGC-GAC	Gly466Asp	1397G>A	G466D	Glaucoma, primary congenital	Reddy (2004) Mol Vis 10:696	PubMed 15475877
+CM1111312	gGGC-AGC	Gly466Ser	1396G>A	G466S	Glaucoma, primary congenital	Abu-Amero (2011) Mol Vis 17:2911	PubMed 22128238
+CM980505	gCGG-TGG	Arg469Trp	1405C>T	R469W	Glaucoma, primary congenital	Bejjani (1998) Am J Hum Genet 62:325	PubMed 9463332
+CM104164	TGC-TAC	Cys470Tyr	1409G>A	C470Y	Glaucoma, primary congenital	Hilal (2010) Mol Vis 16:1215	PubMed 20664688
+CM091264	ATT-AGT	Ile471Ser	1412T>G	I471S	Glaucoma, primary congenital	Yang (2009) Mol Vis 15:432	PubMed 19247456
+CM116628	TCC-TTC	Ser485Phe	1454C>T	S485F	Glaucoma, newborn	Khan (2011) Ophthalmic Genet 32:138	PubMed 21306220
+CM085963	CTG-CCG	Leu487Pro	1460T>C	L487P	Glaucoma, primary congenital	Firasat (2008) Mol Vis 14:2002	PubMed 18989382
+CM072975	aAAT-GAT	Asn498Asp	1492A>G	N498D	Glaucoma, primary congenital	El-Ashry (2007) J Glaucoma 16:104	PubMed 17224759
+CM014345	GAG-GGG	Glu499Gly	1496A>G	E499G	Glaucoma, primary congenital	Mashima (2001) Invest Ophthalmol Vis Sci 42:2211	PubMed 11527932
+CM066036	TCA-TTA	Ser515Leu	1544C>T	S515L	Glaucoma, primary open angle	Acharya (2006) Mol Vis 12:399	PubMed 16688110
+CM116629	cAAT-GAT	Asn519Asp	1555A>G	N519D	Glaucoma, newborn	Khan (2011) Ophthalmic Genet 32:138	PubMed 21306220
+CM094884	AGA-AAA	Arg523Lys	1568G>A	R523K	Glaucoma, primary congenital	Bar-Yosef (2009) J Glaucoma 19:35	PubMed 19593207
+CM066028	AGA-ACA	Arg523Thr	1568G>C	R523T	Glaucoma, primary open angle	Acharya (2006) Mol Vis 12:399	PubMed 16688110
+CM066033	GAT-GGT	Asp530Gly	1589A>G	D530G	Glaucoma, primary open angle	Acharya (2006) Mol Vis 12:399	PubMed 16688110

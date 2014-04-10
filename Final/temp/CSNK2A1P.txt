@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM104963	ACT-ATT	Thr133Ile	Not	yet	available Not yet available Lung cancer, association with	Hung (2010) PLoS One 5:e11418	PubMed 20625391

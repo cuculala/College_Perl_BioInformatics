@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM950861	aCCT-TCT	Pro187Ser	559C>T	P187S	Lung cancer, smoking induced, association with	Rosvold (1995) Pharmacogenetics 5:199	PubMed 8528266

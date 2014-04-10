@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM057662	ACC-AAC	Thr461Asn	1382C>A	T461N	Colorectal cancer, reduced risk, association with	Landi (2005) Pharmacogenet Genomics 15:535	PubMed 16006997
+CM940327	cATT-GTT	Ile462Val	1384A>G	I462V	Lung cancer, smoking induced, association with	Hayashi (1991) J Biochem Tokyo 110:407	PubMed 1722803

@@ -1,0 +1,19 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM045703	aGTG-ATG	Val12Met	34G>A	V12M	Reduced ATPase activity, association with	Mizuarai (2004) Int J Cancer 109:238	PubMed 14750175
+CM057427	aCAA-TAA	Gln126Term	376C>T	Q126X	Breast cancer resistance protein deficiency, association with	Imai (2002) Mol Cancer Ther 1:611	PubMed 12479221
+CM057428	aCAG-AAG	Gln141Lys	421C>A	Q141K	Gout, association with	Dehghan (2008) Lancet 372:1953	PubMed 18834626
+CM057861	cATC-CTC	Ile206Leu	616A>C	I206L	Reduced protein expression	Vethanayagam (2005) Drug Metab Dispos 33:697	PubMed 15743976
+CM075963	TTC-TCC	Phe208Ser	623T>C	F208S	Breast cancer resistance protein deficiency, association with	Yoshioka (2007) Pharm Res 24:1108	PubMed 17373578
+CM121001	aCGA-TGA	Arg236Term	706C>T	R236X		Jr (a-) blood group	variant Zelinski
+CM121049	tCAG-TAG	Gln244Term	730C>T	Q244X		Jr (a-) blood group	variant Saison
+CM121000	tCGA-TGA	Arg246Term	736C>T	R246X		Jr (a-) blood group	variant Zelinski
+CM068173	tTCC-CCC	Ser248Pro	742T>C	S248P	Defective porphyrin transport	Tamura (2006) Mol Pharmacol 70:287	PubMed 16608919
+CM0910602	cGGG-AGG	Gly268Arg	802G>A	G268R	Gout, association with	Matsuo (2009) Sci Transl Med 1:5ra11	PubMed 20368174
+CM077501	gCCT-TCT	Pro269Ser	805C>T	P269S	Reduced function	Lee (2007) Drug Metab Dispos 35:623	PubMed 17237154
+CM068172	gGAG-TAG	Glu334Term	1000G>T	E334X	Defective porphyrin transport	Tamura (2006) Mol Pharmacol 70:287	PubMed 16608919
+CM075962	cTTC-CTC	Phe431Leu	1291T>C	F431L	Breast cancer resistance protein deficiency	Yoshioka (2007) Pharm Res 24:1108	PubMed 17373578
+CM045886	AGT-AAT	Ser441Asn	1322G>A	S441N	Reduced protein expression	Kondo (2004) Pharm Res 21:1895	PubMed 15553238
+CM068171	aTTT-CTT	Phe489Leu	1465T>C	F489L	Impaired porphyrin transport	Tamura (2006) Mol Pharmacol 70:287	PubMed 16608919
+CM057964	aCGA-TGA	Arg575Term	1723C>T	R575X	Breast cancer resistance protein deficiency	Bosch (2005) Am J Pharmacogenomics 5:123	PubMed 15813675
+CM057860	aAAC-TAC	Asn590Tyr	1768A>T	N590Y	Reduced ATPase activity	Vethanayagam (2005) Drug Metab Dispos 33:697	PubMed 15743976
+CM057862	cGAT-AAT	Asp620Asn	1858G>A	D620N	Reduced ATPase activity	Vethanayagam (2005) Drug Metab Dispos 33:697	PubMed 15743976

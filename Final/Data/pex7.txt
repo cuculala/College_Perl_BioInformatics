@@ -1,0 +1,25 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM030488	gACG-CCG	Thr14Pro	40A>C	T14P	Refsum disease van den	Brink (2003) Am J Hum Genet 72:471	PubMed 12522768
+CM020474	TACg-TAA	Tyr20Term	60C>A	Y20X	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM022435	TCC-TTC	Ser25Phe	74C>T	S25F	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM022436	CAC-CCC	His39Pro	116A>C	H39P	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM020475	TACg-TAG	Tyr40Term	120C>G	Y40X	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM022437	GGC-GTC	Gly41Val	122G>T	G41V	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM020476	TTG-TGG	Leu70Trp	209T>G	L70W	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM020477	TGT-TAT	Cys86Tyr	257G>A	C86Y	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM020478	cTGG-GGG	Trp95Gly	283T>G	W95G	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM022438	CAC-CGC	His110Arg	329A>G	H110R	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM022439	tCAG-TAG	Gln112Term	334C>T	Q112X	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM020479	TATa-TAG	Tyr115Term	345T>G	Y115X	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM020480	aCAG-TAG	Gln126Term	376C>T	Q126X	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM022440	TCA-TAA	Ser132Term	395C>A	S132X	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM020481	gGAT-AAT	Asp134Asn	400G>A	D134N	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM022441	gTCT-CCT	Ser164Pro	490T>C	S164P	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM022442	TGGt-TGA	Trp206Term	618G>A	W206X	Rhizomelic chondrodysplasia punctata	Braverman (2002) Hum Mutat 1.030555556	PubMed 12325024
+CM971145	cGGG-AGG	Gly217Arg	649G>A	G217R	Rhizomelic chondrodysplasia punctata	Braverman (1997) Nat Genet 0.88125	PubMed 9090381
+CM971146	GCG-GTG	Ala218Val	653C>T	A218V	Rhizomelic chondrodysplasia punctata	Braverman (1997) Nat Genet 0.88125	PubMed 9090381
+CM994294	aCGA-TGA	Arg232Term	694C>T	R232X	Rhizomelic chondrodysplasia punctata	Shimozawa (1999) J Hum Genet 44:123	PubMed 10083738
+CM020482	CAT-CTT	His241Leu	722A>T	H241L	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM020483	TCG-TTG	Ser262Leu	785C>T	S262L	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM020484	CAT-CGT	His285Arg	854A>G	H285R	Rhizomelic chondrodysplasia punctata	Motley (2002) Am J Hum Genet 70:612	PubMed 11781871
+CM971147	TTA-TAA	Leu292Term	875T>A	L292X	Rhizomelic chondrodysplasia punctata	Braverman (1997) Nat Genet 0.88125	PubMed 9090381

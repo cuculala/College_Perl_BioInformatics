@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM990713	cATC-GTC	Ile105Val	313A>G	I105V	Oral cancer, association with	Katoh (1999) Pharmacogenetics 9:165	PubMed 10376763
+CM992339	GCG-GTG	Ala114Val	341C>T	A114V	Oral cancer in light smokers, association with	Park (1999) Pharmacogenetics 9:497	PubMed 10780269
+CM077577	GGC-GAC	Gly169Asp	506G>A	G169D	Increased activity	Kitteringham (2007) Biochim Biophys Acta 1770:1240	PubMed 17560037

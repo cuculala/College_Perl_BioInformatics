@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM103223	aCTG-ATG	Leu84Met	250C>A	L84M	Lung cancer, association with	Guo (2010) J Med Genet 47:616	PubMed 20516147

@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067358	cGTG-ATG	Val68Met	202G>A	V68M	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161

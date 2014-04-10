@@ -1,0 +1,13 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM023642	GCC-GTC	Ala3Val	8C>T	A3V	Reduced risk of multiple myeloma, association	Roddam (2002) J Med Genet 39:900	PubMed 12471202
+CM023643	ACT-ATT	Thr9Ile	26C>T	T9I	Reduced risk of multiple myeloma, association	Roddam (2002) J Med Genet 39:900	PubMed 12471202
+CM068005	TGGa-TGA	Trp46Term	138G>A	W46X	Potential protein deficiency	Savas (2006) Hum Genomics 2:274	PubMed 16595072
+CM078455	aATG-GTG	Met249Val	745A>G	M249V	LIG4 syndrome	Toita (2007) Am J Med Genet A 143:742	PubMed 17345618
+CM015024	CGT-CAT	Arg278His	833G>A	R278H	LIG4 syndrome	O'Driscoll (2001) Mol Cell 8:1175	PubMed 11779494
+CM114807	CGT-CCT	Arg278Pro	833G>C	R278P	Immunodeficiency, severe combined, atypical	Felgentreff (2011) Clin Immunol 141:73	PubMed 21664875
+CM061098	CAA-CGA	Gln280Arg	839A>G	Q280R	LIG4 syndrome	Buck (2006) Eur J Immunol 36:224	PubMed 16358361
+CM061099	CAC-CTC	His282Leu	845A>T	H282L	Immunodeficiency, severe combined	Enders (2006) J Immunol 176:5060	PubMed 16585603
+CM114808	GAG-GCG	Glu427Ala	1280A>C	E427A	Immunodeficiency, severe combined, atypical	Felgentreff (2011) Clin Immunol 141:73	PubMed 21664875
+CM014719	GGA-GAA	Gly469Glu	1406G>A	G469E	LIG4 syndrome	O'Driscoll (2001) Mol Cell 8:1175	PubMed 11779494
+CM014720	aCGA-TGA	Arg580Term	1738C>T	R580X	LIG4 syndrome	O'Driscoll (2001) Mol Cell 8:1175	PubMed 11779494
+CM014721	tCGA-TGA	Arg814Term	2440C>T	R814X	LIG4 syndrome	O'Driscoll (2001) Mol Cell 8:1175	PubMed 11779494

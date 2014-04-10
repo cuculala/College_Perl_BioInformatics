@@ -1,0 +1,91 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM002031	ATGa-ATA	Met1Ile	3G>A	M1I	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM002032	ATGa-ATC	Met1Ile	3G>C	M1I	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM040748	ATG-AAG	Met1Lys	2T>A	M1K	Leber congenital amaurosis	Hanein (2004) Hum Mutat 23:306	PubMed 15024725
+CM057708	gTGG-CGG	Trp21Arg	61T>C	W21R	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM002033	gCTC-TTC	Leu41Phe	121C>T	L41F	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM113124	ACG-ATG	Thr55Met	164C>T	T55M	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM078215	cGAG-CAG	Glu97Gln	289G>C	E97Q	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM077936	cGAG-AAG	Glu103Lys	307G>A	E103K	Leber congenital amaurosis	Henderson (2007) Invest Ophthalmol Vis Sci 48:5684	PubMed 18055820
+CM113126	GAG-GTG	Glu103Val	308A>T	E103V	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM004552	TGC-TAC	Cys105Tyr	314G>A	C105Y	Leber congenital amaurosis	Dharmaraj (2000) Ophthalmic Genet 21:135	PubMed 11035546
+CM002034	AACc-AAA	Asn129Lys	387C>A	N129K	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM078216	cTGG-CGG	Trp150Arg	448T>C	W150R	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM078217	TGGg-TGA	Trp150Term	450G>A	W150X	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM078218	gGAG-AAG	Glu255Lys	763G>A	E255K	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM057703	CTG-CCG	Leu260Pro	779T>C	L260P	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM078219	TACg-TAG	Tyr283Term	849C>G	Y283X	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM055958	ACG-ATG	Thr312Met	935C>T	T312M	Leber congenital amaurosis	Galvin (2005) Ophthalmology 112:349	PubMed 15691574
+CM078220	cACG-CCG	Thr312Pro	934A>C	T312P	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM002035	gCGC-TGC	Arg313Cys	937C>T	R313C	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM074269	CTG-CGG	Leu325Arg	974T>G	L325R	Leber congenital amaurosis	Simonelli (2007) Invest Ophthalmol Vis Sci 48:4284	PubMed 17724218
+CM004553	CTG-CCG	Leu325Pro	974T>C	L325P	Leber congenital amaurosis	Dharmaraj (2000) Ophthalmic Genet 21:135	PubMed 11035546
+CM040749	TAT-TGT	Tyr351Cys	1052A>G	Y351C	Leber congenital amaurosis	Hanein (2004) Hum Mutat 23:306	PubMed 15024725
+CM057706	gGCA-TCA	Ala362Ser	1084G>T	A362S	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM078221	gCGG-TGG	Arg365Trp	1093C>T	R365W	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM113179	gCGT-TGT	Arg438Cys	1312C>T	R438C	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM002036	TCG-TAG	Ser448Term	1343C>A	S448X	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM044895	cATT-GTT	Ile539Val	1615A>G	I539V	Increased severity in Leber congenital amaurosis	Silva (2004) Ophthalmic Genet 25:205	PubMed 15512997
+CM002037	tCGC-TGC	Arg540Cys	1618C>T	R540C	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM078222	cCAA-TAA	Gln545Term	1633C>T	Q545X	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM004858	TTC-TCC	Phe565Ser	1694T>C	F565S	Leber congenital amaurosis	Perrault (1996) Nat Genet 14:461	PubMed 8944027
+CM994058	aTTC-GTC	Phe565Val	1693T>G	F565V	Leber congenital amaurosis	Dharmaraj (1999) GUCY2D LSDB entry Meeting abstract:	Source: LSDB
+CM057709	tATC-GTC	Ile573Val	1717A>G	I573V	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM119880	cCGC-TGC	Arg574Cys	1720C>T	R574C	Usher syndrome	Song (2011) Invest Ophthalmol Vis Sci 52:9053	PubMed 22025579
+CM023932	CCA-CTA	Pro575Leu	1724C>T	P575L	Leber congenital amaurosis	Koenekoop (2002) Arch Ophthalmol 120:1325	PubMed 12365911
+HM0714	CTC-CGC	Leu587Arg	1760T>G	L587R	Retinitis pigmentosa	Avila-Fernandez (2007) Hum Genet 121:650 Source:	Online submission
+CM078223	cCGG-TGG	Arg588Trp	1762C>T	R588W	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM102311	gGAC-TAC	Asp639Tyr	1915G>T	D639Y	Leber congenital amaurosis	Peshenko (2010) Biochemistry 49:709	PubMed 20050595
+CM116139	TGG-TTG	Trp640Leu	1919G>T	W640L	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM057707	gGGA-AGA	Gly653Arg	1957G>A	G653R	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM004761	CGA-CAA	Arg660Gln	1979G>A	R660Q	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM116137	tCGA-GGA	Arg660Gly	1978C>G	R660G	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM004762	tCGA-TGA	Arg660Term	1978C>T	R660X	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM994059	tCCC-TCC	Pro701Ser	2101C>T	P701S	Leber congenital amaurosis	Dharmaraj (2000) Ophthalmic Genet 21:135	PubMed 11035546
+CM078224	gTGG-CGG	Trp708Arg	2122T>C	W708R	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM116134	cGAC-AAC	Asp728Asn	2182G>A	D728N	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM078225	ATC-ACC	Ile734Thr	2201T>C	I734T	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM004763	TAT-TGT	Tyr746Cys	2237A>G	Y746C	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM057705	gGAG-TAG	Glu750Term	2248G>T	E750X	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM111846	CGG-CAG	Arg768Gln	2303G>A	R768Q	Leber congenital amaurosis	Wiszniewski (2011) Hum Genet 129:319	PubMed 21153841
+CM004764	tCGG-TGG	Arg768Trp	2302C>T	R768W	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM004780	cATG-TTG	Met773Leu	2317A>T	M773L	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM067679	CTC-CAC	Leu782His	2345T>A	L782H	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM113125	ATG-AGG	Met784Arg	2351T>G	M784R	Leber congenital amaurosis	Li (2011) PLoS One 6:e19458	PubMed 21602930
+CM074268	CGG-CAG	Arg795Gln	2384G>A	R795Q	Leber congenital amaurosis	Simonelli (2007) Invest Ophthalmol Vis Sci 48:4284	PubMed 17724218
+CM057702	CGG-CTG	Arg795Leu	2384G>T	R795L	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM108136	tCGG-TGG	Arg795Trp	2383C>T	R795W	Leber congenital amaurosis	Pasadhika (2010) Invest Ophthalmol Vis Sci 51:2608	PubMed 19959640
+CM076223	ATC-AGC	Ile816Ser	2447T>G	I816S	Leber congenital amaurosis	Rezaie (2007) Ophthalmic Genet 28:224	PubMed 18161624
+CM078226	CGG-CCG	Arg822Pro	2465G>C	R822P	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM980958	GAGc-GAC	Glu837Asp	2511G>C	E837D	Cone-rod dystrophy	Kelsell (1998) Hum Mol Genet 7:1179	PubMed 9618177
+CM980959	gCGC-TGC	Arg838Cys	2512C>T	R838C	Cone-rod dystrophy	Kelsell (1998) Hum Mol Genet 7:1179	PubMed 9618177
+CM085456	gCGC-GGC	Arg838Gly	2512C>G	R838G	Cone-rod degeneration, autosomal dominant	Kitiratschky (2008) Invest Ophthalmol Vis Sci 49:5015	PubMed 18487367
+CM012606	CGC-CAC	Arg838His	2513G>A	R838H	Leber congenital amaurosis	Payne (2001) J Med Genet 38:611	PubMed 11565546
+HM080086	CGC-CCC	Arg838Pro	2513G>C	R838P	Leber congenital amaurosis	Auz-Alexandre (2009) Hum Genet 125:349 Source:	Online submission
+CM012607	gCGC-AGC	Arg838Ser	2512C>A	R838S	Leber congenital amaurosis	Payne (2001) J Med Genet 38:611	PubMed 11565546
+CM095575	cACG-GCG	Thr839Ala	2515A>G	T839A	Leber congenital amaurosis	Sundaresan (2009) Mol Vis 15:1781	PubMed 19753312
+CM983669	ACG-ATG	Thr839Met	2516C>T	T839M	Cone-rod dystrophy	Perrault (1998) Am J Hum Genet 63:651	PubMed 9683616
+CM992897	aCAG-TAG	Gln855Term	2563C>T	Q855X	Leber congenital amaurosis	El-Shanti (1999) J Med Genet 36:862	PubMed 10636733
+CM004554	gCCT-TCT	Pro858Ser	2572C>T	P858S	Leber congenital amaurosis	Dharmaraj (2000) Ophthalmic Genet 21:135	PubMed 11035546
+CM107003	AAGa-AAC	Lys866Asn	2598G>C	K866N	Leber congenital amaurosis	Coppieters (2010) Hum Mutat 31:1097	PubMed 20683928
+CM111845	cATC-GTC	Ile915Val	2743A>G	I915V	Leber congenital amaurosis	Wiszniewski (2011) Hum Genet 129:319	PubMed 21153841
+CM078227	gGAC-TAC	Asp929Tyr	2785G>T	D929Y	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM040750	gGCC-CCC	Ala934Pro	2800G>C	A934P	Leber congenital amaurosis	Hanein (2004) Hum Mutat 23:306	PubMed 15024725
+CM061057	GCG-GTG	Ala946Val	2837C>T	A946V	Leber congenital amaurosis	Yzer (2006) Invest Ophthalmol Vis Sci 47:1167	PubMed 16505055
+CM106122	ATC-ACC	Ile949Thr	2846T>C	I949T	Cone-rod dystrophy Ugur	Iseri (2010) Eur J Hum Genet 18:1121	PubMed 20517349
+CM057704	GCC-GTC	Ala950Val	2849C>T	A950V	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM994060	CTG-CCG	Leu954Pro	2861T>C	L954P	Leber congenital amaurosis	Koenekoop (2002) Arch Ophthalmol 120:1325	PubMed 12365911
+CM002038	CGC-CTC	Arg976Leu	2927G>T	R976L	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM078228	CAC-CTC	His980Leu	2939A>T	H980L	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM056595	TGC-TAC	Cys984Tyr	2951G>A	C984Y	Leber congenital amaurosis	Galvin (2005) Retina 25:919	PubMed 16205573
+CM002039	gCGG-TGG	Arg995Trp	2983C>T	R995W	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM078229	TTT-TCT	Phe999Ser	2996T>C	F999S	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM078230	TCG-TTG	Ser1007Leu	3020C>T	S1007L	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524
+CM002040	cATG-CTG	Met1009Leu	3025A>C	M1009L	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM002782	CAC-CCC	His1019Pro	3056A>C	H1019P	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM057701	cCGT-AGT	Arg1029Ser	3085C>A	R1029S	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM057700	CAGg-CAT	Gln1036His	3108G>T	Q1036H	Leber congenital amaurosis	Zernant (2005) Invest Ophthalmol Vis Sci 46:3052	PubMed 16123401
+CM002041	cCAG-TAG	Gln1036Term	3106C>T	Q1036X	Leber congenital amaurosis	Perrault (2000) Eur J Hum Genet 8:578	PubMed 10951519
+CM004765	gCGA-GGA	Arg1040Gly	3118C>G	R1040G	Leber congenital amaurosis	Lotery (2000) Arch Ophthalmol 118:538	PubMed 10766140
+CM040751	gCGA-TGA	Arg1040Term	3118C>T	R1040X	Leber congenital amaurosis	Hanein (2004) Hum Mutat 23:306	PubMed 15024725
+CM078231	gCGA-TGA	Arg1091Term	3271C>T	R1091X	Leber congenital amaurosis	Stone (2007) Am J Ophthalmol 144:791	PubMed 17964524

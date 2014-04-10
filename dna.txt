@@ -1,0 +1,9 @@
+#You should omot this
+#This is the programing problem ok guys
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac
+gctagctacggctacgagcatcgatctac

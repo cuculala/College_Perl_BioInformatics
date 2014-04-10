@@ -1,0 +1,119 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM105274	gGCT-TCT	Ala48Ser	142G>T	A48S	IgA nephropathy	Schmitt (2010) Eur J Pediatr 170:107	PubMed 20734203
+CM104001	cCGC-TGC	Arg53Cys	157C>T	R53C	Haemolytic uraemic syndrome, atypical	Fakhouri (2010) J Am Soc Nephrol 21:859	PubMed 20203157
+CM070669	CGC-CAC	Arg53His	158G>A	R53H	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM062505	tATA-GTA	Ile62Val	184A>G	I62V	Membranoproliferative glomerulonephritis, association	Abrera-Abeleda (2006) J Med Genet 43:582	PubMed 16299065
+CM034427	aAGG-GGG	Arg78Gly	232A>G	R78G	Haemolytic uraemic syndrome	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM104002	CAG-CCG	Gln81Pro	242A>C	Q81P	Haemolytic uraemic syndrome, atypical	Fakhouri (2010) J Am Soc Nephrol 21:859	PubMed 20203157
+CM087105	CGT-CAT	Arg127His	380G>A	R127H	Factor H deficiency	Falcão (2008) Scand J Immunol 68:445	PubMed 18782275
+CM044589	CGT-CTT	Arg127Leu	380G>T	R127L	Membranoproliferative glomerulonephritis	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM118350	aTGG-CGG	Trp134Arg	400T>C	W134R	Haemolytic uraemic syndrome, atypical	Kim (2011) Pediatr Nephrol 26:2073	PubMed 21717289
+CM094717	tCCT-TCT	Pro139Ser	415C>T	P139S	Glomerulonephritis	Schejbel (2009) Mol Immunol 46:2821 PubMed: No	PubMed ID
+CM076091	tGCA-TCA	Ala161Ser	481G>T	A161S	Haemolytic uraemic syndrome, atypical	Sellier-Leclerc (2007) J Am Soc Nephrol 18:2392	PubMed 17599974
+CM004611	aGAA-TAA	Glu189Term	565G>T	E189X	Factor H deficiency	Sanchez-Corral (2000) Immunogenetics 51:366	PubMed 10803850
+CM103999	GGA-GAA	Gly218Glu	653G>A	G218E	Haemolytic uraemic syndrome, atypical	Fakhouri (2010) J Am Soc Nephrol 21:859	PubMed 20203157
+CM070668	CCG-CTG	Pro258Leu	773C>T	P258L	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM086802	CGG-CAG	Arg303Gln	908G>A	R303Q	Hemolysis, elevated liver enzymes & low platelet count	Fakhouri (2008) Blood 112:4542	PubMed 18658028
+CM057396	GCCa-GCA	Ala307Ala	921C>A	A307A	Macular degeneration, age-related, association with	Hageman (2005) Proc Natl Acad Sci U S A 102:7227	PubMed 15870199
+CM103319	TGT-TAT	Cys325Tyr	974G>A	C325Y	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM104000	CGT-CAT	Arg341His	1022G>A	R341H	Haemolytic uraemic syndrome, atypical	Fakhouri (2010) J Am Soc Nephrol 21:859	PubMed 20203157
+CM111064	TAT-TCT	Tyr355Ser	1064A>C	Y355S	Haemolytic uraemic syndrome, atypical	Jung (2011) J Clin Apher 26:162	PubMed 21322001
+CM044591	tCAA-AAA	Gln400Lys	1198C>A	Q400K	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM051020	tTAT-CAT	Tyr402His	1204T>C	Y402H	Macular degeneration, age-related, association with	Haines (2005) Science 308:419	PubMed 15761120
+CM080139	aCAG-TAG	Gln408Term	1222C>T	Q408X	Drusen, basal laminar	Boon (2008) Am J Hum Genet 82:516	PubMed 18252232
+CM044587	aTGT-AGT	Cys431Ser	1291T>A	C431S	Membranoproliferative glomerulonephritis	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM070674	TGT-TAT	Cys431Tyr	1292G>A	C431Y	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM062504	GCGa-GCA	Ala473Ala	1419G>A	A473A	Membranoproliferative glomerulonephritis, association	Abrera-Abeleda (2006) J Med Genet 43:582	PubMed 16299065
+CM0910781	TAT-TCT	Tyr475Ser	1424A>C	Y475S	Haemolytic uraemic syndrome, atypical	Nürnberger (2009) N Engl J Med 360:542	PubMed 19179328
+CM087188	AATg-AAA	Asn516Lys	1548T>A	N516K	Thrombotic microangiopathy following transplantation Le	Quintrec (2008) Am J Transplant 8:1694	PubMed 18557729
+CM970724	aTGC-CGC	Cys536Arg	1606T>C	C536R	Factor H deficiency	Ault (1997) J Biol Chem 272:25168	PubMed 9312129
+CM080138	aAGA-GGA	Arg567Gly	1699A>G	R567G	Drusen, basal laminar	Boon (2008) Am J Hum Genet 82:516	PubMed 18252232
+CM103998	gAAA-TAA	Lys584Term	1750A>T	K584X	Haemolytic uraemic syndrome, atypical	Fakhouri (2010) J Am Soc Nephrol 21:859	PubMed 20203157
+CM112074	cTGC-CGC	Cys597Arg	1789T>C	C597R	Factor H deficiency	Servais (2011) Hum Pathol epub:epub	PubMed 21396679
+CM103320	cGTT-ATT	Val609Ile	1825G>A	V609I	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM1111059	TGC-TAC	Cys611Tyr	1832G>A	C611Y	Haemolytic uraemic syndrome, atypical	Tschumi (2011) Pediatr Nephrol 26:2085	PubMed 21877169
+CM060894	cCCA-ACA	Pro621Thr	1861C>A	P621T	Haemolytic uraemic syndrome, atypical	Vaziri-Sani (2006) Kidney Int 69:981	PubMed 16528247
+CM105847	TGT-TCT	Cys623Ser	1868G>C	C623S	Haemolytic uraemic syndrome, atypical	Sallée (2010) Nephrol Dial Transplant 25:2028	PubMed 20305136
+CM103321	aGAG-TAG	Glu625Term	1873G>T	E625X	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM032259	TGTg-TGG	Cys630Trp	1890T>G	C630W	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM076090	GAAc-GAT	Glu635Asp	1905A>T	E635D	Haemolytic uraemic syndrome, atypical	Sellier-Leclerc (2007) J Am Soc Nephrol 18:2392	PubMed 17599974
+CM071594	GGA-GTA	Gly650Val	1949G>T	G650V	Membranoproliferative glomerulonephritis	Servais (2007) J Med Genet 44:193	PubMed 17018561
+CM033783	CAAt-CAG	Gln672Gln	2016A>G	Q672Q	Haemolytic uraemic syndrome, association with	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM044593	TGT-TCT	Cys673Ser	2018G>C	C673S	Membranoproliferative glomerulonephritis	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM044592	TGT-TAT	Cys673Tyr	2018G>A	C673Y	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM032260	TCA-TGA	Ser714Term	2141C>G	S714X	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM045280	aGTA-CTA	Val835Leu	2503G>C	V835L	Factor H deficiency	Zipfel (2004) CFH LSDB entry .:.	Source: LSDB
+CM032261	aGAA-AAA	Glu850Lys	2548G>A	E850K	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM107435	aTGC-CGC	Cys853Arg	2557T>C	C853R	Haemolytic uraemic syndrome, atypical	Hakobyan (2010) Kidney Int 78:782	PubMed 20703214
+CM081552	aTGT-CGT	Cys870Arg	2608T>C	C870R	Haemolytic uraemic syndrome, atypical	Stahl (2008) Blood 111:5307	PubMed 18268093
+CM070667	cATT-CTT	Ile881Leu	2641A>C	I881L	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM055120	AGT-ATT	Ser890Ile	2669G>T	S890I	Factor H deficiency	Noris (2005) J Am Soc Nephrol 16:1177	PubMed 15800115
+CM044588	CAT-CGT	His893Arg	2678A>G	H893R	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM102097	tTAT-GAT	Tyr899Asp	2695T>G	Y899D	Factor H deficiency	Johnson (2010) Mol Immunol 47:1585	PubMed 20304497
+CM044590	TATa-TAA	Tyr899Term	2697T>A	Y899X	Haemolytic uraemic syndrome	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM044586	aTGC-AGC	Cys915Ser	2743T>A	C915S	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM103322	TGCt-TGA	Cys915Term	2745C>A	C915X	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM109436	aTGG-CGG	Trp920Arg	2758T>C	W920R	Haemolytic uraemic syndrome, atypical	Noris (2010) Clin J Am Soc Nephrol 5:1844	PubMed 20595690
+CM044863	tCAG-TAG	Gln925Term	2773C>T	Q925X	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM068688	TGT-TTT	Cys926Phe	2777G>T	C926F	Haemolytic uraemic syndrome, atypical	Kavanagh (2006) Br Med Bull 77-78:5	PubMed 16968692
+CM033784	GAGa-GAT	Glu936Asp	2808G>T	E936D	Haemolytic uraemic syndrome, association with	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM034428	CAGt-CAT	Gln950His	2850G>T	Q950H	Haemolytic uraemic syndrome	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM034429	gTAT-CAT	Tyr951His	2851T>C	Y951H	Haemolytic uraemic syndrome	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM010316	ACG-ATG	Thr956Met	2867C>T	T956M	Factor H deficiency	Perez-Caballero (2001) Am J Hum Genet 68:478	PubMed 11170895
+CM970725	TGT-TAT	Cys959Tyr	2876G>A	C959Y	Factor H deficiency	Ault (1997) J Biol Chem 272:25168	PubMed 9312129
+CM062503	aATT-GTT	Ile970Val	2908A>G	I970V	Haemolytic uraemic syndrome	Caprioli (2006) Blood 108:1267	PubMed 16621965
+CM045282	TGC-TAC	Cys973Tyr	2918G>A	C973Y	Factor H deficiency	Goodship (2006) Am J Transplant 6:1948	PubMed 16889549
+CM032262	TGGt-TGT	Trp978Cys	2934G>T	W978C	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM045279	aACA-GCA	Thr987Ala	2959A>G	T987A	Factor H deficiency	Zipfel (2004) CFH LSDB entry .:.	Source: LSDB
+CM070675	tGTG-TTG	Val1007Leu	3019G>T	V1007L	Haemolytic uraemic syndrome No author	listed (2007) CFH LSDB entry .:.	Source: LSDB
+CM032263	TAT-TTT	Tyr1021Phe	3062A>T	Y1021F	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM032264	aTGC-CGC	Cys1043Arg	3127T>C	C1043R	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM050548	gAAT-TAT	Asn1050Tyr	3148A>T	N1050Y	Haemolytic uraemic syndrome	Esparza-Gordillo (2005) Hum Mol Genet 14:703	PubMed 15661753
+CM045281	GTG-GCG	Val1060Ala	3179T>C	V1060A	Factor H deficiency No author	listed (2004) CFH LSDB entry .:.	Source: LSDB
+CM055921	gTCG-CCG	Ser1061Pro	3181T>C	S1061P	Haemolytic uraemic syndrome, atypical	Guigonis (2005) Am J Kidney Dis 45:588	PubMed 15754282
+CM010317	tCAA-GAA	Gln1076Glu	3226C>G	Q1076E	Factor H deficiency	Richards (2001) Am J Hum Genet 68:485	PubMed 11170896
+CM072948	TGTa-TGG	Cys1077Trp	3231T>G	C1077W	Haemolytic uraemic syndrome	Cho (2007) Pediatr Nephrol 22:874	PubMed 17295030
+CM080140	AGGa-AGT	Arg1078Ser	3234G>T	R1078S	Drusen, basal laminar	Boon (2008) Am J Hum Genet 82:516	PubMed 18252232
+CM010318	GAC-GGC	Asp1119Gly	3356A>G	D1119G	Factor H deficiency	Richards (2001) Am J Hum Genet 68:485	PubMed 11170896
+CM032265	GTT-GGT	Val1134Gly	3401T>G	V1134G	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM109986	GAGt-GAC	Glu1135Asp	3405G>C	E1135D	Haemolytic uraemic syndrome	Sullivan (2010) Ann Hum Genet 74:17	PubMed 20059470
+CM108960	CAA-CTA	Gln1137Leu	3410A>T	Q1137L	Haemolytic uraemic syndrome, atypical	Noris (2010) Clin J Am Soc Nephrol 5:1844	PubMed 20595690
+CM072947	cCAG-TAG	Gln1139Term	3415C>T	Q1139X	Haemolytic uraemic syndrome	Cho (2007) Pediatr Nephrol 22:874	PubMed 17295030
+CM032266	gTAT-GAT	Tyr1142Asp	3424T>G	Y1142D	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM070671	TAT-TGT	Tyr1142Cys	3425A>G	Y1142C	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM032267	aTGG-CGG	Trp1157Arg	3469T>C	W1157R	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM120688	CCA-CAA	Pro1161Gln	3482C>A	P1161Q	Stargardt disease	Audo (2012) Orphanet J Rare Dis 7:	PubMed 22277662
+CM034430	TGCt-TGG	Cys1163Trp	3489C>G	C1163W	Haemolytic uraemic syndrome	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM081553	GTA-GAA	Val1168Glu	3503T>A	V1168E	Haemolytic uraemic syndrome, atypical	Stahl (2008) Blood 111:5307	PubMed 18268093
+CM103323	aATA-CTA	Ile1169Leu	3505A>C	I1169L	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM030885	aGAA-TAA	Glu1172Term	3514G>T	E1172X	Haemolytic uraemic syndrome	Manuelian (2003) J Clin Invest 111:1181	PubMed 12697737
+CM070666	AGGt-AGC	Arg1182Ser	3546G>C	R1182S	Haemolytic uraemic syndrome	Jokiranta (2006) EMBO J 25:1784	PubMed 16601698
+CM115281	AGGt-AGT	Arg1182Ser	3546G>T	R1182S	Haemolytic uraemic syndrome, atypical	Sullivan (2010) Ann Hum Genet 74:17	PubMed 20059470
+CM023084	gTGG-AGG	Trp1183Arg	3547T>A	W1183R	Factor H deficiency	Remuzzi (2002) Lancet 359:1671	PubMed 12020532
+CM032268	gTGG-CGG	Trp1183Arg	3547T>C	W1183R	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213
+CM103324	TGGa-TGT	Trp1183Cys	3549G>T	W1183C	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM010319	TGG-TTG	Trp1183Leu	3548G>T	W1183L	Factor H deficiency	Perez-Caballero (2001) Am J Hum Genet 68:478	PubMed 11170895
+CM070673	TGGa-TGA	Trp1183Term	3549G>A	W1183X	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM114095	gACA-GCA	Thr1184Ala	3550A>G	T1184A	Haemolytic uraemic syndrome, atypical	Wilson (2011) Am J Kidney Dis epub:epub	PubMed 21601332
+CM010320	ACA-AGA	Thr1184Arg	3551C>G	T1184R	Factor H deficiency	Richards (2001) Am J Hum Genet 68:485	PubMed 11170896
+CM087189	AAA-ACA	Lys1186Thr	3557A>C	K1186T	Thrombotic microangiopathy following transplantation Le	Quintrec (2008) Am J Transplant 8:1694	PubMed 18557729
+CM010321	CTT-CGT	Leu1189Arg	3566T>G	L1189R	Factor H deficiency	Perez-Caballero (2001) Am J Hum Genet 68:478	PubMed 11170895
+CM050193	gCTT-TTT	Leu1189Phe	3565C>T	L1189F	Haemolytic uraemic syndrome, atypical Rodriguez de	Cordoba (2004) Mol Immunol 41:355	PubMed 15163532
+CM993344	TCG-TTG	Ser1191Leu	3572C>T	S1191L	Haemolytic uraemic syndrome, atypical	Ying (1999) Am J Hum Genet 65:1538	PubMed 10577907
+CM050194	TCG-TGG	Ser1191Trp	3572C>G	S1191W	Haemolytic uraemic syndrome, atypical Rodriguez de	Cordoba (2004) Mol Immunol 41:355	PubMed 15163532
+CM024597	GGT-GAT	Gly1194Asp	3581G>A	G1194D	Haemolytic uraemic syndrome	Perkins (2002) J Mol Biol 316:217	PubMed 11851332
+CM103325	tGAA-TAA	Glu1195Term	3583G>T	E1195X	Haemolytic uraemic syndrome, atypical	Maga (2010) Hum Mutat 31:E1445	PubMed 20513133
+CM010322	GTT-GCT	Val1197Ala	3590T>C	V1197A	Factor H deficiency	Richards (2001) Am J Hum Genet 68:485	PubMed 11170896
+CM034431	GAA-GCA	Glu1198Ala	3593A>C	E1198A	Haemolytic uraemic syndrome	Caprioli (2003) Hum Mol Genet 12:3385	PubMed 14583443
+CM060895	tGAA-AAA	Glu1198Lys	3592G>A	E1198K	Haemolytic uraemic syndrome, atypical	Vaziri-Sani (2006) Kidney Int 69:981	PubMed 16528247
+CM070672	tGAA-TAA	Glu1198Term	3592G>T	E1198X	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM044594	TTT-TCT	Phe1199Ser	3596T>C	F1199S	Haemolytic uraemic syndrome, atypical	Dragon-Durey (2004) J Am Soc Nephrol 15:787	PubMed 14978182
+CM109437	tGTG-TTG	Val1200Leu	3598G>T	V1200L	Haemolytic uraemic syndrome, atypical	Noris (2010) Clin J Am Soc Nephrol 5:1844	PubMed 20595690
+CM100538	aCGG-TGG	Arg1203Trp	3607C>T	R1203W	Haemolytic uraemic syndrome, atypical	Westra (2010) Nephrol Dial Transplant 25:2195	PubMed 20106822
+CM070670	GGA-GAA	Gly1204Glu	3611G>A	G1204E	Haemolytic uraemic syndrome	Saunders (2007) Hum Mutat 28:222	PubMed 17089378
+CM100539	tCGT-TGT	Arg1206Cys	3616C>T	R1206C	Haemolytic uraemic syndrome, atypical	Westra (2010) Nephrol Dial Transplant 25:2195	PubMed 20106822
+CM010323	aCGT-TGT	Arg1210Cys	3628C>T	R1210C	Factor H deficiency	Perez-Caballero (2001) Am J Hum Genet 68:478	PubMed 11170895
+CM015314	CGA-CAA	Arg1215Gln	3644G>A	R1215Q	Haemolytic uraemic syndrome	Caprioli (2001) J Am Soc Nephrol 12:297	PubMed 11158219
+CM010324	gCGA-GGA	Arg1215Gly	3643C>G	R1215G	Factor H deficiency	Warwicker (1998) Kidney Int 53:836	PubMed 9551389
+CM107436	aTGT-CGT	Cys1218Arg	3652T>C	C1218R	Haemolytic uraemic syndrome, atypical	Hakobyan (2010) Kidney Int 78:782	PubMed 20703214
+CM032269	tCCA-TCA	Pro1226Ser	3676C>T	P1226S	Haemolytic uraemic syndrome, atypical	Neumann (2003) J Med Genet 40:676	PubMed 12960213

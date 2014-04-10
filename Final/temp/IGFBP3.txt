@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM057457	GGG-GCG	Gly32Ala	95G>C	G32A	Colorectal cancer, association with Le	Marchand (2005) Cancer Epidemiol Biomarkers Prev 14:1319	PubMed 15894694

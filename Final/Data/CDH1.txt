@@ -1,0 +1,53 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM112613	ATGg-ATA	Met1Ile	3G>A	M1I	Gastric cancer	Pandalai (2011) Surgery 149:347	PubMed 20719348
+CM052835	ATGg-ATC	Met1Ile	3G>C	M1I	Gastric cancer	Suriano (2005) Clin Cancer Res 11:5401	PubMed 16061854
+CM104405	ATG-ACG	Met1Thr	2T>C	M1T	Gastric cancer	Guilford (2010) Gastric Cancer 13:1	PubMed 20373070
+CM110009	CCT-CGT	Pro3Arg	8C>G	P3R	Breast cancer	Schrader (2011) J Med Genet 48:64	PubMed 20921021
+CM990354	TGG-TAG	Trp20Term	59G>A	W20X	Gastric cancer	Richards (1999) Hum Mol Genet 8:607	PubMed 10072428
+CM990355	gGAG-TAG	Glu24Term	70G>T	E24X	Gastric cancer	Guilford (1999) Hum Mutat 14:249	PubMed 10477433
+CM994191	GGT-GTT	Gly62Val	185G>T	G62V	Gastric cancer	Shinmura (1999) Carcinogenesis 20:1127	PubMed 10357799
+CM980317	tCGA-TGA	Arg63Term	187C>T	R63X	Gastric cancer	Gayther (1998) Cancer Res 58:4086	PubMed 9751616
+CM990356	aCAA-TAA	Gln64Term	190C>T	Q64X	Gastric cancer	Guilford (1999) Hum Mutat 14:249	PubMed 10477433
+CM014037	aCAG-TAG	Gln95Term	283C>T	Q95X	Gastric cancer	Dassaulx-Garin (2001) Eur J Gastroenterol Hepatol 13:711	PubMed 11434599
+CM065994	ACA-AGA	Thr118Arg	353C>G	T118R	Gastric cancer	Suriano (2006) J Mol Med 84:1023	PubMed 16924464
+CM104385	TGG-TAG	Trp156Term	467G>A	W156X	Breast and/or ovarian cancer	Walsh (2010) Proc Natl Acad Sci U S A 107:12629	PubMed 20616022
+CM119160	TGCc-TGA	Cys163Term	489C>A	C163X	Gastric cancer	Kluijt (2011) Int J Cancer epub:epub	PubMed 22020549
+CM016194	CCT-CGT	Pro172Arg	515C>G	P172R	Gastric cancer, susceptibility to	Avizienyte (2001) J Med Genet 38:49	PubMed 11332401
+CM990357	aGGA-TGA	Gly196Term	586G>T	G196X	Gastric cancer	Guilford (1999) Hum Mutat 14:249	PubMed 10477433
+CM065995	CTG-CCG	Leu214Pro	641T>C	L214P	Gastric cancer	Suriano (2006) J Mol Med 84:1023	PubMed 16924464
+CM070661	cGGG-AGG	Gly239Arg	715G>A	G239R	Gastric cancer	Suriano (2006) J Mol Med 84:1023	PubMed 16924464
+CM994346	GAT-GGT	Asp244Gly	731A>G	D244G	Gastric cancer	Yoon (1999) J Hum Genet 44:177	PubMed 10319582
+CM014330	gTCT-GCT	Ser270Ala	808T>G	S270A	Prostate cancer	Ikonen (2001) Clin Cancer Res 7:3465	PubMed 11705864
+CM123531	aGGT-AGT	Gly274Ser	820G>A	G274S	Gastric cancer	Garziera (2012) Clin Exp Med :	PubMed 22543498
+CM015108	aGGA-AGA	Gly278Arg	832G>A	G278R	Gastric cancer	Pharoah (2001) Gastroenterology 121:1348	PubMed 11729114
+CM041745	tGCC-ACC	Ala298Thr	892G>A	A298T	Gastric cancer	Brooks-Wilson (2004) J Med Genet 41:508	PubMed 15235021
+CM022775	cCGA-TGA	Arg335Term	1003C>T	R335X	Gastric cancer	Jonsson (2002) Int J Cancer 98:838	PubMed 11948460
+CM020926	tACG-GCG	Thr340Ala	1018A>G	T340A	Gastric cancer	Oliveira (2002) Hum Mutat 19:510	PubMed 11968083
+CM104406	TATa-TAG	Tyr341Term	1023T>G	Y341X	Gastric cancer	Guilford (2010) Gastric Cancer 13:1	PubMed 20373070
+CM072928	CCG-CTG	Pro373Leu	1118C>T	P373L	Gastric cancer	Roviello (2007) Eur J Surg Oncol 33:448	PubMed 17126523
+CM095624	gAAA-TAA	Lys397Term	1189A>T	K397X	Gastric cancer	Hebbard (2009) Ann Surg Oncol 16:1890	PubMed 19408054
+CM110010	GCG-GTG	Ala408Val	1223C>T	A408V	Breast cancer	Schrader (2011) J Med Genet 48:64	PubMed 20921021
+CM041746	gTGG-CGG	Trp409Arg	1225T>C	W409R	Gastric cancer	Brooks-Wilson (2004) J Med Genet 41:508	PubMed 15235021
+CM032214	cATA-CTA	Ile415Leu	1243A>C	I415L	Gastric cancer	Wang (2003) Jpn J Clin Oncol 33:17	PubMed 12604719
+CM052836	tCCA-TCA	Pro429Ser	1285C>T	P429S	Gastric cancer	Suriano (2005) Clin Cancer Res 11:5401	PubMed 16061854
+CM110011	cGAT-AAT	Asp433Asn	1297G>A	D433N	Breast cancer	Schrader (2011) J Med Genet 48:64	PubMed 20921021
+CM994347	GTG-GCG	Val487Ala	1460T>C	V487A	Gastric cancer	Yoon (1999) J Hum Genet 44:177	PubMed 10319582
+CM044862	cCAG-TAG	Gln503Term	1507C>T	Q503X	Gastric cancer	Jiang (2004) Zhonghua Wai Ke Za Zhi 42:914	PubMed 15363252
+CM119161	CTG-CGG	Leu583Arg	1748T>G	L583R	Gastric cancer	Kluijt (2011) Int J Cancer epub:epub	PubMed 22020549
+CM994192	cGCC-ACC	Ala592Thr	1774G>A	A592T	Breast cancer	Schmutzler (1999) Dis Markers 15:123 PubMed: No	PubMed ID
+CM980318	tCGA-TGA	Arg598Term	1792C>T	R598X	Gastric cancer	Gayther (1998) Cancer Res 58:4086	PubMed 9751616
+CM072927	aACT-TCT	Thr599Ser	1795A>T	T599S	Gastric cancer	Kaurah (2007) JAMA 297:2360	PubMed 17545690
+CM034216	tGCA-ACA	Ala617Thr	1849G>A	A617T	Gastric cancer	Ascano (2001) Mod Pathol 14:942	PubMed 11598162
+CM034950	cTTC-GTC	Phe626Val	1876T>G	F626V	Breast cancer	Sarrio (2003) Int J Cancer 106:208	PubMed 12800196
+CM034217	GCG-GTG	Ala634Val	1901C>T	A634V	Gastric cancer	Suriano (2003) Hum Mol Genet 12:575	PubMed 12588804
+CM072931	TGG-TAG	Trp638Term	1913G>A	W638X	Gastric cancer	Kaurah (2007) JAMA 297:2360	PubMed 17545690
+CM980319	aCAG-TAG	Gln699Term	2095C>T	Q699X	Gastric cancer	Guilford (1998) Nature 392:402	PubMed 9537325
+CM041747	CGG-CAG	Arg732Gln	2195G>A	R732Q	Gastric cancer	Brooks-Wilson (2004) J Med Genet 41:508	PubMed 15235021
+CM072929	cCGG-TGG	Arg749Trp	2245C>T	R749W	Gastric cancer	Kaurah (2007) JAMA 297:2360	PubMed 17545690
+CM093542	tGAA-AAA	Glu757Lys	2269G>A	E757K	Gastric cancer	Oliveira (2009) Gastroenterology 136:2137	PubMed 19269290
+HM080069	aGGA-TGA	Gly759Term	2275G>T	G759X	Gastric cancer	Ghaffari (2009) Hum Genet 125:337 Source:	Online submission
+CM043989	aGAG-TAG	Glu763Term	2287G>T	E763X	Gastric cancer	Charlton (2004) Gut 53:814	PubMed 15138207
+CM022776	gGAC-AAC	Asp777Asn	2329G>A	D777N	Prostate cancer	Jonsson (2002) Int J Cancer 98:838	PubMed 11948460
+CM072930	GAAg-GAT	Glu781Asp	2343A>T	E781D	Gastric cancer	Kaurah (2007) JAMA 297:2360	PubMed 17545690
+CM041267	CCC-CGC	Pro799Arg	2396C>G	P799R	Gastric cancer	Keller (2004) J Med Genet 41:e89	PubMed 15173255
+CM023731	cGTG-ATG	Val832Met	2494G>A	V832M	Gastric cancer	Yabuta (2002) Int J Cancer 101:434	PubMed 12216071

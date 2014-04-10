@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067459	GAAa-GAG	Glu109Glu	327A>G	E109E	Lung cancer	Korosec (2006) Cancer Genet Cytogenet 171:105	PubMed 17116488
+CM067458	cATA-GTA	Ile1022Val	3064A>G	I1022V	Lung cancer	Korosec (2006) Cancer Genet Cytogenet 171:105	PubMed 17116488
+CM032396	ATGc-ATT	Met1023Ile	3069G>T	M1023I	Darier disease	Ikeda (2003) J Invest Dermatol 121:475	PubMed 12925202

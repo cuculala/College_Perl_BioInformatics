@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM098235	CCGc-CCT	Pro8Pro	24G>T	P8P	Alzheimer disease	Maruszak (2009) BMC Med Genet 10:115	PubMed 19909517

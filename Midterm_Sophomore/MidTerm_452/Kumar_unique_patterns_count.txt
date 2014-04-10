@@ -1,0 +1,13 @@
+PS00001|ASN_GLYCOSYLATION (pattern) N-glycosylation site 	302
+PS00004|CAMP_PHOSPHO_SITE (pattern) cAMP- and cGMP-dependent protein kinase phosphorylation site 	47
+PS00005|PKC_PHOSPHO_SITE (pattern) Protein kinase C phosphorylation site 	273
+PS00006|CK2_PHOSPHO_SITE (pattern) Casein kinase II phosphorylation site 	331
+PS00007|TYR_PHOSPHO_SITE (pattern) Tyrosine kinase phosphorylation site 	37
+PS00008|MYRISTYL (pattern) N-myristoylation site 	387
+PS00009|AMIDATION (pattern) Amidation site 	35
+PS00016|RGD (pattern) Cell attachment sequence 	38
+PS00017|ATP_GTP_A (pattern) ATP/GTP-binding site motif A (P-loop) 	14
+PS00342|MICROBODIES_CTER (pattern) Microbodies C-terminal targeting signal 	34
+PS50310|ALA_RICH (profile) Alanine-rich region profile 	2
+PS50321|ASN_RICH (profile) Asparagine-rich region profile 	1
+PS50324|SER_RICH (profile) Serine-rich region profile 	1

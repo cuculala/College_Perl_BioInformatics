@@ -1,0 +1,396 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM087365	ATGc-ATA	Met1Ile	3G>A	M1I	Breast cancer	Begg (2008) JAMA 299:194	PubMed 18182601
+CM033341	ATG-ACG	Met1Thr	2T>C	M1T	Ovarian cancer	Jakubowska (2003) Eur J Hum Genet 11:955	PubMed 14647210
+CM082514	tGGA-TGA	Gly4Term	10G>T	G4X	Breast and/or ovarian cancer	Konstantopoulou (2008) Breast Cancer Res Treat 107:431	PubMed 17453335
+CM065025	CGC-CAC	Arg18His	53G>A	R18H	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM093556	aGAT-TAT	Asp23Tyr	67G>T	D23Y	Breast and/or ovarian cancer	Al-Mulla (2009) J Clin Pathol 62:350	PubMed 19329713
+CM111973	TTAg-TTT	Leu24Phe	72A>T	L24F	Breast and/or ovarian cancer	Kuusisto (2011) Breast Cancer Res 13:	PubMed 21356067
+CM117858	TTA-TAA	Leu24Term	71T>A	L24X	Breast cancer	Muller (2011) BMC Med Genet 12:	PubMed 21939546
+CM074075	TGGt-TGA	Trp31Term	93G>A	W31X	Breast and/or ovarian cancer	Torres (2007) Breast Cancer Res Treat 103:225	PubMed 17080309
+CM980233	gTTT-CTT	Phe32Leu	94T>C	F32L	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM067653	tGAA-TAA	Glu33Term	97G>T	E33X	Breast and/or ovarian cancer	Capalbo (2006) Ann Oncol 17S7:vii34	PubMed 16760289
+CM062476	aGAA-TAA	Glu34Term	100G>T	E34X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM970178	TAT-TGT	Tyr42Cys	125A>G	Y42C	Breast cancer	Serova (1997) Am J Hum Genet 60:486	PubMed 9042907
+CM014326	tGAA-TAA	Glu45Term	133G>T	E45X	Breast and/or ovarian cancer	Schoumacher (2001) Swiss Med Wkly 131:223	PubMed 11400546
+CM011914	aGAA-TAA	Glu49Term	145G>T	E49X	Breast cancer	Bergthorsson (2001) J Med Genet 38:361	PubMed 11389159
+CM980234	AAA-AGA	Lys53Arg	158A>G	K53R	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM062481	TACg-TAG	Tyr57Term	171C>G	Y57X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM117859	cGAA-TAA	Glu58Term	172G>T	E58X	Breast cancer	Muller (2011) BMC Med Genet 12:	PubMed 21939546
+CM041729	ACT-ATT	Thr64Ile	191C>T	T64I	Breast and/or ovarian cancer	Hadjisavvas (2004) Cancer Genet Cytogenet 151:152	PubMed 15172753
+CM045535	gGCT-CCT	Ala75Pro	223G>C	A75P	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM113850	tTCA-CCA	Ser76Pro	226T>C	S76P	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM118433	aTTC-ATC	Phe81Ile	241T>A	F81I	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM980235	aTTC-CTC	Phe81Leu	241T>C	F81L	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM117860	cAAA-TAA	Lys82Term	244A>T	K82X	Breast cancer	Muller (2011) BMC Med Genet 12:	PubMed 21939546
+CM081541	gCAA-TAA	Gln84Term	250C>T	Q84X	Prostate cancer	Willems (2008) Clin Cancer Res 14:2953	PubMed 18445692
+CM117861	TACc-TAG	Tyr91Term	273C>G	Y91X	Breast cancer	Muller (2011) BMC Med Genet 12:	PubMed 21939546
+CM062477	aGAA-TAA	Glu97Term	289G>T	E97X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM040380	TTA-TGA	Leu105Term	314T>G	L105X	Breast cancer	Thiffault (2004) Br J Cancer 90:483	PubMed 14735197
+CM024725	CGC-CAC	Arg118His	353G>A	R118H	Oesophageal carcinoma	Hu (2002) Clin Cancer Res 8:1121	PubMed 11948123
+CM119490	TGTc-TGA	Cys132Term	396T>A	C132X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM1111060	CAA-CGA	Gln147Arg	440A>G	Q147R	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM062474	aCAA-TAA	Gln147Term	439C>T	Q147X	Breast and/or ovarian cancer	Infante (2006) J Hum Genet 51:611	PubMed 16758124
+CM065022	CAT-CGT	His150Arg	449A>G	H150R	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM077921	TGTg-TGG	Cys161Trp	483T>G	C161W	Breast and/or ovarian cancer	Ang (2007) Cancer Epidemiol Biomarkers Prev 16:2276	PubMed 18006916
+CM118434	AAG-AGG	Lys169Arg	506A>G	K169R	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM114778	GAT-GTT	Asp191Val	572A>T	D191V	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat epub:epub	PubMed 21671020
+CM021250	ATG-ACG	Met192Thr	575T>C	M192T	Pancreatic cancer	Murphy (2002) Cancer Res 62:3789	PubMed 12097290
+CM960192	TGG-TAG	Trp194Term	581G>A	W194X	Breast cancer	Couch (1996) Nat Genet 13:123	PubMed 8673091
+CM062473	ACA-ATA	Thr200Ile	599C>T	T200I	Breast and/or ovarian cancer	Maillet (2006) Cancer Genet Cytogenet 169:62	PubMed 16875939
+CM980236	CCA-CGA	Pro201Arg	602C>G	P201R	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM980237	GTC-GCC	Val211Ala	632T>C	V211A	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM118927	aGTC-ATC	Val211Ile	631G>A	V211I	Pancreatic adenocarcinoma	Lowery (2011) Oncologist 16:1397	PubMed 21934105
+CM980238	tCCT-TCT	Pro222Ser	664C>T	P222S	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM085287	GAT-GTT	Asp224Val	671A>T	D224V	Breast cancer	Evans (2008) Fam Cancer 7:113	PubMed 17636422
+CM042309	tACT-GCT	Thr225Ala	673A>G	T225A	Breast cancer	Sharp (2004) Hum Mutat 24:272	PubMed 15300854
+CM065038	tGAT-AAT	Asp244Asn	730G>A	D244N	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM057494	cGCT-ACT	Ala248Thr	742G>A	A248T	Breast cancer	Fackenthal (2005) J Med Genet 42:276	PubMed 15744044
+CM107505	tCAA-TAA	Gln258Term	772C>T	Q258X	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM110363	aAGA-TGA	Arg259Term	775A>T	R259X	Breast and/or ovarian cancer	Stegel (2011) BMC Med Genet 12:9	PubMed 21232165
+CM032200	TCA-TAA	Ser273Term	818C>A	S273X	Breast and/or ovarian cancer	Meyer (2003) Hum Mutat 22:259	PubMed 12938098
+CM118446	AATa-AAG	Asn277Lys	831T>G	N277K	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM1110640	tGAA-TAA	Glu294Term	880G>T	E294X	Ovarian cancer	Yang (2011) JAMA 306:1557	PubMed 21990299
+CM024726	aTGT-AGT	Cys315Ser	943T>A	C315S	Oesophageal carcinoma	Hu (2002) Clin Cancer Res 8:1121	PubMed 11948123
+CM062472	aAAA-TAA	Lys318Term	952A>T	K318X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM984124	aCAA-TAA	Gln321Term	961C>T	Q321X	Breast and/or ovarian cancer	Frank (1998) J Clin Oncol 16:2417	PubMed 9667259
+CM962766	aAAA-CAA	Lys322Gln	964A>C	K322Q	Liver cancer	Katagiri (1996) Cancer Res 56:4575	PubMed 8840963
+CM994736	AGCa-AGA	Ser326Arg	978C>A	S326R	Breast cancer	Sinilnikova (1999) Int J Cancer 83:325	PubMed 10399947
+CM994284	cAAG-GAG	Lys327Glu	979A>G	K327E	Breast and/or ovarian cancer	Wagner (1999) Hum Mol Genet 8:413	PubMed 9971877
+CM002750	aAAT-CAT	Asn372His	1114A>C	N372H	Breast cancer, association with	Healey (2000) Nat Genet 26:362	PubMed 11062481
+CM065030	gCCC-TCC	Pro375Ser	1123C>T	P375S	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM065036	TCC-TTC	Ser384Phe	1151C>T	S384F	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM021509	cAAG-TAG	Lys385Term	1153A>T	K385X	Breast and/or ovarian cancer de la	Hoya (2002) Int J Cancer 97:466	PubMed 11802208
+CM105154	tGAA-TAA	Glu394Term	1180G>T	E394X	Breast and/or ovarian cancer	Balabas (2010) Fam Cancer 9:267	PubMed 20383589
+CM065021	aTGG-GGG	Trp395Gly	1183T>G	W395G	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM1111061	ATG-ACG	Met408Thr	1223T>C	M408T	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM970179	TTG-TAG	Leu414Term	1241T>A	L414X	Breast cancer	Serova-Sinilnikova (1997) Am J Hum Genet 60:1236	PubMed 9150172
+CM099641	cCAA-TAA	Gln421Term	1261C>T	Q421X	Breast and/or ovarian cancer	Kwong (2009) Breast Cancer Res Treat 117:683	PubMed 19353265
+CM113840	TCA-TAA	Ser442Term	1325C>A	S442X	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM004188	GAA-GGA	Glu462Gly	1385A>G	E462G	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM085288	GTAa-GTT	Val465Val	1395A>T	V465V	Breast and/or ovarian cancer	Evans (2008) Fam Cancer 7:113	PubMed 17636422
+CM021955	tAAG-TAG	Lys467Term	1399A>T	K467X	Breast and/or ovarian cancer	Kang (2002) Hum Mutat 20:235	PubMed 12204006
+CM076036	tGAA-TAA	Glu475Term	1423G>T	E475X	Breast cancer	Machado (2007) J Clin Oncol 25:2027	PubMed 17513806
+CM067652	gGCT-ACT	Ala495Thr	1483G>A	A495T	Breast and/or ovarian cancer	Giannini (2006) Breast Cancer Res Treat 100:83	PubMed 16847550
+CM067651	CAG-CGG	Gln499Arg	1496A>G	Q499R	Breast and/or ovarian cancer	Giannini (2006) Breast Cancer Res Treat 100:83	PubMed 16847550
+CM010167	ATA-ACA	Ile505Thr	1514T>C	I505T	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM110364	aGAA-TAA	Glu510Term	1528G>T	E510X	Breast and/or ovarian cancer	Stegel (2011) BMC Med Genet 12:9	PubMed 21232165
+CM1111062	CAT-CGT	His523Arg	1568A>G	H523R	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM057322	aGAA-TAA	Glu532Term	1594G>T	E532X	Breast cancer	Eerola (2005) Breast Cancer Res 7:R93	PubMed 15642173
+CM087485	tGAA-AAA	Glu534Lys	1600G>A	E534K	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM980239	TGTc-TGG	Cys554Trp	1662T>G	C554W	Breast cancer, male	Ganguly (1998) Hum Genet 102:549	PubMed 9654203
+CM043454	TTA-TGA	Leu557Term	1670T>G	L557X	Breast and/or ovarian cancer	Sermijn (2004) J Med Genet 41:e23	PubMed 14985394
+CM043977	TGGc-TGA	Trp563Term	1689G>A	W563X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM033756	cACT-CCT	Thr582Pro	1744A>C	T582P	Breast cancer	Sakayori (2003) J Hum Genet 48:130	PubMed 12624724
+CM119488	TTG-TAG	Leu583Term	1748T>A	L583X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM086612	AAT-AGT	Asn588Ser	1763A>G	N588S	Breast cancer de	Juan (2009) Breast Cancer Res Treat 115:405	PubMed 18528753
+CM076038	tGAT-CAT	Asp596His	1786G>C	D596H	Breast cancer	Machado (2007) J Clin Oncol 25:2027	PubMed 17513806
+CM035689	aACA-GCA	Thr598Ala	1792A>G	T598A	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM043978	TCA-TAA	Ser611Term	1832C>A	S611X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM065039	TGT-TAT	Cys616Tyr	1847G>A	C616Y	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM066535	cCAG-TAG	Gln619Term	1855C>T	Q619X	Breast and/or ovarian cancer	Rashid (2006) Int J Cancer 119:2832	PubMed 16998791
+CM057493	CAG-CTG	Gln713Leu	2138A>T	Q713L	Breast cancer	Fackenthal (2005) J Med Genet 42:276	PubMed 15744044
+CM004714	ATAa-ATG	Ile729Met	2187A>G	I729M	Breast cancer	Plaschke (2000) J Med Genet 37:e17	PubMed 10978364
+CM056530	aCAA-TAA	Gln742Term	2224C>T	Q742X	Breast and/or ovarian cancer	Weitzel (2005) Cancer Epidemiol Biomarkers Prev 14:1666	PubMed 16030099
+CM123579	TCA-TGA	Ser744Term	2231C>G	S744X	Breast and/or ovarian cancer	Heidemann (2012) Breast Cancer Res Treat epub:epub	PubMed 22535016
+CM042681	cATG-GTG	Met784Val	2350A>G	M784V	Breast cancer	Seo (2004) Hum Mutat 24:350	PubMed 15365993
+CM101421	TCA-TAA	Ser791Term	2372C>A	S791X	Breast cancer	Borg (2010) Hum Mutat 31:E1200	PubMed 20104584
+CM060883	TACa-TAA	Tyr792Term	2376C>A	Y792X	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM111176	TATg-TAG	Tyr803Term	2409T>G	Y803X	Ovarian cancer	Zhang (2011) Gynecol Oncol epub:epub	PubMed 21324516
+CM056303	TTA-TGA	Leu809Term	2426T>G	L809X	Ductal carcinoma in situ	Claus (2005) JAMA 293:964	PubMed 15728167
+CM062483	tCAA-TAA	Gln819Term	2455C>T	Q819X	Breast and/or ovarian cancer	Infante (2006) J Hum Genet 51:611	PubMed 16758124
+CM065040	TGT-TAT	Cys822Tyr	2465G>A	C822Y	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM1111065	tTAT-CAT	Tyr828His	2482T>C	Y828H	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM119489	TCA-TGA	Ser846Term	2537C>G	S846X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM107506	TCA-TAA	Ser871Term	2612C>A	S871X	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM113841	TGTg-TGA	Cys916Term	2748T>A	C916X	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM062475	aCCC-ACC	Pro920Thr	2758C>A	P920T	Breast and/or ovarian cancer	Maillet (2006) Cancer Genet Cytogenet 169:62	PubMed 16875939
+CM035688	AAC-ATC	Asn924Ile	2771A>T	N924I	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM994285	tGAT-AAT	Asp935Asn	2803G>A	D935N	Breast and/or ovarian cancer	Wagner (1999) Hum Mol Genet 8:413	PubMed 9971877
+CM970180	tAAA-TAA	Lys944Term	2830A>T	K944X	Breast cancer	Hakansson (1997) Am J Hum Genet 60:1068	PubMed 9150154
+CM099631	aGAA-TAA	Glu984Term	2950G>T	E984X	Breast and/or ovarian cancer	Papi (2009) Breast Cancer Res Treat 117:497	PubMed 18821011
+CM119541	TGGg-TGA	Trp993Term	2979G>A	W993X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM066537	TTA-TAA	Leu997Term	2990T>A	L997X	Breast and/or ovarian cancer	Rashid (2006) Int J Cancer 119:2832	PubMed 16998791
+CM035690	ACA-AGA	Thr1011Arg	3032C>G	T1011R	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM033342	tAAG-TAG	Lys1015Term	3043A>T	K1015X	Ovarian cancer	Jakubowska (2003) Eur J Hum Genet 11:955	PubMed 14647210
+CM035694	gCTC-GTC	Leu1019Val	3055C>G	L1019V	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM040688	gAAG-TAG	Lys1026Term	3076A>T	K1026X	Breast and/or ovarian cancer	Foretova (2004) Hum Mutat 23:397	PubMed 15024741
+CM076037	tGAA-TAA	Glu1035Term	3103G>T	E1035X	Ovarian cancer	Ramus (2007) Hum Mutat 28:1207	PubMed 17688236
+CM001646	aCAA-TAA	Gln1037Term	3109C>T	Q1037X	Ovarian cancer	Khoo (2000) Hum Mutat 16:88	PubMed 10874312
+CM043979	TTA-TGA	Leu1053Term	3158T>G	L1053X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM086602	tCAA-TAA	Gln1056Term	3166C>T	Q1056X	Breast cancer	Rodriguez (2008) Fam Cancer 7:275	PubMed 18286383
+CM065013	AAG-AGG	Lys1057Arg	3170A>G	K1057R	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM110365	tCAG-TAG	Gln1089Term	3265C>T	Q1089X	Breast and/or ovarian cancer	Stegel (2011) BMC Med Genet 12:9	PubMed 21232165
+CM062480	gCAG-TAG	Gln1095Term	3283C>T	Q1095X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM020102	TCA-TGA	Ser1099Term	3296C>G	S1099X	Breast cancer	Tereschenko (2002) Hum Mutat 19:184	PubMed 11793480
+CM065026	CTT-CGT	Leu1114Arg	3341T>G	L1114R	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM022329	TCA-TGA	Ser1121Term	3362C>G	S1121X	Breast and/or ovarian cancer De Leon	Matsuda (2002) Int J Cancer 98:596	PubMed 11920621
+CM118426	TACa-TAA	Tyr1135Term	3405C>A	Y1135X	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM021510	cCAG-TAG	Gln1148Term	3442C>T	Q1148X	Breast and/or ovarian cancer	Meindl (2002) Int J Cancer 97:472	PubMed 11802209
+CM1111066	gATG-GTG	Met1149Val	3445A>G	M1149V	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM1110414	TTA-TGA	Leu1152Term	3455T>G	L1152X	Breast cancer	Gutiérrez-Enríquez (2011) Breast Cancer Res Treat 127:611	PubMed 20625817
+CM050182	TCG-TTG	Ser1172Leu	3515C>T	S1172L	Breast cancer	Kim (2005) J Med Genet 42:e5	PubMed 15635067
+CM003132	AGC-AAC	Ser1179Asn	3536G>A	S1179N	Breast cancer	Kwiatkowska (2000) Hum Mutat 17:73	PubMed 11139248
+CM087486	TCT-TGT	Ser1261Cys	3782C>G	S1261C	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM107507	TCA-TGA	Ser1262Term	3785C>G	S1262X	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM062482	TCA-TTA	Ser1271Leu	3812C>T	S1271L	Breast and/or ovarian cancer	Maillet (2006) Cancer Genet Cytogenet 169:62	PubMed 16875939
+CM065015	aATG-TTG	Met1272Leu	3814A>T	M1272L	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM065014	aATG-GTG	Met1272Val	3814A>G	M1272V	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM118435	TGC-TAC	Cys1290Tyr	3869G>A	C1290Y	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM087318	cCAA-TAA	Gln1291Term	3871C>T	Q1291X	Breast cancer	Ma (2008) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 25:195	PubMed 18393245
+CM030791	aGAA-TAA	Glu1308Term	3922G>T	E1308X	Breast cancer	Duran (2003) Hum Mutat 21:448	PubMed 12655567
+CM980240	tGAA-TAA	Glu1320Term	3958G>T	E1320X	Breast cancer, male	Haraldsson (1998) Cancer Res 58:1367	PubMed 9537231
+CM994684	TTA-TAA	Leu1334Term	4001T>A	L1334X	Breast and/or ovarian cancer	Santarosa (1999) Int J Cancer 83:5	PubMed 10449599
+CM035691	ACG-ATG	Thr1354Met	4061C>T	T1354M	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM068132	CAA-CGA	Gln1396Arg	4187A>G	Q1396R	Promyelocytic leukemia	Hall (2006) Leuk Lymphoma 47:765	PubMed 16886281
+CM121805	aCAG-TAG	Gln1408Term	4222C>T	Q1408X	Breast cancer	Bayraktar (2012) Cancer 118:1515	PubMed 22009639
+CM118868	gGAG-TAG	Glu1415Term	4243G>T	E1415X	Fallopian tube carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM003133	aGAT-TAT	Asp1420Tyr	4258G>T	D1420Y	Breast and/or ovarian cancer	Wagner (1999) Hum Mol Genet 8:413	PubMed 9971877
+CM042682	AAA-ACA	Lys1445Thr	4334A>C	K1445T	Breast cancer	Seo (2004) Hum Mutat 24:350	PubMed 15365993
+CM043980	TATg-TAG	Tyr1480Term	4440T>G	Y1480X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM108670	cAAA-TAA	Lys1489Term	4465A>T	K1489X	Prostate cancer	Manguoglu (2010) Cancer Genet Cytogenet 203:230	PubMed 21156238
+CM023342	aGAA-TAA	Glu1518Term	4552G>T	E1518X	Breast and/or ovarian cancer	Hamann (2002) J Med Genet 39:e12	PubMed 11847832
+CM033757	TTGg-TTT	Leu1522Phe	4566G>T	L1522F	Breast cancer	Sakayori (2003) J Hum Genet 48:130	PubMed 12624724
+CM022330	cGGG-AGG	Gly1529Arg	4585G>A	G1529R	Breast and/or ovarian cancer	Fries (2002) Mil Med 167:99	PubMed 11873550
+CM107617	AAA-AGA	Lys1530Arg	4589A>G	K1530R	Breast and/or ovarian cancer	Negura (2010) Fam Cancer 9:519	PubMed 20567915
+CM043744	aGAG-TAG	Glu1550Term	4648G>T	E1550X	Fanconi anaemia	Hirsch (2004) Blood 103:2554	PubMed 14670928
+CM045536	GGTa-GGC	Gly1552Gly	4656T>C	G1552G	Breast and/or ovarian cancer	Weber (2004) Anal Chem 76:4839	PubMed 15307796
+CM010780	TTA-TGA	Leu1620Term	4859T>G	L1620X	Ovarian cancer	Risch (2001) Am J Hum Genet 68:700	PubMed 11179017
+CM033343	TCA-TGA	Ser1630Term	4889C>G	S1630X	Breast cancer	Ozcelik (2003) J Med Genet 40:e91	PubMed 12920083
+CM109775	TACa-TAA	Tyr1655Term	4965C>A	Y1655X	Breast and/or ovarian cancer	Caux-Moncoutier (2010) Hum Mutat 32:325	PubMed 21120943
+CM076035	TACa-TAG	Tyr1655Term	4965C>G	Y1655X	Ovarian cancer	Ramus (2007) Hum Mutat 28:1207	PubMed 17688236
+CM041730	AAAa-AAC	Lys1690Asn	5070A>C	K1690N	Breast and/or ovarian cancer	Hadjisavvas (2004) Cancer Genet Cytogenet 151:152	PubMed 15172753
+CM043981	aGAA-TAA	Glu1703Term	5107G>T	E1703X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM010168	aAAT-TAT	Asn1730Tyr	5188A>T	N1730Y	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM119491	TCA-TGA	Ser1760Term	5279C>G	S1760X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM081542	TATc-TAA	Tyr1762Term	5286T>A	Y1762X	Prostate cancer	Willems (2008) Clin Cancer Res 14:2953	PubMed 18445692
+CM110366	TCA-TGA	Ser1764Term	5291C>G	S1764X	Breast and/or ovarian cancer	Stegel (2011) BMC Med Genet 12:9	PubMed 21232165
+CM041731	GGT-GAT	Gly1771Asp	5312G>A	G1771D	Breast and/or ovarian cancer	Hadjisavvas (2004) Cancer Genet Cytogenet 151:152	PubMed 15172753
+CM067354	tCAA-TAA	Gln1782Term	5344C>T	Q1782X	Ovarian cancer	Risch (2006) J Natl Cancer Inst 98:1694	PubMed 17148771
+CM120143	gGAA-TAA	Glu1812Term	5434G>T	E1812X	Breast cancer	Litton (2012) Cancer 118:321	PubMed 21913181
+CM011754	tGAA-TAA	Glu1857Term	5569G>T	E1857X	Breast cancer	Syrjakoski (2000) J Natl Cancer Inst 92:1529	PubMed 10995809
+CM1111063	aGAC-AAC	Asp1864Asn	5590G>A	D1864N	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM076034	tAAA-TAA	Lys1872Term	5614A>T	K1872X	Ovarian cancer	Ramus (2007) Hum Mutat 28:1207	PubMed 17688236
+CM960193	gGAA-TAA	Glu1876Term	5626G>T	E1876X	Breast cancer	Phelan (1996) Nat Genet 13:120	PubMed 8673090
+CM114779	AACg-AAG	Asn1878Lys	5634C>G	N1878K	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat epub:epub	PubMed 21671020
+CM010169	AATa-AAG	Asn1880Lys	5640T>G	N1880K	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM980241	TCA-TAA	Ser1882Term	5645C>A	S1882X	Breast cancer De	Benedetti (1998) Hum Mutat 12:215	PubMed 10660329
+CM056302	TCA-TGA	Ser1882Term	5645C>G	S1882X	Breast and/or ovarian cancer	Gomez-Garcia (2005) J Clin Oncol 23:2185	PubMed 15800311
+CM095767	cCAA-TAA	Gln1886Term	5656C>T	Q1886X	Breast cancer	Seong (2009) Clin Genet 76:152	PubMed 19656164
+CM041732	ACG-ATG	Thr1887Met	5660C>T	T1887M	Breast and/or ovarian cancer	Hadjisavvas (2004) Cancer Genet Cytogenet 151:152	PubMed 15172753
+CM010781	TACg-TAG	Tyr1894Term	5682C>G	Y1894X	Ovarian cancer	Risch (2001) Am J Hum Genet 68:700	PubMed 11179017
+CM057867	cGAG-CAG	Glu1895Gln	5683G>C	E1895Q	Breast cancer, early-onset	Song (2005) Zhonghua Yi Xue Za Zhi 85:3030	PubMed 16324400
+CM057496	tCTT-GTT	Leu1904Val	5710C>G	L1904V	Breast cancer	Fackenthal (2005) J Med Genet 42:276	PubMed 15744044
+CM066536	tGAA-TAA	Glu1912Term	5734G>T	E1912X	Breast and/or ovarian cancer	Rashid (2006) Int J Cancer 119:2832	PubMed 16998791
+CM030200	TGTa-TGA	Cys1913Term	5739T>A	C1913X	Breast and/or ovarian cancer	Hadjisavvas (2003) Hum Mutat 21:171	PubMed 12552570
+CM010170	ACG-ATG	Thr1915Met	5744C>T	T1915M	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM045130	aGAA-TAA	Glu1928Term	5782G>T	E1928X	Breast cancer	Palli (2004) Eur J Cancer 40:2474	PubMed 15519522
+CM042683	aATT-GTT	Ile1929Val	5785A>G	I1929V	Breast cancer	Seo (2004) Hum Mutat 24:350	PubMed 15365993
+CM068180	TTA-TAA	Leu1930Term	5789T>A	L1930X	Breast and/or ovarian cancer	Capalbo (2006) Ann Oncol 17S7:vii34	PubMed 16760289
+CM056531	aCAA-TAA	Gln1931Term	5791C>T	Q1931X	Ovarian cancer	Pal (2005) Cancer 104:2807	PubMed 16284991
+CM1111064	tATG-GTG	Met1936Val	5806A>G	M1936V	Oesophageal carcinoma	Zhong (2011) Asian Pac J Cancer Prev 12:1771	PubMed 22126563
+CM970181	gGAA-TAA	Glu1953Term	5857G>T	E1953X	Breast cancer	Serova-Sinilnikova (1997) Am J Hum Genet 60:1236	PubMed 9150172
+CM021511	TCA-TAA	Ser1955Term	5864C>A	S1955X	Breast and/or ovarian cancer	Meindl (2002) Int J Cancer 97:472	PubMed 11802209
+CM114512	TCA-TGA	Ser1955Term	5864C>G	S1955X	Breast cancer	Zhang (2011) Breast Cancer Res Treat 132:421	PubMed 21614564
+CM970182	TCA-TAA	Ser1970Term	5909C>A	S1970X	Breast cancer	Gayther (1997) Nat Genet 15:103	PubMed 8988179
+CM980242	cCAG-TAG	Gln1987Term	5959C>T	Q1987X	Breast cancer De	Benedetti (1998) Hum Mutat 12:215	PubMed 10660329
+CM065028	GAT-GCT	Asp1990Ala	5969A>C	D1990A	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM023027	aCAA-TAA	Gln1994Term	5980C>T	Q1994X	Breast and/or ovarian cancer	Phelan (2002) Hum Mutat 20:352	PubMed 12402332
+CM083595	aCAA-TAA	Gln1998Term	5992C>T	Q1998X	Breast cancer	Palma (2008) Cancer Res 68:7006	PubMed 18703817
+CM114780	AGTa-AGA	Ser2006Arg	6018T>A	S2006R	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat epub:epub	PubMed 21671020
+CM056532	gCAA-TAA	Gln2009Term	6025C>T	Q2009X	Ovarian cancer	Pal (2005) Cancer 104:2807	PubMed 16284991
+CM021512	cAAA-TAA	Lys2013Term	6037A>T	K2013X	Breast and/or ovarian cancer	Meindl (2002) Int J Cancer 97:472	PubMed 11802209
+CM101422	cGAA-TAA	Glu2020Term	6058G>T	E2020X	Breast cancer	Borg (2010) Hum Mutat 31:E1200	PubMed 20104584
+CM993642	TCA-TGA	Ser2022Term	6065C>G	S2022X	Breast cancer	Wagner (1999) Genomics 62:369	PubMed 10644434
+CM043916	GAA-GGA	Glu2029Gly	6086A>G	E2029G	Breast cancer	Choi (2004) J Clin Oncol 22:1638	PubMed 15117986
+CM042684	tACT-GCT	Thr2031Ala	6091A>G	T2031A	Breast cancer	Seo (2004) Hum Mutat 24:350	PubMed 15365993
+CM994286	aCGT-TGT	Arg2034Cys	6100C>T	R2034C	Breast and/or ovarian cancer	Wagner (1999) Hum Mol Genet 8:413	PubMed 9971877
+CM074720	CGT-CAT	Arg2034His	6101G>A	R2034H	Breast cancer	Awadelkarim (2007) Breast Cancer Res Treat 102:189	PubMed 17333343
+CM083596	cCAA-TAA	Gln2042Term	6124C>T	Q2042X	Breast cancer	Palma (2008) Cancer Res 68:7006	PubMed 18703817
+CM033758	GGC-GTC	Gly2044Val	6131G>T	G2044V	Breast cancer	Sakayori (2003) J Hum Genet 48:130	PubMed 12624724
+CM994685	tGGA-TGA	Gly2057Term	6169G>T	G2057X	Breast and/or ovarian cancer	Santarosa (1999) Int J Cancer 83:5	PubMed 10449599
+CM023885	TCC-TGC	Ser2072Cys	6215C>G	S2072C	Breast cancer	Jakubowska (2002) Br J Cancer 87:888	PubMed 12373604
+CM012589	aCAC-AAC	His2074Asn	6220C>A	H2074N	Breast and/or ovarian cancer	Gao (2001) Hum Genet 109:239 PubMed: No	PubMed ID
+CM023886	TAT-TGT	Tyr2094Cys	6281A>G	Y2094C	Breast cancer	Jakubowska (2002) Br J Cancer 87:888	PubMed 12373604
+CM114781	tCGT-TGT	Arg2108Cys	6322C>T	R2108C	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat epub:epub	PubMed 21671020
+CM035693	CGT-CAT	Arg2108His	6323G>A	R2108H	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM043917	tGTT-ATT	Val2109Ile	6325G>A	V2109I	Breast cancer	Choi (2004) J Clin Oncol 22:1638	PubMed 15117986
+CM022331	CAC-CGC	His2116Arg	6347A>G	H2116R	Breast and/or ovarian cancer	Fries (2002) Mil Med 167:99	PubMed 11873550
+CM094344	TCA-TGA	Ser2120Term	6359C>G	S2120X	Breast cancer	Palomba (2009) BMC Cancer 9:245	PubMed 19619314
+CM107508	GAA-GGA	Glu2121Gly	6362A>G	E2121G	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM023887	AAAg-AAC	Lys2128Asn	6384A>C	K2128N	Breast cancer	Jakubowska (2002) Br J Cancer 87:888	PubMed 12373604
+CM010171	tAAC-CAC	Asn2135His	6403A>C	N2135H	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM065033	tAAA-CAA	Lys2150Gln	6448A>C	K2150Q	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM109453	tCAA-TAA	Gln2157Term	6469C>T	Q2157X	Breast and/or ovarian cancer	Zuradelli (2010) Breast Cancer Res Treat 124:251	PubMed 20373018
+CM065031	gGTA-TTA	Val2166Leu	6496G>T	V2166L	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM062478	aGAA-TAA	Glu2183Term	6547G>T	E2183X	Breast cancer van der	Hout (2006) Hum Mutat 27:654	PubMed 16683254
+CM071575	TCA-TAA	Ser2186Term	6557C>A	S2186X	Ovarian cancer	Jacobi (2007) Genet Med 9:173	PubMed 17413421
+CM030792	TCA-TGA	Ser2219Term	6656C>G	S2219X	Breast cancer	Duran (2003) Hum Mutat 21:448	PubMed 12655567
+CM010172	TAC-TGC	Tyr2222Cys	6665A>G	Y2222C	Breast cancer	Edwards (2001) Hum Mutat 17:220	PubMed 11241844
+CM086258	tTTT-CTT	Phe2234Leu	6700T>C	F2234L	Breast and/or ovarian cancer Esteban	Cardeñosa (2008) Breast Cancer Res Treat 112:69	PubMed 18060494
+CM118436	gGAA-AAA	Glu2236Lys	6706G>A	E2236K	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM087481	tGAA-TAA	Glu2239Term	6715G>T	E2239X	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM121804	tAAA-TAA	Lys2244Term	6730A>T	K2244X	Breast cancer	Bayraktar (2012) Cancer 118:1515	PubMed 22009639
+CM114513	TCA-TAA	Ser2267Term	6800C>A	S2267X	Breast cancer	Zhang (2011) Breast Cancer Res Treat epub:epub	PubMed 21614564
+CM124686	AGA-AAA	Arg2268Lys	6803G>A	R2268K	Breast cancer	Dutil (2012) Cancer Genet 205:242	PubMed 22682623
+CM065032	GTG-GGG	Val2280Gly	6839T>G	V2280G	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM004189	aCCC-GCC	Pro2283Ala	6847C>G	P2283A	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM1110951	aATC-GTC	Ile2285Val	6853A>G	I2285V	Altered function	Warren (2011) Exp Cell Res 317:2099	PubMed 21741379
+CM1110953	TTTg-TTA	Phe2293Leu	6879T>A	F2293L	Altered function	Warren (2011) Exp Cell Res 317:2099	PubMed 21741379
+CM087487	ACT-AAT	Thr2310Asn	6929C>A	T2310N	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM065024	CGA-CAA	Arg2318Gln	6953G>A	R2318Q	Breast and/or ovarian cancer	Chenevix-Trench (2006) Cancer Res 66:2019	PubMed 16489001
+CM993643	tCGA-TGA	Arg2318Term	6952C>T	R2318X	Breast cancer	Wagner (1999) Genomics 62:369	PubMed 10644434
+CM053138	CGC-CAC	Arg2336His	7007G>A	R2336H	Fanconi anaemia D1	Barber (2005) Br J Haematol 130:796	PubMed 16115142
+CM107806	CGC-CCC	Arg2336Pro	7007G>C	R2336P	Breast and/or ovarian cancer	Laitman (2010) Breast Cancer Res Treat 127:489	PubMed 20960228
+CM118447	AAGg-AAC	Lys2339Asn	7017G>C	K2339N	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM025886	tCAA-TAA	Gln2342Term	7024C>T	Q2342X	Breast cancer	Robson (2002) J Med Genet 39:126	PubMed 11836363
+CM118437	CCA-CAA	Pro2347Gln	7040C>A	P2347Q	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM065029	GCA-GGA	Ala2351Gly	7052C>G	A2351G	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM114782	tGGT-CGT	Gly2353Arg	7057G>C	G2353R	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat epub:epub	PubMed 21671020
+CM030793	tCAA-TAA	Gln2354Term	7060C>T	Q2354X	Breast cancer	Duran (2003) Hum Mutat 21:448	PubMed 12655567
+CM065035	TAT-TGT	Tyr2363Cys	7088A>G	Y2363C	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM119492	TCA-TGA	Ser2378Term	7133C>G	S2378X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM057495	tCAA-AAA	Gln2384Lys	7150C>A	Q2384K	Breast cancer	Fackenthal (2005) J Med Genet 42:276	PubMed 15744044
+CM042685	gAGA-TGA	Arg2394Term	7180A>T	R2394X	Breast and/or ovarian cancer	Marroni (2004) Eur J Hum Genet 12:899	PubMed 15340362
+CM023888	CAT-CGT	His2415Arg	7244A>G	H2415R	Ocular melanoma	Scott (2002) Int J Cancer 102:188	PubMed 12385017
+CM003414	aCAG-TAG	Gln2421Term	7261C>T	Q2421X	Breast cancer	Kiechle (2000) Hum Mutat 16:529	PubMed 11102986
+CM110367	gCAA-TAA	Gln2435Term	7303C>T	Q2435X	Breast and/or ovarian cancer	Stegel (2011) BMC Med Genet 12:9	PubMed 21232165
+CM1110952	cAAT-GAT	Asn2452Asp	7354A>G	N2452D	Altered function	Warren (2011) Exp Cell Res 317:2099	PubMed 21741379
+CM041733	tCAG-GAG	Gln2456Glu	7366C>G	Q2456E	Breast and/or ovarian cancer	Hadjisavvas (2004) Cancer Genet Cytogenet 151:152	PubMed 15172753
+CM960194	GCA-GTA	Ala2466Val	7397C>T	A2466V	Breast cancer	Takahashi (1996) Cancer Res 56:2738	PubMed 8665505
+CM107509	AGA-AAA	Arg2488Lys	7463G>A	R2488K	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM065019	ATA-ACA	Ile2490Thr	7469T>C	I2490T	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM081540	aCAG-TAG	Gln2491Term	7471C>T	Q2491X	Breast and/or ovarian cancer	Machackova (2008) BMC Cancer 8:140	PubMed 18489799
+CM002245	gCGA-TGA	Arg2494Term	7480C>T	R2494X	Breast cancer	Vehmanen (1997) Hum Mol Genet 6:2309	PubMed 9361038
+CM012590	aCGC-TGC	Arg2502Cys	7504C>T	R2502C	Breast and/or ovarian cancer	Gao (2001) Hum Genet 109:239 PubMed: No	PubMed ID
+CM097396	aGGC-AGC	Gly2508Ser	7522G>A	G2508S	Ovarian cancer	Lim (2009) J Cancer Res Clin Oncol 135:1593	PubMed 19499246
+CM043745	CTG-CCG	Leu2510Pro	7529T>C	L2510P	Fanconi anaemia	Hirsch (2004) Blood 103:2554	PubMed 14670928
+CM994287	ACA-ATA	Thr2515Ile	7544C>T	T2515I	Breast and/or ovarian cancer	Wagner (1999) Hum Mol Genet 8:413	PubMed 9971877
+CM970183	tCGA-TGA	Arg2520Term	7558C>T	R2520X	Breast cancer	Hakansson (1997) Am J Hum Genet 60:1068	PubMed 9150154
+CM022332	TCT-TTT	Ser2522Phe	7565C>T	S2522F	Breast and/or ovarian cancer	Fries (2002) Mil Med 167:99	PubMed 11873550
+CM109776	tAAA-TAA	Lys2538Term	7612A>T	K2538X	Breast and/or ovarian cancer	Caux-Moncoutier (2010) Hum Mutat 32:325	PubMed 21120943
+CM077920	GGC-GAC	Gly2544Asp	7631G>A	G2544D	Breast and/or ovarian cancer	Ang (2007) Cancer Epidemiol Biomarkers Prev 16:2276	PubMed 18006916
+CM118438	gGAA-AAA	Glu2571Lys	7711G>A	E2571K	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM056301	aCAG-TAG	Gln2580Term	7738C>T	Q2580X	Breast cancer	Musolino (2005) Breast Cancer Res Treat 91:203	PubMed 15868448
+CM030794	TGG-TAG	Trp2586Term	7757G>A	W2586X	Breast cancer	Perkowska (2003) Hum Mutat 21:553	PubMed 12673801
+CM021513	TGGc-TGA	Trp2586Term	7758G>A	W2586X	Breast and/or ovarian cancer	Meindl (2002) Int J Cancer 97:472	PubMed 11802209
+CM118439	aGAA-AAA	Glu2599Lys	7795G>A	E2599K	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM109777	AGG-ACG	Arg2602Thr	7805G>C	R2602T	Breast and/or ovarian cancer	Caux-Moncoutier (2010) Hum Mutat 32:325	PubMed 21120943
+CM065041	TGT-TAT	Cys2605Tyr	7814G>A	C2605Y	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM113842	TGG-TAG	Trp2619Term	7856G>A	W2619X	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM086257	TATa-TAA	Tyr2621Term	7863T>A	Y2621X	Breast and/or ovarian cancer Esteban	Cardeñosa (2008) Breast Cancer Res Treat 112:69	PubMed 18060494
+CM065020	aTGG-CGG	Trp2626Arg	7876T>C	W2626R	Breast cancer	Han (2006) Clin Genet 70:496	PubMed 17100994
+CM053139	TGGa-TGC	Trp2626Cys	7878G>C	W2626C	Fanconi anaemia D1	Barber (2005) Br J Haematol 130:796	PubMed 16115142
+CM119494	TGGa-TGA	Trp2626Term	7878G>A	W2626X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM074073	gATC-TTC	Ile2627Phe	7879A>T	I2627F	Breast and/or ovarian cancer	Easton (2007) Am J Hum Genet 81:873	PubMed 17924331
+CM043982	TGTg-TGA	Cys2636Term	7908T>A	C2636X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM074070	CTT-CCT	Leu2653Pro	7958T>C	L2653P	Breast and/or ovarian cancer	Easton (2007) Am J Hum Genet 81:873	PubMed 17924331
+CM099632	tCAA-TAA	Gln2655Term	7963C>T	Q2655X	Breast and/or ovarian cancer	Papi (2009) Breast Cancer Res Treat 117:497	PubMed 18821011
+CM074069	AGA-AAA	Arg2659Lys	7976G>A	R2659K	Breast and/or ovarian cancer	Easton (2007) Am J Hum Genet 81:873	PubMed 17924331
+CM065016	AGA-ACA	Arg2659Thr	7976G>C	R2659T	Breast and/or ovarian cancer	Chenevix-Trench (2006) Cancer Res 66:2019	PubMed 16489001
+CM094785	aTAT-GAT	Tyr2660Asp	7978T>G	Y2660D	Breast cancer	Mohammadi (2009) BMC Cancer 9:211	PubMed 19563646
+CM119495	TATg-TAG	Tyr2660Term	7980T>G	Y2660X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM065027	GAA-GTA	Glu2663Val	7988A>T	E2663V	Breast and/or ovarian cancer	Chenevix-Trench (2006) Cancer Res 66:2019	PubMed 16489001
+CM118440	GAT-GGT	Asp2665Gly	7994A>G	D2665G	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM062479	cAGA-TGA	Arg2668Term	8002A>T	R2668X	Breast and/or ovarian cancer	Maillet (2006) Cancer Genet Cytogenet 169:62	PubMed 16875939
+CM043983	TCG-TTG	Ser2670Leu	8009C>T	S2670L	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM065037	TCG-TAG	Ser2670Term	8009C>A	S2670X	Breast and/or ovarian cancer	Sinilnikova (2006) Fam Cancer 5:15	PubMed 16528604
+CM118712	aCTT-TTT	Leu2686Phe	8056C>T	L2686F	Ovarian cancer	Akbari (2011) J Med Genet 48:783	PubMed 21965345
+CM004001	TGTg-TGA	Cys2689Term	8067T>A	C2689X	Breast cancer No authors	listed (1997) Lancet 349:1505	PubMed 9167459
+CM119496	TCA-TGA	Ser2695Term	8084C>G	S2695X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM011915	TCT-TTT	Ser2704Phe	8111C>T	S2704F	Breast cancer	Bergthorsson (2001) J Med Genet 38:361	PubMed 11389159
+CM023610	AAT-AGT	Asn2706Ser	8117A>G	N2706S	Breast cancer	Yassaee (2002) Breast Cancer Res 4:R6	PubMed 12100744
+CM970184	cCAA-TAA	Gln2714Term	8140C>T	Q2714X	Breast cancer	Serova-Sinilnikova (1997) Am J Hum Genet 60:1236	PubMed 9150172
+CM043984	gGCC-TCC	Ala2717Ser	8149G>T	A2717S	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM118441	tGAA-AAA	Glu2720Lys	8158G>A	E2720K	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM083597	CTT-CGT	Leu2721Arg	8162T>G	L2721R	Breast cancer	Bonnet (2008) J Med Genet 45:438	PubMed 18424508
+CM021956	ACA-AGA	Thr2722Arg	8165C>G	T2722R	Breast cancer	Fackenthal (2002) Am J Hum Genet 71:625	PubMed 12145750
+CM030795	GAT-GCT	Asp2723Ala	8168A>C	D2723A	Breast cancer	Scott (2003) Hum Genet 112:542	PubMed 12601471
+CM042310	aGAT-CAT	Asp2723His	8167G>C	D2723H	Breast cancer	Goldgar (2004) Am J Hum Genet 75:535	PubMed 15290653
+CM086259	GAT-GTT	Asp2723Val	8168A>T	D2723V	Breast and/or ovarian cancer Esteban	Cardeñosa (2008) Breast Cancer Res Treat 112:69	PubMed 18060494
+CM122312	TGGt-TGA	Trp2725Term	8175G>A	W2725X	Breast cancer	Levanat (2012) Gene 498:169	PubMed 22366370
+CM004715	tGTT-ATT	Val2728Ile	8182G>A	V2728I	Breast cancer	Sinilnikova (1999) Int J Cancer 83:325	PubMed 10399947
+CM021957	AAGg-AAT	Lys2729Asn	8187G>T	K2729N	Liver cancer	Katagiri (1996) Cancer Res 56:4575	PubMed 8840963
+CM107510	cCAG-TAG	Gln2731Term	8191C>T	Q2731X	Breast and/or ovarian cancer	Coulet (2010) Genet Test Mol Biomarkers 14:677	PubMed 20858050
+CM109452	TTA-TGA	Leu2732Term	8195T>G	L2732X	Breast and/or ovarian cancer	Zuradelli (2010) Breast Cancer Res Treat 124:251	PubMed 20373018
+CM043746	TTA-TAA	Leu2740Term	8219T>A	L2740X	Fanconi anaemia	Popp (2003) Cytogenet Genome Res 103:54	PubMed 15004464
+CM074074	GGT-GAT	Gly2748Asp	8243G>A	G2748D	Breast and/or ovarian cancer	Easton (2007) Am J Hum Genet 81:873	PubMed 17924331
+CM065018	aGCC-ACC	Ala2770Thr	8308G>A	A2770T	Breast and/or ovarian cancer	Chenevix-Trench (2006) Cancer Res 66:2019	PubMed 16489001
+CM095768	aGAA-TAA	Glu2772Term	8314G>T	E2772X	Breast cancer	Seong (2009) Clin Genet 76:152	PubMed 19656164
+CM970185	TTA-TGA	Leu2776Term	8327T>G	L2776X	Breast cancer	Vehmanen (1997) Am J Hum Genet 60:1050	PubMed 9150152
+CM095253	CGG-CAG	Arg2784Gln	8351G>A	R2784Q	Breast cancer Gómez	García (2009) Breast Cancer Res 11:R8	PubMed 19200354
+CM087488	tGCT-ACT	Ala2786Thr	8356G>A	A2786T	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM081543	TGG-TAG	Trp2788Term	8363G>A	W2788X	Breast and/or ovarian cancer	Machackova (2008) BMC Cancer 8:140	PubMed 18489799
+CM032551	TTA-TCA	Leu2805Ser	8414T>C	L2805S	Breast and/or ovarian cancer	Kanaan (2003) Hum Genet 113:452	PubMed 12942367
+CM118442	aTCA-CCA	Ser2806Pro	8416T>C	S2806P	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM004190	GAT-GGT	Asp2811Gly	8432A>G	D2811G	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM004191	aTCA-CCA	Ser2835Pro	8503T>C	S2835P	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM021958	TCA-TAA	Ser2835Term	8504C>A	S2835X	Fanconi anaemia	Howlett (2002) Science 297:606	PubMed 12065746
+CM065023	cATA-GTA	Ile2840Val	8518A>G	I2840V	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM004192	GAG-GCG	Glu2856Ala	8567A>C	E2856A	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM994686	cCAA-TAA	Gln2858Term	8572C>T	Q2858X	Breast and/or ovarian cancer	Santarosa (1999) Int J Cancer 83:5	PubMed 10449599
+CM107599	aCAA-TAA	Gln2859Term	8575C>T	Q2859X	Breast cancer	Ding (2011) Breast Cancer Res Treat 126:771	PubMed 20927582
+CM119529	tGAA-TAA	Glu2874Term	8620G>T	E2874X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM086508	aAAA-TAA	Lys2882Term	8644A>T	K2882X	Breast cancer	Li (2008) Breast Cancer Res Treat 110:99	PubMed 17851763
+CM980243	aCAG-TAG	Gln2893Term	8677C>T	Q2893X	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM077919	gCAA-TAA	Gln2894Term	8680C>T	Q2894X	Breast cancer	Purnomosari (2007) Breast Cancer Res Treat 106:297	PubMed 17972177
+CM021514	gCAA-TAA	Gln2899Term	8695C>T	Q2899X	Breast and/or ovarian cancer	Meindl (2002) Int J Cancer 97:472	PubMed 11802209
+CM984624	GGT-GAT	Gly2901Asp	8702G>A	G2901D	Ovarian cancer	Roth (1998) Br J Cancer 77:1199	PubMed 9579822
+CM113851	AAT-AGT	Asn2930Ser	8789A>G	N2930S	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM113843	aCAA-TAA	Gln2941Term	8821C>T	Q2941X	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM050183	gATC-TTC	Ile2944Phe	8830A>T	I2944F	Breast cancer	Kim (2005) J Med Genet 42:e5	PubMed 15635067
+CM014327	AAGg-AAT	Lys2950Asn	8850G>T	K2950N	Breast and/or ovarian cancer	Schoumacher (2001) Swiss Med Wkly 131:223	PubMed 11400546
+CM970186	gGCC-ACC	Ala2951Thr	8851G>A	A2951T	Breast cancer	Serova-Sinilnikova (1997) Am J Hum Genet 60:1236	PubMed 9150172
+CM035692	cATG-GTG	Met2952Val	8854A>G	M2952V	Breast cancer de	Sanjose (2003) Int J Cancer 106:588	PubMed 12845657
+CM087482	aCAA-TAA	Gln2957Term	8869C>T	Q2957X	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM994687	aCAA-TAA	Gln2960Term	8878C>T	Q2960X	Breast and/or ovarian cancer	Santarosa (1999) Int J Cancer 83:5	PubMed 10449599
+CM030796	TCA-TAA	Ser2978Term	8933C>A	S2978X	Breast cancer	Scott (2003) Hum Genet 112:542	PubMed 12601471
+CM113852	aGAA-AAA	Glu2981Lys	8941G>A	E2981K	Breast and/or ovarian cancer	Hansen (2011) Fam Cancer 10:207	PubMed 21318380
+CM970187	TCA-TGA	Ser2984Term	8951C>G	S2984X	Breast cancer	Gayther (1997) Nat Genet 15:103	PubMed 8988179
+CM053800	TCA-TAA	Ser2993Term	8978C>A	S2993X	Breast cancer	Bonadona (2005) Genes Chromosomes Cancer 43:404	PubMed 15887246
+CM070045	TATt-TAG	Tyr2997Term	8991T>G	Y2997X	Breast cancer	Ahn (2007) Cancer Lett 245:90	PubMed 16455195
+CM065017	aGAA-AAA	Glu3002Lys	9004G>A	E3002K	Breast cancer	Salazar (2006) Cancer Lett 233:172	PubMed 15876480
+CM114514	aGGA-TGA	Gly3003Term	9007G>T	G3003X	Breast cancer	Zhang (2011) Breast Cancer Res Treat epub:epub	PubMed 21614564
+CM032552	TACa-TAA	Tyr3006Term	9018C>A	Y3006X	Breast and/or ovarian cancer	Diez (2003) Hum Mutat 22:301	PubMed 12955716
+CM004193	ACT-ATT	Thr3013Ile	9038C>T	T3013I	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM014522	aCAG-TAG	Gln3026Term	9076C>T	Q3026X	Breast and/or ovarian cancer	Sekine (2001) Clin Cancer Res 7:3144	PubMed 11595708
+CM032863	CAG-CGG	Gln3034Arg	9101A>G	Q3034R	Fallopian tube cancer	Baudi (2003) Cancer Lett 191:211	PubMed 12618335
+CM087489	TAT-TGT	Tyr3035Cys	9104A>G	Y3035C	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM118443	TAT-TCT	Tyr3035Ser	9104A>C	Y3035S	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM099460	aCAA-TAA	Gln3037Term	9109C>T	Q3037X	Breast cancer	Haffty (2009) Ann Oncol 20:1653	PubMed 19491284
+CM082513	CGG-CAG	Arg3052Gln	9155G>A	R3052Q	Breast cancer	Kuznetsov (2008) Nat Med 14:875	PubMed 18607349
+CM082511	aCGG-TGG	Arg3052Trp	9154C>T	R3052W	Breast cancer	Kuznetsov (2008) Nat Med 14:875	PubMed 18607349
+CM118444	cCTT-TTT	Leu3055Phe	9163C>T	L3055F	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM034875	tCAG-TAG	Gln3066Term	9196C>T	Q3066X	Fanconi anaemia	Offit (2003) J Natl Cancer Inst 95:1548	PubMed 14559878
+CM034876	TGTt-TGA	Cys3069Term	9207T>A	C3069X	Fanconi anaemia	Offit (2003) J Natl Cancer Inst 95:1548	PubMed 14559878
+CM032864	GGA-GAA	Gly3076Glu	9227G>A	G3076E	Pancreatic cancer	Hahn (2003) J Natl Cancer Inst 95:214	PubMed 12569143
+CM030797	gAAA-TAA	Lys3083Term	9247A>T	K3083X	Breast cancer	Duran (2003) Hum Mutat 21:448	PubMed 12655567
+CM114783	cGTC-ATC	Val3091Ile	9271G>A	V3091I	Breast and/or ovarian cancer	Balia (2011) Breast Cancer Res Treat 129:1001	PubMed 21671020
+CM004194	TAT-TGT	Tyr3092Cys	9275A>G	Y3092C	Breast cancer	Malone (2000) Cancer 88:1393	PubMed 10717622
+CM119497	TATt-TAG	Tyr3092Term	9276T>G	Y3092X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM074071	GACg-GAG	Asp3095Glu	9285C>G	D3095E	Breast cancer	Easton (2007) Am J Hum Genet 81:873	PubMed 17924331
+CM021515	cGAA-TAA	Glu3096Term	9286G>T	E3096X	Breast and/or ovarian cancer de la	Hoya (2002) Int J Cancer 97:466	PubMed 11802208
+CM118870	TGTt-TGA	Cys3097Term	9291T>A	C3097X	Ovarian carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM970188	tTAC-CAC	Tyr3098His	9292T>C	Y3098H	Breast cancer	Serova-Sinilnikova (1997) Am J Hum Genet 60:1236	PubMed 9150172
+CM043985	TACa-TAA	Tyr3098Term	9294C>A	Y3098X	Breast and/or ovarian cancer	Lubinski (2004) Fam Cancer 3:1	PubMed 15131399
+CM032553	TACa-TAG	Tyr3098Term	9294C>G	Y3098X	Breast cancer S/NI	consortium (2003) Br J Cancer 88:1256	PubMed 12698193
+CM119498	TGG-TAG	Trp3106Term	9317G>A	W3106X	Breast and/or ovarian cancer	Hondow (2011) BMC Cancer 11:265	PubMed 21702907
+CM111610	tGAG-TAG	Glu3111Term	9331G>T	E3111X	Breast cancer, triple-negative	Gonzalez-Angulo (2011) Clin Cancer Res 17:1082	PubMed 21233401
+CM980244	ATG-ACG	Met3118Thr	9353T>C	M3118T	Breast cancer	Katagiri (1998) J Hum Genet 43:42	PubMed 9609997
+CM993726	AAC-ATC	Asn3124Ile	9371A>T	N3124I	Breast cancer	Grzybowska (1999) Dis Markers 15:A103 Source:	Meeting abstract
+CM023028	cCAG-TAG	Gln3126Term	9376C>T	Q3126X	Breast and/or ovarian cancer	Phelan (2002) Hum Mutat 20:352	PubMed 12402332
+CM014328	gCGA-TGA	Arg3128Term	9382C>T	R3128X	Breast cancer	Plaschke (2000) J Med Genet 37:e17	PubMed 10978364
+CM118713	GAT-GGT	Asp3142Gly	9425A>G	D3142G	Ovarian cancer	Akbari (2011) J Med Genet 48:783	PubMed 21965345
+CM085289	tCAA-TAA	Gln3156Term	9466C>T	Q3156X	Breast cancer Esteban	Cardenosa (2008)	Med Clin
+CM020641	TGG-TAG	Trp3191Term	9572G>A	W3191X	Breast cancer	Nedelcu (2002) Eur J Hum Genet 10:150	PubMed 11938448
+CM003134	tAAA-GAA	Lys3196Glu	9586A>G	K3196E	Breast cancer	Kwiatkowska (2000) Hum Mutat 17:73	PubMed 11139248
+CM067353	TCA-TGA	Ser3200Term	9599C>G	S3200X	Ovarian cancer	Risch (2006) J Natl Cancer Inst 98:1694	PubMed 17148771
+CM118445	ACT-ATT	Thr3249Ile	9746C>T	T3249I	Prostate cancer	Kote-Jarai (2011) Br J Cancer 105:1230	PubMed 21952622
+CM024727	gCCA-TCA	Pro3300Ser	9898C>T	P3300S	Oesophageal carcinoma	Hu (2002) Clin Cancer Res 8:1121	PubMed 11948123
+CM087490	gAGT-TGT	Ser3303Cys	9907A>T	S3303C	Breast cancer	Thirthagiri (2008) Breast Cancer Res 10:R59	PubMed 18627636
+CM065034	TACg-TAG	Tyr3308Term	9924C>G	Y3308X	Breast and colorectal cancer	Naseem (2006) Clin Genet 70:388	PubMed 17026620
+CM082512	cGAA-TAA	Glu3309Term	9925G>T	E3309X	Breast cancer	Kuznetsov (2008) Nat Med 14:875	PubMed 18607349
+CM993644	tAAA-TAA	Lys3326Term	9976A>T	K3326X	Breast cancer, association with	Mazoyer (1996) Nat Genet 14:253	PubMed 8896551
+CM118662	tACC-GCC	Thr3349Ala	10045A>G	T3349A	Breast cancer	Capanu (2011) Genet Epidemiol 35:389	PubMed 21520273
+CM063881	aCGA-TGA	Arg3384Term	10150C>T	R3384X	Breast cancer	Kim (2006) Biochem Biophys Res Commun 349:604	PubMed 16949048
+HM971469	ACG-ATG	Thr3401Met	10202C>T	T3401M	Breast cancer	Jakubowska (1999) Hum Genet 105:293 Source:	Online submission
+CM970189	aATT-GTT	Ile3412Val	10234A>G	I3412V	Breast cancer	Vehmanen (1997) Am J Hum Genet 60:1050	PubMed 9150152

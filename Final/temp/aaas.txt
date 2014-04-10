@@ -1,0 +1,37 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM010147	tCAA-AAA	Gln15Lys	43C>A	Q15K	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM065951	tCAA-TAA	Gln15Term	43C>T	Q15X	Triple-A syndrome	Mukhopadhya (2006) World J Gastroenterol 12:4764	PubMed 16937455
+CM065947	CTG-CCG	Leu25Pro	74T>C	L25P	Triple-A syndrome	Krumbholz (2006) Biochem Cell Biol 84:243	PubMed 16609705
+CM091334	CAG-CGG	Gln41Arg	122A>G	Q41R	Triple-A syndrome	Villanueva-Mendoza (2009) Ophthalmic Genet 30:45	PubMed 19172511
+CM010148	TGG-TAG	Trp84Term	251G>A	W84X	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM030393	tCGA-TGA	Arg119Term	355C>T	R119X	Triple-A syndrome	Reshmi-Skarja (2003) Am J Med Genet 117A:30	PubMed 12548737
+CM030394	cCAA-TAA	Gln145Term	433C>T	Q145X	Triple-A syndrome	Reshmi-Skarja (2003) Am J Med Genet 117A:30	PubMed 12548737
+CM065946	CGT-CAT	Arg155His	464G>A	R155H	Triple-A syndrome	Kimber (2003) J Neurol Neurosurg Psychiatry 74:654	PubMed 12700313
+CM055898	CGT-CCT	Arg155Pro	464G>C	R155P	Triple-A syndrome	Salehi (2005) Metabolism 54:200	PubMed 15690314
+CM010149	CAC-CGC	His160Arg	479A>G	H160R	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM065949	GCA-GTA	Ala167Val	500C>T	A167V	Triple-A syndrome	Krumbholz (2006) Biochem Cell Biol 84:243	PubMed 16609705
+CM120239	GAC-GTC	Asp173Val	518A>T	D173V	Triple-A syndrome	Vallet (2012) J Neurol 259:39	PubMed 21656342
+CM061625	gCGA-TGA	Arg194Term	580C>T	R194X	Triple-A syndrome	Dusek (2006) Horm Res 65:171	PubMed 16543750
+CM030395	cCGA-TGA	Arg230Term	688C>T	R230X	Triple-A syndrome	Houlden (2002) Brain 125:2681	PubMed 12429595
+CM022996	cCAA-TAA	Gln237Term	709C>T	Q237X	Triple-A syndrome	Katsumata (2002) Endocr J 49:49	PubMed 12008750
+CM065950	TCA-TTA	Ser263Leu	788C>T	S263L	Triple-A syndrome	Krumbholz (2006) Biochem Cell Biol 84:243	PubMed 16609705
+CM010150	tTCA-CCA	Ser263Pro	787T>C	S263P	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM056507	TGG-TCG	Trp272Ser	815G>C	W272S	Triple-A syndrome	Kurca (2005) Neuro Endocrinol Lett 26:499	PubMed 16264411
+CM010151	cCGA-TGA	Arg286Term	856C>T	R286X	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM013896	TGG-TAG	Trp295Term	884G>A	W295X	Triple-A syndrome	Schmittmann-Ohters (2001) Horm Res 56:67	PubMed 11815731
+CM107248	TCC-TAC	Ser296Tyr	887C>A	S296Y	Triple-A syndrome	Dumic (2010) Eur J Pediatr 170:393	PubMed 20931227
+CM002928	tCGA-TGA	Arg312Term	934C>T	R312X	Triple-A syndrome	Tullio-Pelet (2000) Nat Genet 26:332	PubMed 11062474
+CM023869	GTC-GCC	Val313Ala	938T>C	V313A	Triple-A syndrome	Houlden (2002) Brain 125:2681	PubMed 12429595
+CM120237	cTGT-CGT	Cys331Arg	991T>C	C331R	Triple-A syndrome	Vallet (2012) J Neurol 259:39	PubMed 21656342
+CM010152	cCGA-TGA	Arg342Term	1024C>T	R342X	Triple-A syndrome	Handschug (2001) Hum Mol Genet 10:283	PubMed 11159947
+CM118820	CTG-CAG	Leu344Gln	1031T>A	L344Q	Triple-A syndrome	Dixit (2011) Pediatr Neurol 45:347	PubMed 22000320
+CM065948	CTG-CGG	Leu381Arg	1142T>G	L381R	Triple-A syndrome	Krumbholz (2006) Biochem Cell Biol 84:243	PubMed 16609705
+CM035040	aCAG-TAG	Gln387Term	1159C>T	Q387X	Triple-A syndrome	Prpic (2003) Clin Genet 63:415	PubMed 12752575
+CM086756	cCTT-TTT	Leu430Phe	1288C>T	L430F	Axonal neuropathy	Koehler (2008) Eur J Hum Genet 16:1499	PubMed 18628786
+CM065952	tCGA-TGA	Arg434Term	1300C>T	R434X	Triple-A syndrome	Krumbholz (2006) Biochem Cell Biol 84:243	PubMed 16609705
+CM030396	cCAG-TAG	Gln456Term	1366C>T	Q456X	Triple-A syndrome	Reshmi-Skarja (2003) Am J Med Genet 117A:30	PubMed 12548737
+CM087184	CTG-CCG	Leu469Pro	1406T>C	L469P	Triple-A syndrome	Strauss (2008) Amyotroph Lateral Scler 9:315	PubMed 18615337
+CM120238	TGGt-TGC	Trp474Cys	1422G>C	W474C	Triple-A syndrome	Vallet (2012) J Neurol 259:39	PubMed 21656342
+CM023870	TGG-TAG	Trp474Term	1421G>A	W474X	Triple-A syndrome	Houlden (2002) Brain 125:2681	PubMed 12429595
+CM002929	cCGA-TGA	Arg478Term	1432C>T	R478X	Triple-A syndrome	Tullio-Pelet (2000) Nat Genet 26:332	PubMed 11062474
+CM068573	ATC-AGC	Ile482Ser	1445T>G	I482S	Triple-A syndrome	Hirano (2006) Proc Natl Acad Sci U S A 103:2298	PubMed 16467144

@@ -1,0 +1,12 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM109078	CGC-CTC	Arg10Leu	29G>T	R10L	Colorectal cancer	Morak (2010) Eur J Cancer epub:epub	PubMed 21195604
+CM115639	CGG-CAG	Arg46Gln	137G>A	R46Q	Reduced 8-oxoG incision activity	Janik (2011) Mutat Res 709-10:21	PubMed 21376741
+CM071913	tGCA-ACA	Ala53Thr	157G>A	A53T	Alzheimer disease	Mao (2007) Nucleic Acids Res 35:2759	PubMed 17426120
+CM062940	gGCT-TCT	Ala85Ser	253G>T	A85S	Leukemia, risk, association with	Rudd (2006) Blood 108:638	PubMed 16574953
+CM024573	CGA-CAA	Arg131Gln	392G>A	R131Q	Altered enzyme activity	Gemignani (2002) Pharmacogenetics 12:459	PubMed 12172214
+CM043555	CGC-CAC	Arg154His	461G>A	R154H	Colorectal cancer, association with	Kim (2004) Hum Genet 115:498	PubMed 15449173
+CM074394	CGA-CAA	Arg229Gln	686G>A	R229Q	Cancer susceptibility, association with	Hill (2007) Cancer Detect Prev 31:237	PubMed 17651912
+CM053365	GCG-GTG	Ala288Val	863C>T	A288V	Multiple colorectal adenoma	Colley (2005) Hum Mutat 26:165	PubMed 16010685
+CM109079	GGA-GAA	Gly308Glu	923G>A	G308E	Colorectal cancer	Morak (2010) Eur J Cancer epub:epub	PubMed 21195604
+CM095051	cGAC-AAC	Asp322Asn	964G>A	D322N	Altered enzyme activity	Sidorenko (2009) FEBS J 276:5149	PubMed 19674107
+CM993185	TCC-TGC	Ser326Cys	977C>G	S326C	Lung cancer, susceptibility, association with	Sugimura (1999) Cancer Epidemiol Biomarkers Prev 8:669	PubMed 10744126

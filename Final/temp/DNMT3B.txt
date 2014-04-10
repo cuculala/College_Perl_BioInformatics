@@ -1,0 +1,20 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM021981	cCAG-TAG	Gln30Term	88C>T	Q30X	Immunodeficiency, centromeric instability and facial anomalies syndrome	Shirohzu (2002) Am J Med Genet 112:31	PubMed 12239717
+CM002945	gCGA-TGA	Arg54Term	160C>T	R54X	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM002944	gCAG-TAG	Gln204Term	610C>T	Q204X	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM021982	cTCC-CCC	Ser270Pro	808T>C	S270P	Immunodeficiency, centromeric instability and facial anomalies syndrome	Shirohzu (2002) Am J Med Genet 112:31	PubMed 12239717
+CM002946	GCG-GTG	Ala585Val	1754C>T	A585V	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM993140	cGCT-ACT	Ala603Thr	1807G>A	A603T	Immunodeficiency, centromeric instability and facial anomalies syndrome	Hansen (1999) Proc Natl Acad Sci U S A 96:14412	PubMed 10588719
+CM002947	GTG-GCG	Val606Ala	1817T>C	V606A	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM992873	aGGC-AGC	Gly663Ser	1987G>A	G663S	Immunodeficiency, centromeric instability and facial anomalies syndrome	Xu (1999) Nature 402:187	PubMed 10647011
+CM993568	CTG-CCG	Leu664Pro	1991T>C	L664P	Immunodeficiency, centromeric instability and facial anomalies syndrome	Xu (1999) Nature 402:187	PubMed 10647011
+CM002948	GTT-GGT	Val699Gly	2096T>G	V699G	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM992874	GTT-GGT	Val726Gly	2177T>G	V726G	Immunodeficiency, centromeric instability and facial anomalies syndrome	Xu (1999) Nature 402:187	PubMed 10647011
+CM002949	aGCC-CCC	Ala766Pro	2296G>C	A766P	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM1110419	gAAA-GAA	Lys770Glu	2308A>G	K770E	Immunodeficiency, centromeric instability and facial anomalies syndrome	Brun (2011) PLoS One 6:e19464	PubMed 21559330
+CM002950	CAC-CGC	His814Arg	2441A>G	H814R	Immunodeficiency, centromeric instability and facial anomalies syndrome	Wijmenga (2000) Hum Mutat 16:509	PubMed 11102980
+CM992875	GAC-GGC	Asp817Gly	2450A>G	D817G	Immunodeficiency, centromeric instability and facial anomalies syndrome	Xu (1999) Nature 402:187	PubMed 10647011
+CM992876	cGTG-ATG	Val818Met	2452G>A	V818M	Immunodeficiency, centromeric instability and facial anomalies syndrome	Xu (1999) Nature 402:187	PubMed 10647011
+CM016244	cCGT-GGT	Arg823Gly	2467C>G	R823G	Immunodeficiency, centromeric instability and facial anomalies syndrome	Ehrlich (2001) Hum Mol Genet 10:2917	PubMed 11741835
+CM108877	cGTG-ATG	Val836Met	2506G>A	V836M	Immunodeficiency, centromeric instability and facial anomalies syndrome	Kaya (2010) J Clin Immunol 31:245	PubMed 21120685
+CM021983	CGA-CAA	Arg840Gln	2519G>A	R840Q	Immunodeficiency, centromeric instability and facial anomalies syndrome	Shirohzu (2002) Am J Med Genet 112:31	PubMed 12239717

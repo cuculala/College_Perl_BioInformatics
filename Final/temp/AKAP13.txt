@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM063842	tAAG-CAG	Lys526Gln	1576A>C	K526Q	Breast cancer, association with	Wirtenberger (2006) Carcinogenesis 27:593	PubMed 16234258

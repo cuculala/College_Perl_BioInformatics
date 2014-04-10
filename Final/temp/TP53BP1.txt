@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067475	GACa-GAG	Asp353Glu	1059C>G	D353E	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM107902	tGGT-AGT	Gly412Ser	1234G>A	G412S	Basal cell carcinoma, reduced risk, association with	He (2010) J Invest Dermatol 130:2850	PubMed 20686496
+CM067476	tAAG-CAG	Lys1136Gln	3406A>C	K1136Q	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161

@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM063235	AGT-AAT	Ser220Asn	659G>A	S220N	Leukemia, risk, association with	Rudd (2006) Blood 108:638	PubMed 16574953

@@ -1,0 +1,7 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM076222	cGAT-AAT	Asp43Asn	127G>A	D43N	GSTT1 variant	Moyer (2007) Clin Cancer Res 13:7207	PubMed 18056202
+CM076221	ACG-ATG	Thr65Met	194C>T	T65M	GSTT1 variant	Moyer (2007) Clin Cancer Res 13:7207	PubMed 18056202
+CM1110083	gCGC-AGC	Arg76Ser	226C>A	R76S	Reduced thermostability	Josephy (2011) Arch Biochem Biophys 513:87	PubMed 21781954
+CM024399	cACG-CCG	Thr104Pro	310A>C	T104P	Non-conjugator phenotype	Alexandrie (2002) Pharmacogenetics 12:613	PubMed 12439221
+CM098800	gGAT-AAT	Asp141Asn	421G>A	D141N	Altered function	Josephy (2009) Arch Biochem Biophys 490:24	PubMed 19664997
+CM098801	gGAG-AAG	Glu173Lys	517G>A	E173K	Altered function	Josephy (2009) Arch Biochem Biophys 490:24	PubMed 19664997

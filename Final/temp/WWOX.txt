@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM016224	cCGG-TGG	Arg120Trp	358C>T	R120W	Cancer	Paige (2001) Proc Natl Acad Sci U S A 98:11417	PubMed 11572989
+CM103020	cCGT-TGT	Arg254Cys	760C>T	R254C	Non-small-cell lung cancer	Baykara (2010) Tumour Biol 31:315	PubMed 20480411
+CM116521	tCCA-GCA	Pro282Ala	844C>G	P282A	Differentiated thyroid carcinoma, association with	Cancemi (2011) Int J Cancer epub:epub	PubMed 21520031

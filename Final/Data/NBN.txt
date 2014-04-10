@@ -1,0 +1,14 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM066927	gGAT-AAT	Asp95Asn	283G>A	D95N	Acute lymphoblastic leukaemia	Mosor (2006) Leukemia 20:1454	PubMed 16810201
+CM091424	TATg-TAG	Tyr110Term	330T>G	Y110X	Fertility defects	Warcoin (2009) Hum Mutat 30:424	PubMed 19105185
+CM033653	cCTT-TTT	Leu150Phe	448C>T	L150F	Breast cancer	Heikkinen (2003) J Med Genet 40:e131	PubMed 14684699
+CM011800	aATT-GTT	Ile171Val	511A>G	I171V	Acute lymphoblastic leukaemia	Varon (2001) Cancer Res 61:3570	PubMed 11325820
+CM034886	tGAG-CAG	Glu185Gln	553G>C	E185Q	Lung cancer, association with	Medina (2003) Cancer Epidemiol Biomarkers Prev 12:699	PubMed 12917199
+CM123120	aCCT-TCT	Pro199Ser	595C>T	P199S	Breast cancer	Mateju (2012) Breast Cancer Res Treat epub:epub	PubMed 22491912
+CM066928	tGTT-TTT	Val210Phe	628G>T	V210F	Acute lymphoblastic leukaemia	Mosor (2006) Leukemia 20:1454	PubMed 16810201
+CM044022	aCGG-TGG	Arg215Trp	643C>T	R215W	Colorectal cancer	Steffen (2004) Int J Cancer 111:67	PubMed 15185344
+CM076331	cTTC-CTC	Phe222Leu	664T>C	F222L	Melanoma	Meyer (2007) Melanoma Res 17:109	PubMed 17496786
+CM093681	CCG-CTG	Pro266Leu	797C>T	P266L	Breast cancer	Desjardins (2009) BMC Cancer 9:181	PubMed 19523210
+CM981376	tCAG-TAG	Gln326Term	976C>T	Q326X	Nijmegen breakage syndrome	Varon (1998) Cell 93:467	PubMed 9590180
+CM054792	TACg-TAA	Tyr363Term	1089C>A	Y363X	Nijmegen breakage syndrome	New (2005) Pediatr Blood Cancer 44:494	PubMed 15593232
+CM091425	TGGg-TGA	Trp375Term	1125G>A	W375X	Fertility defects	Warcoin (2009) Hum Mutat 30:424	PubMed 19105185

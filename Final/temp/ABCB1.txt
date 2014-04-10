@@ -1,0 +1,10 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM086586	tGGA-AGA	Gly191Arg	571G>A	G191R	Altered transport activity	Yang (2008) J Pharmacol Exp Ther 327:474	PubMed 18723777
+CM045736	AGT-AAT	Ser400Asn	1199G>A	S400N	Altered transport activity	Woodahl (2004) J Pharmacol Exp Ther 310:1199	PubMed 15100388
+CM068130	AGT-ATT	Ser400Ile	1199G>T	S400I	Altered transport activity	Crouthamel (2006) J Pharm Sci 95:2767	PubMed 16917872
+CM084696	GGTc-GGC	Gly412Gly	1236T>C	G412G	Parkinson disease, association with	Westerlund (2009) Parkinsonism Relat Disord 15:422	PubMed 19196542
+CM033585	tTCT-GCT	Ser893Ala	2677T>G	S893A	Inflammatory bowel disease, association with	Brant (2003) Am J Hum Genet 73:1282	PubMed 14610718
+CM065955	tTCT-ACT	Ser893Thr	2677T>A	S893T	Lung cancer, lower risk, association with	Gervasini (2006) Cancer 107:2850	PubMed 17120199
+CM000496	ATCg-ATT	Ile1145Ile	3435C>T	I1145I	Lower P-glycoprotein level, association with	Hoffmeyer (2000) Proc Natl Acad Sci U S A 97:3473	PubMed 10716719
+CM066526	ATT-AGT	Ile1196Ser	3587T>G	I1196S	P-glycoprotein deficiency	Mutoh (2006) Mol Cancer Ther 5:877	PubMed 16648557
+CM025960	aGGC-AGC	Gly1265Ser	3793G>A	G1265S	Colorectal cancer	Potocnik (2002) J Med Genet 39:340	PubMed 12011154

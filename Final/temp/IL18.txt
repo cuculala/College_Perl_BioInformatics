@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM056601	TCCg-TCA	Ser35Ser	105C>A	S35S	Colonic disease in CARD15 mutation positive individuals, association	Glas (2005) Inflamm Bowel Dis 11:1031	PubMed 16306764

@@ -1,0 +1,32 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM122565	GGG-GCG	Gly752Ala	2255G>C	G752A	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122570	AAG-AGG	Lys755Arg	2264A>G	K755R	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122558	ACC-ATC	Thr756Ile	2267C>T	T756I	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122573	gGAC-CAC	Asp851His	2551G>C	D851H	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122560	GAAg-GAC	Glu852Asp	2556A>C	E852D	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122566	cGAA-AAA	Glu852Lys	2554G>A	E852K	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122569	CAC-CGC	His854Arg	2561A>G	H854R	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122574	cCGA-GGA	Arg855Gly	2563C>G	R855G	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122561	tGGG-CGG	Gly881Arg	2641G>C	G881R	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122552	GGG-GTG	Gly881Val	2642G>T	G881V	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122555	CCG-CTG	Pro883Leu	2648C>T	P883L	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122557	aCAT-TAT	His939Tyr	2815C>T	H939Y	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122572	TTAc-TTT	Leu946Phe	2838A>T	L946F	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122567	TTA-TCA	Leu946Ser	2837T>C	L946S	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122559	tCGT-TGT	Arg1105Cys	3313C>T	R1105C	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122564	CGT-CCT	Arg1105Pro	3314G>C	R1105P	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM1111415	GGC-GAC	Gly1132Asp	3395G>A	G1132D	Nicholaides-Baraitser syndrome	Wolff (2011) Mol Syndromol 2:237 PubMed: No	PubMed ID
+CM122562	CTT-CCT	Leu1135Pro	3404T>C	L1135P	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122571	cAGC-CGC	Ser1146Arg	3436A>C	S1146R	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122550	GAC-GTC	Asp1158Val	3473A>T	D1158V	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122549	CGA-CAA	Arg1159Gln	3476G>A	R1159Q	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122551	cCGA-GGA	Arg1159Gly	3475C>G	R1159G	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122554	CGA-CTA	Arg1159Leu	3476G>T	R1159L	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122553	CGC-CAC	Arg1162His	3485G>A	R1162H	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM1111414	GCA-GAA	Ala1188Glu	3563C>A	A1188E	Nicholaides-Baraitser syndrome	Wolff (2011) Mol Syndromol 2:237 PubMed: No	PubMed ID
+CM122563	cGCA-CCA	Ala1188Pro	3562G>C	A1188P	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122556	GCG-GTG	Ala1201Val	3602C>T	A1201V	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122548	gGGC-TGC	Gly1202Cys	3604G>T	G1202C	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122568	GAC-GGC	Asp1205Gly	3614A>G	D1205G	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM122547	gCGG-TGG	Arg1213Trp	3637C>T	R1213W	Nicholaides-Baraitser syndrome Van	Houdt (2012) Nat Genet 44:445	PubMed 22366787
+CM093465	GACa-GAG	Asp1546Glu	4638C>G	D1546E	Schizophrenia, association with	Koga (2009) Hum Mol Genet 18:2483	PubMed 19363039

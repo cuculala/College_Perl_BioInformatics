@@ -1,0 +1,9 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM066739	gTCT-CCT	Ser50Pro	148T>C	S50P	Lung cancer, association with	Kanzaki (2006) Int J Mol Med 18:279	PubMed 16820935
+CM087624	gGTG-ATG	Val539Met	1615G>A	V539M	Hirschsprung disease, association with	Gao (2008) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 25:697	PubMed 19065536
+CM041253	aCGA-TGA	Arg656Term	1966C>T	R656X	Tooth agenesis and colorectal cancer	Lammi (2004) Am J Hum Genet 74:1043	PubMed 15042511
+CM112149	TGGg-TGA	Trp663Term	1989G>A	W663X	Ectodermal dysplasia & neoplastic syndrome	Marvin (2011) Am J Med Genet A 155:898	PubMed 21416598
+CM114963	GCG-GTG	Ala684Val	2051C>T	A684V	Oligodontia	Bergendal (2011) Am J Med Genet A 155:1616	PubMed 21626677
+CM067349	cCTG-TTG	Leu688Leu	2062C>T	L688L	Selective tooth agenesis, association with	Mostowska (2006) J Hum Genet 51:262	PubMed 16432638
+CM1110491	gGCT-TCT	Ala695Ser	2083G>T	A695S	Colorectal cancer	Khan (2011) Mol Cell Biochem 355:149	PubMed 21541676
+CM114962	cGCG-ACG	Ala758Thr	2272G>A	A758T	Oligodontia	Bergendal (2011) Am J Med Genet A 155:1616	PubMed 21626677

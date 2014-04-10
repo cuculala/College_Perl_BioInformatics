@@ -1,0 +1,8 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM036072	TGT-TCT	Cys43Ser	128G>C	C43S	Altered subcellular localization	Leslie (2003) Biochemistry 42:5214	PubMed 12731862
+CM091241	ACC-ATC	Thr73Ile	218C>T	T73I	Multidrug resistance	Yin (2009) Pharmacogenet Genomics 19:206	PubMed 19214144
+CM023879	AGGt-AGT	Arg433Ser	1299G>T	R433S	Increased doxorubicin resistance	Conrad (2002) Pharmacogenetics 12:321	PubMed 12042670
+CM065958	GGT-GTT	Gly671Val	2012G>T	G671V	Anthracycline-induced cardiotoxicity	Wojnowski (2005) Circulation 112:3754	PubMed 16330681
+CM091240	CGA-CAA	Arg723Gln	2168G>A	R723Q	Multidrug resistance	Yin (2009) Pharmacogenet Genomics 19:206	PubMed 19214144
+CM055900	cGCG-ACG	Ala989Thr	2965G>A	A989T	Decreased estradiol 17beta-glucuronide transport	Letourneau (2005) Pharmacogenet Genomics 15:647	PubMed 16041243
+CM091242	CGG-CAG	Arg1058Gln	3173G>A	R1058Q	Increased multidrug response	Yin (2009) Pharmacogenet Genomics 19:206	PubMed 19214144

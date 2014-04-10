@@ -1,0 +1,316 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM030187	ATGa-ATA	Met1Ile	3G>A	M1I	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM960095	ATG-ACG	Met1Thr	2T>C	M1T	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM122039	aATG-GTG	Met1Val	1A>G	M1V	Ataxia telangiectasia	Byrd (2012) Br J Cancer 106:262	PubMed 22146522
+CM0910477	cCGT-TGT	Arg13Cys	37C>T	R13C	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM024724	aCGA-TGA	Arg23Term	67C>T	R23X	Mantle cell lymphoma	Camacho (2002) Blood 99:238	PubMed 11756177
+CM960096	tCGA-TGA	Arg35Term	103C>T	R35X	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:2033	PubMed 8968760
+CM066737	CTA-CCA	Leu43Pro	128T>C	L43P	Ataxia telangiectasia	Magliozzi (2006) Dis Markers 22:257	PubMed 17124347
+CM990201	TCC-TGC	Ser49Cys	146C>G	S49C	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM000647	TGG-TAG	Trp57Term	170G>A	W57X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM0910478	tAGT-GGT	Ser99Gly	295A>G	S99G	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM000648	TTG-TAG	Leu100Term	299T>A	L100X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM030778	TGT-TAT	Cys107Tyr	320G>A	C107Y	Breast cancer, susceptibility to	Bernstein (2003) Hum Mutat 21:542	PubMed 12673797
+CM063853	aAGA-TGA	Arg111Term	331A>T	R111X	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM051848	TTA-TAA	Leu121Term	362T>A	L121X	Ataxia telangiectasia	Birrell (2005) Hum Mutat 25:593	PubMed 15880721
+CM077897	GATa-GAA	Asp126Glu	378T>A	D126E	Tissue response in radiotherapy, association with	Ho (2007) Int J Radiat Oncol Biol Phys 69:677	PubMed 17517479
+CM0910479	TCT-TTT	Ser151Phe	452C>T	S151F	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980132	gCAA-TAA	Gln162Term	484C>T	Q162X	Ataxia telangiectasia	Ejima (1998) Hum Genet 102:403	PubMed 9600235
+CM990202	TACt-TAG	Tyr171Term	513C>G	Y171X	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM068641	aCAA-TAA	Gln180Term	538C>T	Q180X	Ataxia telangiectasia	Heinrich (2006) Eur J Pediatr 165:250	PubMed 16411093
+CM035638	tGTT-CTT	Val182Leu	544G>C	V182L	Breast cancer, susceptibility to	Sommer (2003) Cancer Genet Cytogenet 145:115	PubMed 12935922
+CM093706	GGA-GAA	Gly197Glu	590G>A	G197E	Ataxia telangiectasia	Carrillo (2009) Cerebellum 8:22	PubMed 18846412
+CM000649	TGTt-TGA	Cys199Term	597T>A	C199X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM0910480	GACg-GAA	Asp203Glu	609C>A	D203E	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM056524	cGGA-TGA	Gly204Term	610G>T	G204X	Ataxia telangiectasia	Jiang (2005) Zhonghua Yi Xue Za Zhi 85:1117	PubMed 16029571
+CM000650	aAAG-GAG	Lys224Glu	670A>G	K224E	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM066735	CAT-CGT	His231Arg	692A>G	H231R	Ataxia telangiectasia	Magliozzi (2006) Dis Markers 22:257	PubMed 17124347
+CM0910481	tCAT-TAT	His231Tyr	691C>T	H231Y	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980133	tCGA-TGA	Arg248Term	742C>T	R248X	Ataxia telangiectasia	Sasaki (1998) Hum Mutat 12:186	PubMed 9711876
+CM092584	CGA-CAA	Arg250Gln	749G>A	R250Q	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM030188	tCGA-TGA	Arg250Term	748C>T	R250X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM030189	tCAA-TAA	Gln268Term	802C>T	Q268X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM980134	CCG-CTG	Pro292Leu	875C>T	P292L	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM0910482	GGT-GAT	Gly301Asp	902G>A	G301D	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM000651	gATA-GTA	Ile323Val	967A>G	I323V	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM0910483	tCGT-TGT	Arg337Cys	1009C>T	R337C	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM031634	TACa-TAG	Tyr370Term	1110C>G	Y370X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM980135	aCAA-TAA	Gln374Term	1120C>T	Q374X	Ataxia telangiectasia	Telatar (1998) Mol Genet Metab 64:36	PubMed 9682216
+CM0910484	tAGT-GGT	Ser378Gly	1132A>G	S378G	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM121263	aAGG-GGG	Arg386Gly	1156A>G	R386G	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM035782	GTG-GCG	Val410Ala	1229T>C	V410A	Ocular telangiectasia	Mauget-Faysse (2003) Invest Ophthalmol Vis Sci 44:3257	PubMed 12882767
+CM960097	aCAG-TAG	Gln414Term	1240C>T	Q414X	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM121516	CTA-CCA	Leu439Pro	1316T>C	L439P	Ataxia telangiectasia, atypical	Ghosh (2012) J Clin Immunol epub:epub	PubMed 22354567
+CM960098	gCGA-TGA	Arg447Term	1339C>T	R447X	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM056525	GGG-GCG	Gly449Ala	1346G>C	G449A	Ataxia telangiectasia	Jiang (2005) Zhonghua Yi Xue Za Zhi 85:1117	PubMed 16029571
+CM080076	aCGA-TGA	Arg457Term	1369C>T	R457X	Ataxia telangiectasia	Cavalieri (2008) Ann Hum Genet 72:10	PubMed 17910737
+CM030190	tCAA-TAA	Gln466Term	1396C>T	Q466X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM063858	TGG-TAG	Trp488Term	1463G>A	W488X	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM046087	TTA-TAA	Leu507Term	1520T>A	L507X	Ataxia telangiectasia	Coutinho (2004) Am J Med Genet A 126A:33	PubMed 15039971
+CM024583	GGT-GAT	Gly514Asp	1541G>A	G514D	Hodgkin disease	Offit (2002) Clin Cancer Res 8:3813	PubMed 12473594
+CM0910485	aCTG-GTG	Leu546Val	1636C>G	L546V	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM016179	tATA-GTA	Ile550Val	1648A>G	I550V	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM990203	TTT-TCT	Phe570Ser	1709T>C	F570S	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM023329	aTTC-CTC	Phe582Leu	1744T>C	F582L	Breast cancer, susceptibility to	Sommer (2002) Cancer Genet Cytogenet 134:25	PubMed 11996792
+CM045887	GTG-GCG	Val595Ala	1784T>C	V595A	Hodgkin disease	Liberzon (2004) Br J Cancer 90:522	PubMed 14735203
+CM045888	tCCT-TCT	Pro604Ser	1810C>T	P604S	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM0910486	tGTG-TTG	Val613Leu	1837G>T	V613L	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM023330	TTC-TGC	Phe627Cys	1880T>G	F627C	Breast cancer, susceptibility to	Sommer (2002) Cancer Genet Cytogenet 134:25	PubMed 11996792
+CM116245	aGAA-TAA	Glu642Term	1924G>T	E642X	Breast cancer	Goldgar (2011) Breast Cancer Res 13:R73	PubMed 21787400
+CM000652	TCA-TAA	Ser644Term	1931C>A	S644X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM0910487	tCAG-AAG	Gln654Lys	1960C>A	Q654K	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM031635	TCA-TGA	Ser689Term	2066C>G	S689X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM0910488	tCTG-GTG	Leu702Val	2104C>G	L702V	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM013692	aTCT-CCT	Ser707Pro	2119T>C	S707P	Breast cancer, association with	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM0910489	aCGT-TGT	Arg720Cys	2158C>T	R720C	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910490	AGT-AAT	Ser759Asn	2276G>A	S759N	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980136	aAAT-GAT	Asn768Asp	2302A>G	N768D	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM0910491	ATG-ACG	Met779Thr	2336T>C	M779T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM990204	aCGT-TGT	Arg785Cys	2353C>T	R785C	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM021943	gAGC-CGC	Ser788Arg	2362A>C	S788R	Breast cancer, susceptibility to	Atencio (2001) Environ Mol Mutagen 38:200	PubMed 11746755
+CM066738	tCCA-ACA	Pro795Thr	2383C>A	P795T	Ataxia telangiectasia	Magliozzi (2006) Dis Markers 22:257	PubMed 17124347
+CM0910492	CGA-CAA	Arg805Gln	2414G>A	R805Q	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM960099	gCGA-TGA	Arg805Term	2413C>T	R805X	Ataxia telangiectasia	Vorechovsky (1996) Eur J Hum Genet 4:352	PubMed 9043869
+CM031636	TTA-TGA	Leu822Term	2465T>G	L822X	Ataxia telangiectasia	Thorstenson (2003) Cancer Res 63:3325	PubMed 12810666
+CM035780	aATG-GTG	Met838Val	2512A>G	M838V	Ocular telangiectasia	Mauget-Faysse (2003) Invest Ophthalmol Vis Sci 44:3257	PubMed 12882767
+CM061641	aTTT-CTT	Phe858Leu	2572T>C	F858L	Breast cancer, association with	Gutierrez-Enriquez (2004) Genes Chromosomes Cancer 40:109	PubMed 15101044
+CM023331	aCCT-TCT	Pro872Ser	2614C>T	P872S	Breast cancer, susceptibility to	Sommer (2002) Cancer Genet Cytogenet 134:25	PubMed 11996792
+CM0910493	tCCT-TCT	Pro884Ser	2650C>T	P884S	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM122159	aGAA-TAA	Glu888Term	2662G>T	E888X	Ataxia telangiectasia	Verhagen (2012) Hum Mutat 33:561	PubMed 22213089
+CM053097	tCAG-TAG	Gln912Term	2734C>T	Q912X	Ataxia telangiectasia	Cavaciuti (2005) Genes Chromosomes Cancer 42:1	PubMed 15390180
+CM0910494	CGG-CAG	Arg924Gln	2771G>A	R924Q	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM085266	TTA-TGA	Leu930Term	2789T>G	L930X	Ataxia telangiectasia	Du (2008) Mutat Res 640:139	PubMed 18321536
+CM030191	CTT-CGT	Leu950Arg	2849T>G	L950R	Ataxia telangiectasia	Becker-Catania (2000) Mol Genet Metab 70:122	PubMed 10873394
+CM120354	TACc-TAG	Tyr959Term	2877C>G	Y959X	Ataxia telangiectasia	Nakamura (2012) Hum Mutat 33:198	PubMed 22006793
+CM095587	CTG-CGG	Leu970Arg	2909T>G	L970R	Ataxia telangiectasia, variant	Verhagen (2009) Neurology 73:430	PubMed 19535770
+CM0910495	AAT-AGT	Asn975Ser	2924A>G	N975S	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910496	tCGT-TGT	Arg981Cys	2941C>T	R981C	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980137	CTA-CAA	Leu1001Gln	3002T>A	L1001Q	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM002223	TATa-TAA	Tyr1034Term	3102T>A	Y1034X	Ataxia telangiectasia	Laake (2000) Hum Mutat 16:232	PubMed 10980530
+CM085265	TATa-TAG	Tyr1034Term	3102T>G	Y1034X	Ataxia telangiectasia	Du (2008) Mutat Res 640:139	PubMed 18321536
+CM087219	aAGA-TGA	Arg1039Term	3115A>T	R1039X	Breast cancer, susceptibility to	Broeks (2008) Breast Cancer Res Treat 107:243	PubMed 17393301
+CM095585	cCTT-TTT	Leu1046Phe	3136C>T	L1046F	Ataxia telangiectasia, variant	Verhagen (2009) Neurology 73:430	PubMed 19535770
+CM973365	CCT-CGT	Pro1054Arg	3161C>G	P1054R	Breast cancer, association with	Larson (1997) Genet Test 1:165	PubMed 10464642
+CM960100	tGAA-TAA	Glu1072Term	3214G>T	E1072X	Ataxia telangiectasia	Wright (1996) Am J Hum Genet 59:839	PubMed 8808599
+CM005389	CAT-CTT	His1082Leu	3245A>T	H1082L	Ataxia telangiectasia	Becker-Catania (2000) Mol Genet Metab 70:122	PubMed 10873394
+CM030192	CAC-CGC	His1083Arg	3248A>G	H1083R	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM984067	GAGt-GAT	Glu1091Asp	3273G>T	E1091D	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM053096	TCA-TAA	Ser1092Term	3275C>A	S1092X	Ataxia telangiectasia	Cavaciuti (2005) Genes Chromosomes Cancer 42:1	PubMed 15390180
+CM0910497	gGAC-AAC	Asp1099Asn	3295G>A	D1099N	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910498	CCT-CTT	Pro1112Leu	3335C>T	P1112L	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM067642	gCAA-TAA	Gln1117Term	3349C>T	Q1117X	Ataxia telangiectasia	Renwick (2006) Nat Genet 38:873	PubMed 16832357
+CM990206	TACt-TAG	Tyr1124Term	3372C>G	Y1124X	Ataxia telangiectasia	Teraoka (1999) Am J Hum Genet 64:1617	PubMed 10330348
+CM023332	CAG-CGG	Gln1128Arg	3383A>G	Q1128R	Breast cancer, susceptibility to	Sommer (2002) Cancer Genet Cytogenet 134:25	PubMed 11996792
+CM990207	tCAG-TAG	Gln1128Term	3382C>T	Q1128X	Ataxia telangiectasia	Teraoka (1999) Am J Hum Genet 64:1617	PubMed 10330348
+CM0910499	ACG-ATG	Thr1156Met	3467C>T	T1156M	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM990208	TTA-TGA	Leu1162Term	3485T>G	L1162X	Ataxia telangiectasia	Teraoka (1999) Am J Hum Genet 64:1617	PubMed 10330348
+CM005388	aCAG-TAG	Gln1171Term	3511C>T	Q1171X	Ataxia telangiectasia	Becker-Catania (2000) Mol Genet Metab 70:122	PubMed 10873394
+CM085263	gAAA-TAA	Lys1181Term	3541A>T	K1181X	Ataxia telangiectasia	Du (2008) Mutat Res 640:139	PubMed 18321536
+CM023333	ATGg-ATA	Met1210Ile	3630G>A	M1210I	Breast cancer, susceptibility to	Sommer (2002) Cancer Genet Cytogenet 134:25	PubMed 11996792
+CM990209	TGGc-TGA	Trp1221Term	3663G>A	W1221X	Ataxia telangiectasia	Teraoka (1999) Am J Hum Genet 64:1617	PubMed 10330348
+CM031637	tCAA-TAA	Gln1225Term	3673C>T	Q1225X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM081163	tTTG-GTG	Leu1255Val	3763T>G	L1255V	Breast cancer, susceptibility to	Brunet (2008) Clin Genet 73:465	PubMed 18384426
+CM031638	TGG-TAG	Trp1279Term	3836G>A	W1279X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM023334	CTA-CCA	Leu1283Pro	3848T>C	L1283P	Ataxia telangiectasia	Sun (2002) J Pediatr 140:724	PubMed 12072877
+CM117876	tCCT-TCT	Pro1296Ser	3886C>T	P1296S	Ataxia telangiectasia	Soukupova (2011) Neuromolecular Med 13:204	PubMed 21833744
+CM123536	gCAA-TAA	Gln1311Term	3931C>T	Q1311X	Ataxia telangiectasia	Perreault (2012) Pediatr Neurol 46:322	PubMed 22520355
+CM035634	aAAT-GAT	Asn1356Asp	4066A>G	N1356D	Breast cancer, susceptibility to	Sommer (2003) Cancer Genet Cytogenet 145:115	PubMed 12935922
+CM021944	tCAT-TAT	His1380Tyr	4138C>T	H1380Y	Breast cancer, susceptibility to	Atencio (2001) Environ Mol Mutagen 38:200	PubMed 11746755
+CM014033	TCG-TTG	Ser1383Leu	4148C>T	S1383L	Breast cancer, susceptibility to	Teraoka (2001) Cancer 92:479	PubMed 11505391
+CM046088	cAAG-TAG	Lys1400Term	4198A>T	K1400X	Ataxia telangiectasia	Coutinho (2004) Am J Med Genet A 126A:33	PubMed 15039971
+CM000653	tCTT-TTT	Leu1420Phe	4258C>T	L1420F	Breast cancer, association with	Fletcher (2010) Cancer Epidemiol Biomarkers Prev 19:2143	PubMed 20826828
+CM0910500	aGCT-ACT	Ala1427Thr	4279G>A	A1427T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM031639	gAAG-TAG	Lys1435Term	4303A>T	K1435X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM0910501	AGA-AAA	Arg1437Lys	4310G>A	R1437K	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980138	tAAA-TAA	Lys1440Term	4318A>T	K1440X	Ataxia telangiectasia	Sasaki (1998) Hum Mutat 12:186	PubMed 9711876
+CM0910502	aTAT-CAT	Tyr1442His	4324T>C	Y1442H	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910503	AAAa-AAC	Lys1454Asn	4362A>C	K1454N	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM022199	TTT-TGT	Phe1463Cys	4388T>G	F1463C	Breast cancer, susceptibility to	Maillet (2002) J Med Genet 39:751	PubMed 12362033
+CM992300	CTT-CCT	Leu1465Pro	4394T>C	L1465P	Ataxia telangiectasia	Izatt (1999) Eur J Hum Genet 7:310	PubMed 10234507
+CM990210	tCGA-TGA	Arg1466Term	4396C>T	R1466X	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM021945	GAC-GGC	Asp1467Gly	4400A>G	D1467G	Breast cancer, susceptibility to	Atencio (2001) Environ Mol Mutagen 38:200	PubMed 11746755
+CM0910504	cCTT-GTT	Leu1493Val	4477C>G	L1493V	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980139	cCAG-TAG	Gln1503Term	4507C>T	Q1503X	Ataxia telangiectasia	Telatar (1998) Mol Genet Metab 64:36	PubMed 9682216
+CM0910505	ATA-ACA	Ile1525Thr	4574T>C	I1525T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM068639	TATg-TAG	Tyr1529Term	4587T>G	Y1529X	Ataxia telangiectasia	Heinrich (2006) Eur J Pediatr 165:250	PubMed 16411093
+CM094723	gGAG-TAG	Glu1533Term	4597G>T	E1533X	Ataxia telangiectasia	Chessa (2009) Ann Hum Genet 73:532	PubMed 19691550
+CM0910506	CTC-CAC	Leu1555His	4664T>A	L1555H	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980140	CCT-CGT	Pro1566Arg	4697C>G	P1566R	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM016180	GTT-GCT	Val1570Ala	4709T>C	V1570A	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM0910507	TTGc-TTT	Leu1574Phe	4722G>T	L1574F	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910508	CGT-CAT	Arg1575His	4724G>A	R1575H	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM031640	tCAG-TAG	Gln1578Term	4732C>T	Q1578X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM983653	tCGA-TGA	Arg1618Term	4852C>T	R1618X	Ataxia telangiectasia	Hacia (1998) Genome Res 8:1245	PubMed 9872980
+CM960101	aCAA-TAA	Gln1620Term	4858C>T	Q1620X	Ataxia telangiectasia	Vorechovsky (1996) Eur J Hum Genet 4:352	PubMed 9043869
+CM0910509	aGAT-TAT	Asp1682Tyr	5044G>T	D1682Y	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980141	tAGT-CGT	Ser1691Arg	5071A>C	S1691R	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM024584	tACC-GCC	Thr1697Ala	5089A>G	T1697A	Hodgkin disease	Offit (2002) Clin Cancer Res 8:3813	PubMed 12473594
+CM0910510	GTT-GCT	Val1729Ala	5186T>C	V1729A	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM121257	CGA-CTA	Arg1730Leu	5189G>T	R1730L	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM990211	tCGA-TGA	Arg1730Term	5188C>T	R1730X	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM122157	aGCT-CCT	Ala1733Pro	5197G>C	A1733P	Ataxia telangiectasia	Verhagen (2012) Hum Mutat 33:561	PubMed 22213089
+CM980142	ACA-ATA	Thr1743Ile	5228C>T	T1743I	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM035779	AAGa-AAT	Lys1754Asn	5262G>T	K1754N	Ocular telangiectasia	Mauget-Faysse (2003) Invest Ophthalmol Vis Sci 44:3257	PubMed 12882767
+CM000654	aCAG-TAG	Gln1765Term	5293C>T	Q1765X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM002224	aGAA-TAA	Glu1776Term	5326G>T	E1776X	Ataxia telangiectasia	Laake (2000) Hum Mutat 16:232	PubMed 10980530
+CM0910511	CCT-CAT	Pro1785His	5354C>A	P1785H	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910512	cATT-TTT	Ile1804Phe	5410A>T	I1804F	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM120355	TGGa-TGA	Trp1805Term	5415G>A	W1805X	Ataxia telangiectasia	Nakamura (2012) Hum Mutat 33:198	PubMed 22006793
+CM094669	aAAG-GAG	Lys1807Glu	5419A>G	K1807E	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM080080	TTG-TAG	Leu1814Term	5441T>A	L1814X	Ataxia telangiectasia	Cavalieri (2008) Ann Hum Genet 72:10	PubMed 17910737
+CM063856	CTT-CGT	Leu1824Arg	5471T>G	L1824R	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM980143	tCAG-TAG	Gln1839Term	5515C>T	Q1839X	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM077896	aGAT-AAT	Asp1853Asn	5557G>A	D1853N	Breast cancer, bilateral, association with	Heikkinen (2005) Int J Cancer 116:69	PubMed 15756685
+CM083593	GAT-GTT	Asp1853Val	5558A>T	D1853V	Breast cancer, contralateral, reduced risk, association with	Concannon (2008) Cancer Res 68:6486	PubMed 18701470
+CM031641	tGAA-TAA	Glu1856Term	5566G>T	E1856X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM004330	TGGa-TGA	Trp1858Term	5574G>A	W1858X	Ataxia telangiectasia	Delia (2000) Br J Cancer 82:1938	PubMed 10864201
+CM980144	tCGA-TGA	Arg1875Term	5623C>T	R1875X	Ataxia telangiectasia	Gilad (1998) Hum Mutat 11:69	PubMed 9450906
+CM030193	cCGA-TGA	Arg1882Term	5644C>T	R1882X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM066736	cCGA-TGA	Arg1898Term	5692C>T	R1898X	Ataxia telangiectasia	Magliozzi (2006) Dis Markers 22:257	PubMed 17124347
+CM990212	GTG-GGG	Val1913Gly	5738T>G	V1913G	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM0910513	GAC-GGC	Asp1914Gly	5741A>G	D1914G	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980145	gAGA-TGA	Arg1917Term	5749A>T	R1917X	Ataxia telangiectasia	Fukao (1998) Hum Mutat 12:338	PubMed 9792410
+CM001062	TCA-TAA	Ser1924Term	5771C>A	S1924X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM094667	aGTT-CTT	Val1941Leu	5821G>C	V1941L	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM090511	ACA-ATA	Thr1953Ile	5858C>T	T1953I	Ataxia telangiectasia	Mitui (2009) Hum Mutat 30:12	PubMed 18634022
+CM094670	TAT-TGT	Tyr1961Cys	5882A>G	Y1961C	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM0910514	tAAG-GAG	Lys1964Glu	5890A>G	K1964E	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM085264	tAAG-TAG	Lys1964Term	5890A>T	K1964X	Ataxia telangiectasia	Du (2008) Mutat Res 640:139	PubMed 18321536
+CM980146	tCAA-TAA	Gln1970Term	5908C>T	Q1970X	Ataxia telangiectasia	Telatar (1998) Am J Hum Genet 62:86	PubMed 9443866
+CM980147	tGAA-TAA	Glu1978Term	5932G>T	E1978X	Ataxia telangiectasia	Telatar (1998) Am J Hum Genet 62:86	PubMed 9443866
+CM044575	aCAG-TAG	Gln2002Term	6004C>T	Q2002X	Ataxia telangiectasia	Fernet (2004) Br J Cancer 90:866	PubMed 14970866
+CM990213	gGAG-TAG	Glu2014Term	6040G>T	E2014X	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM990214	GAT-GGT	Asp2016Gly	6047A>G	D2016G	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM094662	TAT-TGT	Tyr2019Cys	6056A>G	Y2019C	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM092585	tGGA-AGA	Gly2023Arg	6067G>A	G2023R	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM030194	aCAA-TAA	Gln2028Term	6082C>T	Q2028X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM014793	cATT-GTT	Ile2030Val	6088A>G	I2030V	Breast cancer, susceptibility to	Atencio (2001) Environ Mol Mutagen 38:200	PubMed 11746755
+CM990215	AGA-AAA	Arg2032Lys	6095G>A	R2032K	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM960102	aCGA-TGA	Arg2034Term	6100C>T	R2034X	Ataxia telangiectasia	Telatar (1996) Am J Hum Genet 59:40	PubMed 8659541
+CM094668	cGAA-AAA	Glu2039Lys	6115G>A	E2039K	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM023335	GGA-GAA	Gly2063Glu	6188G>A	G2063E	Ataxia telangiectasia	Becker-Catania (2000) Mol Genet Metab 70:122	PubMed 10873394
+CM990216	GCC-GAC	Ala2067Asp	6200C>A	A2067D	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM102245	TTG-TCG	Leu2068Ser	6203T>C	L2068S	Ataxia telangiectasia	Anheim (2010) Neurogenetics 11:1	PubMed 19440741
+CM035781	AGGa-AGC	Arg2105Ser	6315G>C	R2105S	Ocular telangiectasia	Mauget-Faysse (2003) Invest Ophthalmol Vis Sci 44:3257	PubMed 12882767
+CM081162	AGG-ACG	Arg2105Thr	6314G>C	R2105T	Breast cancer, susceptibility to	Brunet (2008) Clin Genet 73:465	PubMed 18384426
+CM105435	gTGG-GGG	Trp2109Gly	6325T>G	W2109G	Ataxia telangiectasia, late-onset variant	Silvestri (2010) J Neurol 257:1738	PubMed 20480175
+CM080079	TGG-TAG	Trp2109Term	6326G>A	W2109X	Ataxia telangiectasia	Cavalieri (2008) Ann Hum Genet 72:10	PubMed 17910737
+CM035635	CAT-CGT	His2111Arg	6332A>G	H2111R	Breast cancer, susceptibility to	Sommer (2003) Cancer Genet Cytogenet 145:115	PubMed 12935922
+CM034873	CAT-CGT	His2125Arg	6374A>G	H2125R	Mantle cell lymphoma	Fang (2003) Proc Natl Acad Sci U S A 100:5372	PubMed 12697903
+CM122158	CGC-CCC	Arg2161Pro	6482G>C	R2161P	Ataxia telangiectasia	Verhagen (2012) Hum Mutat 33:561	PubMed 22213089
+CM121266	GAG-GCG	Glu2164Ala	6491A>C	E2164A	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM1110747	TCA-TGA	Ser2192Term	6575C>G	S2192X	Ataxia telangiectasia	Demuth (2011) Neurogenetics 12:273	PubMed 21965147
+CM990217	aCGC-TGC	Arg2227Cys	6679C>T	R2227C	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM121261	CAC-CCC	His2254Pro	6761A>C	H2254P	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM030779	tGAA-AAA	Glu2272Lys	6814G>A	E2272K	Acute lymphoblastic leukaemia Gumy	Pause (2003) Hum Mutat 21:554	PubMed 12673804
+CM016181	gGCA-ACA	Ala2274Thr	6820G>A	A2274T	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM0910515	tCAA-GAA	Gln2277Glu	6829C>G	Q2277E	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM077507	aCAG-TAG	Gln2280Term	6838C>T	Q2280X	Ataxia telangiectasia	Stray-Pedersen (2007) Eur J Paediatr Neurol 11:375	PubMed 17540590
+CM016182	GGA-GCA	Gly2287Ala	6860G>C	G2287A	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM075990	CAA-CCA	Gln2297Pro	6890A>C	Q2297P	Ataxia telangiectasia	Riise (2007) Acta Ophthalmol Scand 85:557	PubMed 17376192
+CM030780	gCAG-TAG	Gln2305Term	6913C>T	Q2305X	Ataxia telangiectasia	Saviozzi (2003) Hum Mutat 21:450	PubMed 12655570
+CM0910516	cCTA-GTA	Leu2330Val	6988C>G	L2330V	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM094664	CTG-CCG	Leu2338Pro	7013T>C	L2338P	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM0910517	AAC-AGC	Asn2343Ser	7028A>G	N2343S	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM085262	aGAA-TAA	Glu2366Term	7096G>T	E2366X	Ataxia telangiectasia	Du (2008) Mutat Res 640:139	PubMed 18321536
+CM083481	TCA-TTA	Ser2394Leu	7181C>T	S2394L	Multiple myelomas	Austen (2008) Br J Haematol 142:925	PubMed 18573109
+CM092586	ACT-AGT	Thr2396Ser	7187C>G	T2396S	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM0910518	ATT-ACT	Ile2401Thr	7202T>C	I2401T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM960103	GTA-GGA	Val2424Gly	7271T>G	V2424G	Ataxia telangiectasia	McConville (1996) Am J Hum Genet 59:320	PubMed 8755918
+CM035636	tAAA-GAA	Lys2431Glu	7291A>G	K2431E	Breast cancer, susceptibility to	Sommer (2003) Cancer Genet Cytogenet 145:115	PubMed 12935922
+CM092587	AACa-AAG	Asn2435Lys	7305C>G	N2435K	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM067643	TACa-TAA	Tyr2437Term	7311C>A	Y2437X	Ataxia telangiectasia	Renwick (2006) Nat Genet 38:873	PubMed 16832357
+CM0910519	GTA-GCA	Val2439Ala	7316T>C	V2439A	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM960104	gCGA-TGA	Arg2443Term	7327C>T	R2443X	Ataxia telangiectasia	Wright (1996) Am J Hum Genet 59:839	PubMed 8808599
+CM094665	CTG-CCG	Leu2452Pro	7355T>C	L2452P	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM016183	aTGT-CGT	Cys2464Arg	7390T>C	C2464R	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM014794	GCA-GTA	Ala2466Val	7397C>T	A2466V	Breast cancer, susceptibility to	Atencio (2001) Environ Mol Mutagen 38:200	PubMed 11746755
+CM990218	tTAT-GAT	Tyr2470Asp	7408T>G	Y2470D	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM0910520	ATGt-ATA	Met2482Ile	7446G>A	M2482I	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980148	TGGg-TGA	Trp2483Term	7449G>A	W2483X	Ataxia telangiectasia	Telatar (1998) Am J Hum Genet 62:86	PubMed 9443866
+CM030195	cCGA-TGA	Arg2486Term	7456C>T	R2486X	Ataxia telangiectasia	Buzin (2003) Hum Mutat 21:123	PubMed 12552559
+CM053098	tTGT-CGT	Cys2488Arg	7462T>C	C2488R	Ataxia telangiectasia	Cavaciuti (2005) Genes Chromosomes Cancer 42:1	PubMed 15390180
+CM0910521	TGT-TTT	Cys2488Phe	7463G>T	C2488F	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980149	cTGG-CGG	Trp2491Arg	7471T>C	W2491R	Ataxia telangiectasia	Fukao (1998) Hum Mutat 12:338	PubMed 9792410
+CM980150	TATa-TAA	Tyr2514Term	7542T>A	Y2514X	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM980151	TATa-TAG	Tyr2514Term	7542T>G	Y2514X	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM021946	gGCT-CCT	Ala2524Pro	7570G>C	A2524P	Ataxia telangiectasia	Allinen (2002) J Med Genet 39:192	PubMed 11897822
+CM0910522	ATG-ACG	Met2531Thr	7592T>C	M2531T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM095586	CTC-CGC	Leu2541Arg	7622T>G	L2541R	Ataxia telangiectasia, variant	Verhagen (2009) Neurology 73:430	PubMed 19535770
+CM980152	cCAT-GAT	His2554Asp	7660C>G	H2554D	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM0910523	GAA-GGA	Glu2570Gly	7709A>G	E2570G	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM024739	TCT-TGT	Ser2592Cys	7775C>G	S2592C	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM960105	tCGA-TGA	Arg2598Term	7792C>T	R2598X	Ataxia telangiectasia	Wright (1996) Am J Hum Genet 59:839	PubMed 8808599
+CM0910524	aCCT-TCT	Pro2614Ser	7840C>T	P2614S	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM107470	GCA-GTA	Ala2622Val	7865C>T	A2622V	Ataxia telangiectasia	Heinrich (2006) Eur J Pediatr 165:250	PubMed 16411093
+CM0910525	GAT-GGT	Asp2625Gly	7874A>G	D2625G	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM121259	tTAT-CAT	Tyr2627His	7879T>C	Y2627H	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM980153	TGG-TAG	Trp2638Term	7913G>A	W2638X	Ataxia telangiectasia	Sasaki (1998) Hum Mutat 12:186	PubMed 9711876
+CM960106	AGAa-AGC	Arg2642Ser	7926A>C	R2642S	Ataxia telangiectasia	Wright (1996) Am J Hum Genet 59:839	PubMed 8808599
+CM980154	CTT-CCT	Leu2656Pro	7967T>C	L2656P	Ataxia telangiectasia	Toyoshima (1998) Am J Med Genet 75:141	PubMed 9450874
+CM121265	GTT-GAT	Val2662Asp	7985T>A	V2662D	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM0910526	ATG-ACG	Met2667Thr	8000T>C	M2667T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980155	GAA-GGA	Glu2668Gly	8003A>G	E2668G	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM020266	TAT-TGT	Tyr2677Cys	8030A>G	Y2677C	Ataxia telangiectasia	Saviozzi (2002) J Med Genet 39:57	PubMed 11826028
+CM031642	ACT-AGT	Thr2682Ser	8045C>G	T2682S	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM035637	tCGC-TGC	Arg2691Cys	8071C>T	R2691C	Breast cancer, susceptibility to	Sommer (2003) Cancer Genet Cytogenet 145:115	PubMed 12935922
+CM034874	aAAT-GAT	Asn2697Asp	8089A>G	N2697D	Mantle cell lymphoma	Fang (2003) Proc Natl Acad Sci U S A 100:5372	PubMed 12697903
+CM094666	CCA-CTA	Pro2699Leu	8096C>T	P2699L	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM031643	AAAa-AAT	Lys2700Asn	8100A>T	K2700N	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM980156	aAAA-TAA	Lys2700Term	8098A>T	K2700X	Ataxia telangiectasia	Stankovic (1998) Am J Hum Genet 62:334	PubMed 9463314
+CM023336	ATA-AGA	Ile2702Arg	8105T>G	I2702R	Ataxia telangiectasia	Becker-Catania (2000) Mol Genet Metab 70:122	PubMed 10873394
+CM118670	tTGT-CGT	Cys2704Arg	8110T>C	C2704R	Ataxia telangiectasia	Demuth (2011) Neurogenetics 12:273	PubMed 21965147
+CM063855	cGAT-AAT	Asp2708Asn	8122G>A	D2708N	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM068640	GATg-GAA	Asp2708Glu	8124T>A	D2708E	Ataxia telangiectasia	Heinrich (2006) Eur J Pediatr 165:250	PubMed 16411093
+CM960107	aCAG-TAG	Gln2714Term	8140C>T	Q2714X	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM025322	GTT-GCT	Val2716Ala	8147T>C	V2716A	Ataxia telangiectasia	Scott (2002) Proc Natl Acad Sci U S A 99:925	PubMed 11805335
+CM0910527	CGT-CAT	Arg2719His	8156G>A	R2719H	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM990220	GCT-GTT	Ala2726Val	8177C>T	A2726V	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM031644	gCAA-TAA	Gln2729Term	8185C>T	Q2729X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM094663	CAG-CCG	Gln2730Pro	8189A>C	Q2730P	Ataxia telangiectasia	Barone (2009) Hum Mutat 30:1222	PubMed 19431188
+CM960108	tAAG-TAG	Lys2756Term	8266A>T	K2756X	Ataxia telangiectasia	Telatar (1996) Am J Hum Genet 59:40	PubMed 8659541
+CM080077	gCGA-TGA	Arg2763Term	8287C>T	R2763X	Ataxia telangiectasia	Cavalieri (2008) Ann Hum Genet 72:10	PubMed 17910737
+CM994662	tGGT-AGT	Gly2765Ser	8293G>A	G2765S	Breast cancer, susceptibility to	Izatt (1999) Genes Chromosomes Cancer 26:286	PubMed 10534763
+CM960109	TGGt-TGA	Trp2769Term	8307G>A	W2769X	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM016184	aGGA-AGA	Gly2772Arg	8314G>A	G2772R	Breast cancer, susceptibility to	Dörk (2001) Cancer Res 61:7608	PubMed 11606401
+CM980157	TACa-TAA	Tyr2791Term	8373C>A	Y2791X	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM973666	TGC-TAC	Cys2824Tyr	8471G>A	C2824Y	Ataxia telangiectasia	Watters (1997) Oncogene 14:1911	PubMed 9150358
+CM063854	cCAA-TAA	Gln2825Term	8473C>T	Q2825X	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM960110	TTT-TGT	Phe2827Cys	8480T>G	F2827C	Ataxia telangiectasia	McConville (1996) Am J Hum Genet 59:320	PubMed 8755918
+CM044850	tTTT-ATT	Phe2827Ile	8479T>A	F2827I	Ataxia telangiectasia	Fernet (2004) Br J Cancer 90:866	PubMed 14970866
+CM980158	CCA-CTA	Pro2829Leu	8486C>T	P2829L	Ataxia telangiectasia	Sasaki (1998) Hum Mutat 12:186	PubMed 9711876
+CM044576	GTT-GGT	Val2830Gly	8489T>G	V2830G	Ataxia telangiectasia	Fernet (2004) Br J Cancer 90:866	PubMed 14970866
+CM980159	cCGT-TGT	Arg2832Cys	8494C>T	R2832C	Ataxia telangiectasia	Telatar (1998) Am J Hum Genet 62:86	PubMed 9443866
+CM0910475	TGGt-TGA	Trp2845Term	8535G>A	W2845X	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM990219	CGA-CCA	Arg2849Pro	8546G>C	R2849P	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM990221	gCGA-TGA	Arg2849Term	8545C>T	R2849X	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM092588	gCGC-TGC	Arg2854Cys	8560C>T	R2854C	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM990222	AGTg-AGA	Ser2855Arg	8565T>A	S2855R	Ataxia telangiectasia	Castellvi-Bel (1999) Hum Mutat 14:156	PubMed 10425038
+CM960111	tGGA-CGA	Gly2867Arg	8599G>C	G2867R	Ataxia telangiectasia	Baumer (1996) Hum Genet 98:246	PubMed 8698354
+CM031645	aCAG-TAG	Gln2874Term	8620C>T	Q2874X	Ataxia telangiectasia	Mitui (2003) Hum Mutat 22:43	PubMed 12815592
+CM102244	AAT-AGT	Asn2875Ser	8624A>G	N2875S	Ataxia telangiectasia	Anheim (2010) Neurogenetics 11:1	PubMed 19440741
+CM052168	ATA-AGA	Ile2878Arg	8633T>G	I2878R	Ataxia telangiectasia	Babaei (2005) Hum Genet 117:101	PubMed 15843990
+CM0910528	aCAT-GAT	His2887Asp	8659C>G	H2887D	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910529	GGT-GAT	Gly2891Asp	8672G>A	G2891D	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM960112	GAG-GGG	Glu2904Gly	8711A>G	E2904G	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835
+CM980160	tAGA-GGA	Arg2909Gly	8725A>G	R2909G	Ataxia telangiectasia	Fukao (1998) Hum Mutat 12:338	PubMed 9792410
+CM046089	AGA-ACA	Arg2909Thr	8726G>C	R2909T	Ataxia telangiectasia	Coutinho (2004) Am J Med Genet A 126A:33	PubMed 15039971
+CM014034	cAGA-GGA	Arg2912Gly	8734A>G	R2912G	Breast cancer, susceptibility to	Teraoka (2001) Cancer 92:479	PubMed 11505391
+CM121262	aGAT-TAT	Asp2913Tyr	8737G>T	D2913Y	Ataxia telangiectasia	Jacquemin (2012) Eur J Hum Genet 20:305	PubMed 22071889
+CM0910530	ATT-ACT	Ile2914Thr	8741T>C	I2914T	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM0910764	GGC-GAC	Gly2919Asp	8756G>A	G2919D	Ataxia telangiectasia	Nahas (2009) Clin Chem 55:463	PubMed 19147735
+CM990223	TGTg-TGA	Cys2931Term	8793T>A	C2931X	Ataxia telangiectasia	Sandoval (1999) Hum Mol Genet 8:69	PubMed 9887333
+CM094724	GAGg-GAT	Glu2950Asp	8850G>T	E2950D	Ataxia telangiectasia	Chessa (2009) Ann Hum Genet 73:532	PubMed 19691550
+CM000655	TGG-TAG	Trp2960Term	8879G>A	W2960X	Ataxia telangiectasia	Li (2000) Am J Med Genet 92:170	PubMed 10817650
+CM980161	aGAA-TAA	Glu2990Term	8968G>T	E2990X	Breast cancer, susceptibility to	Chen (1998) Cancer Res 58:1376	PubMed 9537233
+CM960113	aCGA-TGA	Arg2993Term	8977C>T	R2993X	Ataxia telangiectasia	Vorechovsky (1996) Eur J Hum Genet 4:352	PubMed 9043869
+CM0910531	AAC-AGC	Asn3003Ser	9008A>G	N3003S	Breast cancer, susceptibility to	Tavtigian (2009) Am J Hum Genet 85:427	PubMed 19781682
+CM980162	tGAA-TAA	Glu3007Term	9019G>T	E3007X	Ataxia telangiectasia	Broeks (1998) Hum Mutat 12:330	PubMed 9792409
+CM000656	aCGT-TGT	Arg3008Cys	9022C>T	R3008C	Ataxia telangiectasia	Hacia (1998) Genome Res 8:1245	PubMed 9872980
+CM092589	CGT-CAT	Arg3008His	9023G>A	R3008H	Breast cancer	Paglia (2009) Breast Cancer Res Treat 119:443	PubMed 19404735
+CM002225	TTA-TGA	Leu3010Term	9029T>G	L3010X	Ataxia telangiectasia	Laake (2000) Hum Mutat 16:232	PubMed 10980530
+CM014035	aATG-GTG	Met3011Val	9031A>G	M3011V	Breast cancer, susceptibility to	Teraoka (2001) Cancer 92:479	PubMed 11505391
+CM063857	gCTC-TTC	Leu3035Phe	9103C>T	L3035F	Ataxia telangiectasia	Cavalieri (2006) Hum Mutat 27:1061	PubMed 16941484
+CM960114	cCGA-TGA	Arg3047Term	9139C>T	R3047X	Ataxia telangiectasia	McConville (1996) Am J Hum Genet 59:320	PubMed 8755918
+CM080078	gTGA-GGA	Term3057Gly	9169T>G	X3057G	Ataxia telangiectasia	Cavalieri (2008) Ann Hum Genet 72:10	PubMed 17910737
+CM960115	TGA-TCA	Term3057Ser	9170G>C	X3057S	Ataxia telangiectasia	Gilad (1996) Hum Mol Genet 5:433	PubMed 8845835

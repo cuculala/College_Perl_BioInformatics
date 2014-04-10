@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM053428	cTTA-ATA	Leu1677Ile	5029T>A	L1677I	Adult asthma, association with	Matsuda (2005) Hum Mol Genet 14:2779	PubMed 16115819
+CM067722	cGCC-ACC	Ala1781Thr	5341G>A	A1781T	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161

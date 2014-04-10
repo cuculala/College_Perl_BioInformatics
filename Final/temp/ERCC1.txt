@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM070924	gCAG-TAG	Gln158Term	472C>T	Q158X	Cerebro-oculo-facio-skeletal syndrome	Jaspers (2007) Am J Hum Genet 80:457	PubMed 17273966
+CM070925	TTCg-TTG	Phe231Leu	693C>G	F231L	Cerebro-oculo-facio-skeletal syndrome	Jaspers (2007) Am J Hum Genet 80:457	PubMed 17273966

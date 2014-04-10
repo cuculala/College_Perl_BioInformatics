@@ -1,0 +1,70 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM116659	cCTG-ATG	Leu13Met	37C>A	L13M	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM116660	gCTG-ATG	Leu14Met	40C>A	L14M	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM103158	gCCC-TCC	Pro33Ser	97C>T	P33S	Pulmonary fibrosis, idiopathic	Tsakiri (2007) Proc Natl Acad Sci U S A 104:7552	PubMed 17460043
+CM072079	CTG-CAG	Leu55Gln	164T>A	L55Q	Pulmonary fibrosis, idiopathic	Armanios (2007) N Engl J Med 356:1317	PubMed 17392301
+CM117586	gGTG-CTG	Val56Leu	166G>C	V56L	Aplastic anaemia	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM090442	gCCC-GCC	Pro65Ala	193C>G	P65A	Acute myeloid leukaemia	Calado (2009) Proc Natl Acad Sci U S A 106:1187	PubMed 19147845
+CM117588	CGA-CCA	Arg83Pro	248G>C	R83P	Aplastic anaemia / myelodysplastic syndrome	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM105088	cGTG-TTG	Val96Leu	286G>T	V96L	Dyskeratosis congenita	Aspesi (2010) Pediatr Blood Cancer 55:550	PubMed 20658629
+BM1199409	GAG-GTG	Glu113Val	338A>T	E113V	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM105089	cGTG-TTG	Val119Leu	355G>T	V119L	Dyskeratosis congenita	Aspesi (2010) Pediatr Blood Cancer 55:550	PubMed 20658629
+CM103159	cGTG-ATG	Val144Met	430G>A	V144M	Pulmonary fibrosis, idiopathic	Tsakiri (2007) Proc Natl Acad Sci U S A 104:7552	PubMed 17460043
+CM113500	gGTG-ATG	Val170Met	508G>A	V170M	Aplastic anaemia & pulmonary fibrosis	Parry (2011) Blood 117:5607	PubMed 21436073
+CM054145	gGCC-ACC	Ala202Thr	604G>A	A202T	Aplastic anaemia	Yamaguchi (2005) N Engl J Med 352:1413	PubMed 15814878
+CM0910920	GGC-GAC	Gly260Asp	779G>A	G260D	Aplastic anaemia	Calado (2009) Eur J Clin Invest 39:1025	PubMed 19674077
+CM090443	cGTG-ATG	Val299Met	895G>A	V299M	Acute myeloid leukaemia	Calado (2009) Proc Natl Acad Sci U S A 106:1187	PubMed 19147845
+CM099145	TCC-TTC	Ser368Phe	1103C>T	S368F	Pulmonary fibrosis, idiopathic	Calado (2009) PLoS One 4:e7926	PubMed 19936245
+CM116661	gCCC-TCC	Pro380Ser	1138C>T	P380S	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM117589	CGC-CCC	Arg381Pro	1142G>C	R381P	Dyskeratosis congenita	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM054144	gCAC-TAC	His412Tyr	1234C>T	H412Y	Aplastic anaemia	Yamaguchi (2005) N Engl J Med 352:1413	PubMed 15814878
+CM103160	cCGC-TGC	Arg486Cys	1456C>T	R486C	Pulmonary fibrosis, idiopathic	Tsakiri (2007) Proc Natl Acad Sci U S A 104:7552	PubMed 17460043
+CM090444	AGG-AAG	Arg522Lys	1565G>A	R522K	Acute myeloid leukaemia	Calado (2009) Proc Natl Acad Sci U S A 106:1187	PubMed 19147845
+CM113236	CCG-CTG	Pro530Leu	1589C>T	P530L	Cirrhosis	Calado (2011) Hepatology 53:1600	PubMed 21520173
+CM074595	AAGa-AAC	Lys570Asn	1710G>C	K570N	Aplastic anaemia	Xin (2007) Blood 109:524	PubMed 16990594
+CM083181	CGG-CAG	Arg631Gln	1892G>A	R631Q	Dyskeratosis congenita	Basel-Vanagaite (2008) Haematologica 93:943	PubMed 18460650
+CM103164	gCGG-TGG	Arg671Trp	2011C>T	R671W	Pulmonary fibrosis, idiopathic Diaz de	Leon (2010) PLoS One 5:e10680	PubMed 20502709
+CM066608	GGC-GAC	Gly682Asp	2045G>A	G682D	Aplastic anaemia	Liang (2006) Haematologica 91:656	PubMed 16627250
+CM054142	cGTG-ATG	Val694Met	2080G>A	V694M	Aplastic anaemia	Yamaguchi (2005) N Engl J Med 352:1413	PubMed 15814878
+CM086700	CCG-CTG	Pro702Leu	2105C>T	P702L	Pulmonary fibrosis, adult-onset	Cronkhite (2008) Am J Respir Crit Care Med 178:729	PubMed 18635888
+CM080570	gCCT-TCT	Pro704Ser	2110C>T	P704S	Dyskeratosis congenita	Du (2008) Blood 111:1128	PubMed 18042801
+CM113502	cGCG-ACG	Ala716Thr	2146G>A	A716T	Aplastic anaemia & pulmonary fibrosis	Parry (2011) Blood 117:5607	PubMed 21436073
+CM090170	GCG-GTG	Ala716Val	2147C>T	A716V	Aplastic anaemia	Du (2009) Blood 113:309	PubMed 18931339
+CM117590	cGAC-AAC	Asp718Asn	2152G>A	D718N	Dyskeratosis congenita	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM067049	CCC-CGC	Pro721Arg	2162C>G	P721R	Dyskeratosis congenita	Vulliamy (2006) Blood 107:2680	PubMed 16332973
+CM066607	ACG-ATG	Thr726Met	2177C>T	T726M	Aplastic anaemia	Liang (2006) Haematologica 91:656	PubMed 16627250
+CM054146	TAC-TGC	Tyr772Cys	2315A>G	Y772C	Aplastic anaemia	Yamaguchi (2005) N Engl J Med 352:1413	PubMed 15814878
+CM096690	CCG-CTG	Pro785Leu	2354C>T	P785L	Acute myeloid leukaemia	Kirwan (2009) Hum Mutat 30:1567	PubMed 19760749
+CM076555	aCGC-TGC	Arg811Cys	2431C>T	R811C	Dyskeratosis congenita	Marrone (2007) Blood 110:4198	PubMed 17785587
+CM113503	gCTC-TTC	Leu841Phe	2521C>T	L841F	Pulmonary fibrosis, idiopathic	Parry (2011) Blood 117:5607	PubMed 21436073
+CM080571	TAC-TGC	Tyr846Cys	2537A>G	Y846C	Dyskeratosis congenita	Du (2008) Blood 111:1128	PubMed 18042801
+CM111452	cGGG-AGG	Gly861Arg	2581G>A	G861R	Pulmonary fibrosis, idiopathic Diaz de	Leon (2011) Chest 140:753	PubMed 21349926
+CM103161	gCGT-TGT	Arg865Cys	2593C>T	R865C	Pulmonary fibrosis, idiopathic	Tsakiri (2007) Proc Natl Acad Sci U S A 104:7552	PubMed 17460043
+CM072078	CGT-CAT	Arg865His	2594G>A	R865H	Pulmonary fibrosis, idiopathic	Tsakiri (2007) Proc Natl Acad Sci U S A 104:7552	PubMed 17460043
+CM103165	gGTG-ATG	Val867Met	2599G>A	V867M	Pulmonary fibrosis, idiopathic Diaz de	Leon (2010) PLoS One 5:e10680	PubMed 20502709
+CM080569	CACc-CAG	His876Gln	2628C>G	H876Q	Dyskeratosis congenita	Du (2008) Blood 111:1128	PubMed 18042801
+CM116662	cGCG-TCG	Ala880Ser	2638G>T	A880S	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM113237	ACC-ATC	Thr882Ile	2645C>T	T882I	Cirrhosis	Calado (2011) Hepatology 53:1600	PubMed 21520173
+CM0910921	cCGA-TGA	Arg889Term	2665C>T	R889X	Aplastic anaemia	Calado (2009) Eur J Clin Invest 39:1025	PubMed 19674077
+CM076556	gCGG-TGG	Arg901Trp	2701C>T	R901W	Hoyeraal-Hreidarsson syndrome	Marrone (2007) Blood 110:4198	PubMed 17785587
+CM054141	AAGa-AAC	Lys902Asn	2706G>C	K902N	Dyskeratosis congenita	Armanios (2005) Proc Natl Acad Sci U S A 102:15960	PubMed 16247010
+CM124738	CCG-CTG	Pro923Leu	Not	yet	available Not yet available Pulmonary fibrosis, idiopathic	Gansner (2012) N Engl J Med 366:1551	PubMed 22512499
+CM103166	CACg-CAA	His925Gln	2775C>A	H925Q	Pulmonary fibrosis, idiopathic Diaz de	Leon (2010) PLoS One 5:e10680	PubMed 20502709
+CM103162	cCGG-TGG	Arg951Trp	2851C>T	R951W	Pulmonary fibrosis, idiopathic Diaz de	Leon (2010) PLoS One 5:e10680	PubMed 20502709
+CM086702	cAGT-CGT	Ser957Arg	2869A>C	S957R	Pulmonary fibrosis, adult-onset	Cronkhite (2008) Am J Respir Crit Care Med 178:729	PubMed 18635888
+CM117591	CGC-CAC	Arg972His	2915G>A	R972H	Dyskeratosis congenita	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM056412	gCGG-TGG	Arg979Trp	2935C>T	R979W	Aplastic anaemia	Vulliamy (2005) Blood Cells Mol Dis 34:257	PubMed 15885610
+CM090171	aTGT-CGT	Cys1015Arg	3043T>C	C1015R	Aplastic anaemia	Du (2009) Blood 113:309	PubMed 18931339
+CM086701	gCTC-TTC	Leu1019Phe	3055C>T	L1019F	Pulmonary fibrosis, adult-onset	Cronkhite (2008) Am J Respir Crit Care Med 178:729	PubMed 18635888
+CM113501	aGTT-TTT	Val1025Phe	3073G>T	V1025F	Aplastic anaemia & pulmonary fibrosis	Parry (2011) Blood 117:5607	PubMed 21436073
+CM117592	gAAC-CAC	Asn1028His	3082A>C	N1028H	Dyskeratosis congenita	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702
+CM086699	cAAG-GAG	Lys1050Glu	3148A>G	K1050E	Pulmonary fibrosis, adult-onset	Cronkhite (2008) Am J Respir Crit Care Med 178:729	PubMed 18635888
+CM113235	cGCC-ACC	Ala1062Thr	3184G>A	A1062T	Cirrhosis, association with	Calado (2011) Hepatology 53:1600	PubMed 21520173
+CM103163	cGGC-AGC	Gly1063Ser	3187G>A	G1063S	Pulmonary fibrosis, idiopathic Diaz de	Leon (2010) PLoS One 5:e10680	PubMed 20502709
+CM107257	CGA-CCA	Arg1084Pro	3251G>C	R1084P	Pulmonary fibrosis, idiopathic	El-Chemaly (2011) Chest 135:1203	PubMed 20966039
+CM054143	cGTG-ATG	Val1090Met	3268G>A	V1090M	Aplastic anaemia	Yamaguchi (2005) N Engl J Med 352:1413	PubMed 15814878
+CM116663	gGGG-AGG	Gly1109Arg	3325G>A	G1109R	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM072077	ACG-ATG	Thr1110Met	3329C>T	T1110M	Pulmonary fibrosis, idiopathic	Armanios (2007) N Engl J Med 356:1317	PubMed 17392301
+CM116664	gGAG-CAG	Glu1116Gln	3346G>C	E1116Q	Cirrhosis	Hartmann (2011) Hepatology 53:1608	PubMed 21520174
+CM056411	cTTC-CTC	Phe1127Leu	3379T>C	F1127L	Dyskeratosis congenita	Vulliamy (2005) Blood Cells Mol Dis 34:257	PubMed 15885610
+CM117593	cATC-GTC	Ile1130Val	3388A>G	I1130V	Aplastic anaemia	Vulliamy (2011) PLoS One 6:e24383	PubMed 21931702

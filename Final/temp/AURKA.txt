@@ -1,0 +1,6 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM042940	aTTT-ATT	Phe31Ile	91T>A	F31I	Oesophageal cancer, association with	Miao (2004) Cancer Res 64:2680	PubMed 15087379
+CM051389	cGTT-ATT	Val57Ile	169G>A	V57I	Oesophageal cancer, association with	Kimura (2005) Cancer Res 65:3548	PubMed 15867347
+CM0910902	GCA-GTA	Ala213Val	638C>T	A213V	Breast cancer	Guénard (2009) J Hum Genet 54:152	PubMed 19197335
+CM0910901	GTA-GAA	Val377Glu	1130T>A	V377E	Breast cancer	Guénard (2009) J Hum Genet 54:152	PubMed 19197335
+CM071567	cCAA-TAA	Gln394Term	1180C>T	Q394X	Potential protein deficiency	Greenman (2007) Nature 446:153	PubMed 17344846

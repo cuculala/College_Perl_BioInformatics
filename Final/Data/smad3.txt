@@ -1,0 +1,9 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM116904	GCC-GTC	Ala112Val	335C>T	A112V	Thoracic aortic aneurysms & dissections	Regalado (2011) Circ Res 109:680	PubMed 21778426
+CM032008	AAC-ATC	Asn197Ile	590A>T	N197I	Osteoarthritis	Yao (2003) Eur J Hum Genet 11:714	PubMed 12939660
+CM116903	cGAG-AAG	Glu239Lys	715G>A	E239K	Thoracic aortic aneurysms & dissections	Regalado (2011) Circ Res 109:680	PubMed 21778426
+CM110723	ACC-ATC	Thr261Ile	782C>T	T261I	Aortic aneurysms & dissections with early-onset osteoarthritis van de	Laar (2011) Nat Genet 43:121	PubMed 21217753
+CM1110158	CCC-CTC	Pro263Leu	788C>T	P263L	Aneurysms-osteoarthritis syndrome van de	Laar (2012) J Med Genet 49:47	PubMed 22167769
+CM116902	AGG-AAG	Arg279Lys	836G>A	R279K	Thoracic aortic aneurysms & dissections	Regalado (2011) Circ Res 109:680	PubMed 21778426
+CM110722	aCGG-TGG	Arg287Trp	859C>T	R287W	Aortic aneurysms & dissections with early-onset osteoarthritis van de	Laar (2011) Nat Genet 43:121	PubMed 21217753
+CM1110157	cGCT-CCT	Ala349Pro	1045G>C	A349P	Aneurysms-osteoarthritis syndrome van de	Laar (2012) J Med Genet 49:47	PubMed 22167769

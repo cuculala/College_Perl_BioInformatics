@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM005460	AGA-AAA	Arg554Lys	1661G>A	R554K	Higher induced CYP1A1 activity	Smart (2000) Pharmacogenetics 10:11	PubMed 10739168

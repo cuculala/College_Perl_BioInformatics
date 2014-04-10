@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM090528	gCAC-TAC	His149Tyr	445C>T	H149Y	Oral cancer, association with	Chung (2009) Carcinogenesis 30:286	PubMed 19126640
+CM973382	CGC-CAC	Arg213His	638G>A	R213H	Reduced PST activity	Raftogianis (1997) Biochem Biophys Res Commun 239:298	PubMed 9345314

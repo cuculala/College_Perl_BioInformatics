@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM030722	CCC-CTC	Pro199Leu	596C>T	P199L	Mitomycin-C resistance	Rafii (2003) Hum Mol Genet 12:915	PubMed 12668615
+CM030723	cGAC-AAC	Asp213Asn	637G>A	D213N	XRCC3 deficiency	Rafii (2003) Hum Mol Genet 12:915	PubMed 12668615
+CM003625	ACG-ATG	Thr241Met	722C>T	T241M	Melanoma, association with	Winsey (2000) Cancer Res 60:5612	PubMed 11059748

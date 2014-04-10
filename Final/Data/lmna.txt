@@ -1,0 +1,213 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM0910021	CCG-CGG	Pro4Arg	11C>G	P4R	Progeroid syndrome, atypical	Garg (2009) J Clin Endocrinol Metab 94:4971	PubMed 19875478
+CM990812	cCAG-TAG	Gln6Term	16C>T	Q6X	Muscular dystrophy, Emery-Dreifuss	Bonne (1999) Nat Genet 21:285	PubMed 10080180
+CM040766	ACC-ATC	Thr10Ile	29C>T	T10I	Seip syndrome	Csoka (2004) J Med Genet 41:304	PubMed 15060110
+CM034242	TCG-TTG	Ser22Leu	65C>T	S22L	Cardiomyopathy, dilated	Novelli (2003) Trends Mol Med 9:370	PubMed 13129702
+CM033627	cCGC-GGC	Arg25Gly	73C>G	R25G	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM012995	CGC-CCC	Arg25Pro	74G>C	R25P	Muscular dystrophy, Emery-Dreifuss	Brown (2001) Am J Med Genet 102:359	PubMed 11503164
+CM109575	CGG-CAG	Arg28Gln	83G>A	R28Q	Muscular dystrophy, limb girdle	Mitsuhashi (2010) J Cell Sci 123:3893	PubMed 20980393
+CM023094	cCGG-TGG	Arg28Trp	82C>T	R28W	Partial lipodystrophy, Dunnigan	Garg (2002) Am J Med 112:549	PubMed 12015247
+CM123360	gGAG-AAG	Glu31Lys	91G>A	E31K	Muscular dystrophy, lamin A/C-related	Menezes (2012) Neurology 78:1258	PubMed 22491857
+CM117890	gAAG-GAG	Lys32Glu	94A>G	K32E	Muscular dystrophy, LMNA-related	Monges (2011) Neuromuscul Disord 21:663 Source:	Meeting abstract
+CM043515	GAGg-GAT	Glu33Asp	99G>T	E33D	Charcot-Marie-Tooth disease 2	Goizet (2004) J Med Genet 41:e29	PubMed 14985400
+CM043516	GAG-GGG	Glu33Gly	98A>G	E33G	Muscular dystrophy, Emery-Dreifuss	Goizet (2004) J Med Genet 41:e29	PubMed 14985400
+CM107023	CTG-CCG	Leu35Pro	104T>C	L35P	Muscular dystrophy	Chemla (2010) Muscle Nerve 42:839	PubMed 20886652
+CM033628	cCTG-GTG	Leu35Val	103C>G	L35V	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+HM080087	gCAG-TAG	Gln36Term	106C>T	Q36X	Cardiomyopathy, dilated & cardiac conduction disease	Arbustini (2009) Hum Genet 125:350 Source:	Online submission
+CM116271	cAAT-GAT	Asn39Asp	115A>G	N39D	Inflammatory myopathy	Komaki (2011) Neuromuscul Disord 21:563	PubMed 21632249
+CM083713	AAT-AGT	Asn39Ser	116A>G	N39S	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM105909	cAAT-TAT	Asn39Tyr	115A>T	N39Y	Muscular dystrophy	Prigogine (2010) Pediatr Neurol 43:283	PubMed 20837309
+CM109577	tCGC-TGC	Arg41Cys	121C>T	R41C	Muscular dystrophy	Mitsuhashi (2010) J Cell Sci 123:3893	PubMed 20980393
+CM109576	tCGC-AGC	Arg41Ser	121C>A	R41S	Myopathy, infantile inflammatory	Mitsuhashi (2010) J Cell Sci 123:3893	PubMed 20980393
+CM012996	gGCG-ACG	Ala43Thr	127G>A	A43T	Muscular dystrophy, Emery-Dreifuss	Brown (2001) Am J Med Genet 102:359	PubMed 11503164
+CM002044	TAC-TGC	Tyr45Cys	134A>G	Y45C	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM064105	cGAC-CAC	Asp47His	139G>C	D47H	Muscular dystrophy, Emery-Dreifuss	Rudenskaia (2006) Zh Nevrol Psikhiatr Im S S Korsakova 106:58	PubMed 17117676
+CM077592	cGAC-TAC	Asp47Tyr	139G>T	D47Y	Lipodystrophy and/or insulin-resistance	Caron (2007) Cell Death Differ 14:1759	PubMed 17612587
+CM002045	CGC-CCC	Arg50Pro	149G>C	R50P	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM012997	gCGC-AGC	Arg50Ser	148C>A	R50S	Muscular dystrophy, Emery-Dreifuss	Brown (2001) Am J Med Genet 102:359	PubMed 11503164
+CM066914	CTG-CCG	Leu52Pro	155T>C	L52P	Muscular dystrophy, Emery-Dreifuss	Rudenskaia (2006) Zh Nevrol Psikhiatr Im S S Korsakova 106:58	PubMed 17117676
+CM122837	gCTG-GTG	Leu52Val	154C>G	L52V	Cardiomyopathy, dilated	Lakdawala (2012) J Card Fail 18:296	PubMed 22464770
+CM073179	GAA-GTA	Glu53Val	158A>T	E53V	Cardiomyopathy, dilated	Song (2007) Exp Mol Med 39:114	PubMed 17334235
+CM032281	cGCA-CCA	Ala57Pro	169G>C	A57P	Werner syndrome, atypical	Chen (2003) Lancet 362:440	PubMed 12927431
+CM070189	CTG-CGG	Leu59Arg	176T>G	L59R	Mandibuloacral dysplasia	Nguyen (2007) Biochem Biophys Res Commun 352:603	PubMed 17150192
+CM993177	gCGC-GGC	Arg60Gly	178C>G	R60G	Cardiomyopathy, dilated	Fatkin (1999) N Engl J Med 341:1715	PubMed 10580070
+CM023095	tCGC-GGC	Arg62Gly	184C>G	R62G	Partial lipodystrophy, Dunnigan	Garg (2002) Am J Med 112:549	PubMed 12015247
+CM034958	ATC-AAC	Ile63Asn	188T>A	I63N	Muscular dystrophy, Emery-Dreifuss	Boriani (2003) Stroke 34:901	PubMed 12649505
+CM002046	ATC-AGC	Ile63Ser	188T>G	I63S	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM033629	GAG-GGG	Glu65Gly	194A>G	E65G	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM1110470	cCGC-TGC	Arg72Cys	214C>T	R72C	Arrhythmogenic right ventricular cardiomyopathy	Quarta (2011) Eur Heart J :	PubMed 22199124
+CM122836	CGC-CTC	Arg72Leu	215G>T	R72L	Cardiomyopathy, dilated	Lakdawala (2012) J Card Fail 18:296	PubMed 22464770
+CM034243	cGAG-AAG	Glu82Lys	244G>A	E82K	Cardiomyopathy, dilated	Novelli (2003) Trends Mol Med 9:370	PubMed 13129702
+CM993178	CTC-CGC	Leu85Arg	254T>G	L85R	Cardiomyopathy, dilated	Fatkin (1999) N Engl J Med 341:1715	PubMed 10580070
+CM066913	CTC-CCC	Leu85Pro	254T>C	L85P	Muscular dystrophy, Emery-Dreifuss	Mittelbronn (2006) Brain Pathol 16:266	PubMed 17107595
+CM033086	CGC-CTC	Arg89Leu	266G>T	R89L	Cardiomyopathy, dilated	Taylor (2003) J Am Coll Cardiol 41:771	PubMed 12628721
+CM077196	cCTT-TTT	Leu92Phe	274C>T	L92F	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM022420	cAAG-GAG	Lys97Glu	289A>G	K97E	Cardiomyopathy, dilated	Arbustini (2002) J Am Coll Cardiol 39:981	PubMed 11897440
+CM082918	CGC-CCC	Arg101Pro	302G>C	R101P	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM078084	CTG-CCG	Leu102Pro	305T>C	L102P	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM0910023	tGAG-AAG	Glu111Lys	331G>A	E111K	Progeroid syndrome, atypical	Garg (2009) J Clin Endocrinol Metab 94:4971	PubMed 19875478
+CM022421	tGAG-TAG	Glu111Term	331G>T	E111X	Cardiomyopathy, dilated	Arbustini (2002) J Am Coll Cardiol 39:981	PubMed 11897440
+CM078079	GGT-GCT	Gly125Ala	374G>C	G125A	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM065293	gGCT-CCT	Ala132Pro	394G>C	A132P	Cardiomyopathy, dilated	Karkkainen (2006) Heart 92:524	PubMed 16537768
+CM032006	CGG-CTG	Arg133Leu	398G>T	R133L	Lipodystrophy and insulin-resistance	Caux (2003) J Clin Endocrinol Metab 88:1006	PubMed 12629077
+CM012998	CGG-CCG	Arg133Pro	398G>C	R133P	Muscular dystrophy, Emery-Dreifuss	Brown (2001) Am J Med Genet 102:359	PubMed 11503164
+CM0910022	gGAC-CAC	Asp136His	406G>C	D136H	Progeroid syndrome, atypical	Garg (2009) J Clin Endocrinol Metab 94:4971	PubMed 19875478
+CM064108	gGAG-AAG	Glu138Lys	412G>A	E138K	Hutchinson-Gilford progeria syndrome/mandibuloacral dysplasia	Lehwald (2007) J Pediatr Neurol 5:143 PubMed: No	PubMed ID
+CM032282	CTG-CGG	Leu140Arg	419T>G	L140R	Werner syndrome, atypical	Chen (2003) Lancet 362:440	PubMed 12927431
+CM034959	CTG-CCG	Leu140Pro	419T>C	L140P	Muscular dystrophy, Emery-Dreifuss	Boriani (2003) Stroke 34:901	PubMed 12649505
+CM050287	TCC-TTC	Ser143Phe	428C>T	S143F	Myopathy, early-onset and progeria	Kirschner (2005) Ann Neurol 57:148	PubMed 15622532
+CM042736	cTCC-CCC	Ser143Pro	427T>C	S143P	Cardiomyopathy, dilated	Karkkainen (2004) Eur Heart J 25:885	PubMed 15140538
+CM033970	gGAG-AAG	Glu145Lys	433G>A	E145K	Hutchinson-Gilford progeria syndrome	Eriksson (2003) Nature 423:293	PubMed 12714972
+CM002047	cACT-CCT	Thr150Pro	448A>C	T150P	Muscular dystrophy, Emery-Dreifuss	Felice (2000) Neurology 55:275	PubMed 10908904
+CM121337	ACGc-ACA	Thr157Thr	471G>A	T157T	Muscular dystrophy, limb girdle	Magagnotti (2012) Biochim Biophys Acta epub:epub	PubMed 22326558
+CM0910019	gGAG-AAG	Glu159Lys	475G>A	E159K	Progeroid syndrome, atypical	Garg (2009) J Clin Endocrinol Metab 94:4971	PubMed 19875478
+CM032007	cGAG-AAG	Glu161Lys	481G>A	E161K	Cardiomyopathy, dilated	Sebillon (2003) J Med Genet 40:560	PubMed 12920062
+CM085515	CTG-CCG	Leu162Pro	485T>C	L162P	Muscular dystrophy, Emery-Dreifuss	Kim (2008) Muscle Nerve 38:1336	PubMed 18816602
+CM082919	CGG-CCG	Arg166Pro	497G>C	R166P	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM088077	CTT-CCT	Leu183Pro	548T>C	L183P	Cardiomyopathy, dilated	Pasotti (2008) J Am Coll Cardiol 52:1250	PubMed 18926329
+CM073180	tGAG-AAG	Glu186Lys	556G>A	E186K	Cardiomyopathy, dilated	Song (2007) Exp Mol Med 39:114	PubMed 17334235
+CM101732	gCGG-TGG	Arg189Trp	565C>T	R189W	Cardiomyopathy, dilated	Botto (2010) Cardiovascular ultrasound 8:9	PubMed 20307303
+CM050658	CGG-CAG	Arg190Gln	569G>A	R190Q	Muscular dystrophy, Emery-Dreifuss	Cenni (2005) J Med Genet 42:214	PubMed 15744034
+CM022422	gCGG-TGG	Arg190Trp	568C>T	R190W	Cardiomyopathy, dilated	Arbustini (2002) J Am Coll Cardiol 39:981	PubMed 11897440
+CM052891	GAT-GGT	Asp192Gly	575A>G	D192G	Cardiomyopathy, dilated	Sylvius (2005) J Med Genet 42:639	PubMed 16061563
+CM045462	GAT-GTT	Asp192Val	575A>T	D192V	Cardiomyopathy, dilated	Brette (2004) Arch Mal Coeur Vaiss 97:973	PubMed 16008174
+CM078048	AACa-AAA	Asn195Lys	585C>A	N195K	Cardiomyopathy, dilated & cardiac conduction disease van	Tintelen (2007) Am Heart J 154:1130	PubMed 18035086
+CM993179	AACa-AAG	Asn195Lys	585C>G	N195K	Cardiomyopathy, dilated	Fatkin (1999) N Engl J Med 341:1715	PubMed 10580070
+CM993180	GAA-GGA	Glu203Gly	608A>G	E203G	Cardiomyopathy, dilated	Fatkin (1999) N Engl J Med 341:1715	PubMed 10580070
+CM014206	gGAA-AAA	Glu203Lys	607G>A	E203K	Cardiomyopathy, dilated	Jakobs (2001) J Card Fail 7:249	PubMed 11561226
+CM090762	GAA-GTA	Glu203Val	608A>T	E203V	Cardiomyopathy, dilated	Perrot (2009) Basic Res Cardiol 104:90	PubMed 18795223
+CM111717	TTCc-TTG	Phe206Leu	618C>G	F206L	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM082914	ATC-AGC	Ile210Ser	629T>G	I210S	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM024123	CTG-CCG	Leu215Pro	644T>C	L215P	Cardiomyopathy, dilated	Hershberger (2002) Am Heart J 144:1081	PubMed 12486434
+HM0634	AAGc-AAC	Lys219Asn	657G>C	K219N	Cardiomyopathy, dilated	Arbustini (2007) Hum Genet 120:910 Source:	Online submission
+CM090763	AAG-ACG	Lys219Thr	656A>C	K219T	Cardiomyopathy, dilated	Pasotti (2008) J Am Coll Cardiol 52:1250	PubMed 18926329
+CM002048	CAT-CCT	His222Pro	665A>C	H222P	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM000736	tCAT-TAT	His222Tyr	664C>T	H222Y	Muscular dystrophy, Emery-Dreifuss di	Barletta (2000) Am J Hum Genet 66:1407	PubMed 10739764
+CM122166	CGA-CAA	Arg225Gln	674G>A	R225Q	Muscular dystrophy, Emery-Dreifuss	Jimenez-Escrig (2012) Muscle Nerve 45:605	PubMed 22431096
+CM014207	cCGA-TGA	Arg225Term	673C>T	R225X	Cardiomyopathy, dilated	Jakobs (2001) J Card Fail 7:249	PubMed 11561226
+CM070191	tGAC-AAC	Asp230Asn	688G>A	D230N	Partial lipodystrophy, type 2	Lanktree (2007) Clin Genet 71:183	PubMed 17250669
+CM064112	tGGG-AGG	Gly232Arg	694G>A	G232R	Muscular dystrophy, Emery-Dreifuss	Rudenskaya (2008) Clin Genet 74:127	PubMed 18564364
+CM002049	GGG-GAG	Gly232Glu	695G>A	G232E	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM082920	gCAG-TAG	Gln234Term	700C>T	Q234X	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM088078	gCAG-TAG	Gln246Term	736C>T	Q246X	Cardiomyopathy, dilated	Pasotti (2008) J Am Coll Cardiol 52:1250	PubMed 18926329
+CM033630	CTG-CCG	Leu248Pro	743T>C	L248P	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM000737	CGG-CAG	Arg249Gln	746G>A	R249Q	Muscular dystrophy, Emery-Dreifuss di	Barletta (2000) Am J Hum Genet 66:1407	PubMed 10739764
+CM083718	gCGG-TGG	Arg249Trp	745C>T	R249W	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM123092	gCAT-TAT	His252Tyr	754C>T	H252Y	Muscular dystrophy, Emery-Dreifuss	Meune (2012) Neuromuscul Disord 22:252	PubMed 22071332
+CM095011	gTAT-CAT	Tyr259His	775T>C	Y259H	Cardiomyopathy with advanced AV block	Saga (2009) Tohoku J Exp Med 218:309	PubMed 19638735
+CM050062	TATa-TAA	Tyr259Term	777T>A	Y259X	Muscular dystrophy, limb girdle	Muchir (2003) Exp Cell Res 291:352	PubMed 14644157
+HM050004	AAGa-AAC	Lys260Asn	780G>C	K260N	Cardiomyopathy, dilated Arbustini	Eloisa (2005) Hum Genet 117:298 Source:	Online submission
+CM101781	CTG-CCG	Leu263Pro	788T>C	L263P	Muscular dystrophy, Emery-Dreifuss	Carboni (2010) Muscle Nerve 41:458	PubMed 19882644
+CM033631	TAT-TGT	Tyr267Cys	800A>G	Y267C	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM081685	tTAT-CAT	Tyr267His	799T>C	Y267H	Cardiac conduction defects	Carboni (2008) Neuromuscul Disord 18:291	PubMed 18337098
+CM111718	tTCT-CCT	Ser268Pro	802T>C	S268P	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM045544	CTG-CCG	Leu271Pro	812T>C	L271P	Muscular dystrophy, Emery-Dreifuss Kichuk	Chrisant (2004) J Heart Lung Transplant 23:496	PubMed 15063412
+CM1010022	tGCT-ACT	Ala278Thr	832G>A	A278T	Atrial fibrillation	Beckmann (2010) Int J Cardiol 145:394	PubMed 20472316
+CM123361	CTG-CCG	Leu284Pro	851T>C	L284P	Muscular dystrophy, limb girdle	Menezes (2012) Neurology 78:1258	PubMed 22491857
+CM0911022	CTG-CCG	Leu292Pro	875T>C	L292P	Muscular dystrophy, Emery-Dreifuss	Park (2009) Neuromuscul Disord 19:29	PubMed 19070492
+CM002050	CAG-CCG	Gln294Pro	881A>C	Q294P	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM111719	gTCG-CCG	Ser295Pro	883T>C	S295P	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM020461	cCGC-TGC	Arg298Cys	892C>T	R298C	Charcot-Marie-Tooth disease 2 De	Sandre-Giovannoli (2002) Am J Hum Genet 70:726	PubMed 11799477
+CM117867	cATC-GTC	Ile299Val	895A>G	I299V	Partial lipodystrophy, Dunnigan	AraÃºjo-Vilar (2011)	Clin Endocrinol
+CM090441	cGAC-AAC	Asp300Asn	898G>A	D300N	Werner syndrome with ischemic disease	Renard (2009) Stroke 40:e11	PubMed 19095983
+CM083717	CTC-CCC	Leu302Pro	905T>C	L302P	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM023950	cTCT-CCT	Ser303Pro	907T>C	S303P	Muscular dystrophy, Emery-Dreifuss	Onishi (2002) Rinsho Shinkeigaku 42:140	PubMed 12424964
+CM078085	AAG-AGG	Lys311Arg	932A>G	K311R	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM025347	CAGc-CAC	Gln312His	936G>C	Q312H	Muscular dystrophy, limb girdle	Brette (2004) Arch Mal Coeur Vaiss 97:973	PubMed 16008174
+CM022423	gGAG-AAG	Glu317Lys	949G>A	E317K	Cardiomyopathy, dilated	Arbustini (2002) J Am Coll Cardiol 39:981	PubMed 11897440
+CM082921	gGCG-ACG	Ala318Thr	952G>A	A318T	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM062822	tCGA-TGA	Arg321Term	961C>T	R321X	Cardiomyopathy, dilated	Zeller (2006) J Mol Med 84:682	PubMed 16715312
+CM061102	cTCA-ACA	Ser326Thr	976T>A	S326T	Muscular dystrophy, Emery-Dreifuss	Muntoni (2006) Brain 129:1260	PubMed 16585054
+CM0910229	CGG-CAG	Arg331Gln	992G>A	R331Q	Cardiomyopathy, dilated	Møller (2009) Eur J Heart Fail 11:1031	PubMed 19875404
+CM122838	cCGG-TGG	Arg335Trp	1003C>T	R335W	Cardiomyopathy, dilated	Lakdawala (2012) J Card Fail 18:296	PubMed 22464770
+CM000738	CGG-CAG	Arg336Gln	1007G>A	R336Q	Muscular dystrophy, Emery-Dreifuss di	Barletta (2000) Am J Hum Genet 66:1407	PubMed 10739764
+CM033632	cGAG-AAG	Glu347Lys	1039G>A	E347K	Cardiac conduction defects	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM044019	CGG-CTG	Arg349Leu	1046G>T	R349L	Cardiomyopathy, dilated	Hermida-Prieto (2004) Am J Cardiol 94:50	PubMed 15219508
+CM064109	gGCA-CCA	Ala350Pro	1048G>C	A350P	Cardiomyopathy, dilated, with conduction defect, type 1A	Rudenskaya (2008) Clin Genet 74:127	PubMed 18564364
+CM078080	CAG-CGG	Gln353Arg	1058A>G	Q353R	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM100912	gCAG-AAG	Gln353Lys	1057C>A	Q353K	Cardiomyopathy, dilated	Gupta (2010) Basic Res Cardiol epub:epub	PubMed 20127487
+CM034244	gCAG-TAG	Gln355Term	1063C>T	Q355X	Cardiomyopathy, dilated	Novelli (2003) Trends Mol Med 9:370	PubMed 13129702
+CM084954	gGAC-CAC	Asp357His	1069G>C	D357H	Cardiomyopathy, dilated	Fujimori (2008) Intern Med 47:925	PubMed 18480576
+CM002051	cGAG-AAG	Glu358Lys	1072G>A	E358K	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM952468	cGAG-TAG	Glu358Term	1072G>T	E358X	Ventricular arrhythmia De	Backer (2010) Int J Cardiol 138:97	PubMed 18691775
+CM111720	gGAG-AAG	Glu361Lys	1081G>A	E361K	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM002052	ATG-AAG	Met371Lys	1112T>A	M371K	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM123362	cTAC-AAC	Tyr376Asn	1126T>A	Y376N	Muscular dystrophy, limb girdle	Menezes (2012) Neurology 78:1258	PubMed 22491857
+CM025348	cCGC-TGC	Arg377Cys	1129C>T	R377C	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM001216	CGC-CAC	Arg377His	1130G>A	R377H	Muscular dystrophy, limb girdle	Muchir (2000) Hum Mol Genet 9:1453	PubMed 10814726
+CM023096	CGC-CTC	Arg377Leu	1130G>T	R377L	Muscular dystrophy, limb girdle	Ki (2002) J Hum Genet 47:225	PubMed 12032588
+CM057339	gCTC-TTC	Leu379Phe	1135C>T	L379F	Muscular dystrophy, limb girdle Ben	Yaou (2005)	Rev Neurol
+CM083719	TTG-TCG	Leu380Ser	1139T>C	L380S	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM1110471	GGC-GTC	Gly382Val	1145G>T	G382V	Arrhythmogenic right ventricular cardiomyopathy	Quarta (2011) Eur Heart J :	PubMed 22199124
+CM094880	AGG-ATG	Arg386Met	1157G>T	R386M	Muscular dystrophy, Emery-Dreifuss	Lassuthová (2009) Pediatr Neurol 41:127	PubMed 19589462
+CM077200	gCTA-GTA	Leu387Val	1159C>G	L387V	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM082916	CGC-CAC	Arg388His	1163G>A	R388H	Cardiomyopathy, dilated	Parks (2008) Am Heart J 156:161	PubMed 18585512
+CM077201	TCG-TTG	Ser395Leu	1184C>T	S395L	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM082915	cCGT-TGT	Arg399Cys	1195C>T	R399C	Partial lipodystrophy, type 2	Lanktree (2007) Clin Genet 71:183	PubMed 17250669
+CM077197	CGT-CAT	Arg399His	1196G>A	R399H	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM023951	cCGT-TGT	Arg401Cys	1201C>T	R401C	Muscular dystrophy, Emery-Dreifuss	Hanisch (2002) Nervenartz 73:1004	PubMed 12376891
+CM117610	GGT-GAT	Gly411Asp	1232G>A	G411D	Metabolic disease	Dutour (2011) Hum Mol Genet 20:3779	PubMed 21724554
+CM077198	CTG-CCG	Leu421Pro	1262T>C	L421P	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM0910230	aCAG-TAG	Gln432Term	1294C>T	Q432X	Cardiomyopathy, dilated	Møller (2009) Eur J Heart Fail 11:1031	PubMed 19875404
+CM033633	aCGC-TGC	Arg435Cys	1303C>T	R435C	Cardiomyopathy, dilated	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM077199	gCGC-TGC	Arg439Cys	1315C>T	R439C	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM005398	cGTG-ATG	Val440Met	1318G>A	V440M	Partial lipodystrophy, Dunnigan	Hegele (2000) J Clin Endocrinol Metab 85:3431	PubMed 10999845
+CM033634	GAT-GTT	Asp446Val	1337A>T	D446V	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM111721	GGC-GAC	Gly449Asp	1346G>A	G449D	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM122014	GGC-GTC	Gly449Val	1346G>T	G449V	Muscle atrophy	Dialynas (2012) Hum Mol Genet 21:1544	PubMed 22186027
+CM083716	CGG-CCG	Arg453Pro	1358G>C	R453P	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM990813	cCGG-TGG	Arg453Trp	1357C>T	R453W	Muscular dystrophy, Emery-Dreifuss	Bonne (1999) Nat Genet 21:285	PubMed 10080180
+CM111722	CTG-CCG	Leu454Pro	1361T>C	L454P	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM083715	CGC-CCC	Arg455Pro	1364G>C	R455P	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM083714	cAAC-GAC	Asn456Asp	1366A>G	N456D	Muscular dystrophy	Quijano-Roy (2008) Ann Neurol 64:177	PubMed 18551513
+CM078081	cAAC-CAC	Asn456His	1366A>C	N456H	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM020735	AAC-ATC	Asn456Ile	1367A>T	N456I	Muscular dystrophy, Emery-Dreifuss	Helbling-Leclerc (2002) Eur J Hum Genet 10:157	PubMed 11973618
+CM002053	AACa-AAA	Asn456Lys	1368C>A	N456K	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM123093	AACa-AAG	Asn456Lys	1368C>G	N456K	Muscular dystrophy, Emery-Dreifuss	Meune (2012) Neuromuscul Disord 22:252	PubMed 22071332
+CM111724	gGAC-TAC	Asp461Tyr	1381G>T	D461Y	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM000739	GGC-GAC	Gly465Asp	1394G>A	G465D	Partial lipodystrophy, Dunnigan	Speckman (2000) Am J Hum Genet 66:1192	PubMed 10739751
+CM111723	tTGG-CGG	Trp467Arg	1399T>C	W467R	Muscular dystrophy, Emery-Dreifuss	Scharner (2011) Hum Mutat 32:152	PubMed 20848652
+CM000740	ATC-ACC	Ile469Thr	1406T>C	I469T	Muscular dystrophy, Emery-Dreifuss di	Barletta (2000) Am J Hum Genet 66:1407	PubMed 10739764
+CM033971	gCGC-TGC	Arg471Cys	1411C>T	R471C	Hutchinson-Gilford progeria syndrome	Cao (2003) J Hum Genet 48:271	PubMed 12768443
+CM076267	gCGC-GGC	Arg471Gly	1411C>G	R471G	Lipodystrophy and insulin-resistance	Muschke (2007) Am J Med Genet A 143A:2810	PubMed 18041775
+CM082917	CGC-CAC	Arg471His	1412G>A	R471H	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM012999	tTAC-CAC	Tyr481His	1441T>C	Y481H	Muscular dystrophy, limb girdle	Kitaguchi (2001) Neuromuscul Disord 11:542	PubMed 11525883
+CM052893	TACc-TAG	Tyr481Term	1443C>G	Y481X	Cardiomyopathy, dilated	Sylvius (2005) J Med Genet 42:639	PubMed 16061563
+CM000022	CGG-CAG	Arg482Gln	1445G>A	R482Q	Partial lipodystrophy, Dunnigan	Cao (2000) Hum Mol Genet 9:109	PubMed 10587585
+CM000519	CGG-CTG	Arg482Leu	1445G>T	R482L	Partial lipodystrophy, Dunnigan	Shackleton (2000) Nat Genet 24:153	PubMed 10655060
+CM000520	cCGG-TGG	Arg482Trp	1444C>T	R482W	Partial lipodystrophy, Dunnigan	Shackleton (2000) Nat Genet 24:153	PubMed 10655060
+CM108400	CCA-CGA	Pro485Arg	1454C>G	P485R	Partial lipodystrophy, Dunnigan	Saha (2010) Mol Syndromol 1:127	PubMed 21031082
+CM000521	AAGt-AAC	Lys486Asn	1458G>C	K486N	Partial lipodystrophy, Dunnigan	Shackleton (2000) Nat Genet 24:153	PubMed 10655060
+CM000522	AAGt-AAT	Lys486Asn	1458G>T	K486N	Partial lipodystrophy, Dunnigan	Shackleton (2000) Nat Genet 24:153	PubMed 10655060
+CM094098	cACC-CCC	Thr488Pro	1462A>C	T488P	Atrial fibrillation	Brauch (2009) Am J Cardiol 103:1426	PubMed 19427440
+CM122015	CTG-CCG	Leu489Pro	1466T>C	L489P	Muscle atrophy	Dialynas (2012) Hum Mol Genet 21:1544	PubMed 22186027
+CM076266	gCAG-TAG	Gln493Term	1477C>T	Q493X	Spinal muscular atrophy	Rudnik-Schoneborn (2007) Neurogenetics 8:137	PubMed 17136397
+CM088085	cTGG-CGG	Trp498Arg	1492T>C	W498R	Muscular dystrophy, Emery-Dreifuss	Pasotti (2008) J Am Coll Cardiol 52:1250	PubMed 18926329
+CM054772	TGGg-TGT	Trp498Cys	1494G>T	W498C	Myopathy, early-onset and progeria	D'Amico (2005) Neuromuscul Disord 15:847	PubMed 16288872
+CM077195	cCAC-GAC	His506Asp	1516C>G	H506D	Metabolic laminopathy	Decaudain (2007) J Clin Endocrinol Metab 92:4835	PubMed 17711925
+CM054771	CTG-CCG	Leu512Pro	1535T>C	L512P	Muscular dystrophy, limb girdle	Pegoraro (2005) Neuromuscul Disord 15:858	PubMed 16288874
+CM078082	gTGG-CGG	Trp514Arg	1540T>C	W514R	Muscular dystrophy, limb girdle	Astejada (2007) Acta Myol 26:159	PubMed 18646565
+CM076265	cTGG-GGG	Trp520Gly	1558T>G	W520G	Muscular dystrophy, Emery-Dreifuss	Liang (2007) J Formos Med Assoc 106:S27	PubMed 17493893
+CM002054	TGG-TCG	Trp520Ser	1559G>C	W520S	Muscular dystrophy, Emery-Dreifuss	Bonne (2000) Ann Neurol 48:170	PubMed 10939567
+CM094947	cGGG-AGG	Gly523Arg	1567G>A	G523R	Cardiomyopathy, dilated	Millat (2009) Clin Biochem 42:892	PubMed 19318026
+CM033972	gCGT-TGT	Arg527Cys	1579C>T	R527C	Hutchinson-Gilford progeria syndrome	Cao (2003) J Hum Genet 48:271	PubMed 12768443
+CM021630	CGT-CAT	Arg527His	1580G>A	R527H	Mandibuloacral dysplasia	Novelli (2002) Am J Hum Genet 71:426	PubMed 12075506
+CM990814	CGT-CCT	Arg527Pro	1580G>C	R527P	Muscular dystrophy, Emery-Dreifuss	Bonne (1999) Nat Genet 21:285	PubMed 10080180
+CM033635	ACG-AGG	Thr528Arg	1583C>G	T528R	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM000741	ACG-AAG	Thr528Lys	1583C>A	T528K	Muscular dystrophy, Emery-Dreifuss di	Barletta (2000) Am J Hum Genet 66:1407	PubMed 10739764
+CM062820	ACG-ATG	Thr528Met	1583C>T	T528M	Hutchinson-Gilford progeria syndrome	Verstraeten (2006) Hum Mol Genet 15:2509	PubMed 16825282
+CM074923	gGCT-ACT	Ala529Thr	1585G>A	A529T	Mandibuloacral dysplasia	Kosho (2007) Am J Med Genet A 143A:2598	PubMed 17935239
+CM053291	GCT-GTT	Ala529Val	1586C>T	A529V	Mandibuloacral dysplasia	Garg (2005) J Clin Endocrinol Metab 90:5259	PubMed 15998779
+CM990815	CTC-CCC	Leu530Pro	1589T>C	L530P	Muscular dystrophy, Emery-Dreifuss	Bonne (1999) Nat Genet 21:285	PubMed 10080180
+CM062821	ATG-ACG	Met540Thr	1619T>C	M540T	Hutchinson-Gilford progeria syndrome	Verstraeten (2006) Hum Mol Genet 15:2509	PubMed 16825282
+CM043026	gCGC-TGC	Arg541Cys	1621C>T	R541C	Apical left ventricular aneurysm	Forissier (2003) Eur J Heart Fail 5:821	PubMed 14675861
+CM110684	gCGC-GGC	Arg541Gly	1621C>G	R541G	Cardiomyopathy, dilated	Malek (2011) J Hum Genet 56:83	PubMed 21085127
+CM033636	CGC-CAC	Arg541His	1622G>A	R541H	Muscular dystrophy, Emery-Dreifuss	Vytopil (2003) J Med Genet 40:e132	PubMed 14684700
+CM078049	CGC-CCC	Arg541Pro	1622G>C	R541P	Muscular dystrophy van	Tintelen (2007) Am Heart J 154:1130	PubMed 18035086
+CM052892	gCGC-AGC	Arg541Ser	1621C>A	R541S	Cardiomyopathy, dilated	Sylvius (2005) J Med Genet 42:639	PubMed 16061563
+CM042086	AAGc-AAC	Lys542Asn	1626G>C	K542N	Hutchinson-Gilford progeria syndrome	Plasilova (2004) J Med Genet 41:609	PubMed 15286156
+CM094886	gCGC-TGC	Arg545Cys	1633C>T	R545C	Muscular dystrophy, Emery-Dreifuss	Kandert (2009) Am J Hum Genet 88:593	PubMed 19589617
+CM121338	CTGc-CTC	Leu561Leu	1683G>C	L561L	Muscular dystrophy, limb girdle	Magagnotti (2012) Biochim Biophys Acta epub:epub	PubMed 22326558
+CM003892	CACg-CAT	His566His	1698C>T	H566H	Metabolic syndrome, association with	Steinle (2004) Arterioscler Thromb Vasc Biol 24:1708	PubMed 15205219
+CM055973	cCGC-TGC	Arg571Cys	1711C>T	R571C	Muscular dystrophy & peripheral neuropathy	Benedetti (2005) J Neurol Neurosurg Psychiatry 76:1019	PubMed 15965218
+CM993181	cCGC-AGC	Arg571Ser	1711C>A	R571S	Cardiomyopathy, dilated	Fatkin (1999) N Engl J Med 341:1715	PubMed 10580070

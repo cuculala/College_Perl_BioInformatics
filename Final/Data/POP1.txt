@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM112386	tCGA-TGA	Arg513Term	1537C>T	R513X	Anauxetic dysplasia	Glazov (2011) PLoS Genet 7:e1002027	PubMed 21455487
+CM067452	AAAg-AAC	Lys522Asn	1566A>C	K522N	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM112385	GGG-GAG	Gly583Glu	1748G>A	G583E	Anauxetic dysplasia	Glazov (2011) PLoS Genet 7:e1002027	PubMed 21455487

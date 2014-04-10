@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM023571	aCGG-TGG	Arg265Trp	793C>T	R265W	Caspase 8 deficiency	Chun (2002) Nature 419:395	PubMed 12353035
+CM043455	cGAT-CAT	Asp302His	904G>C	D302H	Breast cancer, reduced risk, association with	MacPherson (2004) J Natl Cancer Inst 96:1866	PubMed 15601643

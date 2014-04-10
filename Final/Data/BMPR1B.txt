@@ -1,0 +1,6 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM121721	AGC-AAC	Ser160Asn	479G>A	S160N	Pulmonary arterial hypertension	Chida (2012) Circ J epub:epub	PubMed 22374147
+CM032859	ATA-AAA	Ile200Lys	599T>A	I200K	Brachydactyly type A2	Lehmann (2003) Proc Natl Acad Sci U S A 100:12277	PubMed 14523231
+CM121722	TTCc-TTA	Phe392Leu	1176C>A	F392L	Pulmonary arterial hypertension	Chida (2012) Circ J epub:epub	PubMed 22374147
+CM065988	CGG-CAG	Arg486Gln	1457G>A	R486Q	Brachydactyly type A2	Lehmann (2006) Eur J Hum Genet 14:1248	PubMed 16957682
+CM032860	gCGG-TGG	Arg486Trp	1456C>T	R486W	Brachydactyly type A2	Lehmann (2003) Proc Natl Acad Sci U S A 100:12277	PubMed 14523231

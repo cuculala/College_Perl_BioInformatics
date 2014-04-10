@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM960957	gCGT-TGT	Arg52Cys	154C>T	R52C	Mannose-binding protein deficiency, association	Madsen (1994) Immunogenetics 40:37	PubMed 8206524
+CM920484	GGC-GAC	Gly54Asp	161G>A	G54D	Mannose-binding protein deficiency, association	Sumiya (1991) Lancet 337:1569	PubMed 1675710
+CM920485	GGA-GAA	Gly57Glu	170G>A	G57E	Mannose-binding protein deficiency, association	Lipscombe (1992) Hum Mol Genet 1:709	PubMed 1304173
+CM068190	CTGa-CTC	Leu126Leu	378G>C	L126L	Increased serum MBL level	Wiertsema (2006) J Allergy Clin Immunol 117:1344	PubMed 16750996

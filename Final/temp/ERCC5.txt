@@ -1,0 +1,17 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM973677	gGAG-TAG	Glu11Term	31G>T	E11X	Xeroderma pigmentosum	Okinaka (1997) Mutat Res 385:107	PubMed 9447232
+CM025986	gCAG-TAG	Gln16Term	46C>T	Q16X	Xeroderma pigmentosum	Emmert (2002) J Invest Dermatol 118:972	PubMed 12060391
+CM122445	CTC-CCC	Leu65Pro	194T>C	L65P	Xeroderma pigmentosum	Moriwaki (2012) Exp Dermatol 21:304	PubMed 22417308
+CM016232	CCT-CAT	Pro72His	215C>A	P72H	Xeroderma pigmentosum	Zafeiriou (2001) Pediatr Res 49:407	PubMed 11228268
+CM025987	cCAA-TAA	Gln136Term	406C>T	Q136X	Xeroderma pigmentosum	Emmert (2002) J Invest Dermatol 118:972	PubMed 12060391
+CM016233	aCAG-TAG	Gln176Term	526C>T	Q176X	Xeroderma pigmentosum	Zafeiriou (2001) Pediatr Res 49:407	PubMed 11228268
+CM970446	cCGA-TGA	Arg263Term	787C>T	R263X	Xeroderma pigmentosum	Nouspikel (1997) Proc Natl Acad Sci U S A 94:3116	PubMed 9096355
+CM065153	GAA-GTA	Glu399Val	1196A>T	E399V	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM065152	CAGa-CAC	Gln622His	1866G>C	Q622H	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM940376	GCG-GTG	Ala792Val	2375C>T	A792V	Xeroderma pigmentosum	Nouspikel (1994) Hum Mol Genet 3:963	PubMed 7951246
+CM065154	gCGG-TGG	Arg819Trp	2455C>T	R819W	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM020680	CTT-CCT	Leu858Pro	2573T>C	L858P	Xeroderma pigmentosum	Lalle (2002) J Invest Dermatol 118:344	PubMed 11841555
+CM025988	cGCC-ACC	Ala874Thr	2620G>A	A874T	Xeroderma pigmentosum	Emmert (2002) J Invest Dermatol 118:972	PubMed 12060391
+CM940377	aGAA-TAA	Glu960Term	2878G>T	E960X	Xeroderma pigmentosum	Nouspikel (1994) Hum Mol Genet 3:963	PubMed 7951246
+CM065151	aACG-GCG	Thr971Ala	2911A>G	T971A	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM063964	aCAT-GAT	His1104Asp	3310C>G	H1104D	Single strand breaks, association with	Vodicka (2004) Carcinogenesis 25:757	PubMed 14729591

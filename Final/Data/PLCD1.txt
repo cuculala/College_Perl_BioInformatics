@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM981586	CGC-CAC	Arg126His	377G>A	R126H	Alzheimer disease	Shimohama (1998) Biochem Biophys Res Commun 245:722	PubMed 9588182
+CM114060	gTGT-CGT	Cys209Arg	625T>C	C209R	Leukonychia	Kiuru (2011) Am J Hum Genet 88:839	PubMed 21665001
+CM067709	CGC-CAC	Arg278His	833G>A	R278H	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM114059	gGCT-ACT	Ala574Thr	1720G>A	A574T	Leukonychia	Kiuru (2011) Am J Hum Genet 88:839	PubMed 21665001

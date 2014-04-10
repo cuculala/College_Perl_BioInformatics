@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM056007	cCCA-TCA	Pro29Ser	85C>T	P29S	Weakened protein interaction	Yi (2005) Biochem Biophys Res Commun 332:524	PubMed 15907804
+CM062879	gCCT-TCT	Pro774Ser	2320C>T	P774S	Leukemia, risk, association with	Rudd (2006) Blood 108:638	PubMed 16574953

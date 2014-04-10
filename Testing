@@ -1,0 +1,6 @@
+use strict;
+use warnings;
+$line ="Hwllo pengee";
+if ($line =~ /H.*){
+	print "Ok done\n";
+}

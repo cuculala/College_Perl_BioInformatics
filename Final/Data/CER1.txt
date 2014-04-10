@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067359	aCGG-TGG	Arg19Trp	55C>T	R19W	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM094855	GCC-GGC	Ala65Gly	194C>G	A65G	Low bone mineral density, association with	Tang (2009) J Bone Miner Res 24:1013	PubMed 19113921

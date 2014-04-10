@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM014816	CAGg-CAA	Gln351Gln	1053G>A	Q351Q	Obesity, association with	Chouchane (2001) Int J Obes Relat Metab Disord 25:462	PubMed 11319647

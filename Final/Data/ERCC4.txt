@@ -1,0 +1,16 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM065149	TCA-TTA	Ser3Leu	8C>T	S3L	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM065148	gCCG-TCG	Pro6Ser	16C>T	P6S	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM067665	CGC-CCC	Arg153Pro	458G>C	R153P	Progeroid syndrome	Niedernhofer (2006) Nature 444:1038	PubMed 17183314
+CM980614	ATAc-ATG	Ile225Met	675A>G	I225M	Xeroderma	pigmentosum	(F) Matsumura
+CM101827	cCCA-TCA	Pro379Ser	1135C>T	P379S	Xeroderma	pigmentosum	(F) Ahmad
+CM065150	tCTT-TTT	Leu401Phe	1201C>T	L401F	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM980615	tAGG-TGG	Arg454Trp	1360A>T	R454W	Xeroderma	pigmentosum	(F) Matsumura
+CM980616	CGG-CAG	Arg490Gln	1469G>A	R490Q	Xeroderma	pigmentosum	(F) Matsumura
+CM980617	tGAA-AAA	Glu502Lys	1504G>A	E502K	Xeroderma	pigmentosum	(F) Matsumura
+CM980618	aGGA-AGA	Gly513Arg	1537G>A	G513R	Xeroderma	pigmentosum	(F) Matsumura
+CM980619	ATT-ACT	Ile529Thr	1586T>C	I529T	Xeroderma	pigmentosum	(F) Matsumura
+CM980620	gACA-GCA	Thr567Ala	1699A>G	T567A	Xeroderma	pigmentosum	(F) Matsumura
+CM101828	tCGG-TGG	Arg589Trp	1765C>T	R589W	Xeroderma	pigmentosum	(F) Ahmad
+CM980621	CTT-CCT	Leu608Pro	1823T>C	L608P	Xeroderma	pigmentosum	(F) Matsumura
+CM960516	aCGG-TGG	Arg799Trp	2395C>T	R799W	Xeroderma	pigmentosum	(F) Sijbers

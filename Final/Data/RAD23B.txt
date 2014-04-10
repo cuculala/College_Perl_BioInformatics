@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM057926	GCT-GTT	Ala249Val	746C>T	A249V	Lung cancer, increased risk, association with	Shen (2005) Int J Cancer 116:768	PubMed 15849729

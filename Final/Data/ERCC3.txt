@@ -1,0 +1,8 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM930198	TTC-TCC	Phe99Ser	296T>C	F99S	Cockayne syndrome	Scott (1993) J Am Acad Dermatol 29:883	PubMed 8408834
+CM970445	aACT-CCT	Thr119Pro	355A>C	T119P	Trichothiodystrophy	Weeda (1997) Am J Hum Genet 60:320	PubMed 9012405
+CM065145	cACT-GCT	Thr232Ala	694A>G	T232A	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM065147	gCGA-TGA	Arg425Term	1273C>T	R425X	Xeroderma	pigmentosum	(B) Oh
+CM065144	AAG-AGG	Lys449Arg	1346A>G	K449R	Lung cancer, susceptibility to	Matakidou (2006) Int J Cancer 119:964	PubMed 16550608
+CM065146	cCAG-TAG	Gln545Term	1633C>T	Q545X	Xeroderma pigmentosum/Cockayne syndrome	Oh (2006) Hum Mutat 27:1092	PubMed 16947863
+CM062609	TCG-TTG	Ser704Leu	2111C>T	S704L	Leukemia, risk , association with	Rudd (2006) Blood 108:638	PubMed 16574953

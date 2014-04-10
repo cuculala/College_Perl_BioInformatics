@@ -1,0 +1,10 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM013705	GTA-GCA	Val27Ala	80T>C	V27A	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM013706	tGAG-AAG	Glu109Lys	325G>A	E109K	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM013707	CTC-CGC	Leu410Arg	1229T>G	L410R	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM065155	tGAG-AAG	Glu589Lys	1765G>A	E589K	Colorectal cancer, increased risk, association with	Webb (2006) Hum Mol Genet 15:3263	PubMed 17000706
+CM013708	tAGT-GGT	Ser610Gly	1828A>G	S610G	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM013709	cCCC-GCC	Pro640Ala	1918C>G	P640A	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM107549	CCT-CTT	Pro757Leu	2270C>T	P757L	Colorectal cancer, reduced risk, association with	Haghighi (2010) Genet Test Mol Biomarkers 14:649	PubMed 20854105
+CM013710	GGA-GAA	Gly759Glu	2276G>A	G759E	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940
+CM013711	CCG-CTG	Pro770Leu	2309C>T	P770L	Colorectal cancer, non-polyposis	Wu (2001) Gastroenterology 120:1580	PubMed 11375940

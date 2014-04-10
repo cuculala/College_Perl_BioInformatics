@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM115012	GAG-GCG	Glu228Ala	683A>C	E228A	Ovarian cancer, increased risk in BRCA1 carriers, association	Dick (2012) Int J Cancer 130:1314	PubMed 21484799
+CM005514	AAA-AGA	Lys441Arg	1322A>G	K441R	Lung cancer, association with	Ulybina (2009) Cancer Lett 278:183	PubMed 19203830

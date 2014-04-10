@@ -1,0 +1,42 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM020737	CGC-CAC	Arg5His	14G>A	R5H	Frontotemporal dementia	Hayashi (2002) Ann Neurol 51:525	PubMed 11921059
+CM022222	CGC-CTC	Arg5Leu	14G>T	R5L	Supranuclear palsy, progressive	Poorkaj (2002) Ann Neurol 52:511	PubMed 12325083
+CM099946	ACG-ATG	Thr17Met	50C>T	T17M	Frontotemporal dementia	Guerreiro (2009) Hum Mutat 31:E1126	PubMed 20020531
+CM108134	GTG-GCG	Val75Ala	224T>C	V75A	Frontotemporal dementia	Gallo (2010) Neurol Sci 31:65	PubMed 19768372
+CM044902	cGGC-AGC	Gly86Ser	256G>A	G86S	Frontotemporal dementia	Stanford (2004) J Neurol 251:1098	PubMed 15372253
+CM111323	GCG-GTG	Ala91Val	272C>T	A91V	Parkinson disease	Keyser (2011) J Neural Transm :	PubMed 21344240
+CM110980	cGCC-ACC	Ala152Thr	454G>A	A152T	Neurodegeneration	Kovacs (2011) Clin Neuropathol 30:3	PubMed 21176711
+CM120779	cGGC-AGC	Gly201Ser	601G>A	G201S	Alzheimer disease	Cruchaga (2012) PLoS One 7:e31039	PubMed 22312439
+CM003942	AAG-ACG	Lys257Thr	770A>C	K257T	Frontotemporal dementia, with parkinsonism	Rizzini (2000) J Neuropathol Exp Neurol 59:990	PubMed 11089577
+CM014799	gATC-GTC	Ile260Val	778A>G	I260V	Frontotemporal dementia, with parkinsonism	Hutton (2001) Neurology 56:S21	PubMed 11402146
+CM030233	cCTG-GTG	Leu266Val	796C>G	L266V	Frontotemporal dementia	Kobayashi (2003) Ann Neurol 53:133	PubMed 12509859
+CM981233	GGC-GTC	Gly272Val	815G>T	G272V	Frontotemporal dementia, with parkinsonism	Hutton (1998) Nature 393:702	PubMed 9641683
+CM061107	cGGG-AGG	Gly273Arg	817G>A	G273R	Frontotemporal dementia, with parkinsonism van der	Zee (2006) Brain 129:841	PubMed 16495329
+CM981234	AATa-AAG	Asn279Lys	837T>G	N279K	Frontotemporal dementia, with parkinsonism	Clark (1998) Proc Natl Acad Sci U S A 95:13103	PubMed 9789048
+CM0910011	CTT-CGT	Leu284Arg	851T>G	L284R	Frontotemporal lobar degeneration	Rohrer (2009) Neurology 73:1451	PubMed 19884572
+CM014584	tAAT-CAT	Asn296His	886A>C	N296H	Frontotemporal dementia, with parkinsonism	Iseki (2001) Acta Neuropathol 102:285	PubMed 11585254
+CM981235	CCG-CTG	Pro301Leu	902C>T	P301L	Frontotemporal dementia, with parkinsonism	Hutton (1998) Nature 393:702	PubMed 9641683
+CM993836	cCCG-TCG	Pro301Ser	901C>T	P301S	Frontotemporal dementia/corticobasal degeneration	Bugiani (1999) J Neuropathol Exp Neurol 58:667	PubMed 10374757
+CM076274	cCCG-ACG	Pro301Thr	901C>A	P301T	Frontotemporal dementia	Llado (2007) Eur J Neurol 14:e9	PubMed 17662000
+CM053303	GGC-GTC	Gly303Val	908G>T	G303V	Supranuclear palsy, progressive	Ros (2005) Arch Neurol 62:1449	PubMed 16157753
+CM113869	cGGC-AGC	Gly304Ser	910G>A	G304S	Aphasia, progressive nonfluent	Villa (2011) J Alzheimers Dis epub:epub	PubMed 21558644
+CM992927	AGT-AAT	Ser305Asn	914G>A	S305N	Frontotemporal dementia	Iijima (1999) Neuroreport 10:497	PubMed 10208578
+CM032951	CTG-CGG	Leu315Arg	944T>G	L315R	Frontotemporal dementia van	Herpen (2003) Ann Neurol 54:573	PubMed 14595646
+CM043764	AAG-ATG	Lys317Met	950A>T	K317M	Frontotemporal dementia, with parkinsonism	Zarranz (2005) Neurology 64:1578	PubMed 15883319
+CM020738	TCC-TTC	Ser320Phe	959C>T	S320F	Frontotemporal dementia	Rosso (2002) Ann Neurol 51:373	PubMed 11891833
+CM074932	tGGC-AGC	Gly335Ser	1003G>A	G335S	Frontotemporal dementia, with parkinsonism	Spina (2007) Acta Neuropathol 113:461	PubMed 17186252
+CM055411	GGC-GTC	Gly335Val	1004G>T	G335V	Frontotemporal dementia	Neumann (2005) Neurogenetics 6:91	PubMed 15765246
+CM042738	CAG-CGG	Gln336Arg	1007A>G	Q336R	Frontotemporal dementia	Pickering-Brown (2004) Brain 127:1415	PubMed 15047590
+CM981236	gGTG-ATG	Val337Met	1009G>A	V337M	Frontotemporal dementia, with parkinsonism	Poorkaj (1998) Ann Neurol 43:815	PubMed 9629852
+CM003156	GAG-GTG	Glu342Val	1025A>T	E342V	Frontotemporal dementia	Lippa (2000) Ann Neurol 48:850	PubMed 11117541
+CM034824	TCG-TTG	Ser352Leu	1055C>T	S352L	Respiratory failure	Nicholl (2003) Ann Neurol 54:682	PubMed 14595660
+CM105171	gTCC-ACC	Ser356Thr	1066T>A	S356T	Frontotemporal dementia	Momeni (2010) Clin Neurol Neurosurg epub:epub	PubMed 20708332
+CM076275	cGTC-ATC	Val363Ile	1087G>A	V363I	Aphasia, progressive nonfluent	Munoz (2007) Am J Alzheimers Dis Other Demen 22:294	PubMed 17712160
+CM121236	cCCT-TCT	Pro364Ser	1090C>T	P364S	Frontotemporal lobar degeneration	Rossi (2012) Neurobiol Aging 33:834.e1	PubMed 21943955
+CM121237	cGGA-AGA	Gly366Arg	1096G>A	G366R	Frontotemporal lobar degeneration	Rossi (2012) Neurobiol Aging 33:834.e1	PubMed 21943955
+CM013000	AAA-ATA	Lys369Ile	1106A>T	K369I	Frontotemporal dementia, with parkinsonism	Neumann (2001) Ann Neurol 50:503	PubMed 11601501
+CM004888	cGGG-AGG	Gly389Arg	1165G>A	G389R	Frontotemporal dementia	Pickering-Brown (2000) Ann Neurol 48:859	PubMed 11117542
+CM994385	cGGG-CGG	Gly389Arg	1165G>C	G389R	Frontotemporal dementia	Murrell (1999) J Neuropathol Exp Neurol 58:1207	PubMed 10604746
+CM981237	aCGG-TGG	Arg406Trp	1216C>T	R406W	Frontotemporal dementia, with parkinsonism	Hutton (1998) Nature 393:702	PubMed 9641683
+CM055410	cCAG-AAG	Gln424Lys	1270C>A	Q424K	Parkinson disease	Brice (2005) MAPT LSDB entry Pers comm:.	Source: LSDB
+CM043765	ACG-ATG	Thr427Met	1280C>T	T427M	Frontotemporal dementia	Giaccone (2005) J Neurol 252:1543	PubMed 15940384

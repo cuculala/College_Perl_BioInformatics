@@ -1,0 +1,51 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM124201	tCGG-TGG	Arg3Trp	7C>T	R3W	Breast cancer	Roeb (2012) Hum Mol Genet 21:2738	PubMed 22419737
+CM023347	ACA-AAA	Thr59Lys	176C>A	T59K	Multiple cancers	Ingvarsson (2002) Breast Cancer Res 4:R4	PubMed 12052256
+CM030414	aGAG-AAG	Glu64Lys	190G>A	E64K	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM119699	aGAG-TAG	Glu64Term	190G>T	E64X	Breast cancer	Desrichard (2011) Breast Cancer Res 13:R119	PubMed 22114986
+CM119711	CCT-CGT	Pro85Arg	254C>G	P85R	Breast cancer	Desrichard (2011) Breast Cancer Res 13:R119	PubMed 22114986
+CM077521	CCT-CTT	Pro85Leu	254C>T	P85L	Reduced activity	Bell (2007) Int J Cancer 121:2661	PubMed 17721994
+CM110734	tCGA-TGA	Arg95Term	283C>T	R95X	Breast cancer	Chrisanthar (2008) PLoS One 3:e3062	PubMed 18725978
+CM023898	gAGG-GGG	Arg117Gly	349A>G	R117G	Breast cancer	Sodha (2002) Br J Cancer 87:1445	PubMed 12454775
+CM023899	CGA-CAA	Arg137Gln	410G>A	R137Q	Breast cancer	Sodha (2002) Br J Cancer 87:1445	PubMed 12454775
+CM118873	CAC-CGC	His143Arg	428A>G	H143R	Ovarian carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM077520	aCAC-TAC	His143Tyr	427C>T	H143Y	Reduced activity	Bell (2007) Int J Cancer 121:2661	PubMed 17721994
+CM092017	CGG-CAG	Arg145Gln	434G>A	R145Q	Colorectal cancer	Kleibl (2009) Eur J Cancer 45:618	PubMed 18996005
+CM030415	CGG-CCG	Arg145Pro	434G>C	R145P	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM013593	tCGG-TGG	Arg145Trp	433C>T	R145W	Li-Fraumeni syndrome	Lee (2001) Cancer Res 61:8062	PubMed 11719428
+CM993368	ATT-ACT	Ile157Thr	470T>C	I157T	Li-Fraumeni syndrome, increased risk	Bell (1999) Science 286:2528	PubMed 10617473
+CM086681	aTAC-CAC	Tyr159His	475T>C	Y159H	Breast cancer	Kleibl (2008) Breast Cancer Res Treat 112:159	PubMed 18058223
+CM124202	ATAg-ATG	Ile160Met	480A>G	I160M	Breast cancer	Roeb (2012) Hum Mol Genet 21:2738	PubMed 22419737
+CM030416	tGGA-AGA	Gly167Arg	499G>A	G167R	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM086682	tACA-GCA	Thr172Ala	514A>G	T172A	Breast cancer	Kleibl (2008) Breast Cancer Res Treat 112:159	PubMed 18058223
+CM086683	gCTT-TTT	Leu174Phe	520C>T	L174F	Breast cancer	Kleibl (2008) Breast Cancer Res Treat 112:159	PubMed 18058223
+CM030417	aCGC-TGC	Arg180Cys	538C>T	R180C	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030418	CGC-CAC	Arg180His	539G>A	R180H	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030419	cCGT-TGT	Arg181Cys	541C>T	R181C	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030420	CGT-CAT	Arg181His	542G>A	R181H	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM124198	aATT-GTT	Ile189Val	565A>G	I189V	Breast cancer	Roeb (2012) Hum Mol Genet 21:2738	PubMed 22419737
+CM119700	aAAA-GAA	Lys224Glu	670A>G	K224E	Breast cancer	Desrichard (2011) Breast Cancer Res 13:R119	PubMed 22114986
+CM030421	cGAG-AAG	Glu239Lys	715G>A	E239K	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030422	cGAG-TAG	Glu239Term	715G>T	E239X	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030423	cATC-TTC	Ile251Phe	751A>T	I251F	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM110735	aGAA-TAA	Glu275Term	823G>T	E275X	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM124199	GGG-GCG	Gly306Ala	917G>C	G306A	Breast cancer	Roeb (2012) Hum Mol Genet 21:2738	PubMed 22419737
+CM030424	CGC-CAC	Arg318His	953G>A	R318H	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM062510	aGAA-AAA	Glu321Lys	961G>A	E321K	Prostate cancer	Wu (2006) Hum Mutat 27:742	PubMed 16835864
+CM030425	tACC-CCC	Thr323Pro	967A>C	T323P	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM030426	TAT-TGT	Tyr327Cys	980A>G	Y327C	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM110730	cCGT-TGT	Arg346Cys	1036C>T	R346C	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM110731	gAAT-TAT	Asn352Tyr	1054A>T	N352Y	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM118874	TCT-TTT	Ser357Phe	1070C>T	S357F	Ovarian carcinoma	Walsh (2011) Proc Natl Acad Sci U S A 108:18032	PubMed 22006311
+CM088200	ATA-ACA	Ile364Thr	1091T>C	I364T	Breast cancer	Chrisanthar (2008) PLoS One 3:e3062	PubMed 18725978
+CM118152	gCAC-TAC	His371Tyr	1111C>T	H371Y	Breast cancer, association with	Liu (2011) Hum Mutat :	PubMed 21618645
+CM119701	TAC-TCC	Tyr390Ser	1169A>C	Y390S	Breast cancer	Desrichard (2011) Breast Cancer Res 13:R119	PubMed 22114986
+CM124200	gTAT-CAT	Tyr424His	1270T>C	Y424H	Breast cancer	Roeb (2012) Hum Mol Genet 21:2738	PubMed 22419737
+CM110732	aCCT-TCT	Pro426Ser	1276C>T	P426S	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM119702	TTCt-TTA	Phe427Leu	1281C>A	F427L	Breast cancer	Desrichard (2011) Breast Cancer Res 13:R119	PubMed 22114986
+CM051021	TCT-TTT	Ser428Phe	1283C>T	S428F	Breast cancer, association with	Shaag (2005) Hum Mol Genet 14:555	PubMed 15649950
+CM077522	gGAT-TAT	Asp438Tyr	1312G>T	D438Y	Reduced activity	Bell (2007) Int J Cancer 121:2661	PubMed 17721994
+CM030427	ACG-AAG	Thr476Lys	1427C>A	T476K	Prostate cancer	Dong (2003) Am J Hum Genet 72:270	PubMed 12533788
+CM119709	ACG-ATG	Thr476Met	1427C>T	T476M	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM110733	CCG-CTG	Pro484Leu	1451C>T	P484L	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692
+CM110736	cCAG-TAG	Gln510Term	1528C>T	Q510X	Breast cancer Le	Calvez-Kelm (2011) Breast Cancer Res 13:R6	PubMed 21244692

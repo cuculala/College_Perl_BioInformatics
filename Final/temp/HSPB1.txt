@@ -1,0 +1,19 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM1110305	cGGG-AGG	Gly34Arg	100G>A	G34R	Neuropathy, distal hereditary motor	Capponi (2011) J Peripher Nerv Syst 16:287	PubMed 22176143
+CM086474	CCG-CTG	Pro39Leu	116C>T	P39L	Distal motor neuropathy / Charcot-Marie-Tooth disease 2	Houlden (2008) Neurology 71:1660	PubMed 18832141
+CM1110306	gGAG-AAG	Glu41Lys	121G>A	E41K	Neuropathy, distal hereditary motor	Capponi (2011) J Peripher Nerv Syst 16:287	PubMed 22176143
+CM084860	cGGG-CGG	Gly84Arg	250G>C	G84R	Neuropathy, distal hereditary motor	James (2008) J Neurol Neurosurg Psychiatry 79:461	PubMed 18344398
+CM085982	cCTG-ATG	Leu99Met	295C>A	L99M	Distal motor neuropathy / Charcot-Marie-Tooth disease 2	Houlden (2008) Neurology 71:1660	PubMed 18832141
+CM041372	gCGG-TGG	Arg127Trp	379C>T	R127W	Neuropathy, distal hereditary motor	Evgrafov (2004) Nat Genet 36:602	PubMed 15122254
+CM108630	TCC-TGC	Ser135Cys	404C>G	S135C	Charcot-Marie-Tooth disease 2	Benedetti (2010) Arch Neurol 67:1498	PubMed 21149811
+CM041373	TCC-TTC	Ser135Phe	404C>T	S135F	Charcot-Marie-Tooth disease, axonal, type 2F	Evgrafov (2004) Nat Genet 36:602	PubMed 15122254
+CM1110308	CGG-CTG	Arg136Leu	407G>T	R136L	Distal motor neuropathy / Charcot-Marie-Tooth disease 2	Capponi (2011) J Peripher Nerv Syst 16:287	PubMed 22176143
+CM041374	cCGG-TGG	Arg136Trp	406C>T	R136W	Charcot-Marie-Tooth disease, axonal, type 2F	Evgrafov (2004) Nat Genet 36:602	PubMed 15122254
+CM086473	gCGG-GGG	Arg140Gly	418C>G	R140G	Distal motor neuropathy / Charcot-Marie-Tooth disease 2	Houlden (2008) Neurology 71:1660	PubMed 18832141
+CM090360	gAAA-CAA	Lys141Gln	421A>C	K141Q	Neuropathy, distal hereditary motor	Ikeda (2009) J Neurol Sci 277:9	PubMed 18952241
+CM041375	ACC-ATC	Thr151Ile	452C>T	T151I	Neuropathy, distal hereditary motor	Evgrafov (2004) Nat Genet 36:602	PubMed 15122254
+CM1110368	gACC-GCC	Thr164Ala	490A>G	T164A	Charcot-Marie-Tooth disease 2	Lin (2011) PLoS One 6:e29393	PubMed 22206013
+CM106683	ACC-ATC	Thr180Ile	539C>T	T180I	Distal motor neuropathy / Charcot-Marie-Tooth disease 2	Luigetti (2010) J Neurol Sci 298:114	PubMed 20870250
+CM041376	CCA-CTA	Pro182Leu	545C>T	P182L	Neuropathy, distal hereditary motor	Evgrafov (2004) Nat Genet 36:602	PubMed 15122254
+CM056337	cCCA-TCA	Pro182Ser	544C>T	P182S	Neuropathy, distal hereditary motor	Kijima (2005) J Hum Genet 50:473	PubMed 16155736
+CM1110309	gCGG-TGG	Arg188Trp	562C>T	R188W	Charcot-Marie-Tooth disease 2	Capponi (2011) J Peripher Nerv Syst 16:287	PubMed 22176143

@@ -1,0 +1,7 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM045656	CACc-CAG	His5Gln	15C>G	H5Q	Lung cancer, increased risk, association with	Lan (2004) Carcinogenesis 25:2177	PubMed 15284179
+CM097870	GAA-GGA	Glu77Gly	230A>G	E77G	Reduced enzyme activity	Plourde (2009) J Steroid Biochem Mol Biol 116:134	PubMed 19460435
+CM109908	aGCT-ACT	Ala106Thr	316G>A	A106T	Reduced enzyme activity with DAUN	Bains (2010) J Pharmacol Exp Ther 335:533	PubMed 20837989
+CM109906	cCGC-TGC	Arg170Cys	508C>T	R170C	Reduced enzyme activity with DOX/DAUN	Bains (2010) J Pharmacol Exp Ther 335:533	PubMed 20837989
+CM109907	gCCA-TCA	Pro180Ser	538C>T	P180S	Reduced enzyme activity with DOX/DAUN	Bains (2010) J Pharmacol Exp Ther 335:533	PubMed 20837989
+CM097871	AAG-AGG	Lys183Arg	548A>G	K183R	Reduced enzyme activity	Plourde (2009) J Steroid Biochem Mol Biol 116:134	PubMed 19460435

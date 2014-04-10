@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM062937	CAG-CCG	Gln391Pro	1172A>C	Q391P	Striatonigral degeneration, infantile	Basel-Vanagaite (2006) Ann Neurol 60:214	PubMed 16786527

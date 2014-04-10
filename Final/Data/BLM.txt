@@ -1,0 +1,36 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM072896	TCA-TAA	Ser104Term	311C>A	S104X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM112340	TCA-TAA	Ser106Term	317C>A	S106X	Bloom syndrome	Bell (2011) Sci Transl Med 3:65ra4	PubMed 21228398
+CM950137	gAAG-TAG	Lys272Term	814A>T	K272X	Bloom syndrome	Ellis (1995) Cell 83:655	PubMed 7585968
+CM973006	tAGA-TGA	Arg364Term	1090A>T	R364X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072901	TGGa-TGA	Trp428Term	1284G>A	W428X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072904	TTA-TAA	Leu543Term	1628T>A	L543X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072892	cCAA-TAA	Gln548Term	1642C>T	Q548X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072903	TGGg-TGA	Trp567Term	1701G>A	W567X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072897	TCA-TAA	Ser595Term	1784C>A	S595X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM973007	cCAA-TAA	Gln645Term	1933C>T	Q645X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM952086	CAG-CGG	Gln672Arg	2015A>G	Q672R	Bloom syndrome	Ellis (1995) Cell 83:655	PubMed 7585968
+CM973008	cCAG-TAG	Gln700Term	2098C>T	Q700X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM994683	cCAG-TAG	Gln752Term	2254C>T	Q752X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM950138	ATC-ACC	Ile841Thr	2522T>C	I841T	Bloom syndrome	Ellis (1995) Cell 83:655	PubMed 7585968
+CM102917	CCG-CTG	Pro868Leu	2603C>T	P868L	Rectal cancer, association with	Frank (2010) Carcinogenesis 31:442	PubMed 19945966
+CM003917	tTGC-CGC	Cys878Arg	2632T>C	C878R	Bloom syndrome	Barakat (2000) Hum Mutat 15:584	PubMed 10862105
+CM072902	TGGa-TGA	Trp881Term	2643G>A	W881X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM973009	GGG-GAG	Gly891Glu	2672G>A	G891E	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM973010	gCGA-TGA	Arg899Term	2695C>T	R899X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM973011	TGT-TAT	Cys901Tyr	2702G>A	C901Y	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072888	aCAG-TAG	Gln909Term	2725C>T	Q909X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM087770	tCAG-TAG	Gln941Term	2821C>T	Q941X	Bloom syndrome	Amor-Guéret (2008) Genet Test 12:257	PubMed 18471088
+CM072894	GGG-GTG	Gly952Val	2855G>T	G952V	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072899	tCAT-TAT	His963Tyr	2887C>T	H963Y	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM970166	TGC-TTC	Cys1036Phe	3107G>T	C1036F	Bloom syndrome	Foucault (1997) Hum Mol Genet 6:1427	PubMed 9285778
+CM072889	aCAG-TAG	Gln1040Term	3118C>T	Q1040X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072905	tTGT-CGT	Cys1055Arg	3163T>C	C1055R	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072906	tTGT-GGT	Cys1055Gly	3163T>G	C1055G	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM950139	TGT-TCT	Cys1055Ser	3164G>C	C1055S	Bloom syndrome	Ellis (1995) Cell 83:655	PubMed 7585968
+CM072893	GAT-GTT	Asp1064Val	3191A>T	D1064V	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072900	TGC-TAC	Cys1066Tyr	3197G>A	C1066Y	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072898	TCA-TGA	Ser1093Term	3278C>G	S1093X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072891	aCGA-TGA	Arg1139Term	3415C>T	R1139X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072895	TATg-TAA	Tyr1170Term	3510T>A	Y1170X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155
+CM072890	aCAG-TAG	Gln1283Term	3847C>T	Q1283X	Bloom syndrome	German (2007) Hum Mutat 28:743	PubMed 17407155

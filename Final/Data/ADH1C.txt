@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM050165	tGGA-TGA	Gly78Term	232G>T	G78X	Parkinson disease, association with	Buervenich (2005) Arch Neurol 62:74	PubMed 15642852
+CM860053	CGG-CAG	Arg272Gln	815G>A	R272Q	Alcohol dehydrogenase gamma variant	Hoog (1986) Eur J Biochem 159:215	PubMed 3758060
+CM033593	tATT-GTT	Ile350Val	1048A>G	I350V	Alcoholism, increased risk, association with	Konishi (2003) Exp Mol Pathol 74:183	PubMed 12710951

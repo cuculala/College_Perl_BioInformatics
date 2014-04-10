@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM076588	GTG-GCG	Val72Ala	215T>C	V72A	Altered level of single strand breaks	Jones (2007) Mutat Res 616:213	PubMed 17145065
+CM033678	cCGG-TGG	Arg194Trp	580C>T	R194W	Benign breast disease, association with	Jorgensen (2009) Cancer Epidemiol Biomarkers Prev 18:346	PubMed 19124519
+CM014228	CGT-CAT	Arg280His	839G>A	R280H	Increased lung cancer risk, association with	Ratnasinghe (2001) Cancer Epidemiol Biomarkers Prev 10:119	PubMed 11219768
+CM015158	CGG-CAG	Arg399Gln	1196G>A	R399Q	Increased lung cancer risk, association with	Divine (2001) Mutat Res 461:273	PubMed 11104903

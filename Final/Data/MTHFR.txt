@@ -1,0 +1,53 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM013904	cAGA-TGA	Arg6Term	16A>T	R6X	Methylenetetrahydrofolate reductase deficiency	Tonetti (2001) J Inherit Metab Dis 24:833	PubMed 11916316
+CM960994	CGG-CCG	Arg51Pro	152G>C	R51P	Homocystinuria	Goyette (1996) Am J Hum Genet 59:1268	PubMed 8940272
+CM950818	CGA-CAA	Arg52Gln	155G>A	R52Q	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM035839	TCA-TGA	Ser78Term	233C>G	S78X	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064
+CM082953	ATGa-ATC	Met110Ile	330G>C	M110I	Reduced enzyme activity	Marini (2008) Proc Natl Acad Sci U S A 105:8055	PubMed 18523009
+CM000525	cGCC-ACC	Ala116Thr	346G>A	A116T	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM082956	gCGC-TGC	Arg134Cys	400C>T	R134C	Reduced enzyme activity	Marini (2008) Proc Natl Acad Sci U S A 105:8055	PubMed 18523009
+CM030908	ATCa-ATG	Ile153Met	459C>G	I153M	Homocystinuria	Sibani (2003) Hum Mutat 21:509	PubMed 12673793
+CM941069	CGG-CAG	Arg157Gln	470G>A	R157Q	Homocystinuria	Goyette (1994) Nat Genet 7:195	PubMed 7920641
+CM102999	cGCA-ACA	Ala175Thr	523G>A	A175T	Methylenetetrahydrofolate reductase deficiency	Forges (2010) Mol Genet Metab 100:143	PubMed 20356773
+CM035838	gCAC-GAC	His181Asp	541C>G	H181D	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064
+CM941070	cCGA-TGA	Arg183Term	547C>T	R183X	Homocystinuria	Goyette (1994) Nat Genet 7:195	PubMed 7920641
+CM035842	TGT-TAT	Cys193Tyr	578G>A	C193Y	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064
+CM108907	GCA-GTA	Ala195Val	584C>T	A195V	Methylenetetrahydrofolate reductase deficiency	Nyström (2010) Pituitary epub:epub	PubMed 21132537
+CM078436	cCCC-TCC	Pro202Ser	604C>T	P202S	Hyperhomocysteinaemia	Rummel (2007) J Inherit Metab Dis 30:	PubMed 17457696
+CM106684	gGTG-TTG	Val218Leu	652G>T	V218L	Homocystinuria	Urreizti (2010) Clin Genet 78:441	PubMed 20236116
+CM950819	GCC-GTC	Ala222Val	665C>T	A222V	Cardiovascular disease, association with	Frosst (1995) Nat Genet 10:111	PubMed 7647779
+CM082954	cGAT-AAT	Asp223Asn	667G>A	D223N	Hyperhomocysteinaemia	Rummel (2007) J Inherit Metab Dis 30:401	PubMed 17457696
+CM950820	ACG-ATG	Thr227Met	680C>T	T227M	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM950821	CCC-CTC	Pro251Leu	752C>T	P251L	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM082955	cGAT-AAT	Asp291Asn	871G>A	D291N	Reduced enzyme activity	Marini (2008) Proc Natl Acad Sci U S A 105:8055	PubMed 18523009
+CM960995	CTC-CCC	Leu323Pro	968T>C	L323P	Homocystinuria	Goyette (1996) Am J Hum Genet 59:1268	PubMed 8940272
+CM983381	AAC-AGC	Asn324Ser	971A>G	N324S	Methylenetetrahydrofolate reductase deficiency	Kluijtmans (1998) Eur J Hum Genet 6:257	PubMed 9781030
+CM950822	cCGC-TGC	Arg325Cys	973C>T	R325C	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM016157	CTG-CCG	Leu333Pro	998T>C	L333P	Methylenetetrahydrofolate reductase deficiency	Homberger (2001) J Inherit Metab Dis 24S:50 Source:	Meeting abstract
+CM950823	gCGC-TGC	Arg335Cys	1003C>T	R335C	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM030909	ATG-ACG	Met338Thr	1013T>C	M338T	Homocystinuria	Sibani (2003) Hum Mutat 21:509	PubMed 12673793
+CM983382	gTGG-GGG	Trp339Gly	1015T>G	W339G	Methylenetetrahydrofolate reductase deficiency	Kluijtmans (1998) Eur J Hum Genet 6:257	PubMed 9781030
+CM950824	gCGC-TGC	Arg357Cys	1069C>T	R357C	Homocystinuria	Goyette (1995) Am J Hum Genet 56:1052	PubMed 7726158
+CM088302	CGC-CAC	Arg357His	1070G>A	R357H	Methylenetetrahydrofolate reductase deficiency	Birnbaum (2008) J Neurol 255:1845	PubMed 18854913
+CM983383	cCGA-TGA	Arg358Term	1072C>T	R358X	Methylenetetrahydrofolate reductase deficiency	Kluijtmans (1998) Eur J Hum Genet 6:257	PubMed 9781030
+CM000526	TACa-TAG	Tyr374Term	1122C>G	Y374X	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM960996	cCGT-TGT	Arg377Cys	1129C>T	R377C	Homocystinuria	Goyette (1996) Am J Hum Genet 59:1268	PubMed 8940272
+CM000527	GGC-GAC	Gly387Asp	1160G>A	G387D	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM016159	TGG-TCG	Trp421Ser	1262G>C	W421S	Methylenetetrahydrofolate reductase deficiency	Homberger (2001) J Inherit Metab Dis 24S:50 Source:	Meeting abstract
+CM030910	TGG-TAG	Trp421Term	1262G>A	W421X	Homocystinuria	Sibani (2003) Hum Mutat 21:509	PubMed 12673793
+CM981315	GAA-GCA	Glu429Ala	1286A>C	E429A	Neural tube defect, increased risk, association with van der	Put (1998) Am J Hum Genet 62:1044	PubMed 9545395
+CM044675	TTTg-TTC	Phe435Phe	1305T>C	F435F	Preeclampsia, association with	Pegoraro (2004) Acta Obstet Gynecol Scand 83:449	PubMed 15059157
+CM106685	TTC-TCC	Phe435Ser	1304T>C	F435S	Homocystinuria	Urreizti (2010) Clin Genet 78:441	PubMed 20236116
+CM035840	TCG-TTG	Ser440Leu	1319C>T	S440L	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064
+CM016158	gGAG-TAG	Glu470Term	1408G>T	E470X	Methylenetetrahydrofolate reductase deficiency	Homberger (2001) J Inherit Metab Dis 24S:50 Source:	Meeting abstract
+CM088303	CGG-CAG	Arg535Gln	1604G>A	R535Q	Methylenetetrahydrofolate reductase deficiency	Birnbaum (2008) J Neurol 255:1845	PubMed 18854913
+CM013905	cCGG-TGG	Arg535Trp	1603C>T	R535W	Methylenetetrahydrofolate reductase deficiency	Tonetti (2001) J Inherit Metab Dis 24:833	PubMed 11916316
+CM983384	gCGA-TGA	Arg567Term	1699C>T	R567X	Methylenetetrahydrofolate reductase deficiency	Kluijtmans (1998) Eur J Hum Genet 6:257	PubMed 9781030
+CM000528	CCC-CTC	Pro572Leu	1715C>T	P572L	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM106686	GTA-GGA	Val574Gly	1721T>G	V574G	Homocystinuria	Urreizti (2010) Clin Genet 78:441	PubMed 20236116
+CM036017	ATGt-ATA	Met581Ile	1743G>A	M581I	Methylenetetrahydrofolate reductase deficiency	Selzer (2003) N Engl J Med 349:45	PubMed 12840091
+CM000529	gAAG-TAG	Lys584Term	1750A>T	K584X	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM000530	cGAG-AAG	Glu586Lys	1756G>A	E586K	Homocystinuria	Sibani (2000) Hum Mutat 15:280	PubMed 10679944
+CM056008	CGG-CAG	Arg594Gln	1781G>A	R594Q	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064
+CM120149	gGAG-TAG	Glu602Term	1804G>T	E602X	Potential protein deficiency	Sebastiani (2012) Front Genet 2:90 PubMed: No	PubMed ID
+CM035841	TGA-TCA	Term657Ser	1970G>C	X657S	Methylenetetrahydrofolate reductase deficiency	Tonetti (2003) Eur J Pediatr 162:466	PubMed 12733064

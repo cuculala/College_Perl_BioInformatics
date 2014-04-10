@@ -1,0 +1,31 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM062313	TACg-TAG	Tyr57Term	171C>G	Y57X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM062307	AAAa-AAT	Lys125Asn	375A>T	K125N	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM062309	aAAG-GAG	Lys135Glu	403A>G	K135E	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM043620	tACA-CCA	Thr172Pro	514A>C	T172P	Reduced enzyme activity	Kamath-Loeb (2004) J Biol Chem 279:55499	PubMed 15489508
+CM961463	aCGA-TGA	Arg369Term	1105C>T	R369X	Werner syndrome	Oshima (1996) Hum Mol Genet 5:1909	PubMed 8968742
+CM971590	TATg-TAA	Tyr463Term	1389T>A	Y463X	Werner syndrome	Matsumoto (1997) Hum Genet 100:123	PubMed 9225981
+CM062311	aGAA-TAA	Glu488Term	1462G>T	E488X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM062308	aAAA-TAA	Lys496Term	1486A>T	K496X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM104920	TGG-TAG	Trp529Term	1586G>A	W529X	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM104915	tGGA-AGA	Gly574Arg	1720G>A	G574R	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM063230	cCGG-TGG	Arg637Trp	1909C>T	R637W	Werner syndrome	Uhrhammer (2006) Hum Mutat 27:718	PubMed 16786514
+CM062315	tCGA-TGA	Arg732Term	2194C>T	R732X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM104921	gCGA-TGA	Arg741Term	2221C>T	R741X	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM013059	tCAG-TAG	Gln748Term	2242C>T	Q748X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM063233	TGGg-TGA	Trp761Term	2283G>A	W761X	Werner syndrome	Uhrhammer (2006) Hum Mutat 27:718	PubMed 16786514
+CM043621	tCGC-TGC	Arg834Cys	2500C>T	R834C	Reduced enzyme activity	Kamath-Loeb (2004) J Biol Chem 279:55499	PubMed 15489508
+CM062314	tCAA-TAA	Gln861Term	2581C>T	Q861X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM961464	tCGA-TGA	Arg889Term	2665C>T	R889X	Werner syndrome	Oshima (1996) Hum Mol Genet 5:1909	PubMed 8968742
+CM104923	TCA-TAA	Ser952Term	2855C>A	S952X	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM062310	aCAA-TAA	Gln962Term	2884C>T	Q962X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM062312	cCGA-TGA	Arg987Term	2959C>T	R987X	Werner syndrome	Huang (2006) Hum Mutat 27:558	PubMed 16673358
+CM004850	TTTc-TTG	Phe1074Leu	3222T>G	F1074L	Coronary stenosis, reduced risk, association with	Castro (2000) Am J Med Genet 95:374	PubMed 11186893
+CM104924	gGAG-TAG	Glu1107Term	3319G>T	E1107X	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM961465	gCAG-TAG	Gln1165Term	3493C>T	Q1165X	Werner syndrome	Yu (1996) Science 272:258	PubMed 8602509
+CM063231	gAAA-TAA	Lys1166Term	3496A>T	K1166X	Werner syndrome	Uhrhammer (2006) Hum Mutat 27:718	PubMed 16786514
+CM063232	TACt-TAG	Tyr1263Term	3789C>G	Y1263X	Werner syndrome	Uhrhammer (2006) Hum Mutat 27:718	PubMed 16786514
+CM961466	gCGA-TGA	Arg1305Term	3913C>T	R1305X	Werner syndrome	Yu (1996) Science 272:258	PubMed 8602509
+CM104925	cCGA-TGA	Arg1321Term	3961C>T	R1321X	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM104916	ATG-AGG	Met1350Arg	4049T>G	M1350R	Werner syndrome	Friedrich (2010) Hum Genet 128:103	PubMed 20443122
+CM971591	aTGT-CGT	Cys1367Arg	4099T>C	C1367R	Thromboembolic disease, association with	Ye (1997) Am J Med Genet 68:494	PubMed 9021029

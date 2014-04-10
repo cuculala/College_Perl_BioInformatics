@@ -1,0 +1,881 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM010791	ATG-AGG	Met1Arg	2T>G	M1R	Asthma	Tzetis (2001) Hum Genet 108:216	PubMed 11354633
+CM941965	ATGc-ATA	Met1Ile	3G>A	M1I	Cystic fibrosis	Axton (1994) CFTR LSDB entry Newsletter:#61	Source: LSDB
+CM960274	ATGc-ATT	Met1Ile	3G>T	M1I	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM930093	ATG-AAG	Met1Lys	2T>A	M1K	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM994781	ATG-ACG	Met1Thr	2T>C	M1T	Cystic fibrosis	Bienvenu (2005) Hum Biol 77:705	PubMed 16596947
+CM930094	cATG-GTG	Met1Val	1A>G	M1V	Cystic fibrosis	Cheadle (1993) Hum Mol Genet 2:1551	PubMed 7505689
+CM940232	gCAG-TAG	Gln2Term	4C>T	Q2X	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM940233	gAGG-TGG	Arg3Trp	7A>T	R3W	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM930095	TCG-TAG	Ser4Term	11C>A	S4X	Cystic fibrosis	Glavac (1993) Hum Mol Genet 2:315	PubMed 7684643
+CM970256	CCT-CTT	Pro5Leu	14C>T	P5L	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM021068	tCTG-GTG	Leu6Val	16C>G	L6V	Cystic fibrosis	Visich (2002) Clin Genet 61:207	PubMed 12000363
+CM031655	gGAA-TAA	Glu7Term	19G>T	E7X	Cystic fibrosis	Wong (2003) Am J Med Genet 120A:296	PubMed 12833420
+CM952250	cAGC-CGC	Ser10Arg	28A>C	S10R	Cystic fibrosis	Hughes (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM010792	cGTT-ATT	Val11Ile	31G>A	V11I	Asthma	Tzetis (2001) Hum Genet 108:216	PubMed 11354633
+CM962449	TCC-TTC	Ser13Phe	38C>T	S13F	Cystic fibrosis	Cao (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM0910748	TCC-TAC	Ser13Tyr	38C>A	S13Y	Azoospermia	Gallati (2009) Reprod Biomed Online 19:685	PubMed 20021716
+CM931138	cAAA-TAA	Lys14Term	40A>T	K14X	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#56	Source: LSDB
+CM067745	cAGC-GGC	Ser18Gly	52A>G	S18G	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM970257	TGGa-TGT	Trp19Cys	57G>T	W19C	Cystic fibrosis	Macek (1997) Am J Hum Genet 60:1122	PubMed 9150159
+CM983534	TGGa-TGA	Trp19Term	57G>A	W19X	Cystic fibrosis	Chevalier-Porst (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM043456	TTGa-TTC	Leu24Phe	72G>C	L24F	Cystic fibrosis	Seia (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM043457	aGGA-AGA	Gly27Arg	79G>A	G27R	Cystic fibrosis Oller	Ramirez (2006) Mol Genet Metab 87:370	PubMed 16423550
+CM057570	aGGA-CGA	Gly27Arg	79G>C	G27R	Cystic fibrosis	Herova (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940234	GGA-GAA	Gly27Glu	80G>A	G27E	Cystic fibrosis	Bienvenu (1994) Hum Mol Genet 3:365	PubMed 7516232
+CM920138	aGGA-TGA	Gly27Term	79G>T	G27X	Cystic fibrosis	Shackleton (1992) Hum Mol Genet 1:445	PubMed 1284531
+CM940235	aCAG-TAG	Gln30Term	88C>T	Q30X	Cystic fibrosis	Chillon (1994) Hum Genet 93:447	PubMed 7513293
+CM931139	gCGC-TGC	Arg31Cys	91C>T	R31C	Pancreatitis Gomez	Lira (2001) Pancreatology 1:538	PubMed 12120234
+CM950231	CGC-CTC	Arg31Leu	92G>T	R31L	Cystic fibrosis	Zielenski (1995) Hum Mutat 5:43	PubMed 7537150
+CM034776	aGAC-AAC	Asp36Asn	106G>A	D36N	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920139	cCAA-TAA	Gln39Term	115C>T	Q39X	Cystic fibrosis	Cutting (1992) Am J Hum Genet 50:1185	PubMed 1376017
+CM950232	TCT-TTT	Ser42Phe	125C>T	S42F	Cystic fibrosis	Ferec (1995) Mol Cell Probes 9:135	PubMed 7541510
+CM920140	GAT-GGT	Asp44Gly	131A>G	D44G	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM970258	GCT-GAT	Ala46Asp	137C>A	A46D	Cystic fibrosis	Tzetis (1997) Hum Genet 99:121	PubMed 9003508
+CM952045	aTCT-CCT	Ser50Pro	148T>C	S50P	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM970259	TCT-TAT	Ser50Tyr	149C>A	S50Y	Cystic fibrosis	Zielenski (1997) Hum Mutat 9:183	PubMed 9067761
+CM067734	AGA-AAA	Arg55Lys	164G>A	R55K	Cystic fibrosis	Pasquet (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM970260	aGAA-AAA	Glu56Lys	166G>A	E56K	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM972934	aTGG-CGG	Trp57Arg	169T>C	W57R	Cystic fibrosis	Malone (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM950233	aTGG-GGG	Trp57Gly	169T>G	W57G	Cystic fibrosis	Brancolini (1995) Hum Genet 96:312	PubMed 7544319
+CM930096	TGG-TAG	Trp57Term	170G>A	W57X	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM994782	TGGg-TGA	Trp57Term	171G>A	W57X	Cystic fibrosis Le	Maréchal (2001) Hum Genet 108:290	PubMed 11379874
+CM970261	gGAT-AAT	Asp58Asn	172G>A	D58N	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM003234	GAT-GGT	Asp58Gly	173A>G	D58G	Cystic fibrosis	Claustres (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003235	aGAG-AAG	Glu60Lys	178G>A	E60K	Cystic fibrosis	Claustres (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920141	aGAG-TAG	Glu60Term	178G>T	E60X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM057577	CTG-CCG	Leu61Pro	182T>C	L61P	Cystic fibrosis	Stark (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM034777	aAAG-GAG	Lys64Glu	190A>G	K64E	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034778	AAT-AGT	Asn66Ser	197A>G	N66S	Cystic fibrosis	Cashman (2003) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM930097	CCT-CTT	Pro67Leu	200C>T	P67L	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM076095	tCCT-TCT	Pro67Ser	199C>T	P67S	Cystic fibrosis	Kraus (2007) Cell Physiol Biochem 19:239	PubMed 17495464
+CM920979	AAAc-AAT	Lys68Asn	204A>T	K68N	Cystic fibrosis	Doerk (1992) CFTR LSDB entry Newsletter:#48	Source: LSDB
+CM972935	tAAA-GAA	Lys68Glu	202A>G	K68E	Cystic fibrosis	Kilinc (2002) Am J Med Genet 113:250	PubMed 12439892
+CM090068	CTC-CAC	Leu69His	206T>A	L69H	Cystic fibrosis	Sharma (2009) Ann Hum Genet 73:26	PubMed 18782298
+CM962450	GCC-GAC	Ala72Asp	215C>A	A72D	Cystic fibrosis Le	Gall (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM993844	tGCC-ACC	Ala72Thr	214G>A	A72T	Cystic fibrosis	Pacheco (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003236	CGG-CAG	Arg74Gln	221G>A	R74Q	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM930098	tCGG-TGG	Arg74Trp	220C>T	R74W	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM980331	CGA-CAA	Arg75Gln	224G>A	R75Q	Congenital absence of vas deferens	Jarvi (1998) Fertil Steril 70:724	PubMed 9797105
+CM950234	CGA-CTA	Arg75Leu	224G>T	R75L	Cystic fibrosis	Chillon (1995) N Engl J Med 332:1475	PubMed 7739684
+CM940236	gCGA-TGA	Arg75Term	223C>T	R75X	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM931140	cTGG-CGG	Trp79Arg	235T>C	W79R	Cystic fibrosis	Macek (1993) CFTR LSDB entry Newsletter:#56	Source: LSDB
+CM931141	TGG-TAG	Trp79Term	236G>A	W79X	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#58	Source: LSDB
+CM067768	tATG-GTG	Met82Val	244A>G	M82V	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM067752	cTAT-CAT	Tyr84His	250T>C	Y84H	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM910068	GGA-GAA	Gly85Glu	254G>A	G85E	Cystic fibrosis	Zielenski (1991) Genomics 10:229	PubMed 1710599
+CM970262	GGA-GTA	Gly85Val	254G>T	G85V	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM091992	cTTT-ATT	Phe87Ile	259T>A	F87I	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM940237	cTTT-CTT	Phe87Leu	259T>C	F87L	Cystic fibrosis	Bienvenu (1994) Hum Mutat 3:395	PubMed 8081395
+CM960275	TTA-TCA	Leu88Ser	263T>C	L88S	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM940238	TTA-TAA	Leu88Term	263T>A	L88X	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM920142	TTA-TGA	Leu88Term	263T>G	L88X	Cystic fibrosis	Macek (1992) Hum Mutat 1:501	PubMed 1284542
+CM993845	TAT-TGT	Tyr89Cys	266A>G	Y89C	Cystic fibrosis	Giusti (2007) Pediatrics 119:e460	PubMed 17272608
+CM983535	TTA-TCA	Leu90Ser	269T>C	L90S	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930099	aGGG-AGG	Gly91Arg	271G>A	G91R	Cystic fibrosis	Guillermit (1993) Hum Genet 91:233	PubMed 7682984
+CM043458	GAAg-GAT	Glu92Asp	276A>T	E92D	Cystic fibrosis	Girodon (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920143	gGAA-AAA	Glu92Lys	274G>A	E92K	Cystic fibrosis	Shackleton (1992) Hum Mol Genet 1:439	PubMed 1284529
+CM940239	gGAA-TAA	Glu92Term	274G>T	E92X	Cystic fibrosis	Will (1994) J Clin Invest 93:1852	PubMed 7512993
+CM983536	GCA-GAA	Ala96Glu	287C>A	A96E	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM950235	CAG-CGG	Gln98Arg	293A>G	Q98R	Cystic fibrosis	Romey (1995) Hum Mutat 6:190	PubMed 7581407
+CM015351	CAG-CCG	Gln98Pro	293A>C	Q98P	Congenital absence of vas deferens	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM980332	aCAG-TAG	Gln98Term	292C>T	Q98X	Cystic fibrosis	Malone (1998) Hum Mutat 11:152	PubMed 9482579
+CM920980	CCT-CTT	Pro99Leu	296C>T	P99L	Cystic fibrosis	Schwartz (1992) CFTR LSDB entry Newsletter:#50	Source: LSDB
+CM034779	TTA-TCA	Leu101Ser	302T>C	L101S	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM962451	TTA-TGA	Leu101Term	302T>G	L101X	Cystic fibrosis	Casals (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM057578	CTG-CGG	Leu102Arg	305T>G	L102R	Cystic fibrosis	Torricelli (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM015352	CTG-CCG	Leu102Pro	305T>C	L102P	Cystic fibrosis	Fresquet (2011) J Mol Diagn 13:520	PubMed 21708286
+CM920981	gGGA-TGA	Gly103Term	307G>T	G103X	Cystic fibrosis	Edkins (1992) CFTR LSDB entry Newsletter:#47	Source: LSDB
+CM003237	ATC-AAC	Ile105Asn	314T>A	I105N	Cystic fibrosis	Claustres (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM074735	GCT-GGT	Ala107Gly	320C>G	A107G	Asthenospermia	Anguis (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM087273	GCT-GTT	Ala107Val	320C>T	A107V	Cystic fibrosis	Rana-Díez (2008) J Cyst Fibros 7:520	PubMed 18676185
+CM950236	TCC-TTC	Ser108Phe	323C>T	S108F	Cystic fibrosis	Seydewitz (1995) Hum Mutat 6:278 PubMed: No	PubMed ID
+CM983537	cTAT-AAT	Tyr109Asn	325T>A	Y109N	Cystic fibrosis	Schaedel (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940240	TAT-TGT	Tyr109Cys	326A>G	Y109C	Cystic fibrosis	Schaedel (1994) Hum Mol Genet 3:1001	PubMed 7524909
+CM040400	TATg-TAA	Tyr109Term	327T>A	Y109X	Cystic fibrosis	Feuillet-Fieux (2004) Clin Genet 65:284	PubMed 15025720
+CM024660	tGAC-AAC	Asp110Asn	328G>A	D110N	Hypertrypsinaemia, neonatal	Seia (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993846	GACc-GAA	Asp110Glu	330C>A	D110E	Cystic fibrosis	Padoan (2002) Acta Paediatr 91:82	PubMed 11883825
+CM900042	tGAC-CAC	Asp110His	328G>C	D110H	Cystic fibrosis	Dean (1990) Cell 61:863	PubMed 2344617
+CM003238	tGAC-TAC	Asp110Tyr	328G>T	D110Y	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM962452	cCCG-GCG	Pro111Ala	331C>G	P111A	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM970263	CCG-CTG	Pro111Leu	332C>T	P111L	Congenital absence of vas deferens de	Meeus (1997) Hum Mutat 11:480	PubMed 10200050
+CM074727	AAC-ATC	Asn113Ile	338A>T	N113I	Congenital absence of vas deferens	Omar (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043459	cAAG-TAG	Lys114Term	340A>T	K114X	Cystic fibrosis	Bonizzato (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM001648	gGAG-TAG	Glu115Term	343G>T	E115X	Cystic fibrosis	Banjar (1999) Ann Trop Paediatr 19:69	PubMed 10605524
+CM003239	gGAA-CAA	Glu116Gln	346G>C	E116Q	Cystic fibrosis	Walker (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM941966	gGAA-AAA	Glu116Lys	346G>A	E116K	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM066753	gGAA-TAA	Glu116Term	346G>T	E116X	Cystic fibrosis	Munthe-Kaas (2006) Respir Med 100:2121	PubMed 16678395
+CM940241	aCGC-TGC	Arg117Cys	349C>T	R117C	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM005456	aCGC-GGC	Arg117Gly	349C>G	R117G	Congenital absence of vas deferens	Daudin (2000) Fertil Steril 74:1164	PubMed 11119745
+CM900043	CGC-CAC	Arg117His	350G>A	R117H	Cystic fibrosis	Dean (1990) Cell 61:863	PubMed 2344617
+CM950237	CGC-CTC	Arg117Leu	350G>T	R117L	Cystic fibrosis	Ferec (1995) Mol Cell Probes 9:135	PubMed 7541510
+CM930100	CGC-CCC	Arg117Pro	350G>C	R117P	Cystic fibrosis	Reiss (1993) Hum Mol Genet 2:809	PubMed 7689013
+CM024661	tATC-GTC	Ile119Val	355A>G	I119V	Cystic fibrosis	Schwarz (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940242	cGCG-ACG	Ala120Thr	358G>A	A120T	Cystic fibrosis	Chillon (1994) Hum Genet 93:447	PubMed 7513293
+CM034780	GCG-GTG	Ala120Val	359C>T	A120V	Cystic fibrosis	Casals (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067766	TAT-TGT	Tyr122Cys	365A>G	Y122C	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM065998	tTAT-CAT	Tyr122His	364T>C	Y122H	Congenital absence of vas deferens	Radpour (2006) Mol Hum Reprod 12:717	PubMed 16973827
+CM920144	TATc-TAA	Tyr122Term	366T>A	Y122X	Cystic fibrosis	Chevalier (1992) Hum Mol Genet 1:647	PubMed 1284471
+CM983538	ATA-ACA	Ile125Thr	374T>C	I125T	Cystic fibrosis	Kilinc (2002) Am J Med Genet 113:250	PubMed 12439892
+CM940243	GGC-GAC	Gly126Asp	377G>A	G126D	Cystic fibrosis	Wagner (1994) Hum Hered 44:56	PubMed 8163293
+CM091993	aGGC-AGC	Gly126Ser	376G>A	G126S	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM962453	TTA-TGA	Leu127Term	380T>G	L127X	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM972936	CTC-CGC	Leu137Arg	410T>G	L137R	Cystic fibrosis	Chevalier-Porst (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM962454	CTC-CAC	Leu137His	410T>A	L137H	Cystic fibrosis	Wallace (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM051410	CTC-CCC	Leu137Pro	410T>C	L137P	Cystic fibrosis	Patrinos (2005) CFTR LSDB entry :	Source: LSDB
+CM950238	CAC-CGC	His139Arg	416A>G	H139R	Cystic fibrosis	Ferec (1995) Mol Cell Probes 9:135	PubMed 7541510
+CM001649	CAC-CTC	His139Leu	416A>T	H139L	Cystic fibrosis	Banjar (1999) Ann Trop Paediatr 19:69	PubMed 10605524
+CM983539	CCA-CTA	Pro140Leu	419C>T	P140L	Cystic fibrosis	Tzetis (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM941967	cCCA-TCA	Pro140Ser	418C>T	P140S	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#61	Source: LSDB
+CM970264	GCC-GAC	Ala141Asp	422C>A	A141D	Cystic fibrosis	Gouya (1997) Hum Mutat 10:86	PubMed 9222768
+CM057579	CTT-CAT	Leu145His	434T>A	L145H	Cystic fibrosis	Wang (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM962455	CAT-CGT	His146Arg	437A>G	H146R	Congenital absence of vas deferens	Bienvenu (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM962456	ATT-AAT	Ile148Asn	443T>A	I148N	Cystic fibrosis	Hirtz (2004) Gastroenterology 127:1085	PubMed 15480987
+CM920145	ATT-ACT	Ile148Thr	443T>C	I148T	Phenotype modifier	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM950239	tGGA-AGA	Gly149Arg	445G>A	G149R	Cystic fibrosis	Mercier (1995) Am J Hum Genet 56:272	PubMed 7529962
+CM086804	tGGA-TGA	Gly149Term	445G>T	G149X	Cystic fibrosis	Shastri (2008) J Cyst Fibros 7:110	PubMed 17716958
+CM067763	GGA-GTA	Gly149Val	446G>T	G149V	Cystic fibrosis	Pacheco (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM063899	ATG-AAG	Met150Lys	449T>A	M150K	Cystic fibrosis	Kammesheidt (2006) Genet Med 8:557	PubMed 16980811
+CM043460	gCAG-AAG	Gln151Lys	451C>A	Q151K	Congenital absence of vas deferens	Girodon (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920146	gCAG-TAG	Gln151Term	451C>T	Q151X	Cystic fibrosis	Shackleton (1992) Hum Mol Genet 1:439	PubMed 1284529
+CM983540	ATG-AGG	Met152Arg	455T>G	M152R	Cystic fibrosis	Morokawa (2000) Hum Mutat 15:485	PubMed 10790220
+CM067757	gATG-TTG	Met152Leu	454A>T	M152L	Asthenospermia	Angius (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM931142	gATG-GTG	Met152Val	454A>G	M152V	Cystic fibrosis	Wong (2004) Electrophoresis 25:2593	PubMed 15300780
+CM972937	aGCT-CCT	Ala155Pro	463G>C	A155P	Cystic fibrosis	Zielenski (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM091994	TTT-TGT	Phe157Cys	470T>G	F157C	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM994783	tAGT-CGT	Ser158Arg	472A>C	S158R	Congenital absence of vas deferens	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034009	AGT-AAT	Ser158Asn	473G>A	S158N	Cystic fibrosis	Hicks (2003) Genet Test 7:73	PubMed 12820707
+CM0910749	AGT-ATT	Ser158Ile	473G>T	S158I	Azoospermia	Gallati (2009) Reprod Biomed Online 19:685	PubMed 20021716
+CM055123	AGT-ACT	Ser158Thr	473G>C	S158T	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM024662	TTG-TCG	Leu159Ser	476T>C	L159S	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM003240	TTG-TAG	Leu159Term	476T>A	L159X	Cystic fibrosis	Andrew (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003241	tTAT-AAT	Tyr161Asn	481T>A	Y161N	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM993847	tTAT-GAT	Tyr161Asp	481T>G	Y161D	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM044864	TAT-TGT	Tyr161Cys	482A>G	Y161C	Cystic fibrosis	Hirtz (2004) Gastroenterology 127:1085	PubMed 15480987
+CM993848	TAT-TCT	Tyr161Ser	482A>C	Y161S	Cystic fibrosis	Andrew (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983541	tAAG-GAG	Lys162Glu	484A>G	K162E	Cystic fibrosis	Tzetis (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM920982	TTA-TCA	Leu165Ser	494T>C	L165S	Cystic fibrosis	Quint (2005) Am J Med Genet 136A:246	PubMed 15948195
+CM970265	aAAG-GAG	Lys166Glu	496A>G	K166E	Cystic fibrosis	Macek (1997) Hum Mutat 9:136	PubMed 9067754
+CM116798	CTG-CGG	Leu167Arg	500T>G	L167R	Cystic fibrosis	Fresquet (2011) J Mol Diagn 13:520	PubMed 21708286
+CM941968	cCGT-TGT	Arg170Cys	508C>T	R170C	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#62	Source: LSDB
+CM920983	cCGT-GGT	Arg170Gly	508C>G	R170G	Cystic fibrosis	Claustres (1992) CFTR LSDB entry Newsletter:#49	Source: LSDB
+CM015353	CGT-CAT	Arg170His	509G>A	R170H	Congenital absence of vas deferens	Brownsell (2001) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940244	aATA-GTA	Ile175Val	523A>G	I175V	Cystic fibrosis	Romey (1994) Hum Mol Genet 3:661	PubMed 7520799
+CM962457	ATT-ACT	Ile177Thr	530T>C	I177T	Cystic fibrosis	Bienvenu (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM910069	tGGA-AGA	Gly178Arg	532G>A	G178R	Cystic fibrosis	Zielenski (1991) Genomics 10:229	PubMed 1710599
+CM043461	GGA-GAA	Gly178Glu	533G>A	G178E	Cystic fibrosis	Soldatova (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003242	aCAA-AAA	Gln179Lys	535C>A	Q179K	Cystic fibrosis	Wong (2004) Electrophoresis 25:2593	PubMed 15300780
+CM057583	tCTC-ATC	Leu183Ile	547C>A	L183I	Cystic fibrosis	Shastri (2008) J Cyst Fibros 7:110	PubMed 17716958
+CM983542	AACa-AAA	Asn186Lys	558C>A	N186K	Cystic fibrosis	Claustres (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM983543	AACc-AAA	Asn187Lys	561C>A	N187K	Cystic fibrosis	Gaia (2002) Dig Dis Sci 47:2416	PubMed 12452372
+CM087308	CTG-CCG	Leu188Pro	563T>C	L188P	Pancreatitis, chronic	Audrezet (2008) J Mol Diagn 10:424	PubMed 18687795
+CM060896	AACa-AAA	Asn189Lys	567C>A	N189K	Cystic fibrosis	Li (2006) Chin	Med J
+CM021553	aTTT-GTT	Phe191Val	571T>G	F191V	Cystic fibrosis	Groman (2002) N Engl J Med 347:401	PubMed 12167682
+CM941969	tGAT-AAT	Asp192Asn	574G>A	D192N	Cystic fibrosis	Hubert (2004) J Cyst Fibros 3:15	PubMed 15463882
+CM940245	GAT-GGT	Asp192Gly	575A>G	D192G	Cystic fibrosis	Audrezet (1994) Hum Genet 93:659	PubMed 7516305
+CM950240	tGAA-AAA	Glu193Lys	577G>A	E193K	Cystic fibrosis	Mercier (1995) Am J Hum Genet 56:272	PubMed 7529962
+CM941970	tGAA-TAA	Glu193Term	577G>T	E193X	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#62	Source: LSDB
+CM066544	aGGA-AGA	Gly194Arg	580G>A	G194R	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM983544	GGA-GTA	Gly194Val	581G>T	G194V	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993849	gGCA-CCA	Ala198Pro	592G>C	A198P	Cystic fibrosis	Walker (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024663	CAT-CGT	His199Arg	596A>G	H199R	Cystic fibrosis	D'Apice (2004) BMC Med Genet 5:8	PubMed 15084222
+CM920147	CATt-CAG	His199Gln	597T>G	H199Q	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM940246	aCAT-TAT	His199Tyr	595C>T	H199Y	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM024664	tTTC-ATC	Phe200Ile	598T>A	F200I	Congenital absence of vas deferens	Claustres (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM001961	cGTG-ATG	Val201Met	601G>A	V201M	Cystic fibrosis	Bernardino (2000) Genet Test 4:69	PubMed 10794365
+CM034781	TGGa-TGA	Trp202Term	606G>A	W202X	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM043462	ATCg-ATG	Ile203Met	609C>G	I203M	Congenital absence of vas deferens	Claustres (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM087336	cGCT-ACT	Ala204Thr	610G>A	A204T	Cystic fibrosis	Mutesa (2008) Chest 135:1233	PubMed 19017867
+CM024665	CCT-CGT	Pro205Arg	614C>G	P205R	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930101	tCCT-TCT	Pro205Ser	613C>T	P205S	Cystic fibrosis	Chillon (1993) Hum Mol Genet 2:1741	PubMed 7505694
+CM972938	TTGc-TTT	Leu206Phe	618G>T	L206F	Cystic fibrosis	Ferec (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM930102	TTG-TGG	Leu206Trp	617T>G	L206W	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM931143	gCAA-TAA	Gln207Term	619C>T	Q207X	Cystic fibrosis	Zielenski (1993) CFTR LSDB entry Newsletter:#58	Source: LSDB
+CM983545	gGCA-TCA	Ala209Ser	625G>T	A209S	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034782	CTC-CCC	Leu210Pro	629T>C	L210P	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM094116	GGG-GAG	Gly213Glu	638G>A	G213E	Cystic fibrosis	Seia (2009) Clin Biochem 42:611	PubMed 19318035
+CM024666	GGG-GTG	Gly213Val	638G>T	G213V	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993850	TGG-TAG	Trp216Term	647G>A	W216X	Cystic fibrosis	Yoshimura (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972939	GAG-GGG	Glu217Gly	650A>G	E217G	Cystic fibrosis	Zielenski (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM962458	TTG-TAG	Leu218Term	653T>A	L218X	Cystic fibrosis	Zielenski (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM983546	CAG-CGG	Gln220Arg	659A>G	Q220R	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940247	aCAG-TAG	Gln220Term	658C>T	Q220X	Cystic fibrosis	Shackleton (1994) Hum Mutat 3:141	PubMed 7515303
+CM121017	GCC-GTC	Ala223Val	668C>T	A223V	Cystic fibrosis	Carr (2012) Hum Mutat 33:338	PubMed 22052625
+CM920148	cTGT-CGT	Cys225Arg	673T>C	C225R	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM962459	TGTg-TGA	Cys225Term	675T>A	C225X	Cystic fibrosis	Mercier (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM002751	CTT-CGT	Leu227Arg	680T>G	L227R	Cystic fibrosis	Dequeker (2000) Eur J Hum Genet 8:S2	PubMed 11108532
+CM970266	GTC-GAC	Val232Asp	695T>A	V232D	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM941971	tCAG-GAG	Gln237Glu	709C>G	Q237E	Cystic fibrosis	Hubert (2004) J Cyst Fibros 3:15	PubMed 15463882
+CM067761	GCT-GTT	Ala238Val	713C>T	A238V	Congenital absence of vas deferens	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM950241	tGGG-AGG	Gly239Arg	715G>A	G239R	Cystic fibrosis	Bienvenu (1995) Hum Hered 45:53	PubMed 7534748
+CM011283	aGGG-AGG	Gly241Arg	721G>A	G241R	Cystic fibrosis Le	Maréchal (2001) Hum Genet 108:290	PubMed 11379874
+CM993851	aATG-CTG	Met243Leu	727A>C	M243L	Cystic fibrosis	Yoshimura (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970267	ATG-AAG	Met244Lys	731T>A	M244K	Congenital absence of vas deferens de	Meeus (1997) Hum Mutat 11:480	PubMed 10200050
+CM970268	TACa-TAG	Tyr247Term	741C>G	Y247X	Cystic fibrosis	Tzetis (1997) Hum Genet 99:121	PubMed 9003508
+CM972940	AGA-ACA	Arg248Thr	743G>C	R248T	Congenital absence of vas deferens	Scheffer (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM063902	tGAA-TAA	Glu257Term	769G>T	E257X	Cystic fibrosis	Kammesheidt (2006) Genet Med 8:557	PubMed 16980811
+CM950242	aAGA-GGA	Arg258Gly	772A>G	R258G	Cystic fibrosis	Mercier (1995) Am J Hum Genet 56:272	PubMed 7529962
+CM970269	ATG-AGG	Met265Arg	794T>G	M265R	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM001962	TACt-TAG	Tyr275Term	825C>G	Y275X	Cystic fibrosis	Bernardino (2000) Genet Test 4:69	PubMed 10794365
+CM950243	TGCt-TGA	Cys276Term	828C>A	C276X	Cystic fibrosis	Ferec (1995) Mol Cell Probes 9:135	PubMed 7541510
+CM043463	cTGG-CGG	Trp277Arg	829T>C	W277R	Cystic fibrosis Oller	Ramirez (2006) Mol Genet Metab 87:370	PubMed 16423550
+CM067756	GAAg-GAT	Glu279Asp	837A>T	E279D	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM066751	aGAA-TAA	Glu279Term	835G>T	E279X	Cystic fibrosis	Munthe-Kaas (2006) Respir Med 100:2121	PubMed 16678395
+CM024667	ATG-ACG	Met281Thr	842T>C	M281T	Cystic fibrosis	Casals (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM087309	ATG-ACG	Met284Thr	851T>C	M284T	Pancreatitis, chronic	Audrezet (2008) J Mol Diagn 10:424	PubMed 18687795
+CM055925	gATT-TTT	Ile285Phe	853A>T	I285F	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM058372	AACt-AAG	Asn287Lys	861C>G	N287K	Congenital absence of vas deferens	Wu (2005) Hum Reprod 20:2470	PubMed 15905293
+CM970270	aAAC-TAC	Asn287Tyr	859A>T	N287Y	Cystic fibrosis	Shrimpton (1997) Hum Mutat 10:436	PubMed 9401006
+CM952046	aCAA-TAA	Gln290Term	868C>T	Q290X	Cystic fibrosis	Ferec (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM962763	aGAA-AAA	Glu292Lys	874G>A	E292K	Cystic fibrosis	Bienvenu (1996) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM024668	aCTG-ATG	Leu293Met	877C>A	L293M	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM066752	CTG-CAG	Leu295Gln	884T>A	L295Q	Cystic fibrosis	Munthe-Kaas (2006) Respir Med 100:2121	PubMed 16678395
+CM920149	CGG-CAG	Arg297Gln	890G>A	R297Q	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM970271	tCGG-TGG	Arg297Trp	889C>T	R297W	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM993852	gGCA-ACA	Ala299Thr	895G>A	A299T	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM990360	TAT-TGT	Tyr301Cys	902A>G	Y301C	Hypertrypsinaemia, low sweat chloride	Castellani (1999) Am J Hum Genet 64:303	PubMed 9915972
+CM962460	TACt-TAG	Tyr304Term	912C>G	Y304X	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM067754	cTTC-GTC	Phe305Val	913T>G	F305V	Cystic fibrosis	Poulou (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+HM971268	AGC-AAC	Ser307Asn	920G>A	S307N	Cystic fibrosis	Onay (1998) Hum Genet 102:710 Source:	Online submission
+CM941972	GCC-GAC	Ala309Asp	926C>A	A309D	Cystic fibrosis	Ferrari (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM980334	GCC-GGC	Ala309Gly	926C>G	A309G	Cystic fibrosis	Cartault (1998) Clin Genet 54:437	PubMed 9842999
+CM024669	aGCC-ACC	Ala309Thr	925G>A	A309T	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024670	GCC-GTC	Ala309Val	926C>T	A309V	Hypertrypsinaemia, neonatal	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920150	cTTC-CTC	Phe311Leu	931T>C	F311L	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM057582	TCA-TAA	Ser313Term	938C>A	S313X	Cystic fibrosis	Torricelli (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM960276	aGGG-CGG	Gly314Arg	940G>C	G314R	Cystic fibrosis	Nasr (1996) Hum Mutat 7:151	PubMed 8829633
+CM920151	GGG-GAG	Gly314Glu	941G>A	G314E	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM972941	GGG-GTG	Gly314Val	941G>T	G314V	Cystic fibrosis	Chevalier-Porst (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM931144	GTG-GCG	Val317Ala	950T>C	V317A	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM941973	TTAt-TTT	Leu320Phe	960A>T	L320F	Cystic fibrosis	Macek (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM015354	TTA-TAA	Leu320Term	959T>A	L320X	Cystic fibrosis	Iron (2001) CFTR LSDB entry Pers comm:	Source: LSDB
+CM962461	tTTA-GTA	Leu320Val	958T>G	L320V	Congenital absence of vas deferens	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM043464	aTCT-CCT	Ser321Pro	961T>C	S321P	Cystic fibrosis	Seia (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM941974	GTG-GCG	Val322Ala	965T>C	V322A	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#63	Source: LSDB
+CM011284	tGTG-ATG	Val322Met	964G>A	V322M	Cystic fibrosis Le	Maréchal (2001) Hum Genet 108:290	PubMed 11379874
+CM931145	CTA-CGA	Leu327Arg	980T>G	L327R	Pancreatitis	Ravnik-Glavak (1996) Pflugers Arch 431:R191	PubMed 8992448
+CM970272	aGGA-TGA	Gly330Term	988G>T	G330X	Cystic fibrosis	Macek (1997) Am J Hum Genet 60:1122	PubMed 9150159
+CM952047	CGG-CAG	Arg334Gln	1001G>A	R334Q	Cystic fibrosis	Ferec (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM970273	CGG-CTG	Arg334Leu	1001G>T	R334L	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM910070	cCGG-TGG	Arg334Trp	1000C>T	R334W	Cystic fibrosis	Gasparini (1991) Genomics 10:193	PubMed 2045102
+CM930103	ATA-AAA	Ile336Lys	1007T>A	I336K	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM065996	cACC-GCC	Thr338Ala	1012A>G	T338A	Congenital absence of vas deferens	Radpour (2006) Mol Hum Reprod 12:717	PubMed 16973827
+CM930104	ACC-ATC	Thr338Ile	1013C>T	T338I	Cystic fibrosis	Saba (1993) Hum Mol Genet 2:1739	PubMed 7505693
+CM024671	ATC-AAC	Ile340Asn	1019T>A	I340N	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM057576	cTCA-CCA	Ser341Pro	1021T>C	S341P	Cystic fibrosis	Wang (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940248	CTG-CCG	Leu346Pro	1037T>C	L346P	Cystic fibrosis	Boteva (1994) Hum Genet 93:529	PubMed 7513296
+CM931146	gCGC-TGC	Arg347Cys	1039C>T	R347C	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#56	Source: LSDB
+CM920152	CGC-CAC	Arg347His	1040G>A	R347H	Cystic fibrosis	Cremonesi (1992) Hum Mutat 1:314	PubMed 1284538
+CM930105	CGC-CTC	Arg347Leu	1040G>T	R347L	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM900044	CGC-CCC	Arg347Pro	1040G>C	R347P	Cystic fibrosis	Dean (1990) Cell 61:863	PubMed 2344617
+CM930106	ATG-AAG	Met348Lys	1043T>A	M348K	Cystic fibrosis	Audrezet (1993) Hum Hered 43:295	PubMed 8406518
+CM067738	ATG-ACG	Met348Thr	1043T>C	M348T	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM053173	cATG-GTG	Met348Val	1042A>G	M348V	Pancreatitis	Weiss (2005) Gut 54:1456	PubMed 15987793
+CM930107	GCG-GTG	Ala349Val	1046C>T	A349V	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM920153	CGG-CAG	Arg352Gln	1055G>A	R352Q	Cystic fibrosis	Cremonesi (1992) Hum Mutat 1:314	PubMed 1284538
+CM034783	tCGG-GGG	Arg352Gly	1054C>G	R352G	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM962462	tCGG-TGG	Arg352Trp	1054C>T	R352W	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM952048	CAAt-CAC	Gln353His	1059A>C	Q353H	Cystic fibrosis	Ferec (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM003243	gCAA-TAA	Gln353Term	1057C>T	Q353X	Cystic fibrosis	Seia (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067769	tCCC-TCC	Pro355Ser	1063C>T	P355S	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043465	TGG-TCG	Trp356Ser	1067G>C	W356S	Cystic fibrosis	Barbolina (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983547	TGGg-TGA	Trp356Term	1068G>A	W356X	Cystic fibrosis	Ellis (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM123027	gGCT-ACT	Ala357Thr	1069G>A	A357T	Congenital absence of vas deferens	Li (2012) J Cyst Fibros epub:epub	PubMed 22483971
+CM993853	CAA-CGA	Gln359Arg	1076A>G	Q359R	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983548	ACA-AGA	Thr360Arg	1079C>G	T360R	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983549	aTGG-AGG	Trp361Arg	1081T>A	W361R	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM931147	aTGG-CGG	Trp361Arg	1081T>C	W361R	Cystic fibrosis	Bienvenu (1993) CFTR LSDB entry Newsletter:#56	Source: LSDB
+CM104904	TATg-TAA	Tyr362Term	1086T>A	Y362X	Cystic fibrosis	Makukh (2010) J Cyst Fibros epub:epub	PubMed 20659818
+CM021069	TATg-TAG	Tyr362Term	1086T>G	Y362X	Cystic fibrosis	Visich (2002) Clin Genet 61:207	PubMed 12000363
+CM970274	cTCT-CCT	Ser364Pro	1090T>C	S364P	Cystic fibrosis	Macek (1997) Am J Hum Genet 60:1122	PubMed 9150159
+CM003244	CTT-CCT	Leu365Pro	1094T>C	L365P	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM067758	GATt-GAG	Asp373Glu	1119T>G	D373E	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM960277	TTAc-TTC	Leu375Phe	1125A>C	L375F	Cystic fibrosis	Jezequel (1996) Hum Genet 97:548	PubMed 8834261
+CM024672	CAA-CGA	Gln378Arg	1133A>G	Q378R	Cystic fibrosis	Tzetis (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024673	aGAA-AAA	Glu379Lys	1135G>A	E379K	Congenital absence of vas deferens	Claustres (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003245	aGAA-TAA	Glu379Term	1135G>T	E379X	Cystic fibrosis	Glaeser (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972942	TTG-TCG	Leu383Ser	1148T>C	L383S	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM010793	ACG-ATG	Thr388Met	1163C>T	T388M	Asthma	Tzetis (2001) Hum Genet 108:216	PubMed 11354633
+CM962463	GTA-GCA	Val392Ala	1175T>C	V392A	Congenital absence of vas deferens	Bienvenu (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM972943	GTA-GGA	Val392Gly	1175T>G	V392G	Cystic fibrosis	Zielenski (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM983550	ATG-AGG	Met394Arg	1181T>G	M394R	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024674	GCC-GAC	Ala399Asp	1196C>A	A399D	Congenital absence of vas deferens	Bernardino (2003) Genet Mol Biol 26:1 PubMed: No	PubMed ID
+CM003246	GCC-GTC	Ala399Val	1196C>T	A399V	Cystic fibrosis	Yoshimura (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972944	TGG-TAG	Trp401Term	1202G>A	W401X	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM930111	TGGg-TGA	Trp401Term	1203G>A	W401X	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM993854	GAGg-GAC	Glu403Asp	1209G>C	E403D	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993855	GAA-GTA	Glu407Val	1220A>T	E407V	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940249	aCAA-TAA	Gln414Term	1240C>T	Q414X	Cystic fibrosis	Doerk (1994) Hum Genet 93:67	PubMed 7505767
+CM067729	AAT-AGT	Asn416Ser	1247A>G	N416S	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM941975	AAT-AGT	Asn418Ser	1253A>G	N418S	Cystic fibrosis	Sava (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM123029	AGA-ATA	Arg419Ile	1256G>T	R419I	Congenital absence of vas deferens	Li (2012) J Cyst Fibros epub:epub	PubMed 22483971
+CM003247	tGGT-AGT	Gly424Ser	1270G>A	G424S	Cystic fibrosis	Bienvenu (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067748	cAGT-GGT	Ser431Gly	1291A>G	S431G	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM983551	TCA-TGA	Ser434Term	1301C>G	S434X	Cystic fibrosis	Leymarie (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM087536	GGT-GAT	Gly437Asp	1310G>A	G437D	Cystic fibrosis	Kolesár (2008) Gen Physiol Biophys 27:299	PubMed 19202204
+CM108945	CCT-CGT	Pro439Arg	1316C>G	P439R	Pancreatitis	Pelletier (2010) Pancreatology 10:158	PubMed 20460946
+CM055927	tCCT-TCT	Pro439Ser	1315C>T	P439S	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM102814	CTG-CCG	Leu441Pro	1322T>C	L441P	Cystic fibrosis	Gee (2010) J Korean Med Sci 25:166	PubMed 20052366
+CM970275	aGAT-TAT	Asp443Tyr	1327G>T	D443Y	Congenital absence of vas deferens de	Meeus (1997) Hum Mutat 11:480	PubMed 10200050
+CM993856	ATT-AGT	Ile444Ser	1331T>G	I444S	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM074731	ATT-ACT	Ile444Thr	1331T>C	I444T	Cystic fibrosis	Pasquet (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM055125	GGA-GTA	Gly451Val	1352G>T	G451V	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM972945	CAG-CCG	Gln452Pro	1355A>C	Q452P	Cystic fibrosis	Claustres (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM900045	GCG-GAG	Ala455Glu	1364C>A	A455E	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM022334	GTT-GCT	Val456Ala	1367T>C	V456A	Cystic fibrosis	McCormick (2002) Eur J Hum Genet 10:583	PubMed 12357328
+CM940250	gGTT-TTT	Val456Phe	1366G>T	V456F	Cystic fibrosis	Doerk (1994) Hum Genet 93:67	PubMed 7505767
+CM1110465	tGCT-CCT	Ala457Pro	1369G>C	A457P	Cystic fibrosis	Cole (2011) Case Report Med 2011:	PubMed 22194755
+CM920154	GGA-GTA	Gly458Val	1373G>T	G458V	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM021554	GGC-GAC	Gly463Asp	1388G>A	G463D	Cystic fibrosis	Groman (2002) N Engl J Med 347:401	PubMed 12167682
+CM034784	AAGa-AAT	Lys464Asn	1392G>T	K464N	Cystic fibrosis	Bieth (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM063897	ACT-AAT	Thr465Asn	1394C>A	T465N	Cystic fibrosis	Kammesheidt (2006) Genet Med 8:557	PubMed 16980811
+CM952049	TCA-TTA	Ser466Leu	1397C>T	S466L	Congenital absence of vas deferens	Costes (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM960278	TCA-TAA	Ser466Term	1397C>A	S466X	Cystic fibrosis	Mittre (1996) Hum Mutat 8:392	PubMed 8956053
+CM940251	TCA-TGA	Ser466Term	1397C>G	S466X	Cystic fibrosis	Deufel (1994) Hum Mutat 3:64	PubMed 7509683
+CM063898	aCTT-TTT	Leu467Phe	1399C>T	L467F	Cystic fibrosis	Elahi (2006) J Mol Diagn 8:119	PubMed 16436643
+CM107799	CTT-CCT	Leu467Pro	1400T>C	L467P	Cystic fibrosis	Jambhekar (2010) J Cyst Fibros 9:269	PubMed 20510657
+CM056306	ATGa-ATT	Met469Ile	1407G>T	M469I	Congenital absence of vas deferens	Wu (2005) Hum Reprod 20:2470	PubMed 15905293
+CM034785	aATG-GTG	Met469Val	1405A>G	M469V	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034388	gATG-GTG	Met470Val	1408A>G	M470V	Respiratory/pancreatic disease, association with	Lee (2003) Hum Mol Genet 12:2321	PubMed 12952861
+CM994784	aGAA-AAA	Glu474Lys	1420G>A	E474K	Cystic fibrosis	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM074728	aGAG-TAG	Glu479Term	1435G>T	E479X	Cystic fibrosis	Narzi (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM952251	GGT-GAT	Gly480Asp	1439G>A	G480D	Cystic fibrosis	Hawworth (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM920155	gGGT-TGT	Gly480Cys	1438G>T	G480C	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM015355	gGGT-AGT	Gly480Ser	1438G>A	G480S	Cystic fibrosis	Kawasoe (2001) CFTR LSDB entry Pers comm:	Source: LSDB
+CM055126	tAAA-GAA	Lys481Glu	1441A>G	K481E	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM983552	CAC-CGC	His484Arg	1451A>G	H484R	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972946	gCAC-TAC	His484Tyr	1450C>T	H484Y	Congenital absence of vas deferens	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM993857	cAGT-TGT	Ser485Cys	1453A>T	S485C	Cystic fibrosis	Andrew (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM952050	tGGA-TGA	Gly486Term	1456G>T	G486X	Cystic fibrosis	Hughes (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM032555	ATTt-ATG	Ile488Met	1464T>G	I488M	Cystic fibrosis	Korytina (2003)	Mol Biol
+CM970276	TCA-TAA	Ser489Term	1466C>A	S489X	Cystic fibrosis	Plouvier (1997) Ann Genet 40:185	PubMed 9401110
+CM983553	cTGT-CGT	Cys491Arg	1471T>C	C491R	Cystic fibrosis	Chevalier-Porst (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM123030	TGT-TTT	Cys491Phe	1472G>T	C491F	Congenital absence of vas deferens	Li (2012) J Cyst Fibros epub:epub	PubMed 22483971
+CM920156	TCT-TTT	Ser492Phe	1475C>T	S492F	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM940252	CAG-CGG	Gln493Arg	1478A>G	Q493R	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM090069	CAG-CTG	Gln493Leu	1478A>T	Q493L	Cystic fibrosis	Sharma (2009) Ann Hum Genet 73:26	PubMed 18782298
+CM024232	CAG-CCG	Gln493Pro	1478A>C	Q493P	Cystic fibrosis	Kilinc (2002) Am J Med Genet 113:250	PubMed 12439892
+CM900046	tCAG-TAG	Gln493Term	1477C>T	Q493X	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM940253	TGG-TAG	Trp496Term	1487G>A	W496X	Cystic fibrosis	Balassopoulou (1994) Hum Mol Genet 3:1887	PubMed 7531541
+CM024675	gATT-GTT	Ile497Val	1489A>G	I497V	Pancreatitis	Gaia (2002) Dig Dis Sci 47:2416	PubMed 12452372
+CM057571	ATGc-ATC	Met498Ile	1494G>C	M498I	Cystic fibrosis	Bienvenu (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM980335	gCCT-GCT	Pro499Ala	1495C>G	P499A	Congenital absence of vas deferens	Arduino (1998) Clin Genet 53:202	PubMed 9630075
+CM993858	cACC-GCC	Thr501Ala	1501A>G	T501A	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM024676	ATT-AAT	Ile502Asn	1505T>A	I502N	Cystic fibrosis	Hinks (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983554	ATT-ACT	Ile502Thr	1505T>C	I502T	Cystic fibrosis	Chevalier-Porst (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM920157	aGAA-CAA	Glu504Gln	1510G>C	E504Q	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM972947	aGAA-TAA	Glu504Term	1510G>T	E504X	Cystic fibrosis	Casals (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM983555	tATC-CTC	Ile506Leu	1516A>C	I506L	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM940255	ATCa-ATG	Ile506Met	1518C>G	I506M	Cystic fibrosis	Chevalier-Porst (1994) J Med Genet 31:541	PubMed 7525963
+CM940254	ATC-AGC	Ile506Ser	1517T>G	I506S	Cystic fibrosis	Deufel (1994) Hum Mutat 3:64	PubMed 7509683
+CM950244	ATC-ACC	Ile506Thr	1517T>C	I506T	Cystic fibrosis	Desgeorges (1995) Hum Mutat 6:279 PubMed: No	PubMed ID
+CM900047	tATC-GTC	Ile506Val	1516A>G	I506V	Cystic fibrosis	Kobayashi (1990) Am J Hum Genet 47:611	PubMed 1977306
+CM068683	cATC-GTC	Ile507Val	1519A>G	I507V	Congenital absence of vas deferens	Radpour (2006) Mol Hum Reprod 12:469	PubMed 16714368
+CM900048	TTT-TGT	Phe508Cys	1523T>G	F508C	Cystic fibrosis	Kobayashi (1990) Am J Hum Genet 47:611	PubMed 1977306
+CM983556	TTT-TCT	Phe508Ser	1523T>C	F508S	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM980336	GAT-GGT	Asp513Gly	1538A>G	D513G	Congenital absence of vas deferens	Bienvenu (1998) Hum Mutat 12:213	PubMed 10651488
+CM024677	aTAT-CAT	Tyr515His	1543T>C	Y515H	Cystic fibrosis	Mittre (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024678	tAGA-GGA	Arg516Gly	1546A>G	R516G	Cystic fibrosis	Arduino (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972948	TAC-TGC	Tyr517Cys	1550A>G	Y517C	Cystic fibrosis	Arduino (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM941976	cGTC-ATC	Val520Ile	1558G>A	V520I	Cystic fibrosis	Bienvenu (2005) Hum Biol 77:705	PubMed 16596947
+CM920158	cGTC-TTC	Val520Phe	1558G>T	V520F	Cystic fibrosis	Jones (1992) Hum Mol Genet 1:11	PubMed 1284466
+CM051411	cATC-TTC	Ile521Phe	1561A>T	I521F	Cystic fibrosis	Patrinos (2005) CFTR LSDB entry :	Source: LSDB
+CM920159	TGCc-TGA	Cys524Term	1572C>A	C524X	Cystic fibrosis	Jones (1992) Hum Mol Genet 1:11	PubMed 1284466
+CM940256	cCAA-TAA	Gln525Term	1573C>T	Q525X	Cystic fibrosis	Shackleton (1994) Hum Mutat 3:141	PubMed 7515303
+CM972949	aGAA-CAA	Glu527Gln	1579G>C	E527Q	Cystic fibrosis	Byrne (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM990361	GAA-GGA	Glu527Gly	1580A>G	E527G	Hypertrypsinaemia, low sweat chloride	Puget (1999) Am J Hum Genet 64:303	PubMed 9915972
+CM074733	GAC-GGC	Asp529Gly	1586A>G	D529G	Cystic fibrosis	Brakensiek (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM983557	gGAC-CAC	Asp529His	1585G>C	D529H	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM090070	cATC-CTC	Ile530Leu	1588A>C	I530L	Cystic fibrosis	Sharma (2009) Ann Hum Genet 73:26	PubMed 18782298
+CM086646	cTCC-CCC	Ser531Pro	1591T>C	S531P	Cystic fibrosis	Laguna (2008) J Cyst Fibros 7:454	PubMed 18463004
+CM001650	gTTT-CTT	Phe533Leu	1597T>C	F533L	Cystic fibrosis	Kambouris (2000) Eur J Pediatr 159:303	PubMed 10834512
+CM930112	GCA-GAA	Ala534Glu	1601C>A	A534E	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM065997	gAAA-TAA	Lys536Term	1606A>T	K536X	Congenital absence of vas deferens	Radpour (2006) Mol Hum Reprod 12:717	PubMed 16973827
+CM952051	ATA-ACA	Ile539Thr	1616T>C	I539T	Cystic fibrosis	Chomel (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM995324	CTT-CCT	Leu541Pro	1622T>C	L541P	Congenital absence of vas deferens	Lissens (1999) Mol Hum Reprod 5:10	PubMed 10050655
+CM900049	tGGA-TGA	Gly542Term	1624G>T	G542X	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM091995	GAA-GCA	Glu543Ala	1628A>C	E543A	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM941977	aGGT-AGT	Gly544Ser	1630G>A	G544S	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#61	Source: LSDB
+CM970277	GGT-GTT	Gly544Val	1631G>T	G544V	Congenital absence of vas deferens de	Meeus (1997) Hum Mutat 11:480	PubMed 10200050
+CM043466	CTG-CAG	Leu548Gln	1643T>A	L548Q	Foetal hyperechogenic bowel	Yamamoto (2006) Prenat Diagn 26:6	PubMed 16378323
+CM900052	AGTg-AGG	Ser549Arg	1647T>G	S549R	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM910071	gAGT-CGT	Ser549Arg	1645A>C	S549R	Cystic fibrosis	Sangiuolo (1991) Genomics 9:788	PubMed 1903761
+CM900050	AGT-AAT	Ser549Asn	1646G>A	S549N	Cystic fibrosis	Cutting (1990) Nature 346:366	PubMed 1695717
+CM900051	AGT-ATT	Ser549Ile	1646G>T	S549I	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM952052	tGGA-AGA	Gly550Arg	1648G>A	G550R	Cystic fibrosis	Ferec (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM920984	tGGA-TGA	Gly550Term	1648G>T	G550X	Cystic fibrosis	Deiman (1992) CFTR LSDB entry Newsletter:#43	Source: LSDB
+CM980337	GGT-GCT	Gly551Ala	1652G>C	G551A	Congenital absence of vas deferens	Jarvi (1998) Fertil Steril 70:724	PubMed 9797105
+CM900053	GGT-GAT	Gly551Asp	1652G>A	G551D	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM920160	aGGT-AGT	Gly551Ser	1651G>A	G551S	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM962464	tCAA-AAA	Gln552Lys	1654C>A	Q552K	Cystic fibrosis	Faucz (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM910072	tCAA-TAA	Gln552Term	1654C>T	Q552X	Cystic fibrosis	Devoto (1991) Am J Hum Genet 48:1127	PubMed 1709778
+CM920161	CGA-CAA	Arg553Gln	1658G>A	R553Q	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM931148	aCGA-GGA	Arg553Gly	1657C>G	R553G	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM900054	aCGA-TGA	Arg553Term	1657C>T	R553X	Cystic fibrosis	Cutting (1990) Nature 346:366	PubMed 1695717
+CM930113	GCA-GAA	Ala554Glu	1661C>A	A554E	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM993859	aAGA-GGA	Arg555Gly	1663A>G	R555G	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920985	aATT-GTT	Ile556Val	1666A>G	I556V	Cystic fibrosis	Ghanem (1992) CFTR LSDB entry Newsletter:#50	Source: LSDB
+CM920162	TTA-TCA	Leu558Ser	1673T>C	L558S	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM994785	GCA-GAA	Ala559Glu	1676C>A	A559E	Cystic fibrosis	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM900055	aGCA-ACA	Ala559Thr	1675G>A	A559T	Cystic fibrosis	Cutting (1990) Nature 346:366	PubMed 1695717
+CM067759	GCA-GTA	Ala559Val	1676C>T	A559V	Cystic fibrosis	Girodon (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM024679	aAGA-GGA	Arg560Gly	1678A>G	R560G	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM920163	AGA-AAA	Arg560Lys	1679G>A	R560K	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM980338	AGAg-AGC	Arg560Ser	1680A>C	R560S	Cystic fibrosis	Malone (1998) Hum Mutat 11:152	PubMed 9482579
+CM992306	AGAg-AGT	Arg560Ser	1680A>T	R560S	Cystic fibrosis	Liechti (1999) Eur J Hum Genet 7:590	PubMed 10439967
+CM900056	AGA-ACA	Arg560Thr	1679G>C	R560T	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM970278	GCA-GAA	Ala561Glu	1682C>A	A561E	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM990362	aGTA-ATA	Val562Ile	1684G>A	V562I	Cystic fibrosis	Telleria (1999) Hum Mutat 14:89	PubMed 10447267
+CM960279	aGTA-CTA	Val562Leu	1684G>C	V562L	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM900057	aTAC-AAC	Tyr563Asn	1687T>A	Y563N	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM970279	aTAC-GAC	Tyr563Asp	1687T>G	Y563D	Cystic fibrosis	Macek (1997) Am J Hum Genet 60:1122	PubMed 9150159
+CM962465	TAC-TGC	Tyr563Cys	1688A>G	Y563C	Cystic fibrosis	Delhaize (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM063900	TACa-TAA	Tyr563Term	1689C>A	Y563X	Cystic fibrosis	Elahi (2006) J Mol Diagn 8:119	PubMed 16436643
+CM983666	GAT-GGT	Asp565Gly	1694A>G	D565G	Congenital absence of vas deferens	Kanavakis (1998) Mol Hum Reprod 4:333	PubMed 9620832
+CM078046	GCT-GAT	Ala566Asp	1697C>A	A566D	Cystic fibrosis	Alibakhshi (2008) J Cyst Fibros 7:102	PubMed 17662673
+CM034786	tGCT-ACT	Ala566Thr	1696G>A	A566T	Cystic fibrosis	Wallace (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970281	TTGt-TTT	Leu568Phe	1704G>T	L568F	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM970280	TTG-TAG	Leu568Term	1703T>A	L568X	Cystic fibrosis	Macek (1997) Hum Mutat 9:136	PubMed 9067754
+CM980339	gTAT-GAT	Tyr569Asp	1705T>G	Y569D	Cystic fibrosis	Malone (1998) Hum Mutat 11:152	PubMed 9482579
+CM960280	TAT-TGT	Tyr569Cys	1706A>G	Y569C	Cystic fibrosis	Petreska (1996) Hum Mutat 7:374	PubMed 8723693
+CM001651	gTAT-CAT	Tyr569His	1705T>C	Y569H	Cystic fibrosis	Kabra (2000) Am J Med Genet 93:161	PubMed 10869121
+CM931149	TATt-TAA	Tyr569Term	1707T>A	Y569X	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#54	Source: LSDB
+CM970282	TTA-TCA	Leu571Ser	1712T>C	L571S	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM950245	aGAC-AAC	Asp572Asn	1714G>A	D572N	Cystic fibrosis	Verlingue (1995) Hum Mutat 5:205	PubMed 7541273
+CM066547	TCT-TGT	Ser573Cys	1718C>G	S573C	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM900058	CCT-CAT	Pro574His	1721C>A	P574H	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM067770	tCCT-TCT	Pro574Ser	1720C>T	P574S	Congenital absence of vas deferens	Fresquet (2011) J Mol Diagn 13:520	PubMed 21708286
+CM066548	TTT-TAT	Phe575Tyr	1724T>A	F575Y	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM920164	GGA-GCA	Gly576Ala	1727G>C	G576A	Congenital absence of vas deferens	Anguiano (1992) JAMA 267:1794	PubMed 1545465
+CM962466	tGGA-TGA	Gly576Term	1726G>T	G576X	Cystic fibrosis	Girodon (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM962467	TAC-TTC	Tyr577Phe	1730A>T	Y577F	Cystic fibrosis	Pagani (2003) Hum Mol Genet 12:1111	PubMed 12719375
+CM983558	GAT-GCT	Asp579Ala	1736A>C	D579A	Cystic fibrosis	Pacheco (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM950246	GAT-GGT	Asp579Gly	1736A>G	D579G	Cystic fibrosis	Brancolini (1995) Hum Genet 96:312	PubMed 7544319
+CM941978	aGAT-TAT	Asp579Tyr	1735G>T	D579Y	Cystic fibrosis	Harris (1994) CFTR LSDB entry Newsletter:#63	Source: LSDB
+CM940257	ACA-AGA	Thr582Arg	1745C>G	T582R	Cystic fibrosis	Chillon (1994) Hum Genet 93:447	PubMed 7513293
+CM962468	ACA-ATA	Thr582Ile	1745C>T	T582I	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM024680	aACA-TCA	Thr582Ser	1744A>T	T582S	Congenital absence of vas deferens	Seia (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920165	aGAA-TAA	Glu585Term	1753G>T	E585X	Cystic fibrosis	Cremonesi (1992) Hum Mutat 1:314	PubMed 1284538
+CM067730	aATA-GTA	Ile586Val	1756A>G	I586V	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043467	aTTT-ATT	Phe587Ile	1759T>A	F587I	Congenital absence of vas deferens	Polizzi (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM022335	tGAA-TAA	Glu588Term	1762G>T	E588X	Cystic fibrosis	Spitzer (2002) Eur Respir J 19:374	PubMed 11866018
+CM055924	GAA-GTA	Glu588Val	1763A>T	E588V	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM056941	AGC-AAC	Ser589Asn	1766G>A	S589N	Cystic fibrosis	Stanziale (2005) Genet Test 9:285	PubMed 16379540
+CM056942	AGC-ACC	Ser589Thr	1766G>C	S589T	Cystic fibrosis	Kinnunen (2005) J Cyst Fibros 4:233	PubMed 16051530
+CM123026	TGT-TTT	Cys592Phe	1775G>T	C592F	Congenital absence of vas deferens	Li (2012) J Cyst Fibros epub:epub	PubMed 22483971
+CM074732	CTG-CCG	Leu594Pro	1781T>C	L594P	Cystic fibrosis	Omar (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM074730	ATGg-ATA	Met595Ile	1785G>A	M595I	Respiratory symptoms of cystic fibrosis	Rana-Díez (2008) J Cyst Fibros 7:520	PubMed 18676185
+CM067739	ATG-ACG	Met595Thr	1784T>C	M595T	Cystic fibrosis	Pasquet (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM066545	cAAA-GAA	Lys598Glu	1792A>G	K598E	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM067741	cAAA-TAA	Lys598Term	1792A>T	K598X	Cystic fibrosis	Seia (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM972950	tAGG-GGG	Arg600Gly	1798A>G	R600G	Cystic fibrosis	Hubert (2004) J Cyst Fibros 3:15	PubMed 15463882
+CM980340	gATT-TTT	Ile601Phe	1801A>T	I601F	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM057326	ATT-ACT	Ile601Thr	1802T>C	I601T	Cystic fibrosis	Bienvenu (2005) Hum Biol 77:705	PubMed 16596947
+CM983559	gGTC-TTC	Val603Phe	1807G>T	V603F	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM994786	ACT-ATT	Thr604Ile	1811C>T	T604I	Congenital absence of vas deferens	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM055922	ACT-AGT	Thr604Ser	1811C>G	T604S	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM024233	GAA-GGA	Glu608Gly	1823A>G	E608G	Cystic fibrosis	Kilinc (2002) Am J Med Genet 113:250	PubMed 12439892
+CM972951	CAT-CGT	His609Arg	1826A>G	H609R	Cystic fibrosis	Padoan (2002) Acta Paediatr 91:82	PubMed 11883825
+CM067750	CAT-CTT	His609Leu	1826A>T	H609L	Cystic fibrosis	Petrocchi (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM980341	TTA-TCA	Leu610Ser	1829T>C	L610S	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM980342	aGCT-ACT	Ala613Thr	1837G>A	A613T	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM930114	GAC-GGC	Asp614Gly	1841A>G	D614G	Cystic fibrosis	Audrezet (1993) Hum Hered 43:295	PubMed 8406518
+CM994787	tGAC-TAC	Asp614Tyr	1840G>T	D614Y	Cystic fibrosis	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970283	ATT-ACT	Ile618Thr	1853T>C	I618T	Cystic fibrosis	Macek (1997) Am J Hum Genet 60:1122	PubMed 9150159
+CM940258	TTG-TCG	Leu619Ser	1856T>C	L619S	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM980344	CATg-CAG	His620Gln	1860T>G	H620Q	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM980343	CAT-CCT	His620Pro	1859A>C	H620P	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM980345	GGT-GAT	Gly622Asp	1865G>A	G622D	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM920166	tGGG-AGG	Gly628Arg	1882G>A	G628R	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM931150	tGGG-CGG	Gly628Arg	1882G>C	G628R	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM067733	aCTC-ATC	Leu633Ile	1897C>A	L633I	Cystic fibrosis	Pacheco (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM980346	CTC-CCC	Leu633Pro	1898T>C	L633P	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM962764	cCAA-TAA	Gln634Term	1900C>T	Q634X	Cystic fibrosis	Michel-Calemard (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM983560	CTA-CCA	Leu636Pro	1907T>C	L636P	Cystic fibrosis	Bombieri (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM993860	aCAG-TAG	Gln637Term	1909C>T	Q637X	Cystic fibrosis	Hirtz (2004) Gastroenterology 127:1085	PubMed 15480987
+CM024681	aGAC-TAC	Asp639Tyr	1915G>T	D639Y	Cystic fibrosis	Aulehla-Scholz (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940259	GAT-GTT	Asp648Val	1943A>T	D648V	Cystic fibrosis	Mercier (1994) Hum Genet 94:629	PubMed 7527370
+CM983561	cGAC-AAC	Asp651Asn	1951G>A	D651N	Cystic fibrosis	Bombieri (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM024682	cGAC-CAC	Asp651His	1951G>C	D651H	Obstructive azoospermia	Mittre (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972952	aGAA-TAA	Glu656Term	1966G>T	E656X	Cystic fibrosis	Aznarez (2003) Hum Mol Genet 12:2031	PubMed 12913074
+CM067772	tTCA-ACA	Ser660Thr	1978T>A	S660T	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM970284	tGAG-TAG	Glu664Term	1990G>T	E664X	Cystic fibrosis	Clavel (1997) Hum Mutat 9:368	PubMed 9101301
+CM960281	gACC-TCC	Thr665Ser	1993A>T	T665S	Cystic fibrosis	Messaoud (1996) Eur J Hum Genet 4:20	PubMed 8800923
+CM950247	cCGT-TGT	Arg668Cys	2002C>T	R668C	Cystic fibrosis	Chillon (1995) N Engl J Med 332:1475	PubMed 7739684
+CM940260	aGGA-TGA	Gly673Term	2017G>T	G673X	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM993861	TGG-TAG	Trp679Term	2036G>A	W679X	Cystic fibrosis	Walker (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003248	AAA-AGA	Lys683Arg	2048A>G	K683R	Cystic fibrosis	Chevalier-Porst (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940261	aCAA-TAA	Gln685Term	2053C>T	Q685X	Cystic fibrosis	Audrezet (1994) Hum Genet 93:659	PubMed 7516305
+CM031945	TCT-TAT	Ser686Tyr	2057C>A	S686Y	Primary sclerosing cholangitis	Sheth (2003) Hum Genet 113:286	PubMed 12783301
+CM067765	tAAA-TAA	Lys688Term	2062A>T	K688X	Cystic fibrosis	Gimenez (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM034787	aCAG-TAG	Gln689Term	2065C>T	Q689X	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970285	aGAG-TAG	Glu692Term	2074G>T	E692X	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM930115	gTTT-CTT	Phe693Leu	2077T>C	F693L	Cystic fibrosis	Audrezet (1993) Hum Hered 43:295	PubMed 8406518
+CM015356	TTTg-TTG	Phe693Leu	2079T>G	F693L	Asthma	Meyer (2001) CFTR LSDB entry Pers comm:	Source: LSDB
+CM116799	AAA-AGA	Lys696Arg	2087A>G	K696R	Cystic fibrosis	Fresquet (2011) J Mol Diagn 13:520	PubMed 21708286
+CM972953	AAG-AGG	Lys698Arg	2093A>G	K698R	Cystic fibrosis	Ferec (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM024683	CGA-CAA	Arg709Gln	2126G>A	R709Q	Cystic fibrosis	Wagner (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM950248	aCGA-TGA	Arg709Term	2125C>T	R709X	Cystic fibrosis	Bonizzato (1995) Hum Genet 95:397	PubMed 7535742
+CM920167	aAAA-TAA	Lys710Term	2128A>T	K710X	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM024684	TCC-TGC	Ser712Cys	2135C>G	S712C	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930116	aAAG-TAG	Lys716Term	2146A>T	K716X	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM940262	TTA-TAA	Leu719Term	2156T>A	L719X	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM993862	aCAA-TAA	Gln720Term	2158C>T	Q720X	Cystic fibrosis	Malone (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024685	GGC-GTC	Gly723Val	2168G>T	G723V	Bronchiectasis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983562	cGAA-AAA	Glu725Lys	2173G>A	E725K	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM930117	tGAG-TAG	Glu730Term	2188G>T	E730X	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM970286	TTA-TGA	Leu732Term	2195T>G	L732X	Cystic fibrosis	Tzetis (1997) Hum Genet 99:121	PubMed 9003508
+CM015357	AGG-AAG	Arg735Lys	2204G>A	R735K	Cystic fibrosis	Frentescu (2008) J Cyst Fibros 7:423	PubMed 18467194
+CM043468	TCC-TTC	Ser737Phe	2210C>T	S737F	Pancreatitis	Centrone (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM057581	gGGA-TGA	Gly745Term	2233G>T	G745X	Cystic fibrosis	Bienvenu (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM000667	CCT-CTT	Pro750Leu	2249C>T	P750L	Cystic fibrosis	Orozco (2000) Hum Genet 106:360	PubMed 10798368
+CM024686	CGC-CCC	Arg751Pro	2252G>C	R751P	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM077237	AGCg-AGG	Ser753Arg	2259C>G	S753R	Congenital absence of vas deferens	Pieri	(2007) Clinics
+CM000668	cGTG-ATG	Val754Met	2260G>A	V754M	Cystic fibrosis	Orozco (2000) Hum Genet 106:360	PubMed 10798368
+CM993863	ACG-ATG	Thr760Met	2279C>T	T760M	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM960282	aCGA-TGA	Arg764Term	2290C>T	R764X	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM980348	AGG-ATG	Arg766Met	2297G>T	R766M	Congenital absence of vas deferens	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM972954	TCA-TGA	Ser776Term	2327C>G	S776X	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM972955	tCAG-TAG	Gln781Term	2341C>T	Q781X	Cystic fibrosis	Zhou (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM023615	AACa-AAA	Asn782Lys	2346C>A	N782K	Cystic fibrosis	Girodon (2002) J Hepatol 37:192	PubMed 12127423
+CM941979	cCGA-TGA	Arg785Term	2353C>T	R785X	Cystic fibrosis	Frentescu (2008) J Cyst Fibros 7:423	PubMed 18467194
+CM067731	ACA-ATA	Thr788Ile	2363C>T	T788I	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM980347	aCGA-GGA	Arg792Gly	2374C>G	R792G	Congenital absence of vas deferens	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM930118	aCGA-TGA	Arg792Term	2374C>T	R792X	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM950249	GCA-GGA	Ala800Gly	2399C>G	A800G	Cystic fibrosis	Mercier (1995) Am J Hum Genet 56:272	PubMed 7529962
+CM004239	GAA-GTA	Glu804Val	2411A>T	E804V	Congenital absence of vas deferens	Ravnik-Glavac (2000) Pflugers Arch 439:R53	PubMed 10653141
+CM072949	GAT-GGT	Asp806Gly	2417A>G	D806G	Cystic fibrosis	Narzi (2007) Clin Genet 72:39	PubMed 17594398
+CM980349	ATAt-ATG	Ile807Met	2421A>G	I807M	Congenital absence of vas deferens	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM067767	tATA-GTA	Ile807Val	2419A>G	I807V	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM015358	aAGA-GGA	Arg810Gly	2428A>G	R810G	Congenital absence of vas deferens	Sobczynska-Tomaczewsk (2001) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024687	aTCT-CCT	Ser813Pro	2437T>C	S813P	Cystic fibrosis	Tzetis (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM035676	tCAA-TAA	Gln814Term	2440C>T	Q814X	Cystic fibrosis	Ahmed (2003) Gut 52:1159	PubMed 12865275
+CM930119	tGAA-AAA	Glu822Lys	2464G>A	E822K	Cystic fibrosis	Mercier (1993) Hum Mutat 2:16	PubMed 8477260
+CM970287	tGAA-TAA	Glu822Term	2464G>T	E822X	Cystic fibrosis	Tzetis (1997) Hum Genet 99:121	PubMed 9003508
+CM983563	aGAA-TAA	Glu823Term	2467G>T	E823X	Cystic fibrosis	Tzetis (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM980350	cGAA-AAA	Glu826Lys	2476G>A	E826K	Cystic fibrosis	Vankeerberghen (1998) Hum Mol Genet 7:1761	PubMed 9736778
+CM920168	aGAA-TAA	Glu827Term	2479G>T	E827X	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM024688	GAC-GGC	Asp828Gly	2483A>G	D828G	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930120	aAAG-TAG	Lys830Term	2488A>T	K830X	Cystic fibrosis	Mercier (1993) Hum Mutat 2:16	PubMed 8477260
+CM960283	gGAG-TAG	Glu831Term	2491G>T	E831X	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM066549	TTTg-TTG	Phe834Leu	2502T>G	F834L	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM920986	tGAT-TAT	Asp836Tyr	2506G>T	D836Y	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM067736	ATA-ACA	Ile840Thr	2519T>C	I840T	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM004892	CCA-CGA	Pro841Arg	2522C>G	P841R	Congenital absence of vas deferens	Fresquet (2011) J Mol Diagn 13:520	PubMed 21708286
+CM930121	TGG-TAG	Trp846Term	2537G>A	W846X	Cystic fibrosis	Cheadle (1993) Hum Mol Genet 2:1067	PubMed 7689897
+CM900059	TGGa-TGA	Trp846Term	2538G>A	W846X	Cystic fibrosis	Vidaud (1990) Hum Genet 85:446	PubMed 2210768
+CM994348	TACc-TAG	Tyr849Term	2547C>G	Y849X	Cystic fibrosis	Castaldo (1999) Hum Mutat 14:272	PubMed 10477439
+CM970288	CGA-CTA	Arg851Leu	2552G>T	R851L	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM910073	tCGA-TGA	Arg851Term	2551C>T	R851X	Cystic fibrosis	White (1991) Genomics 11:778	PubMed 1723056
+CM091996	TAT-TTT	Tyr852Phe	2555A>T	Y852F	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM044595	tATT-TTT	Ile853Phe	2557A>T	I853F	Congenital absence of vas deferens	Dayangac (2004) Hum Reprod 19:1094	PubMed 15070876
+CM094117	tGTC-ATC	Val855Ile	2563G>A	V855I	Cystic fibrosis	Seia (2009) Clin Biochem 42:611	PubMed 19318035
+CM920169	TGC-TAC	Cys866Tyr	2597G>A	C866Y	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM962469	TTA-TAA	Leu867Term	2600T>A	L867X	Cystic fibrosis	Haworth (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM962470	TGG-TAG	Trp882Term	2645G>A	W882X	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM983564	CAA-CGA	Gln890Arg	2669A>G	Q890R	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM920170	tCAA-TAA	Gln890Term	2668C>T	Q890X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM983565	GAC-GGC	Asp891Gly	2672A>G	D891G	Cystic fibrosis	Kilinc (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM004880	AGT-AAT	Ser895Asn	2684G>A	S895N	Cystic fibrosis	Wu (2000) J Formos Med Assoc 99:564	PubMed 10925568
+CM003249	ACT-ATT	Thr896Ile	2687C>T	T896I	Cystic fibrosis	Lazaro (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024689	AGCt-AGG	Ser902Arg	2706C>G	S902R	Bronchiectasis	Claustres (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM004462	ACC-AAC	Thr908Asn	2723C>A	T908N	Cystic fibrosis	Hammerle (2000) Glycoconj J 17:807	PubMed 11443282
+CM940263	TCG-TTG	Ser912Leu	2735C>T	S912L	Cystic fibrosis	Ghanem (1994) Genomics 21:434	PubMed 7522211
+CM930122	TCG-TAG	Ser912Term	2735C>A	S912X	Cystic fibrosis	Saba (1993) Hum Mol Genet 2:1739	PubMed 7505693
+CM900060	TAT-TGT	Tyr913Cys	2738A>G	Y913C	Cystic fibrosis	Vidaud (1990) Hum Genet 85:446	PubMed 2210768
+CM055926	TATt-TAA	Tyr913Term	2739T>A	Y913X	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM063901	TATg-TAA	Tyr914Term	2742T>A	Y914X	Cystic fibrosis	Kammesheidt (2006) Genet Med 8:557	PubMed 16980811
+CM962471	tTAC-GAC	Tyr917Asp	2749T>G	Y917D	Cystic fibrosis	Schwarz (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM960284	TAC-TGC	Tyr917Cys	2750A>G	Y917C	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM940264	TAC-TGC	Tyr919Cys	2756A>G	Y919C	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM043469	cGTG-TTG	Val920Leu	2758G>T	V920L	Congenital absence of vas deferens	Girodon (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM980351	cGTG-ATG	Val920Met	2758G>A	V920M	Cystic fibrosis	Steffann (1998) Ann Genet 41:213	PubMed 9881185
+CM074093	cGAC-AAC	Asp924Asn	2770G>A	D924N	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM940265	CTT-CCT	Leu927Pro	2780T>C	L927P	Cystic fibrosis	Hermans (1994) Hum Mol Genet 3:1199	PubMed 7526927
+CM993864	TTC-TCC	Phe932Ser	2795T>C	F932S	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034788	cAGA-GGA	Arg933Gly	2797A>G	R933G	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970289	AGAg-AGT	Arg933Ser	2799A>T	R933S	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM970290	GTG-GGG	Val938Gly	2813T>G	V938G	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM962472	CAT-CGT	His939Arg	2816A>G	H939R	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM931151	gCAT-GAT	His939Asp	2815C>G	H939D	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#54	Source: LSDB
+CM930123	TCG-TTG	Ser945Leu	2834C>T	S945L	Cystic fibrosis	Claustres (1993) Hum Mol Genet 2:1209	PubMed 7691344
+CM962473	gAAA-TAA	Lys946Term	2836A>T	K946X	Cystic fibrosis	Haworth (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM952053	CAC-CGC	His949Arg	2846A>G	H949R	Cystic fibrosis	Ferec (1995) CFTR LSDB entry Newsletter:#65	Source: LSDB
+CM055124	CAC-CTC	His949Leu	2846A>T	H949L	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM940266	aCAC-TAC	His949Tyr	2845C>T	H949Y	Cystic fibrosis	Ghanem (1994) Genomics 21:434	PubMed 7522211
+CM980352	ATGt-ATC	Met952Ile	2856G>C	M952I	Cystic fibrosis	Desgeorges (1997) Hum Genet 100:279	PubMed 9254864
+CM993865	ATG-ACG	Met952Thr	2855T>C	M952T	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM087537	CAT-CCT	His954Pro	2861A>C	H954P	Cystic fibrosis	Kolesár (2008) Gen Physiol Biophys 27:299	PubMed 19202204
+CM034789	GCA-GTA	Ala959Val	2876C>T	A959V	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003250	ATGt-ATT	Met961Ile	2883G>T	M961I	Cystic fibrosis	Malone (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM001652	TTG-TCG	Leu967Ser	2900T>C	L967S	Hypertrypsinaemia, low sweat chloride	Boyne (2000) J Med Genet 37:543	PubMed 10970190
+CM930124	aGGT-CGT	Gly970Arg	2908G>C	G970R	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM990363	GGT-GAT	Gly970Asp	2909G>A	G970D	Cystic fibrosis	Wagner (1999) Hum Genet 104:511	PubMed 10453741
+CM067735	aGGT-AGT	Gly970Ser	2908G>A	G970S	Cystic fibrosis	Seia (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM983566	CTT-CCT	Leu973Pro	2918T>C	L973P	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972956	TCC-TTC	Ser977Phe	2930C>T	S977F	Cystic fibrosis	Ferec (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM960285	cTCC-CCC	Ser977Pro	2929T>C	S977P	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM970291	GAT-GCT	Asp979Ala	2936A>C	D979A	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM970292	GAT-GTT	Asp979Val	2936A>T	D979V	Cystic fibrosis	Plouvier (1997) Ann Genet 40:185	PubMed 9401110
+CM960286	ATA-AAA	Ile980Lys	2939T>A	I980K	Cystic fibrosis	Bienvenu (1996) Hum Mutat 7:182	PubMed 8829643
+CM074729	ATAg-ATG	Ile980Met	2940A>G	I980M	Oligospermia	Pasquet (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM983567	tGAC-CAC	Asp985His	2953G>C	D985H	Cystic fibrosis	Claustres (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM941980	tGAC-TAC	Asp985Tyr	2953G>T	D985Y	Cystic fibrosis	Bienvenu (1994) CFTR LSDB entry Newsletter:#63	Source: LSDB
+CM001963	cATA-GTA	Ile991Val	2971A>G	I991V	Sarcoidosis, susceptibility to	Bombieri (2000) Eur J Hum Genet 8:717	PubMed 10980579
+CM074734	GAC-GGC	Asp993Gly	2978A>G	D993G	Respiratory symptoms of cystic fibrosis	Omar (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM962474	tGAC-TAC	Asp993Tyr	2977G>T	D993Y	Cystic fibrosis des	Georges (2004) J Cyst Fibros 3:265	PubMed 15698946
+CM983568	TTC-TGC	Phe994Cys	2981T>G	F994C	Cystic fibrosis	Claustres (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM920171	TTGt-TTC	Leu997Phe	2991G>C	L997F	Congenital absence of vas deferens	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM003251	tGGA-TGA	Gly1003Term	3007G>T	G1003X	Cystic fibrosis	Ferec (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940267	ATA-AGA	Ile1005Arg	3014T>G	I1005R	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM950250	GCA-GAA	Ala1006Glu	3017C>A	A1006E	Cystic fibrosis	Ferec (1995) Mol Cell Probes 9:135	PubMed 7541510
+CM983569	GTC-GAC	Val1008Asp	3023T>A	V1008D	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM003252	cGCA-ACA	Ala1009Thr	3025G>A	A1009T	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM034790	CCC-CAC	Pro1013His	3038C>A	P1013H	Pancreatitis	Bieth (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM980353	CCC-CTC	Pro1013Leu	3038C>T	P1013L	Cystic fibrosis	Onay (1998) Hum Genet 102:224	PubMed 9521595
+CM983570	TAC-TGC	Tyr1014Cys	3041A>G	Y1014C	Cystic fibrosis	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM042689	TTT-TCT	Phe1016Ser	3047T>C	F1016S	Cystic fibrosis	Alper (2004) Hum Mutat 24:353	PubMed 15365999
+CM067764	GTG-GAG	Val1020Glu	3059T>A	V1020E	Cystic fibrosis	Girodon (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM024690	gCCA-GCA	Pro1021Ala	3061C>G	P1021A	Cystic fibrosis	Tzetis (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972957	gCCA-TCA	Pro1021Ser	3061C>T	P1021S	Congenital absence of vas deferens	Casals (2000) Hum Reprod 15:1476	PubMed 10875853
+CM043470	GCT-GAT	Ala1025Asp	3074C>A	A1025D	Hypochloraemic alkalosis	Schrijver (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM960287	ATT-ACT	Ile1027Thr	3080T>C	I1027T	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM003253	ATG-AGG	Met1028Arg	3083T>G	M1028R	Cystic fibrosis	Lazaro (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM980354	ATGt-ATT	Met1028Ile	3084G>T	M1028I	Cystic fibrosis	Onay (1998) Hum Genet 102:224	PubMed 9521595
+CM043471	aTAT-AAT	Tyr1032Asn	3094T>A	Y1032N	Cystic fibrosis	Seia (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970293	TAT-TGT	Tyr1032Cys	3095A>G	Y1032C	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM043472	cCAA-TAA	Gln1035Term	3103C>T	Q1035X	Cystic fibrosis	Bogdanova (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM055121	ACC-AAC	Thr1036Asn	3107C>A	T1036N	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM078047	ACC-ATC	Thr1036Ile	3107C>T	T1036I	Cystic fibrosis	Alibakhshi (2008) J Cyst Fibros 7:102	PubMed 17662673
+CM983571	aCAA-TAA	Gln1042Term	3124C>T	Q1042X	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM056563	CTG-CGG	Leu1043Arg	3128T>G	L1043R	Cystic fibrosis	Messaoud (2005) Ann	Biol Clin
+CM087272	TCT-TAT	Ser1045Tyr	3134C>A	S1045Y	Cystic fibrosis	Rana-Díez (2008) J Cyst Fibros 7:520	PubMed 18676185
+CM024691	aGGC-CGC	Gly1047Arg	3139G>C	G1047R	Cystic fibrosis	Ferec (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067746	cAGG-GGG	Arg1048Gly	3142A>G	R1048G	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043473	aATT-GTT	Ile1051Val	3151A>G	I1051V	Cystic fibrosis	Pasquet (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930125	tTTC-GTC	Phe1052Val	3154T>G	F1052V	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM983572	ACT-ATT	Thr1053Ile	3158C>T	T1053I	Cystic fibrosis	Bienvenu (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067749	CAT-CGT	His1054Arg	3161A>G	H1054R	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940268	tCAT-GAT	His1054Asp	3160C>G	H1054D	Cystic fibrosis	Mercier (1994) J Med Genet 31:731	PubMed 7529319
+CM067751	CAT-CTT	His1054Leu	3161A>T	H1054L	Cystic fibrosis	Pacheco (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM003805	tCTT-ATT	Leu1055Ile	3163C>A	L1055I	Congenital absence of vas deferens	Zeng (2000) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 17:241	PubMed 10932005
+CM962475	tACA-GCA	Thr1057Ala	3169A>G	T1057A	Cystic fibrosis	Fiorentino (2005) Hum Reprod 21:670	PubMed 16311127
+CM940269	TTA-TGA	Leu1059Term	3176T>G	L1059X	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM950251	AAA-ACA	Lys1060Thr	3179A>C	K1060T	Cystic fibrosis	Casals (1995) Hum Genet 95:205	PubMed 7532150
+CM960288	aGGA-AGA	Gly1061Arg	3181G>A	G1061R	Cystic fibrosis	Bienvenu (1996) Hum Mutat 7:376	PubMed 8723695
+CM930126	aGGA-CGA	Gly1061Arg	3181G>C	G1061R	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM920172	TGGa-TGA	Trp1063Term	3189G>A	W1063X	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM980355	CTT-CGT	Leu1065Arg	3194T>G	L1065R	Cystic fibrosis	Casals (1998) Hum Mutat S1:S99	PubMed 9452054
+CM984227	aCTT-TTT	Leu1065Phe	3193C>T	L1065F	Cystic fibrosis	Tzetis (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM920173	CTT-CCT	Leu1065Pro	3194T>C	L1065P	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM920175	tCGT-TGT	Arg1066Cys	3196C>T	R1066C	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM920174	CGT-CAT	Arg1066His	3197G>A	R1066H	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM930127	CGT-CTT	Arg1066Leu	3197G>T	R1066L	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM952054	tCGT-AGT	Arg1066Ser	3196C>A	R1066S	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM994788	GCC-GAC	Ala1067Asp	3200C>A	A1067D	Cystic fibrosis	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM074736	tGCC-CCC	Ala1067Pro	3199G>C	A1067P	Congenital absence of vas deferens	Omar (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM920176	tGCC-ACC	Ala1067Thr	3199G>A	A1067T	Cystic fibrosis	Ferec (1992) Nat Genet 1:188	PubMed 1284639
+CM950252	GCC-GTC	Ala1067Val	3200C>T	A1067V	Cystic fibrosis	Jezequel (1995) Clin Chem 41:833	PubMed 7539342
+CM940270	cGGA-AGA	Gly1069Arg	3205G>A	G1069R	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:57	PubMed 7512860
+CM930128	CGG-CAG	Arg1070Gln	3209G>A	R1070Q	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM970294	CGG-CCG	Arg1070Pro	3209G>C	R1070P	Cystic fibrosis	Shrimpton (1997) Hum Mutat 10:436	PubMed 9401006
+CM950253	aCGG-TGG	Arg1070Trp	3208C>T	R1070W	Cystic fibrosis	Jezequel (1995) Clin Chem 41:833	PubMed 7539342
+CM003254	CAGc-CAT	Gln1071His	3213G>T	Q1071H	Cystic fibrosis	Claustres (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM940271	CAG-CCG	Gln1071Pro	3212A>C	Q1071P	Cystic fibrosis	Ghanem (1994) Genomics 21:434	PubMed 7522211
+CM034791	gCAG-TAG	Gln1071Term	3211C>T	Q1071X	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983573	CCT-CTT	Pro1072Leu	3215C>T	P1072L	Cystic fibrosis	Bombieri (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM024692	TAC-TGC	Tyr1073Cys	3218A>G	Y1073C	Hypertrypsinaemia, neonatal	Seia (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970295	TTTg-TTA	Phe1074Leu	3222T>A	F1074L	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM920177	CTG-CCG	Leu1077Pro	3230T>C	L1077P	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM057573	CAC-CCC	His1079Pro	3236A>C	H1079P	Cystic fibrosis	Wang (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM015359	aGCT-CCT	Ala1081Pro	3241G>C	A1081P	Congenital absence of vas deferens	Ngukam (2004) J Trop Pediatr 50:239	PubMed 15357566
+CM930129	CAT-CGT	His1085Arg	3254A>G	H1085R	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM034792	tACT-GCT	Thr1086Ala	3256A>G	T1086A	Cystic fibrosis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM962476	ACT-ATT	Thr1086Ile	3257C>T	T1086I	Cystic fibrosis	Bienvenu (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM053174	tGCC-CCC	Ala1087Pro	3259G>C	A1087P	Pancreatitis	Weiss (2005) Gut 54:1456	PubMed 15987793
+CM983574	cAAC-GAC	Asn1088Asp	3262A>G	N1088D	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM950254	cTGG-CGG	Trp1089Arg	3265T>C	W1089R	Cystic fibrosis	Zielenski (1995) Hum Mutat 5:43	PubMed 7537150
+CM920178	TGG-TAG	Trp1089Term	3266G>A	W1089X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+HM030019	TAC-TGC	Tyr1092Cys	3275A>G	Y1092C	Cystic fibrosis	Trujillo-Tiebas (2004) Hum Genet 114:403 Source:	Online submission
+CM972958	gTAC-CAC	Tyr1092His	3274T>C	Y1092H	Cystic fibrosis	Egan (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM920179	TACc-TAA	Tyr1092Term	3276C>A	Y1092X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM941981	TACc-TAG	Tyr1092Term	3276C>G	Y1092X	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM993438	CTG-CCG	Leu1093Pro	3278T>C	L1093P	Cystic fibrosis	Yee (1999) Hum Mutat 15:208	PubMed 10649505
+CM983575	CTG-CGG	Leu1096Arg	3287T>G	L1096R	Cystic fibrosis	Claustres (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM056307	cTGG-CGG	Trp1098Arg	3292T>C	W1098R	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM000669	TGGt-TGT	Trp1098Cys	3294G>T	W1098C	Cystic fibrosis	Orozco (2000) Hum Genet 106:360	PubMed 10798368
+CM074737	TGG-TTG	Trp1098Leu	3293G>T	W1098L	Cystic fibrosis	Brakensiek (2007) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940272	TGG-TAG	Trp1098Term	3293G>A	W1098X	Cystic fibrosis	Chillon (1994) Hum Genet 93:447	PubMed 7513293
+CM962477	TGGt-TGA	Trp1098Term	3294G>A	W1098X	Cystic fibrosis	Michel-Calemard (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM055127	TTCc-TTA	Phe1099Leu	3297C>A	F1099L	Cystic fibrosis	McGinniss (2005) Hum Genet 118:331	PubMed 16189704
+CM940273	CAA-CCA	Gln1100Pro	3299A>C	Q1100P	Cystic fibrosis	Chillon (1994) Hum Genet 93:447	PubMed 7513293
+CM930131	ATG-AGG	Met1101Arg	3302T>G	M1101R	Cystic fibrosis	Mercier (1993) Genomics 16:296	PubMed 7683628
+CM930130	ATG-AAG	Met1101Lys	3302T>A	M1101K	Cystic fibrosis	Zielenski (1993) Am J Hum Genet 52:609	PubMed 7680525
+CM043474	gAGA-TGA	Arg1102Term	3304A>T	R1102X	Cystic fibrosis	Claustres (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM950255	aGAA-TAA	Glu1104Term	3310G>T	E1104X	Cystic fibrosis	Zielenski (1995) Hum Mutat 5:43	PubMed 7537150
+CM031656	ATG-AGG	Met1105Arg	3314T>G	M1105R	Cystic fibrosis	Scotet (2003) Hum Mutat 22:105	PubMed 12815607
+CM071597	tGTC-CTC	Val1108Leu	3322G>C	V1108L	Congenital absence of vas deferens	Grangeia (2007) Genet Med 9:163	PubMed 17413420
+CM993866	TCC-TGC	Ser1118Cys	3353C>G	S1118C	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983576	TCC-TTC	Ser1118Phe	3353C>T	S1118F	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM960289	aGGA-CGA	Gly1123Arg	3367G>C	G1123R	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM941982	GGA-GAA	Gly1127Glu	3380G>A	G1127E	Cystic fibrosis	Bienvenu (1994) CFTR LSDB entry Newsletter:#63	Source: LSDB
+CM962478	aAGA-TGA	Arg1128Term	3382A>T	R1128X	Cystic fibrosis	Ghanem (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM024693	GTT-GGT	Val1129Gly	3386T>G	V1129G	Cystic fibrosis	Claustres (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM015360	GGT-GCT	Gly1130Ala	3389G>C	G1130A	Congenital absence of vas deferens	Dayangac (2004) Hum Reprod 19:1094	PubMed 15070876
+CM993867	tATT-GTT	Ile1131Val	3391A>G	I1131V	Cystic fibrosis	Giorgi (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM003255	aGCC-ACC	Ala1136Thr	3406G>A	A1136T	Cystic fibrosis	Ferec (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM952055	ATG-AGG	Met1137Arg	3410T>G	M1137R	Cystic fibrosis	Hirtz (2004) Gastroenterology 127:1085	PubMed 15480987
+CM067740	ATG-ACG	Met1137Thr	3410T>C	M1137T	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM931152	cATG-GTG	Met1137Val	3409A>G	M1137V	Cystic fibrosis	Zielenski (1993) CFTR LSDB entry Newsletter:#59	Source: LSDB
+CM940274	tATC-GTC	Ile1139Val	3415A>G	I1139V	Cystic fibrosis	Teng (1994) Hum Mol Genet 3:2249	PubMed 7881429
+CM983577	ATG-AAG	Met1140Lys	3419T>A	M1140K	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM004893	ACA-ATA	Thr1142Ile	3425C>T	T1142I	Asthma	Lazaro (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM962479	gCAG-TAG	Gln1144Term	3430C>T	Q1144X	Cystic fibrosis	Schwarz (1996) CFTR LSDB entry Newsletter:#67	Source: LSDB
+CM086582	gTGG-CGG	Trp1145Arg	3433T>C	W1145R	Congenital absence of vas deferens	Alibakhshi (2008) J Cyst Fibros 7:102	PubMed 17662673
+CM003256	TGGg-TGA	Trp1145Term	3435G>A	W1145X	Cystic fibrosis	Seia (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983578	tGTA-ATA	Val1147Ile	3439G>A	V1147I	Cystic fibrosis	Kilinc (2002) Am J Med Genet 113:250	PubMed 12439892
+CM003257	AACt-AAA	Asn1148Lys	3444C>A	N1148K	Cystic fibrosis	Casals (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM950256	aGAT-CAT	Asp1152His	3454G>C	D1152H	Cystic fibrosis	Chillon (1995) N Engl J Med 332:1475	PubMed 7739684
+CM970296	GTG-GAG	Val1153Glu	3458T>A	V1153E	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM941983	GAT-GGT	Asp1154Gly	3461A>G	D1154G	Congenital absence of vas deferens	Costes (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM920180	gCGA-TGA	Arg1158Term	3472C>T	R1158X	Cystic fibrosis	Ronchetto (1992) Genomics 12:417	PubMed 1371265
+CM993868	TCT-TTT	Ser1159Phe	3476C>T	S1159F	Cystic fibrosis	Hirtz (2004) Gastroenterology 127:1085	PubMed 15480987
+CM931153	aTCT-CCT	Ser1159Pro	3475T>C	S1159P	Cystic fibrosis	Macek (1993) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM011285	AGCc-AGG	Ser1161Arg	3483C>G	S1161R	Cystic fibrosis Le	Maréchal (2001) Hum Genet 108:290	PubMed 11379874
+CM014892	CGA-CAA	Arg1162Gln	3485G>A	R1162Q	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM021555	CGA-CTA	Arg1162Leu	3485G>T	R1162L	Cystic fibrosis	Groman (2002) N Engl J Med 347:401	PubMed 12167682
+CM910074	cCGA-TGA	Arg1162Term	3484C>T	R1162X	Cystic fibrosis	Gasparini (1991) Genomics 10:193	PubMed 2045102
+CM034793	TTC-TGC	Phe1166Cys	3497T>G	F1166C	Cystic fibrosis	Messaoud (2005) Ann	Biol Clin
+CM931154	GAC-GGC	Asp1168Gly	3503A>G	D1168G	Cystic fibrosis	Macek (1993) CFTR LSDB entry Newsletter:#58	Source: LSDB
+CM941984	AAG-AGG	Lys1177Arg	3530A>G	K1177R	Cystic fibrosis	Baralle (1994) CFTR LSDB entry Newsletter:#61	Source: LSDB
+CM001653	cAAG-TAG	Lys1177Term	3529A>T	K1177X	Cystic fibrosis	Banjar (1999) Ann Trop Paediatr 19:69	PubMed 10605524
+CM941985	TACa-TAG	Tyr1182Term	3546C>G	Y1182X	Cystic fibrosis	Wallace (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM962480	cCAA-TAA	Gln1186Term	3556C>T	Q1186X	Cystic fibrosis	Haworth (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM941986	GTT-GAT	Val1190Asp	3569T>A	V1190D	Cystic fibrosis	Glavac (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM024694	AAT-ACT	Asn1195Thr	3584A>C	N1195T	Cystic fibrosis	Savov (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM930132	TCA-TGA	Ser1196Term	3587C>G	S1196X	Cystic fibrosis	Ivaschenko (1993) Hum Genet 91:63	PubMed 7681034
+CM920181	gAAA-GAA	Lys1200Glu	3598A>G	K1200E	Cystic fibrosis	Fanen (1992) Genomics 13:770	PubMed 1379210
+CM920182	cATC-GTC	Ile1203Val	3607A>G	I1203V	Cystic fibrosis	Cutting (1992) Am J Hum Genet 50:1185	PubMed 1376017
+CM920183	TGG-TAG	Trp1204Term	3611G>A	W1204X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM067771	TGGc-TGA	Trp1204Term	3612G>A	W1204X	Cystic fibrosis	Schrijver (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM962481	TCA-TGA	Ser1206Term	3617C>G	S1206X	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM931155	ATGa-ATA	Met1210Ile	3630G>A	M1210I	Cystic fibrosis	Nukiwa (1993) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM043475	ATG-AAG	Met1210Lys	3629T>A	M1210K	Cystic fibrosis	Seia (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM931156	tGTC-ATC	Val1212Ile	3634G>A	V1212I	Cystic fibrosis	Macek (1993) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM032556	ATA-AGA	Ile1226Arg	3677T>G	I1226R	Cystic fibrosis	Korytina (2003)	Mol Biol
+CM972959	TTA-TCA	Leu1227Ser	3680T>C	L1227S	Cystic fibrosis	Jezequel (2000) Mol Hum Reprod 6:1063	PubMed 11101688
+CM003258	GAG-GGG	Glu1228Gly	3683A>G	E1228G	Bronchiectasis	Ninis (2003) J Med Genet 40:530	PubMed 12843327
+CM972960	ATT-ACT	Ile1230Thr	3689T>C	I1230T	Cystic fibrosis	Claustres (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM920184	aATA-GTA	Ile1234Val	3700A>G	I1234V	Cystic fibrosis	Claustres (1992) Hum Mutat 1:310	PubMed 1284537
+CM930133	AGTc-AGG	Ser1235Arg	3705T>G	S1235R	Cystic fibrosis	Cuppens (1993) Genomics 18:693	PubMed 7508414
+CM003259	tGGC-AGC	Gly1237Ser	3709G>A	G1237S	Cystic fibrosis	Casals (2000) CFTR LSDB entry Pers comm:	Source: LSDB
+CM931157	CAG-CGG	Gln1238Arg	3713A>G	Q1238R	Cystic fibrosis	Ferec (1993) CFTR LSDB entry Newsletter:#58	Source: LSDB
+CM930134	cCAG-TAG	Gln1238Term	3712C>T	Q1238X	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM993869	GTG-GGG	Val1240Gly	3719T>G	V1240G	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM057580	gGGA-AGA	Gly1244Arg	3730G>A	G1244R	Cystic fibrosis	Lucarelli (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM910075	GGA-GAA	Gly1244Glu	3731G>A	G1244E	Cystic fibrosis	Devoto (1991) Am J Hum Genet 48:1127	PubMed 1709778
+CM940275	GGA-GTA	Gly1244Val	3731G>T	G1244V	Cystic fibrosis	Savov (1994) Hum Mol Genet 3:513	PubMed 7516777
+CM941987	ACT-ATT	Thr1246Ile	3737C>T	T1246I	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM962482	tGGA-AGA	Gly1247Arg	3739G>A	G1247R	Cystic fibrosis	Casals (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM057584	tGGA-CGA	Gly1247Arg	3739G>C	G1247R	Cystic fibrosis	Lucarelli (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940277	aGGG-AGG	Gly1249Arg	3745G>A	G1249R	Cystic fibrosis	Dijkstra (1994) Hum Mutat 4:161	PubMed 7526929
+CM940276	GGG-GAG	Gly1249Glu	3746G>A	G1249E	Cystic fibrosis	Greil (1994) Hum Hered 44:238	PubMed 7520022
+CM920185	AGT-AAT	Ser1251Asn	3752G>A	S1251N	Cystic fibrosis	Kaelin (1992) Hum Mutat 1:204	PubMed 1284535
+CM962483	tACT-CCT	Thr1252Pro	3754A>C	T1252P	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:375	PubMed 16049310
+CM960290	TTA-TAA	Leu1254Term	3761T>A	L1254X	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM980356	TCA-TTA	Ser1255Leu	3764C>T	S1255L	Cystic fibrosis	Cartault (1998) Clin Genet 54:437	PubMed 9842999
+CM920187	aTCA-CCA	Ser1255Pro	3763T>C	S1255P	Cystic fibrosis	Lissens (1992) Hum Mol Genet 1:441	PubMed 1284530
+CM920186	TCA-TAA	Ser1255Term	3764C>A	S1255X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM983579	TTTt-TTG	Phe1257Leu	3771T>G	F1257L	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM024695	CTA-CGA	Leu1260Arg	3779T>G	L1260R	Cystic fibrosis	Seia (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM066546	CTA-CCA	Leu1260Pro	3779T>C	L1260P	Pancreatitis, chronic	Keiles (2006) Pancreas 33:221	PubMed 17003641
+CM067742	cACT-GCT	Thr1263Ala	3787A>G	T1263A	Azoospermia	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043476	ACT-ATT	Thr1263Ile	3788C>T	T1263I	Asthma	Seia (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067743	CAG-CGG	Gln1268Arg	3803A>G	Q1268R	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM952056	ATC-AAC	Ile1269Asn	3806T>A	I1269N	Cystic fibrosis	McDowell (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM920188	cGAT-AAT	Asp1270Asn	3808G>A	D1270N	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM091997	GATg-GAA	Asp1270Glu	3810T>A	D1270E	Congenital absence of vas deferens	Sharma (2009) Hum Reprod 24:1229	PubMed 19181743
+CM057575	cGAT-TAT	Asp1270Tyr	3808G>T	D1270Y	Cystic fibrosis	Wang (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM993870	TGGg-TGA	Trp1274Term	3822G>A	W1274X	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970297	aCAG-TAG	Gln1281Term	3841C>T	Q1281X	Cystic fibrosis	Casals (1997) Hum Genet 101:365	PubMed 9439669
+CM930135	gTGG-CGG	Trp1282Arg	3844T>C	W1282R	Cystic fibrosis	Ivaschenko (1993) Hum Genet 91:63	PubMed 7681034
+CM962484	TGGa-TGT	Trp1282Cys	3846G>T	W1282C	Cystic fibrosis	Ferec (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM962485	gTGG-GGG	Trp1282Gly	3844T>G	W1282G	Cystic fibrosis	Faucz (2007) Clin Genet 72:218	PubMed 17718859
+CM900061	TGGa-TGA	Trp1282Term	3846G>A	W1282X	Cystic fibrosis	Kerem (1990) Proc Natl Acad Sci U S A 87:8447	PubMed 2236053
+CM940278	AGG-AAG	Arg1283Lys	3848G>A	R1283K	Cystic fibrosis	Chevalier-Porst (1994) J Med Genet 31:541	PubMed 7525963
+CM920189	AGG-ATG	Arg1283Met	3848G>T	R1283M	Cystic fibrosis	Cheadle (1992) Hum Mol Genet 1:123	PubMed 1284468
+CM113212	GCC-GTC	Ala1285Val	3854C>T	A1285V	Congenital absence of vas deferens	Sachdeva (2011) Genet Test Mol Biomarkers 15:307	PubMed 21254931
+CM930136	TTT-TCT	Phe1286Ser	3857T>C	F1286S	Cystic fibrosis	Dorval (1993) Hum Genet 91:254	PubMed 8097485
+CM055928	tGGA-AGA	Gly1287Arg	3859G>A	G1287R	Cystic fibrosis	Chou (2005) J Mol Diagn 7:111	PubMed 15681482
+CM055122	aCCA-TCA	Pro1290Ser	3868C>T	P1290S	Congenital absence of vas deferens	Grangeia (2005) Fertil Steril 83:448	PubMed 15705389
+CM067732	aCCA-ACA	Pro1290Thr	3868C>A	P1290T	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM940279	CAG-CGG	Gln1291Arg	3872A>G	Q1291R	Cystic fibrosis	Doerk (1994) Hum Genet 94:533	PubMed 7525450
+CM920190	CAGa-CAC	Gln1291His	3873G>C	Q1291H	Cystic fibrosis	Jones (1992) Hum Mol Genet 1:11	PubMed 1284466
+CM003260	aCAG-TAG	Gln1291Term	3871C>T	Q1291X	Cystic fibrosis	Feldmann (2001) Hum Mutat 17:356	PubMed 11295849
+CM972961	aGTA-ATA	Val1293Ile	3877G>A	V1293I	Cystic fibrosis	Ferec (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM992307	ACA-ATA	Thr1299Ile	3896C>T	T1299I	Cystic fibrosis	Liechti (1999) Eur J Hum Genet 7:590	PubMed 10439967
+CM962486	aTTT-CTT	Phe1300Leu	3898T>C	F1300L	Cystic fibrosis	Poncin (1996) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM111172	aAAA-TAA	Lys1302Term	3904A>T	K1302X	Cystic fibrosis	Bonyadi (2011) Genet Test Mol Biomarkers 15:89	PubMed 21198395
+CM920191	aAAC-CAC	Asn1303His	3907A>C	N1303H	Cystic fibrosis	Claustres (1992) Hum Mutat 1:310	PubMed 1284537
+CM952057	AAC-ATC	Asn1303Ile	3908A>T	N1303I	Cystic fibrosis	Lissens (1995) CFTR LSDB entry Newsletter:#66	Source: LSDB
+CM910076	AACt-AAG	Asn1303Lys	3909C>G	N1303K	Cystic fibrosis	Osborne (1991) Am J Hum Genet 48:608	PubMed 1998343
+CM972962	GATc-GAA	Asp1305Glu	3915T>A	D1305E	Cystic fibrosis	Claustres (1997) CFTR LSDB entry Newsletter:#69	Source: LSDB
+CM034794	TAT-TGT	Tyr1307Cys	3920A>G	Y1307C	Congenital absence of vas deferens	Casals (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993871	TATg-TAA	Tyr1307Term	3921T>A	Y1307X	Cystic fibrosis	Zielenski (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972963	tGAA-TAA	Glu1308Term	3922G>T	E1308X	Cystic fibrosis	Alonso (2006) Ann Hum Genet 71:194	PubMed 17331079
+CM067747	CAGt-CAT	Gln1309His	3927G>T	Q1309H	Congenital absence of vas deferens	Girodon (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM920192	TGG-TAG	Trp1310Term	3929G>A	W1310X	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM962487	tCAA-AAA	Gln1313Lys	3937C>A	Q1313K	Cystic fibrosis	Malone (1996) CFTR LSDB entry Newsletter:#68	Source: LSDB
+CM930137	tCAA-TAA	Gln1313Term	3937C>T	Q1313X	Cystic fibrosis	Audrezet (1993) Hum Mol Genet 2:51	PubMed 7683952
+CM900062	TGG-TAG	Trp1316Term	3947G>A	W1316X	Cystic fibrosis	Cutting (1990) N Engl J Med 323:1685	PubMed 2233965
+CM983580	GTT-GCT	Val1318Ala	3953T>C	V1318A	Cystic fibrosis	Ferec (1998) CFTR LSDB entry Pers comm:	Source: LSDB
+CM941988	tGAG-CAG	Glu1321Gln	3961G>C	E1321Q	Cystic fibrosis	Ferec (1994) CFTR LSDB entry Newsletter:#64	Source: LSDB
+CM043477	CTC-CCC	Leu1324Pro	3971T>C	L1324P	Cystic fibrosis	Bienvenu (2005) Hum Biol 77:705	PubMed 16596947
+CM090071	aGAA-CAA	Glu1329Gln	3985G>C	E1329Q	Cystic fibrosis	Sharma (2009) Ann Hum Genet 73:26	PubMed 18782298
+CM067762	gCTT-TTT	Leu1335Phe	4003C>T	L1335F	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM972964	CTT-CCT	Leu1335Pro	4004T>C	L1335P	Cystic fibrosis	Zielenski (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM973398	cTTT-GTT	Phe1337Val	4009T>G	F1337V	Congenital absence of vas deferens	Scheffer (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM994789	cCTT-TTT	Leu1339Phe	4015C>T	L1339F	Congenital absence of vas deferens	Girodon (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920193	GGC-GAC	Gly1349Asp	4046G>A	G1349D	Cystic fibrosis	Tsui (1992) Hum Mutat 1:197	PubMed 1284534
+CM993872	tGGC-AGC	Gly1349Ser	4045G>A	G1349S	Cystic fibrosis	Yoshimura (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970298	cAAG-GAG	Lys1351Glu	4051A>G	K1351E	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM067760	gCAG-GAG	Gln1352Glu	4054C>G	Q1352E	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM931158	CAGt-CAC	Gln1352His	4056G>C	Q1352H	Cystic fibrosis	Lee (2005) Dig Dis Sci 50:1852	PubMed 16187186
+CM993873	AGAt-AGT	Arg1358Ser	4074A>T	R1358S	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM970299	GCG-GTG	Ala1364Val	4091C>T	A1364V	Congenital absence of vas deferens de	Meeus (1997) Hum Mutat 11:480	PubMed 10200050
+CM031946	gATC-TTC	Ile1366Phe	4096A>T	I1366F	Primary sclerosing cholangitis	Sheth (2003) Hum Genet 113:286	PubMed 12783301
+CM993874	ATC-ACC	Ile1366Thr	4097T>C	I1366T	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM920194	tGAA-TAA	Glu1371Term	4111G>T	E1371X	Cystic fibrosis	Cutting (1992) Am J Hum Genet 50:1185	PubMed 1376017
+CM055923	CCC-CTC	Pro1372Leu	4115C>T	P1372L	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM034795	aCCC-ACC	Pro1372Thr	4114C>A	P1372T	Bronchiectasis	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM087538	tCAT-AAT	His1375Asn	4123C>A	H1375N	Cystic fibrosis	Kolesár (2008) Gen Physiol Biophys 27:299	PubMed 19202204
+CM057574	CAT-CCT	His1375Pro	4124A>C	H1375P	Cystic fibrosis	Narzi (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM950257	gGAT-CAT	Asp1377His	4129G>C	D1377H	Congenital absence of vas deferens	Costes (1995) Eur J Hum Genet 3:285	PubMed 8556303
+CM067737	aTAC-CAC	Tyr1381His	4141T>C	Y1381H	Cystic fibrosis	Sharma (2009) Ann Hum Genet 73:26	PubMed 18782298
+CM024696	TACc-TAA	Tyr1381Term	4143C>A	Y1381X	Cystic fibrosis	Casals (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM983581	cCAA-TAA	Gln1382Term	4144C>T	Q1382X	Cystic fibrosis	Claustres (1998) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM970300	CTA-CAA	Leu1388Gln	4163T>A	L1388Q	Congenital absence of vas deferens	Doerk (1997) Hum Genet 100:365	PubMed 9272157
+CM940280	GTA-GAA	Val1397Glu	4190T>A	V1397E	Cystic fibrosis	Petreska (1994) Hum Mol Genet 3:999	PubMed 7524913
+CM057572	ATT-AGT	Ile1398Ser	4193T>G	I1398S	Cystic fibrosis	Wang (2005) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM024697	GAA-GCA	Glu1401Ala	4202A>C	E1401A	Cystic fibrosis	Valaskova (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067755	GAA-GGA	Glu1401Gly	4202A>G	E1401G	Congenital absence of vas deferens	Girodon (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM071596	tGAA-AAA	Glu1401Lys	4201G>A	E1401K	Congenital absence of vas deferens	Grangeia (2007) Genet Med 9:163	PubMed 17413420
+CM983582	tGAA-TAA	Glu1401Term	4201G>T	E1401X	Cystic fibrosis	Strandvik (2001) Genet Test 5:235	PubMed 11788090
+CM043478	ATG-ACG	Met1407Thr	4220T>C	M1407T	Cystic fibrosis	Girodon (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM034796	gGAA-AAA	Glu1409Lys	4225G>A	E1409K	Congenital absence of vas deferens	Alonso (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM931159	GAA-GTA	Glu1409Val	4226A>T	E1409V	Cystic fibrosis	Claustres (1993) CFTR LSDB entry Newsletter:#55	Source: LSDB
+CM931253	cCAA-TAA	Gln1411Term	4231C>T	Q1411X	Congenital absence of vas deferens	Costes (1993) CFTR LSDB entry Newsletter:#58	Source: LSDB
+CM960291	aCAA-TAA	Gln1412Term	4234C>T	Q1412X	Cystic fibrosis	Hughes (1996) Hum Mutat 8:340	PubMed 8956039
+CM067773	TTG-TCG	Leu1414Ser	4241T>C	L1414S	Congenital absence of vas deferens	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM043479	aGAG-TAG	Glu1418Term	4252G>T	E1418X	Cystic fibrosis	Girodon (2004) CFTR LSDB entry Pers comm:	Source: LSDB
+CM972965	gCGG-TGG	Arg1422Trp	4264C>T	R1422W	Cystic fibrosis	Claustres (1997) CFTR LSDB entry Newsletter:#70	Source: LSDB
+CM024698	TCC-TTC	Ser1426Phe	4277C>T	S1426F	Obstructive azoospermia	Casals (2002) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993875	tTCC-CCC	Ser1426Pro	4276T>C	S1426P	Cystic fibrosis	Ferec (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM043480	cCGG-TGG	Arg1438Trp	4312C>T	R1438W	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM962488	cGAC-AAC	Asp1445Asn	4333G>A	D1445N	Cystic fibrosis	Schrijver (2005) J Mol Diagn 7:289	PubMed 15858154
+CM993876	cCGG-TGG	Arg1453Trp	4357C>T	R1453W	Cystic fibrosis	Yoshimura (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM980357	TCA-TGA	Ser1455Term	4364C>G	S1455X	Elevated sweat chloride concentration	Mickle (1998) Hum Mol Genet 7:729	PubMed 9499426
+CM034797	aGAA-TAA	Glu1473Term	4417G>T	E1473X	Congenital absence of vas deferens	Girodon (2003) CFTR LSDB entry Pers comm:	Source: LSDB
+CM993877	gCAA-TAA	Gln1476Term	4426C>T	Q1476X	Cystic fibrosis	Claustres (1999) CFTR LSDB entry Pers comm:	Source: LSDB
+CM067753	CTT-CCT	Leu1480Pro	4439T>C	L1480P	Cystic fibrosis	Picci (2006) CFTR LSDB entry Unpublished:.	Source: LSDB
+CM031947	TAG-TGG	Term1481Trp	4442A>G	X1481W	Cystic fibrosis	Bienvenu (2003) Clin Genet 64:266	PubMed 12919146

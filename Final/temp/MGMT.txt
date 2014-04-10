@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM024567	TGGc-TGC	Trp96Cys	288G>C	W96C	Altered enzyme activity	Inoue (2000) Pharmacogenetics 10:59	PubMed 10739173
+CM065311	aCTT-TTT	Leu115Phe	343C>T	L115F	Endometrial cancer risk, association with	Han (2006) Carcinogenesis 27:2281	PubMed 16777993
+CM004820	cATC-GTC	Ile174Val	520A>G	I174V	Lung cancer, risk, association with	Kaur (2000) Cancer Epidemiol Biomarkers Prev 9:339	PubMed 10750675
+CM071862	AAG-AGG	Lys209Arg	626A>G	K209R	Cervical carcinoma, increased risk, association with	Huang (2007) Carcinogenesis 28:1314	PubMed 17234722

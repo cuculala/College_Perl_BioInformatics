@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM107249	gTGC-CGC	Cys65Arg	193T>C	C65R	Cancer, increased risk, association with	El-Kalla (2010) Oncogene 29:5729	PubMed 20697344
+CM063088	aGCT-TCT	Ala133Ser	397G>T	A133S	Lung cancer, increased risk, association with	Kanzaki (2006) Cancer Lett 238:128	PubMed 16125301

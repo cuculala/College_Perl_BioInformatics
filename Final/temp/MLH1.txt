@@ -1,0 +1,306 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM970950	ATG-AGG	Met1Arg	2T>G	M1R	Colorectal cancer, non-polyposis	Wang (1997) Int J Cancer 73:831	PubMed 9399661
+CM065312	ATGt-ATA	Met1Ile	3G>A	M1I	Colorectal cancer	Barnetson (2006) N Engl J Med 354:2751	PubMed 16807412
+CM970949	ATG-AAG	Met1Lys	2T>A	M1K	Colorectal cancer, non-polyposis	Wehner (1997) Hum Mutat 10:241	PubMed 9298827
+CM124188	ATG-ACG	Met1Thr	2T>C	M1T	Colorectal cancer van	Lier (2012) J Pathol 226:764	PubMed 22081473
+CM011407	TCG-TAG	Ser2Term	5C>A	S2X	Colorectal cancer, non-polyposis	Piepoli (2001) MLH1 LSDB entry Unpublished:	Source: LSDB
+CM093752	cGAG-TAG	Glu13Term	37G>T	E13X	Colorectal cancer, non-polyposis	Rouleau (2009) Hum Mutat 30:867	PubMed 19224586
+CM033399	cCGC-TGC	Arg18Cys	52C>T	R18C	Colorectal cancer, non-polyposis	Taylor (2003) Hum Mutat 22:428	PubMed 14635101
+CM023425	cATC-TTC	Ile19Phe	55A>T	I19F	Colorectal cancer, non-polyposis	Kurzawski (2002) J Med Genet 39:e65	PubMed 12362047
+CM122664	GCG-GAG	Ala21Glu	62C>A	A21E	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM044666	GCG-GTG	Ala21Val	62C>T	A21V	Colorectal cancer, non-polyposis	Cederquist (2004) Int J Cancer 109:370	PubMed 14961575
+CM044667	GGG-GCG	Gly22Ala	65G>C	G22A	Colorectal cancer	Fearnhead (2004) Proc Natl Acad Sci U S A 101:15992	PubMed 15520370
+CM076304	GAAg-GAT	Glu23Asp	69A>T	E23D	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM057966	gGAA-AAA	Glu23Lys	67G>A	E23K	Colorectal cancer, non-polyposis	Wolf (2005) Wien Klin Wochenschr 117:269	PubMed 15926618
+CM013767	gGAA-TAA	Glu23Term	67G>T	E23X	Colorectal cancer, non-polyposis	Kruger (2001) Hum Mutat 19:82	PubMed 11754112
+CM011408	tATC-TTC	Ile25Phe	73A>T	I25F	Colorectal cancer, non-polyposis	Weber (1999) JAMA 281:2316	PubMed 10386556
+CM076294	ATC-ACC	Ile25Thr	74T>C	I25T	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM993950	cCAG-TAG	Gln26Term	76C>T	Q26X	Colorectal cancer, non-polyposis	Cravo (1999) J Pathol 188:252	PubMed 10419591
+CM122665	CGG-CCG	Arg27Pro	80G>C	R27P	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM972992	CCA-CTA	Pro28Leu	83C>T	P28L	Colorectal cancer, non-polyposis	Wehner (1997) Hum Mutat 10:241	PubMed 9298827
+CM117311	GCT-GGT	Ala29Gly	86C>G	A29G	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM031242	aGCT-TCT	Ala29Ser	85G>T	A29S	Colorectal cancer, non-polyposis	Wagner (2003) Am J Hum Genet 72:1088	PubMed 12658575
+CM950798	ATG-AGG	Met35Arg	104T>G	M35R	Colorectal cancer, non-polyposis	Tannergard (1995) Cancer Res 55:6092	PubMed 8521398
+CM023952	ATG-AAG	Met35Lys	104T>A	M35K	Colorectal cancer, non-polyposis	Gille (2002) Br J Cancer 87:892	PubMed 12373605
+CM085543	ATT-AAT	Ile36Asn	107T>A	I36N	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM101371	tGAG-AAG	Glu37Lys	109G>A	E37K	Colorectal cancer, non-polyposis	Drost (2010) Hum Mutat 31:247	PubMed 20020535
+CM055990	tGAG-TAG	Glu37Term	109G>T	E37X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM117307	gAAC-GAC	Asn38Asp	112A>G	N38D	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM023953	gAAC-CAC	Asn38His	112A>C	N38H	Colorectal cancer, non-polyposis	Gille (2002) Br J Cancer 87:892	PubMed 12373605
+CM101372	AACt-AAG	Asn38Lys	114C>G	N38K	Colorectal cancer, non-polyposis	Drost (2010) Hum Mutat 31:247	PubMed 20020535
+CM010343	AAC-AGC	Asn38Ser	113A>G	N38S	Colorectal cancer, non-polyposis	Scott (2001) Am J Hum Genet 68:118	PubMed 11112663
+CM101436	TGT-TAT	Cys39Tyr	116G>A	C39Y	Colorectal cancer, non-polyposis	Coolbaugh-Murphy (2010) Hum Mutat 31:317	PubMed 20052760
+CM042739	GAT-GGT	Asp41Gly	122A>G	D41G	Colorectal cancer, non-polyposis	Kruger (2004) Hum Mutat 24:351	PubMed 15365996
+CM123004	aGAT-CAT	Asp41His	121G>C	D41H	Colorectal cancer, non-polyposis	Bonnet (2012) Dig Liver Dis :	PubMed 22480969
+CM941059	TCC-TTC	Ser44Phe	131C>T	S44F	Colorectal cancer, non-polyposis	Bronner (1994) Nature 368:258	PubMed 8145827
+HM030036	AGT-ATT	Ser46Ile	137G>T	S46I	Colorectal cancer, non-polyposis	Cai (2003) Zhonghua Bing Li Xue Za Zhi 32:323	PubMed 14514376
+CM094062	CAA-CCA	Gln48Pro	143A>C	Q48P	Colorectal cancer, non-polyposis	Tanyi (2009) Magy Seb 62:87	PubMed 19386570
+CM068360	GTG-GAG	Val49Glu	146T>A	V49E	Colorectal cancer, non-polyposis	Auclair (2006) Hum Mutat 27:145	PubMed 16395668
+CM078537	GGA-GAA	Gly54Glu	161G>A	G54E	Colorectal cancer, non-polyposis	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM970951	cCAA-AAA	Gln62Lys	184C>A	Q62K	Colorectal cancer, non-polyposis	Wijnen (1997) Am J Hum Genet 61:329	PubMed 9311737
+CM950799	cCAA-TAA	Gln62Term	184C>T	Q62X	Colorectal cancer, non-polyposis	Tannergard (1995) Cancer Res 55:6092	PubMed 8521398
+CM076293	aGAC-AAC	Asp63Asn	187G>A	D63N	Colorectal cancer, non-polyposis	Papp (2007) World J Gastroenterol 13:2727	PubMed 17569143
+CM057502	GACa-GAA	Asp63Glu	189C>A	D63E	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM970952	AAT-AGT	Asn64Ser	191A>G	N64S	Colorectal cancer, non-polyposis	Wijnen (1997) Am J Hum Genet 61:329	PubMed 9311737
+HM030035	GGC-GAC	Gly65Asp	194G>A	G65D	Colorectal cancer, non-polyposis	Cai (2003) Zhonghua Bing Li Xue Za Zhi 32:323	PubMed 14514376
+CM970953	cGGG-AGG	Gly67Arg	199G>A	G67R	Colorectal cancer, non-polyposis	Tannergard (1995) Cancer Res 55:6092	PubMed 8521398
+CM093753	cGGG-CGG	Gly67Arg	199G>C	G67R	Colorectal cancer, non-polyposis	Rouleau (2009) Hum Mutat 30:867	PubMed 19224586
+CM065314	GGG-GAG	Gly67Glu	200G>A	G67E	Colorectal cancer	Barnetson (2006) N Engl J Med 354:2751	PubMed 16807412
+CM990854	cGGG-TGG	Gly67Trp	199G>T	G67W	Colorectal cancer, non-polyposis	Wang (1999) Hum Genet 105:79	PubMed 10480359
+CM950801	ATC-AAC	Ile68Asn	203T>A	I68N	Colorectal cancer, non-polyposis	Tannergard (1995) Cancer Res 55:6092	PubMed 8521398
+CM055986	aGAA-TAA	Glu71Term	211G>T	E71X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM981288	aTGT-CGT	Cys77Arg	229T>C	C77R	Colorectal cancer, non-polyposis	Panariello (1998) Hum Mutat 12:216	PubMed 10660333
+CM970954	TGT-TAT	Cys77Tyr	230G>A	C77Y	Colorectal cancer, non-polyposis	Tomlinson (1997) J Med Genet 34:39	PubMed 9032648
+CM015002	gTTC-GTC	Phe80Val	238T>G	F80V	Colorectal cancer, non-polyposis	Muller-Koch (2001) Eur J Med Res 6:473	PubMed 11726306
+CM110814	tACT-GCT	Thr82Ala	244A>G	T82A	Colorectal cancer, non-polyposis	Pastrello (2011) Genet Med 13:115	PubMed 21239990
+CM995218	ACT-ATT	Thr82Ile	245C>T	T82I	Colorectal cancer, non-polyposis	Syngal (1999) JAMA 282:247	PubMed 10422993
+CM994124	tAAA-GAA	Lys84Glu	250A>G	K84E	Colorectal cancer, non-polyposis	Wang (1998) Zhonghua Yi Xue Yi Chuan Xue Za Zhi 15:333	PubMed 9845760
+CM054777	gCAG-TAG	Gln86Term	256C>T	Q86X	Colorectal cancer, non-polyposis	Kurzawski (2006) Clin Genet 69:40	PubMed 16451135
+CM024457	tGAG-TAG	Glu89Term	265G>T	E89X	Colorectal cancer, non-polyposis	Wang (2002) Zhonghua Wai Ke Za Zhi 40:411	PubMed 12139794
+CM046061	aGCC-CCC	Ala92Pro	274G>C	A92P	Gastric cancer	Hudler (2004) Clin Genet 65:405	PubMed 15099349
+CM981289	cAGT-GGT	Ser93Gly	277A>G	S93G	Colorectal cancer, non-polyposis	Quaresima (1998) Hum Mutat 12:433	PubMed 10671064
+CM077605	TATg-TAG	Tyr97Term	291T>G	Y97X	Colorectal cancer, young-onset	Walker (2007) Br J Surg 94:1567	PubMed 17665423
+CM1110879	tGGC-CGC	Gly98Arg	292G>C	G98R	Colorectal cancer, non-polyposis	Bujalkova (2008) Clin Chem 54:1844	PubMed 18772310
+CM122666	tGGC-AGC	Gly98Ser	292G>A	G98S	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM076298	CGA-CCA	Arg100Pro	299G>C	R100P	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM990855	tCGA-TGA	Arg100Term	298C>T	R100X	Colorectal cancer, non-polyposis	Wang (1999) Hum Genet 105:79	PubMed 10480359
+CM033398	GGT-GAT	Gly101Asp	302G>A	G101D	Colorectal cancer, non-polyposis	Taylor (2003) Hum Mutat 22:428	PubMed 14635101
+CM122667	aGGT-AGT	Gly101Ser	301G>A	G101S	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM076305	GAGg-GAT	Glu102Asp	306G>T	E102D	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM011409	tGAG-AAG	Glu102Lys	304G>A	E102K	Colorectal cancer, non-polyposis	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM068361	AGCa-AGA	Ser106Arg	318C>A	S106R	Colorectal cancer, non-polyposis	Auclair (2006) Hum Mutat 27:145	PubMed 16395668
+CM015025	AGCa-AGG	Ser106Arg	318C>G	S106R	Gastric cancer	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM960964	ATA-AGA	Ile107Arg	320T>G	I107R	Colorectal cancer, non-polyposis	Nystrom-Lahti (1996) Hum Mol Genet 5:763	PubMed 8776590
+CM015026	CATg-CAG	His109Gln	327T>G	H109Q	Gastric cancer	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM101373	CAT-CCT	His109Pro	326A>C	H109P	Colorectal cancer, non-polyposis	Drost (2010) Hum Mutat 31:247	PubMed 20020535
+CM112538	GCT-GAT	Ala111Asp	332C>A	A111D	Colorectal cancer, non-polyposis	Moussa (2011) Int J Colorectal Dis 26:455	PubMed 21311894
+CM101374	gGCT-CCT	Ala111Pro	331G>C	A111P	Colorectal cancer, non-polyposis	Drost (2010) Hum Mutat 31:247	PubMed 20020535
+CM001243	GCT-GTT	Ala111Val	332C>T	A111V	Colorectal cancer, non-polyposis	Nomura (2000) Biochem Biophys Res Commun 271:120	PubMed 10777691
+CM068362	GTT-GAT	Val113Asp	338T>A	V113D	Colorectal cancer, non-polyposis	Auclair (2006) Hum Mutat 27:145	PubMed 16395668
+CM093726	tACA-CCA	Thr116Pro	346A>C	T116P	Colorectal cancer, non-polyposis Montazer	Haghighi (2009) Int J Colorectal Dis 24:885	PubMed 19479271
+CM950802	ACG-AGG	Thr117Arg	350C>G	T117R	Colorectal cancer, non-polyposis	Buerstedde (1995) J Med Genet 32:909	PubMed 8592341
+CM960965	ACG-ATG	Thr117Met	350C>T	T117M	Colorectal cancer, non-polyposis	Liu (1996) Nat Med 2:169	PubMed 8574961
+CM015027	tGGA-TGA	Gly122Term	364G>T	G122X	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM015028	aAAG-TAG	Lys123Term	367A>T	K123X	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM122668	aTAC-AAC	Tyr126Asn	376T>A	Y126N	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM124189	TACa-TAA	Tyr126Term	378C>A	Y126X	Colorectal cancer van	Lier (2012) J Pathol 226:764	PubMed 22081473
+CM004561	TACa-TAG	Tyr126Term	378C>G	Y126X	Colorectal cancer, non-polyposis	Salovaara (2000) J Clin Oncol 18:2193	PubMed 10829038
+CM970955	aGCA-CCA	Ala128Pro	382G>C	A128P	Colorectal cancer, non-polyposis	Pensotti (1997) Genes Chromosomes Cancer 19:135	PubMed 9218993
+CM054778	TCA-TAA	Ser131Term	392C>A	S131X	Colorectal cancer, non-polyposis	Kurzawski (2006) Clin Genet 69:40	PubMed 16451135
+CM041802	aGAT-CAT	Asp132His	394G>C	D132H	Colorectal cancer, non-polyposis	Lipkin (2004) Nat Genet 36:694	PubMed 15184898
+CM970956	tGGA-TGA	Gly133Term	397G>T	G133X	Colorectal cancer, non-polyposis	Nakahara (1997) Cancer Epidemiol Biomarkers Prev 6:1057	PubMed 9419403
+CM061115	aCTG-GTG	Leu135Val	403C>G	L135V	Colorectal cancer, non-polyposis	Kataki (2006) Clin Genet 69:290	PubMed 16542397
+CM056647	aCCA-GCA	Pro141Ala	421C>G	P141A	Colorectal cancer, non-polyposis	Giraldo (2005) Fam Cancer 4:285	PubMed 16341804
+CM013768	tCAA-TAA	Gln146Term	436C>T	Q146X	Colorectal cancer, non-polyposis	Kruger (2001) Hum Mutat 19:82	PubMed 11754112
+CM122669	aGGG-CGG	Gly147Arg	439G>C	G147R	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM117315	cCAG-TAG	Gln149Term	445C>T	Q149X	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM053325	CTT-CGT	Leu155Arg	464T>G	L155R	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM076307	GCC-GTC	Ala160Val	479C>T	A160V	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM085552	TTAa-TTC	Leu166Phe	498A>C	L166F	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM085551	TTA-TAA	Leu166Term	497T>A	L166X	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM970957	cAGG-GGG	Arg182Gly	544A>G	R182G	Colorectal cancer, non-polyposis	Wang (1997) Int J Cancer 73:831	PubMed 9399661
+CM033400	AGG-AAG	Arg182Lys	545G>A	R182K	Colorectal cancer, non-polyposis	Taylor (2003) Hum Mutat 22:428	PubMed 14635101
+CM960966	GTA-GGA	Val185Gly	554T>G	V185G	Colorectal cancer, non-polyposis	Kohonen-Corish (1996) Am J Hum Genet 59:818	PubMed 8808596
+CM085541	AGT-ATT	Ser191Ile	572G>T	S191I	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM981290	cTCA-CCA	Ser193Pro	577T>C	S193P	Colorectal cancer, non-polyposis	Panariello (1998) Hum Mutat 12:216	PubMed 10660333
+CM055989	TCA-TGA	Ser193Term	578C>G	S193X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM990856	aAAA-TAA	Lys196Term	586A>T	K196X	Colorectal cancer, non-polyposis	Wang (1999) Hum Genet 105:79	PubMed 10480359
+CM011410	aGAG-CAG	Glu199Gln	595G>C	E199Q	Colorectal cancer, non-polyposis	Wahlberg (1999) Genet Test 3:259	PubMed 10495924
+CM000176	cGTG-ATG	Val213Met	637G>A	V213M	Colorectal cancer, non-polyposis	Fidalgo (2000) Eur J Hum Genet 8:49	PubMed 10713887
+CM122670	ATT-AGT	Ile216Ser	647T>G	I216S	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM950803	tCGC-TGC	Arg217Cys	649C>T	R217C	Colorectal cancer, non-polyposis	Miyaki (1995) J Mol Med 73:515	PubMed 8581513
+CM970958	cATC-GTC	Ile219Val	655A>G	I219V	Colorectal cancer, non-polyposis	Tomlinson (1997) J Med Genet 34:39	PubMed 9032648
+CM045463	CGA-CAA	Arg226Gln	677G>A	R226Q	Colorectal cancer, non-polyposis	Liu (2004) Zhonghua Yi Xue Za Zhi 84:714	PubMed 15200905
+CM082944	CGA-CTA	Arg226Leu	677G>T	R226L	Colorectal cancer, non-polyposis	Chao (2008) Hum Mutat 29:852	PubMed 18383312
+CM960967	tCGA-TGA	Arg226Term	676C>T	R226X	Colorectal cancer, non-polyposis	Moslein (1996) Hum Mol Genet 5:1245	PubMed 8872463
+CM015029	GAG-GGG	Glu234Gly	701A>G	E234G	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM970959	GGT-GAT	Gly244Asp	731G>A	G244D	Colorectal cancer, non-polyposis	Pensotti (1997) Genes Chromosomes Cancer 19:135	PubMed 9218993
+CM117310	GGT-GTT	Gly244Val	731G>T	G244V	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM093727	cATA-TTA	Ile246Leu	736A>T	I246L	Colorectal cancer, non-polyposis Montazer	Haghighi (2009) Int J Colorectal Dis 24:885	PubMed 19479271
+CM023954	aTCC-CCC	Ser247Pro	739T>C	S247P	Colorectal cancer, non-polyposis	Ward (2002) J Cancer Res Clin Oncol 128:403	PubMed 12200596
+CM117316	TACt-TAG	Tyr251Term	753C>G	Y251X	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM941060	TCA-TAA	Ser252Term	755C>A	S252X	Colorectal cancer, non-polyposis	Papadopoulos (1994) Science 263:1625	PubMed 8128251
+CM004724	CTC-CGC	Leu260Arg	779T>G	L260R	Colorectal cancer	Montera (2000) J Med Genet 37:e7	PubMed 10882759
+CM076296	CAT-CGT	His264Arg	791A>G	H264R	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM022223	cCAT-TAT	His264Tyr	790C>T	H264Y	Colorectal cancer, non-polyposis	Chan (1999) J Natl Cancer Inst 91:1221	PubMed 10413423
+CM011411	tCGT-TGT	Arg265Cys	793C>T	R265C	Colorectal cancer, non-polyposis	Wahlberg (1999) Genet Test 3:259	PubMed 10495924
+CM973081	CGT-CAT	Arg265His	794G>A	R265H	Colorectal cancer, non-polyposis	Viel (1997) Genes Chromosomes Cancer 18:8	PubMed 8993976
+CM093579	CGT-CCT	Arg265Pro	794G>C	R265P	Muir-Torre syndrome	Tanyi (2009) Eur J Surg Oncol :	PubMed 19423266
+CM064120	tCGT-AGT	Arg265Ser	793C>A	R265S	Colorectal cancer, non-polyposis	Zavodna (2006) Neoplasma 53:269	PubMed 16830052
+CM981291	GAA-GGA	Glu268Gly	803A>G	E268G	Colorectal cancer, non-polyposis	Liu (1998) Clin Genet 53:131	PubMed 9611074
+CM970960	TCA-TGA	Ser269Term	806C>G	S269X	Colorectal cancer, non-polyposis	Wijnen (1997) Am J Hum Genet 61:329	PubMed 9311737
+CM122671	TTG-TCG	Leu272Ser	815T>C	L272S	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM076303	cTTG-GTG	Leu272Val	814T>G	L272V	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM082947	gTAT-GAT	Tyr280Asp	838T>G	Y280D	Colorectal cancer, non-polyposis	Chao (2008) Hum Mutat 29:852	PubMed 18383312
+CM055988	TATg-TAA	Tyr280Term	840T>A	Y280X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM076306	GCA-GTA	Ala281Val	842C>T	A281V	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM042740	GCC-GGC	Ala282Gly	845C>G	A282G	Colorectal cancer, non-polyposis	Shin (2004) Hum Mutat 24:351	PubMed 15365995
+CM057504	TTG-TAG	Leu284Term	851T>A	L284X	Colorectal cancer, non-polyposis	Wolf (2005) Wien Klin Wochenschr 117:269	PubMed 15926618
+CM973728	cAAA-CAA	Lys286Gln	856A>C	K286Q	Colorectal cancer, non-polyposis	Beck (1997) Br J Surg 84:233	PubMed 9052445
+CM023426	CTG-CCG	Leu292Pro	875T>C	L292P	Colorectal cancer, non-polyposis	Kurzawski (2002) J Med Genet 39:e65	PubMed 12362047
+CM082946	gTAC-GAC	Tyr293Asp	877T>G	Y293D	Colorectal cancer, non-polyposis	Chao (2008) Hum Mutat 29:852	PubMed 18383312
+CM970961	AGT-ACT	Ser295Thr	884G>C	S295T	Colorectal cancer, non-polyposis	Wang (1997) Int J Cancer 73:831	PubMed 9399661
+CM052253	TTA-TGA	Leu296Term	887T>G	L296X	Colorectal cancer, non-polyposis	Lee (2005) Clin Genet 68:137	PubMed 15996210
+CM970962	aGAA-TAA	Glu297Term	889G>T	E297X	Colorectal cancer, non-polyposis	Wang (1997) Int J Cancer 73:831	PubMed 9399661
+CM970963	cCAG-TAG	Gln301Term	901C>T	Q301X	Colorectal cancer, non-polyposis	Viel (1997) Genes Chromosomes Cancer 18:8	PubMed 8993976
+CM085549	GTG-GAG	Val303Glu	908T>A	V303E	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM118134	GAT-GGT	Asp304Gly	911A>G	D304G	Colorectal cancer, early onset	Limburg (2011) Clin Gastroenterol Hepatol 9:497	PubMed 21056691
+CM004725	GAT-GTT	Asp304Val	911A>T	D304V	Colorectal cancer, non-polyposis	Montera (2000) J Med Genet 37:e7	PubMed 10882759
+CM085544	cCTG-ATG	Leu317Met	949C>A	L317M	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM013001	cGAG-TAG	Glu319Term	955G>T	E319X	Colorectal cancer, non-polyposis	Godino (2001) Hum Mutat 18:549	PubMed 11748856
+CM015030	AGC-ATC	Ser321Ile	962G>T	S321I	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM960968	GTG-GCG	Val326Ala	977T>C	V326A	Colorectal cancer, non-polyposis	Liu (1996) Nat Med 2:169	PubMed 8574961
+CM105875	gCAG-TAG	Gln327Term	979C>T	Q327X	Colorectal cancer, non-polyposis	Jasperson (2010) Fam Cancer 9:99	PubMed 19731080
+CM085547	gCAC-AAC	His329Asn	985C>A	H329N	Colorectal cancer, non-polyposis	Yan (2008) Cancer Sci 99:770	PubMed 18307539
+CM970964	CAC-CCC	His329Pro	986A>C	H329P	Colorectal cancer, non-polyposis	Wang (1997) Hum Genet 100:362	PubMed 9272156
+CM023644	AAT-AGT	Asn338Ser	1013A>G	N338S	Colorectal cancer, non-polyposis	Rossi (2002) Ann Surg Oncol 9:555	PubMed 12095971
+CM092210	CAGa-CAT	Gln346His	1038G>T	Q346H	Colorectal cancer, non-polyposis	Tang (2009) Clin Genet 75:334	PubMed 19419416
+CM061116	GCT-GTT	Ala353Val	1058C>T	A353V	Colorectal cancer, non-polyposis	Kataki (2006) Clin Genet 69:290	PubMed 16542397
+CM995222	aACA-GCA	Thr364Ala	1090A>G	T364A	Colorectal cancer, non-polyposis	Curia (1999) Cancer Res 59:3570	PubMed 10446963
+CM033401	TAT-TGT	Tyr379Cys	1136A>G	Y379C	Colorectal cancer, non-polyposis	Taylor (2003) Hum Mutat 22:428	PubMed 14635101
+CM117312	cCAG-TAG	Gln382Term	1144C>T	Q382X	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM981292	GTT-GAT	Val384Asp	1151T>A	V384D	Colorectal cancer, non-polyposis	Wang (1998) Hum Hered 48:87	PubMed 9526167
+CM022425	tCGT-TGT	Arg385Cys	1153C>T	R385C	Colorectal cancer, non-polyposis	Cravo (2002) Gut 50:405	PubMed 11839723
+CM994601	CGT-CCT	Arg385Pro	1154G>C	R385P	Colorectal cancer, non-polyposis	Genuardi (1999) Eur J Hum Genet 7:778	PubMed 10573010
+CM076299	CGG-CAG	Arg389Gln	1166G>A	R389Q	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM103943	cCGG-TGG	Arg389Trp	1165C>T	R389W	Breast and colorectal cancer	Jensen (2010) Breast Cancer Res Treat 120:777	PubMed 19575290
+CM117313	aCAG-TAG	Gln391Term	1171C>T	Q391X	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM092211	CTT-CCT	Leu393Pro	1178T>C	L393P	Colorectal cancer, non-polyposis	Tang (2009) Clin Genet 75:334	PubMed 19419416
+CM108362	aTTT-ATT	Phe396Ile	1186T>A	F396I	Colorectal cancer, non-polyposis	Kim (2010) BMB Rep 43:693	PubMed 21034533
+CM051559	gCAG-TAG	Gln398Term	1192C>T	Q398X	Colorectal cancer, non-polyposis	Hampel (2005) N Engl J Med 352:1851	PubMed 15872200
+CM044233	tCTG-GTG	Leu400Val	1198C>G	L400V	Colorectal cancer, non-polyposis	Cui (2003) Zhonghua Wai Ke Za Zhi 41:112	PubMed 12783672
+CM099887	cAAA-TAA	Lys402Term	1204A>T	K402X	Colorectal cancer, non-polyposis	Nilbert (2009) Fam Cancer 8:209	PubMed 19130300
+CM014585	AGT-AAT	Ser406Asn	1217G>A	S406N	Colorectal cancer, non-polyposis	Genuardi (1999) Eur J Hum Genet 7:778	PubMed 10573010
+CM074936	cCAG-TAG	Gln409Term	1225C>T	Q409X	Colorectal cancer, non-polyposis Lagerstedt	Robinson (2007) J Natl Cancer Inst 99:291	PubMed 17312306
+CM076291	ACA-ATA	Thr413Ile	1238C>T	T413I	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM085550	tAAG-GAG	Lys416Glu	1246A>G	K416E	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM076309	TCT-TGT	Ser420Cys	1259C>G	S420C	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM021301	gCAG-TAG	Gln426Term	1276C>T	Q426X	Colorectal cancer, non-polyposis	Bisgaard (2002) Hum Mutat 20:20	PubMed 12112654
+CM046062	tGAA-CAA	Glu433Gln	1297G>C	E433Q	Gastric cancer	Hudler (2004) Clin Genet 65:405	PubMed 15099349
+CM970965	gGCT-ACT	Ala441Thr	1321G>A	A441T	Colorectal cancer, non-polyposis	Hackman (1997) Nat Genet 17:135	PubMed 9326924
+CM053322	cAAA-CAA	Lys443Gln	1327A>C	K443Q	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM068363	gGGG-CGG	Gly454Arg	1360G>C	G454R	Colorectal cancer, non-polyposis	Auclair (2006) Hum Mutat 27:145	PubMed 16395668
+CM076295	ATG-AAG	Met458Lys	1373T>A	M458K	Colorectal cancer, non-polyposis Lagerstedt	Robinson (2007) J Natl Cancer Inst 99:291	PubMed 17312306
+CM093754	TCA-TGA	Ser459Term	1376C>G	S459X	Colorectal cancer, non-polyposis	Rouleau (2009) Hum Mutat 30:867	PubMed 19224586
+CM972921	gAAG-TAG	Lys461Term	1381A>T	K461X	Colorectal cancer, non-polyposis	Kitaeva (1997) Cancer Res 57:4478	PubMed 9377556
+CM093755	cAGA-TGA	Arg470Term	1408A>T	R470X	Colorectal cancer, non-polyposis	Rouleau (2009) Hum Mutat 30:867	PubMed 19224586
+CM015059	AGA-ATA	Arg472Ile	1415G>T	R472I	Colorectal cancer	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM011412	CGG-CAG	Arg474Gln	1421G>A	R474Q	Colorectal cancer, non-polyposis	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM994125	GATt-GAA	Asp485Glu	1455T>A	D485E	Colorectal cancer, non-polyposis	Heinimann (1999) Cancer 85:2512	PubMed 10375096
+CM015031	tGAT-CAT	Asp485His	1453G>C	D485H	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM000177	cCGA-TGA	Arg487Term	1459C>T	R487X	Colorectal cancer, non-polyposis	Fidalgo (2000) Eur J Hum Genet 8:49	PubMed 10713887
+CM960969	tGCA-ACA	Ala492Thr	1474G>A	A492T	Colorectal cancer, non-polyposis	Moslein (1996) Hum Mol Genet 5:1245	PubMed 8872463
+CM076297	CCC-CTC	Pro496Leu	1487C>T	P496L	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM960970	GTT-GCT	Val506Ala	1517T>C	V506A	Colorectal cancer, non-polyposis	Liu (1996) Nat Med 2:169	PubMed 8574961
+CM087245	cCAG-TAG	Gln510Term	1528C>T	Q510X	Colorectal cancer, non-polyposis	Blokhuis (2008) Fam Cancer 7:191	PubMed 18049911
+CM010344	aGAA-TAA	Glu512Term	1534G>T	E512X	Colorectal cancer, non-polyposis	Scott (2001) Am J Hum Genet 68:118	PubMed 11112663
+CM122955	gCAG-TAG	Gln516Term	1546C>T	Q516X	Colorectal cancer, non-polyposis	Berzina (2012) Exp Oncol 34:49	PubMed 22453149
+CM074937	gGGA-TGA	Gly517Term	1549G>T	G517X	Colorectal cancer, non-polyposis	Overbeek (2007) Br J Cancer 96:1605	PubMed 17453009
+CM057503	tCAG-TAG	Gln537Term	1609C>T	Q537X	Colorectal cancer, non-polyposis	Wolf (2005) Wien Klin Wochenschr 117:269	PubMed 15926618
+CM994509	TGGg-TGA	Trp538Term	1614G>A	W538X	Colorectal cancer, non-polyposis	Yuan (1999) Zhonghua Yi Xue Za Zhi 79:346	PubMed 11715474
+CM117308	GCC-GAC	Ala539Asp	1616C>A	A539D	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM950804	CAG-CTG	Gln542Leu	1625A>T	Q542L	Colorectal cancer, non-polyposis	Han (1995) Hum Mol Genet 4:237	PubMed 7757073
+CM042741	CAG-CCG	Gln542Pro	1625A>C	Q542P	Colorectal cancer, non-polyposis	Shin (2004) Hum Mutat 24:351	PubMed 15365995
+CM040767	aCAG-TAG	Gln542Term	1624C>T	Q542X	Colorectal cancer, non-polyposis	Tournier (2004) Hum Mutat 23:379	PubMed 15024732
+CM055992	TTA-TAA	Leu547Term	1640T>A	L547X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM972922	TACc-TAA	Tyr548Term	1644C>A	Y548X	Colorectal cancer, non-polyposis	Kitaeva (1997) Cancer Res 57:4478	PubMed 9377556
+CM960971	CTT-CCT	Leu549Pro	1646T>C	L549P	Colorectal cancer, non-polyposis	Han (1996) J Natl Cancer Inst 88:1317	PubMed 8797773
+CM053324	CTC-CCC	Leu550Pro	1649T>C	L550P	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM970966	AAC-ACC	Asn551Thr	1652A>C	N551T	Colorectal cancer, non-polyposis	Wang (1997) Int J Cancer 73:831	PubMed 9399661
+CM094060	gCTT-GTT	Leu555Val	1663C>G	L555V	Colorectal cancer, non-polyposis	Tanyi (2009) Magy Seb 62:87	PubMed 19386570
+CM052901	tGAA-TAA	Glu557Term	1669G>T	E557X	Colorectal cancer, non-polyposis	Apessos (2005) Br J Cancer 92:396	PubMed 15655560
+CM990857	aGAA-TAA	Glu558Term	1672G>T	E558X	Colorectal cancer, non-polyposis	Wang (1999) Hum Genet 105:79	PubMed 10480359
+CM033402	CTG-CGG	Leu559Arg	1676T>G	L559R	Colorectal cancer, non-polyposis	Taylor (2003) Hum Mutat 22:428	PubMed 14635101
+CM085545	cTAC-CAC	Tyr561His	1681T>C	Y561H	Colorectal cancer, non-polyposis	Yan (2008) Cancer Sci 99:770	PubMed 18307539
+CM055987	TACc-TAG	Tyr561Term	1683C>G	Y561X	Colorectal cancer, non-polyposis	Mangold (2005) Int J Cancer 116:692	PubMed 15849733
+CM113823	CAG-CCG	Gln562Pro	1685A>C	Q562P	Colorectal cancer, non-polyposis	Hardt (2011) Fam Cancer 10:273	PubMed 21404117
+CM000001	cCAG-TAG	Gln562Term	1684C>T	Q562X	Colorectal cancer, non-polyposis	Potocnik (2000) Hum Hered 50:140	PubMed 10799973
+CM981293	cATT-TTT	Ile565Phe	1693A>T	I565F	Colorectal cancer, non-polyposis	Hutter (1998) Int J Cancer 78:680	PubMed 9833759
+CM122672	tTTT-ATT	Phe568Ile	1702T>A	F568I	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM950805	CTC-CCC	Leu574Pro	1721T>C	L574P	Colorectal cancer, non-polyposis	Han (1995) Hum Mol Genet 4:237	PubMed 7757073
+CM950806	GAG-GGG	Glu578Gly	1733A>G	E578G	Colorectal cancer, non-polyposis	Tannergard (1995) Cancer Res 55:6092	PubMed 8521398
+CM066133	CCG-CTG	Pro581Leu	1742C>T	P581L	Colorectal cancer, non-polyposis	Wang (2005) World J Gastroenterol 11:6620	PubMed 16425354
+CM101375	gCTC-TTC	Leu582Phe	1744C>T	L582F	Colorectal cancer, non-polyposis	Drost (2010) Hum Mutat 31:247	PubMed 20020535
+CM076300	CTC-CCC	Leu582Pro	1745T>C	L582P	Colorectal cancer, non-polyposis	Irmejs (2007) Anticancer Res 27:653	PubMed 17348456
+CM950807	gCTC-GTC	Leu582Val	1744C>G	L582V	Colorectal cancer, non-polyposis	Han (1995) Hum Mol Genet 4:237	PubMed 7757073
+CM117309	CTT-CGT	Leu585Arg	1754T>G	L585R	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM068364	GCC-GAC	Ala586Asp	1757C>A	A586D	Colorectal cancer, non-polyposis	Auclair (2006) Hum Mutat 27:145	PubMed 16395668
+CM030902	tGCC-CCC	Ala586Pro	1756G>C	A586P	Colorectal cancer, non-polyposis	Kruger (2003) Hum Mutat 21:445	PubMed 12655562
+CM001244	CTT-CCT	Leu588Pro	1763T>C	L588P	Colorectal cancer, non-polyposis	Nomura (2000) Biochem Biophys Res Commun 271:120	PubMed 10777691
+CM053326	GCC-GAC	Ala589Asp	1766C>A	A589D	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM101435	GAT-GGT	Asp591Gly	1772A>G	D591G	Colorectal cancer, non-polyposis	Coolbaugh-Murphy (2010) Hum Mutat 31:317	PubMed 20052760
+CM030903	GAT-GGT	Asp601Gly	1802A>G	D601G	Colorectal cancer	Chen-Shtoyerman (2003) Hum Mutat 21:446	PubMed 12655564
+CM015003	CCC-CGC	Pro603Arg	1808C>G	P603R	Colorectal cancer, non-polyposis	Muller-Koch (2001) Eur J Med Res 6:473	PubMed 11726306
+CM994061	cAAA-TAA	Lys604Term	1810A>T	K604X	Colorectal cancer, non-polyposis	Syngal (1999) JAMA 282:247	PubMed 10422993
+CM000178	CTT-CAT	Leu607His	1820T>A	L607H	Colorectal cancer, non-polyposis	Fidalgo (2000) Eur J Hum Genet 8:49	PubMed 10713887
+CM085548	GCT-GAT	Ala608Asp	1823C>A	A608D	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM973729	gAAG-GAG	Lys618Glu	1852A>G	K618E	Colorectal cancer, non-polyposis	Beck (1997) Br J Surg 84:233	PubMed 9052445
+CM981294	gAAG-TAG	Lys618Term	1852A>T	K618X	Colorectal cancer, non-polyposis	Hutter (1998) Int J Cancer 78:680	PubMed 9833759
+CM950808	AAG-ACG	Lys618Thr	1853A>C	K618T	Colorectal cancer, non-polyposis	Han (1995) Hum Mol Genet 4:237	PubMed 7757073
+CM013002	CTT-CAT	Leu622His	1865T>A	L622H	Colorectal cancer, non-polyposis	Godino (2001) Hum Mutat 18:549	PubMed 11748856
+CM122673	CTT-CCT	Leu622Pro	1865T>C	L622P	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM060050	tGCA-CCA	Ala623Pro	1867G>C	A623P	Colorectal cancer, non-polyposis	Kurzawski (2006) Clin Genet 69:40	PubMed 16451135
+CM076308	TATt-TAG	Tyr625Term	1875T>G	Y625X	Colorectal cancer, non-polyposis	Papp (2007) World J Gastroenterol 13:2727	PubMed 17569143
+CM015032	GAT-GCT	Asp631Ala	1892A>C	D631A	Colorectal cancer, non-polyposis	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM122674	aGGG-AGG	Gly634Arg	1900G>A	G634R	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM015033	AACc-AAG	Asn635Lys	1905C>G	N635K	Gastric cancer	Kim (2001) Cancer Detect Prev 25:503	PubMed 12132870
+CM068558	AAC-AGC	Asn635Ser	1904A>G	N635S	Colorectal cancer, non-polyposis	Blasi (2006) Cancer Res 66:9036	PubMed 16982745
+CM042742	CTG-CCG	Leu636Pro	1907T>C	L636P	Colorectal cancer, non-polyposis	Shin (2004) Hum Mutat 24:351	PubMed 15365995
+CM113826	CCC-CTC	Pro640Leu	1919C>T	P640L	Colorectal cancer, non-polyposis	Hardt (2011) Fam Cancer 10:273	PubMed 21404117
+CM042743	aCCC-TCC	Pro640Ser	1918C>T	P640S	Colorectal cancer, non-polyposis	Shin (2004) Hum Mutat 24:351	PubMed 15365995
+CM076292	aCCC-ACC	Pro640Thr	1918C>A	P640T	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM022426	TAT-TGT	Tyr646Cys	1937A>G	Y646C	Colorectal cancer, non-polyposis	Scartozzi (2002) J Clin Oncol 20:1203	PubMed 11870161
+CM015004	CCC-CTC	Pro648Leu	1943C>T	P648L	Colorectal cancer, non-polyposis	Muller-Koch (2001) Eur J Med Res 6:473	PubMed 11726306
+CM022817	gCCC-TCC	Pro648Ser	1942C>T	P648S	Colorectal cancer, non-polyposis	Bisgaard (2002) Hum Mutat 20:20	PubMed 12112654
+CM076302	CTG-CGG	Leu653Arg	1958T>G	L653R	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM053323	CCT-CTT	Pro654Leu	1961C>T	P654L	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM963038	ATC-ACC	Ile655Thr	1964T>C	I655T	Colorectal cancer, non-polyposis	Keller (1996) Int J Cancer 68:571	PubMed 8938136
+CM023747	tATC-GTC	Ile655Val	1963A>G	I655V	Endometrial cancer	Baldinu (2002) Cancer 94:3157	PubMed 12115348
+CM122675	TTC-TCC	Phe656Ser	1967T>C	F656S	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM011413	CGA-CAA	Arg659Gln	1976G>A	R659Q	Colorectal cancer, non-polyposis	Raevaara (2005) Gastroenterology 129:537	PubMed 16083711
+CM000179	CGA-CTA	Arg659Leu	1976G>T	R659L	Colorectal cancer, non-polyposis	Fidalgo (2000) Eur J Hum Genet 8:49	PubMed 10713887
+CM960972	CGA-CCA	Arg659Pro	1976G>C	R659P	Colorectal cancer, non-polyposis	Nystrom-Lahti (1996) Hum Mol Genet 5:763	PubMed 8776590
+CM960973	tCGA-TGA	Arg659Term	1975C>T	R659X	Colorectal cancer, non-polyposis	Nystrom-Lahti (1996) Hum Mol Genet 5:763	PubMed 8776590
+CM013769	cACT-CCT	Thr662Pro	1984A>C	T662P	Colorectal cancer, non-polyposis	Kruger (2001) Hum Mutat 19:82	PubMed 11754112
+CM085546	GAG-GCG	Glu663Ala	1988A>C	E663A	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM117306	GAGg-GAT	Glu663Asp	1989G>T	E663D	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM122676	tTGG-CGG	Trp666Arg	1996T>C	W666R	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM023645	TGGg-TGA	Trp666Term	1998G>A	W666X	Colorectal cancer, non-polyposis	Rossi (2002) Ann Surg Oncol 9:555	PubMed 12095971
+CM076301	CTC-CGC	Leu676Arg	2027T>G	L676R	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM113827	CTC-CCC	Leu676Pro	2027T>C	L676P	Colorectal cancer, non-polyposis	Hardt (2011) Fam Cancer 10:273	PubMed 21404117
+CM085542	aTGC-CGC	Cys680Arg	2038T>C	C680R	Colorectal cancer, non-polyposis	Sheng (2008) Cytogenet Genome Res 122:22	PubMed 18931482
+CM054779	TGCg-TGA	Cys680Term	2040C>A	C680X	Colorectal cancer, non-polyposis	Kurzawski (2006) Clin Genet 69:40	PubMed 16451135
+CM960974	cGCT-ACT	Ala681Thr	2041G>A	A681T	Colorectal cancer, non-polyposis	Froggatt (1996) J Med Genet 33:726	PubMed 8880570
+CM114537	GCT-GTT	Ala681Val	2042C>T	A681V	Colorectal cancer, non-polyposis	Wei (2011) BMB Rep 44:317	PubMed 21615986
+CM117314	TATt-TAG	Tyr684Term	2052T>G	Y684X	Colorectal cancer, non-polyposis	Bonadona (2011) JAMA 305:2304	PubMed 21642682
+CM010124	cCGG-TGG	Arg687Trp	2059C>T	R687W	Colorectal cancer, non-polyposis	Jakubowska (2001) Hum Mutat 17:52	PubMed 11139242
+CM015005	CAG-CGG	Gln689Arg	2066A>G	Q689R	Colorectal cancer, non-polyposis	Muller-Koch (2001) Eur J Med Res 6:473	PubMed 11726306
+CM057192	aTCT-CCT	Ser692Pro	2074T>C	S692P	Colorectal cancer, non-polyposis	Casey (2005) JAMA 293:799	PubMed 15713769
+CM942064	TCA-TGA	Ser698Term	2093C>G	S698X	Colorectal cancer, non-polyposis	Hutter (1999) MLH1 LSDB entry Unpublished:	Source: LSDB
+CM107640	cCAG-TAG	Gln700Term	2098C>T	Q700X	Colorectal cancer, early onset	Giráldez (2010) Clin Cancer Res 16:5402	PubMed 20924129
+CM066579	gCAG-AAG	Gln701Lys	2101C>A	Q701K	Gastric cancer	Zhang (2006) Int J Cancer 119:2592	PubMed 16929514
+CM065313	gCAG-TAG	Gln701Term	2101C>T	Q701X	Colorectal cancer, non-polyposis	Stulp (2006) World J Gastroenterol 12:809	PubMed 16521201
+CM960975	TGG-TAG	Trp712Term	2135G>A	W712X	Colorectal cancer, non-polyposis	Liu (1996) Nat Med 2:169	PubMed 8574961
+CM055991	TGGa-TGA	Trp712Term	2136G>A	W712X	Colorectal cancer, non-polyposis	Pinol (2005) JAMA 293:1986	PubMed 15855432
+CM960976	TGG-TAG	Trp714Term	2141G>A	W714X	Colorectal cancer, non-polyposis	Hutter (1996) J Med Genet 33:636	PubMed 8863153
+CM960977	TGGa-TGA	Trp714Term	2142G>A	W714X	Colorectal cancer, non-polyposis	Froggatt (1996) J Med Genet 33:726	PubMed 8880570
+CM981295	tGTG-ATG	Val716Met	2146G>A	V716M	Colorectal cancer, non-polyposis	Genuardi (1998) Int J Cancer 75:835	PubMed 9506527
+CM094446	CAC-CCC	His718Pro	2153A>C	H718P	Colorectal cancer, non-polyposis	Pino (2009) J Mol Diagn 11:238	PubMed 19324997
+CM014821	aCAC-TAC	His718Tyr	2152C>T	H718Y	Colorectal cancer, non-polyposis	Weber (2001) JAMA 281:2316	PubMed 10386556
+CM000180	TATa-TAA	Tyr721Term	2163T>A	Y721X	Colorectal cancer, non-polyposis	Fidalgo (2000) Eur J Hum Genet 8:49	PubMed 10713887
+CM042744	cTTG-ATG	Leu724Met	2170T>A	L724M	Colorectal cancer, non-polyposis	Shin (2004) Hum Mutat 24:351	PubMed 15365995
+CM082945	gCGC-TGC	Arg725Cys	2173C>T	R725C	Colorectal cancer, non-polyposis	Chao (2008) Hum Mutat 29:852	PubMed 18383312
+CM122677	CGC-CAC	Arg725His	2174G>A	R725H	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM076310	tCTG-GTG	Leu729Val	2185C>G	L729V	Colorectal cancer	Takahashi (2007) Cancer Res 67:4595	PubMed 17510385
+CM003944	tAAA-TAA	Lys732Term	2194A>T	K732X	Colorectal cancer, non-polyposis	Hajer (2000) Hum Mutat 16:181	PubMed 10923051
+CM113798	aGAA-TAA	Glu736Term	2206G>T	E736X	Colorectal cancer, non-polyposis	Lastella (2011) Fam Cancer 10:285	PubMed 21286823
+CM068375	GAT-GTT	Asp737Val	2210A>T	D737V	Colorectal cancer, non-polyposis	Pagenstecher (2006) Hum Genet 119:9	PubMed 16341550
+CM1110526	gCAG-TAG	Gln742Term	2224C>T	Q742X	Colorectal cancer, non-polyposis	Valentin (2011) Fam Cancer 10:641	PubMed 21681552
+CM094061	CCT-CAT	Pro747His	2240C>A	P747H	Colorectal cancer, non-polyposis	Tanyi (2009) Magy Seb 62:87	PubMed 19386570
+CM122678	CTA-CAA	Leu749Gln	2246T>A	L749Q	Colorectal cancer, non-polyposis	Ali (2012) Hum Mutat 33:642	PubMed 22290698
+CM034246	CTA-CCA	Leu749Pro	2246T>C	L749P	Colorectal cancer	Colombino (2003) Ann Oncol 14:1530	PubMed 14504054
+CM994062	TACa-TAG	Tyr750Term	2250C>G	Y750X	Colorectal cancer, non-polyposis	Syngal (1999) JAMA 282:247	PubMed 10422993
+HM971468	AAA-AGA	Lys751Arg	2252A>G	K751R	Colorectal cancer, non-polyposis	Jacubowska (1999) Hum Genet 105:293 Source:	Online submission
+CM092217	gAGG-GGG	Arg755Gly	2263A>G	R755G	Colorectal cancer, non-polyposis	Tang (2009) Clin Genet 75:334	PubMed 19419416
+CM995219	AGGt-AGC	Arg755Ser	2265G>C	R755S	Colorectal cancer, non-polyposis	Syngal (1999) JAMA 282:247	PubMed 10422993
+CM990858	gAGG-TGG	Arg755Trp	2263A>T	R755W	Colorectal cancer, non-polyposis	Wang (1999) Hum Genet 105:79	PubMed 10480359

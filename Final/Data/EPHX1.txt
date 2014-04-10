@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM033611	AGG-ACG	Arg43Thr	128G>C	R43T	Increased EPHX1 activity	Maekawa (2003) Xenobiotica 33:277	PubMed 12637245
+CM067988	TGG-TAG	Trp97Term	290G>A	W97X	Potential protein deficiency	Savas (2006) Hum Genomics 2:274	PubMed 16595072
+CM940369	aTAC-CAC	Tyr113His	337T>C	Y113H	Epoxide hydrolase deficiency, association with	Hassett (1994) Hum Mol Genet 3:421	PubMed 7516776
+CM024366	CAT-CGT	His139Arg	416A>G	H139R	Preeclampsia, association with	Laasanen (2002) Eur J Hum Genet 10:569	PubMed 12173035

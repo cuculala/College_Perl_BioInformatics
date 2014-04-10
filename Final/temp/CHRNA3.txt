@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM120232	CGT-CAT	Arg37His	110G>A	R37H	Nicotine dependence, reduced risk	Haller (2012) Hum Mol Genet 21:647	PubMed 22042774
+CM078027	TACa-TAT	Tyr215Tyr	645C>T	Y215Y	Nicotine dependence, association with	Saccone (2007) Hum Mol Genet 16:36	PubMed 17135278
+CM0910890	CGC-CAC	Arg385His	1154G>A	R385H	Altered receptor function	Sabatelli (2009) Hum Mol Genet 18:3997	PubMed 19628475
+CM0910891	TCC-TTC	Ser388Phe	1163C>T	S388F	Altered receptor function	Sabatelli (2009) Hum Mol Genet 18:3997	PubMed 19628475

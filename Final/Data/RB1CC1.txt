@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM063091	ATG-ACG	Met234Thr	701T>C	M234T	Leukemia, risk, association with	Rudd (2006) Blood 108:638	PubMed 16574953

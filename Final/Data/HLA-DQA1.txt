@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM044009	cAAA-TAA	Lys76Term	226A>T	K76X	HLA null allele	Luo (2004) Tissue Antigens 63:609	PubMed 15140045

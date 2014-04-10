@@ -1,0 +1,11 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM014756	tCCC-GCC	Pro47Ala	139C>G	P47A	Breast cancer	Cantor (2001) Cell 105:149	PubMed 11301010
+CM035889	aCGT-TGT	Arg173Cys	517C>T	R173C	Impaired protein translocation	Lei (2003) Int J Cancer 104:389	PubMed 12569564
+CM053142	CAGa-CAT	Gln255His	765G>T	Q255H	Fanconi anaemia	Levitus (2005) Nat Genet 37:934	PubMed 16116423
+CM014757	ATGg-ATA	Met299Ile	897G>A	M299I	Breast cancer	Cantor (2001) Cell 105:149	PubMed 11301010
+CM053143	gGCC-CCC	Ala349Pro	1045G>C	A349P	Fanconi anaemia	Levran (2005) Nat Genet 37:931	PubMed 16116424
+CM053145	TGGg-TGC	Trp647Cys	1941G>C	W647C	Fanconi anaemia	Levitus (2005) Nat Genet 37:934	PubMed 16116423
+CM053141	aCGT-TGT	Arg707Cys	2119C>T	R707C	Fanconi anaemia	Levitus (2005) Nat Genet 37:934	PubMed 16116423
+CM053140	aCGA-TGA	Arg798Term	2392C>T	R798X	Fanconi anaemia	Levitus (2005) Nat Genet 37:934	PubMed 16116423
+CM053144	TACa-TAG	Tyr800Term	2400C>G	Y800X	Fanconi anaemia	Levran (2005) Nat Genet 37:931	PubMed 16116424
+CM096742	cCAG-GAG	Gln944Glu	2830C>G	Q944E	Breast cancer	Cao (2009) Breast Cancer Res Treat 115:51	PubMed 18483852

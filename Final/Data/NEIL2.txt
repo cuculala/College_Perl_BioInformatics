@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM053342	AGG-ACG	Arg164Thr	491G>C	R164T	Multiple colorectal adenoma	Colley (2005) Hum Mutat 26:165	PubMed 16010685
+CM053343	CGG-CTG	Arg257Leu	770G>T	R257L	Multiple colorectal adenoma	Colley (2005) Hum Mutat 26:165	PubMed 16010685

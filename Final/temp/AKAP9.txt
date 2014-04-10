@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM064968	ATGa-ATT	Met463Ile	1389G>T	M463I	Colorectal cancer, increased risk, association with	Webb (2006) Hum Mol Genet 15:3263	PubMed 17000706
+CM078295	TCA-TTA	Ser1570Leu	4709C>T	S1570L	Long QT syndrome	Chen (2007) Proc Natl Acad Sci U S A 104:20990	PubMed 18093912

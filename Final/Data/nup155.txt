@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM086387	CGC-CAC	Arg391His	1172G>A	R391H	Atrial fibrillation	Zhang (2008) Cell 135:1017	PubMed 19070573

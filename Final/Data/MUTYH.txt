@@ -1,0 +1,71 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM083727	CCA-CTA	Pro18Leu	53C>T	P18L	Adenomatous polyposis coli	Yanaru-Fujisawa (2008) Clin Genet 73:545	PubMed 18422726
+CM099025	aCGA-TGA	Arg19Term	55C>T	R19X	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM083730	GGT-GAT	Gly25Asp	74G>A	G25D	Adenomatous polyposis coli	Yanaru-Fujisawa (2008) Clin Genet 73:545	PubMed 18422726
+CM068636	tGTC-TTC	Val67Phe	199G>T	V67F	MUTYH-associated polyposis Di	Gregorio (2006) Gastroenterology 131:439	PubMed 16890597
+CM030378	cCGA-TGA	Arg83Term	247C>T	R83X	Colorectal adenoma	Sieber (2003) N Engl J Med 348:791	PubMed 12606733
+CM055446	TGGt-TGA	Trp89Term	267G>A	W89X	Adenomatous polyposis coli	Kairupan (2005) Int J Cancer 116:73	PubMed 15761860
+CM022646	TACg-TAA	Tyr90Term	270C>A	Y90X	Colorectal adenoma	Jones (2002) Hum Mol Genet 11:2961	PubMed 12393807
+CM053334	cGAC-AAC	Asp91Asn	271G>A	D91N	MYH polyposis	Nielsen (2005) J Med Genet 42:e54	PubMed 16140997
+CM099030	aCGG-TGG	Arg95Trp	283C>T	R95W	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM042752	aTAT-CAT	Tyr114His	340T>C	Y114H	MYH polyposis	Isidro (2004) Hum Mutat 24:353	PubMed 15366000
+CM093638	TATg-TAA	Tyr114Term	342T>A	Y114X	Colorectal cancer	Cleary (2009) Gastroenterology 136:1251	PubMed 19245865
+CM031710	gTGG-AGG	Trp117Arg	349T>A	W117R	Colorectal cancer	Sampson (2003) Lancet 362:39	PubMed 12853198
+CM065326	CCT-CTT	Pro143Leu	428C>T	P143L	MYH polyposis	Aretz (2006) Int J Cancer 119:807	PubMed 16557584
+CM076325	TGG-TAG	Trp160Term	479G>A	W160X	Adenomatous polyposis coli Di	Gregorio (2006) Gastroenterology 131:439	PubMed 16890597
+CM020286	TAC-TGC	Tyr165Cys	494A>G	Y165C	Adenomatous polyposis coli, association with	Al-Tassan (2002) Nat Genet 30:227	PubMed 11818965
+CM064130	TAT-TCT	Tyr166Ser	497A>C	Y166S	Colorectal cancer	Lejeune (2006) Hum Mutat 27:1064	PubMed 16941501
+CM056361	tCGT-TGT	Arg168Cys	502C>T	R168C	Adenomatous polyposis coli	Sampson (2005) Biochem Soc Trans 33:679	PubMed 16042573
+CM116658	tCGT-GGT	Arg168Gly	502C>G	R168G	MUTYH-associated polyposis	Tricarico (2011) BMC Cancer 11:305	PubMed 21777424
+CM042753	CGT-CAT	Arg168His	503G>A	R168H	MYH polyposis	Isidro (2004) Hum Mutat 24:353	PubMed 15366000
+CM073209	CGG-CAG	Arg170Gln	509G>A	R170Q	Colorectal adenoma	Kim (2007) Virchows Arch 450:311	PubMed 17252231
+CM062886	CGG-CAG	Arg171Gln	512G>A	R171Q	Adenomatous polyposis coli	Russell (2006) Int J Cancer 118:1937	PubMed 16287072
+CM076324	gCGG-TGG	Arg171Trp	511C>T	R171W	Adenomatous polyposis coli	Cattaneo (2007) Genet Med 9:836	PubMed 18091433
+CM066141	GGA-GAA	Gly175Glu	524G>A	G175E	MYH polyposis	Kanter-Smoler (2006) Clin Gastroenterol Hepatol 4:499	PubMed 16616356
+CM050076	gGAG-TAG	Glu182Term	544G>T	E182X	Colorectal cancer	Eliason (2005) J Med Genet 42:95	PubMed 15635083
+CM065328	gCAG-TAG	Gln196Term	586C>T	Q196X	MYH polyposis	Aretz (2006) Int J Cancer 119:807	PubMed 16557584
+CM099026	cGTG-ATG	Val201Met	601G>A	V201M	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM083729	GGG-GAG	Gly202Glu	605G>A	G202E	Multiple colorectal adenomas	Dallosso (2008) Gut 57:1252	PubMed 18515411
+CM062885	cATT-GTT	Ile209Val	625A>G	I209V	Adenomatous polyposis coli	Russell (2006) Int J Cancer 118:1937	PubMed 16287072
+CM099055	CAGg-CAA	Gln216Gln	648G>A	Q216Q	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM044678	tGTG-ATG	Val220Met	658G>A	V220M	Colorectal cancer	Fleischmann (2004) Int J Cancer 109:554	PubMed 14991577
+CM053995	AACg-AAT	Asn224Asn	672C>T	N224N	Adenomatous polyposis coli	Aceto (2005) Hum Mutat 26:394	PubMed 16134147
+CM083725	AAC-AGC	Asn224Ser	671A>G	N224S	Multiple colorectal adenomas	Dallosso (2008) Gut 57:1252	PubMed 18515411
+CM099024	CGG-CAG	Arg227Gln	680G>A	R227Q	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM042754	aCGG-TGG	Arg227Trp	679C>T	R227W	MYH polyposis	Isidro (2004) Hum Mutat 24:353	PubMed 15366000
+CM055444	cCGT-TGT	Arg231Cys	691C>T	R231C	Colorectal adenoma	Miyaki (2005) Mutat Res 578:430	PubMed 15890374
+CM053997	CGT-CAT	Arg231His	692G>A	R231H	Adenomatous polyposis coli	Aceto (2005) Hum Mutat 26:394	PubMed 16134147
+CM074362	CGT-CTT	Arg231Leu	692G>T	R231L	MYH polyposis	Bai (2007) Cancer Lett 250:74	PubMed 17081686
+CM035619	tGTC-TTC	Val232Phe	694G>T	V232F	Adenomatous polyposis coli	Sieber (2003) N Engl J Med 348:791	PubMed 12606733
+CM053333	cCGA-TGA	Arg233Term	697C>T	R233X	MYH polyposis	Nielsen (2005) J Med Genet 42:e54	PubMed 16140997
+CM099017	GGT-GAT	Gly236Asp	707G>A	G236D	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM077607	cCAG-TAG	Gln253Term	757C>T	Q253X	Colorectal adenoma	Kim (2007) Int J Colorectal Dis 22:1173	PubMed 17703316
+CM083728	CGG-CAG	Arg260Gln	779G>A	R260Q	MYH polyposis	Ali (2008) Gastroenterology 135:499	PubMed 18534194
+CM053996	cCGG-TGG	Arg260Trp	778C>T	R260W	Adenomatous polyposis coli	Aceto (2005) Hum Mutat 26:394	PubMed 16134147
+CM064128	cATG-GTG	Met269Val	805A>G	M269V	Adenomatous polyposis coli	Lejeune (2006) Hum Mutat 27:1064	PubMed 16941501
+CM077610	GGG-GAG	Gly272Glu	815G>A	G272E	Colorectal adenoma	Kim (2007) Int J Colorectal Dis 22:1173	PubMed 17703316
+CM064129	CCA-CTA	Pro281Leu	842C>T	P281L	Colorectal cancer	Lejeune (2006) Hum Mutat 27:1064	PubMed 16941501
+CM099032	aCGC-TGC	Arg295Cys	883C>T	R295C	MUTYH-associated polyposis	Vogt (2009) Gastroenterology 137:1976	PubMed 19732775
+CM050077	gCAG-TAG	Gln300Term	898C>T	Q300X	Colorectal cancer	Eliason (2005) J Med Genet 42:95	PubMed 15635083
+CM065324	CAG-CGG	Gln324Arg	971A>G	Q324R	Colorectal cancer	Peterlongo (2006) Carcinogenesis 27:2243	PubMed 16774938
+CM083726	CAGt-CAC	Gln324His	972G>C	Q324H	Reduced activity, association with	Ali (2008) Gastroenterology 135:499	PubMed 18534194
+CM031711	aCAG-TAG	Gln324Term	970C>T	Q324X	Colorectal cancer	Sampson (2003) Lancet 362:39	PubMed 12853198
+CM077608	GCC-GTC	Ala359Val	1076C>T	A359V	Colorectal adenoma	Kim (2007) Int J Colorectal Dis 22:1173	PubMed 17703316
+CM053336	gCCT-ACT	Pro366Thr	1096C>A	P366T	MYH polyposis	Nielsen (2005) J Med Genet 42:e54	PubMed 16140997
+CM053998	CTG-CCG	Leu374Pro	1121T>C	L374P	Adenomatous polyposis coli, attenuated	Aceto (2005) Hum Mutat 26:394	PubMed 16134147
+CM053335	gCAG-TAG	Gln377Term	1129C>T	Q377X	MYH polyposis	Nielsen (2005) J Med Genet 42:e54	PubMed 16140997
+CM020287	GGT-GAT	Gly382Asp	1145G>A	G382D	Adenomatous polyposis coli, association with	Al-Tassan (2002) Nat Genet 30:227	PubMed 11818965
+CM053332	CCG-CTG	Pro391Leu	1172C>T	P391L	MYH polyposis	Nielsen (2005) J Med Genet 42:e54	PubMed 16140997
+CM064131	tCAG-TAG	Gln402Term	1204C>T	Q402X	Adenomatous polyposis coli	Lejeune (2006) Hum Mutat 27:1064	PubMed 16941501
+CM065327	cCTG-ATG	Leu406Met	1216C>A	L406M	Colorectal cancer	Peterlongo (2006) Carcinogenesis 27:2243	PubMed 16774938
+CM053999	gCGT-TGT	Arg412Cys	1234C>T	R412C	Adenomatous polyposis coli	Aceto (2005) Hum Mutat 26:394	PubMed 16134147
+CM093951	tCAC-GAC	His434Asp	1300C>G	H434D	Reduced activity	Forsbring (2009) Carcinogenesis 30:1147	PubMed 19443904
+CM077606	CAA-CCA	Gln440Pro	1319A>C	Q440P	Colorectal adenoma	Kim (2007) Int J Colorectal Dis 22:1173	PubMed 17703316
+CM054000	GCT-GAT	Ala459Asp	1376C>A	A459D	MYH polyposis	Alhopuro (2005) Hum Mutat 26:393	PubMed 16134146
+CM044677	tGCT-ACT	Ala459Thr	1375G>A	A459T	Colorectal cancer	Fleischmann (2004) Int J Cancer 109:554	PubMed 14991577
+CM065323	ACGc-ACC	Thr463Thr	1389G>C	T463T	Colorectal cancer	Peterlongo (2006) Carcinogenesis 27:2243	PubMed 16774938
+CM077609	gGAG-TAG	Glu465Term	1393G>T	E465X	Adenomatous polyposis coli	Olschwang (2007) Genet Test 11:315	PubMed 17949294
+CM022647	gGAA-TAA	Glu466Term	1396G>T	E466X	Colorectal adenoma	Jones (2002) Hum Mol Genet 11:2961	PubMed 12393807
+CM055445	cGCC-ACC	Ala475Thr	1423G>A	A475T	Adenomatous polyposis coli	Kairupan (2005) Int J Cancer 116:73	PubMed 15761860
+CM065329	gGTT-TTT	Val479Phe	1435G>T	V479F	MYH polyposis	Aretz (2006) Int J Cancer 119:807	PubMed 16557584
+CM065325	CAGg-CAC	Gln484His	1452G>C	Q484H	Colorectal cancer	Gorgens (2006) J Mol Diagn 8:178	PubMed 16645203

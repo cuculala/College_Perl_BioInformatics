@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM024574	GTT-GCT	Val511Ala	1532T>C	V511A	Colorectal neoplasia, reduced risk, association	Lin (2002) Cancer Epidemiol Biomarkers Prev 11:1305	PubMed 12433707
+CM095674	cGGA-AGA	Gly587Arg	1759G>A	G587R	Oesophageal cancer, risk, association with	Zhao (2009) Mol Carcinog 48:934	PubMed 19347867

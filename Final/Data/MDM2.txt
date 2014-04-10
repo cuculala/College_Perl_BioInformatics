@@ -1,0 +1,2 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM124607	gGAA-AAA	Glu433Lys	1297G>A	E433K	Autism	O'Roak (2012) Nature 485:246	PubMed 22495309

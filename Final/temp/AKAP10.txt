@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067336	CGT-CAT	Arg249His	746G>A	R249H	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM030773	cATT-GTT	Ile646Val	1936A>G	I646V	Cardiac disease, susceptibility to, association	Kammerer (2003) Proc Natl Acad Sci U S A 100:4066	PubMed 12646697

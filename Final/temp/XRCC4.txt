@@ -1,0 +1,3 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067727	ATT-ACT	Ile134Thr	401T>C	I134T	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM083799	gTCT-GCT	Ser247Ala	739T>G	S247A	Oral cancer, association with	Tseng (2008) Anticancer Res 28:1687	PubMed 18630527

@@ -1,0 +1,25 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM070963	AAAc-AAT	Lys5Asn	15A>T	K5N	Costello syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM073168	tAAA-GAA	Lys5Glu	13A>G	K5E	Costello syndrome	Bertola (2007) J Hum Genet 52:521	PubMed 17468812
+CM087372	GGT-GAT	Gly12Asp	35G>A	G12D	Multiple mole melanoma syndrome	Koorstra (2008) Am J Surg Pathol 32:1905	PubMed 18813118
+CM076251	tGGT-AGT	Gly12Ser	34G>A	G12S	Cardio-facio-cutaneous syndrome	Nava (2007) J Med Genet 44:763	PubMed 17704260
+CM061082	cGTA-ATA	Val14Ile	40G>A	V14I	Noonan syndrome	Schubbert (2006) Nat Genet 38:331	PubMed 16474405
+CM070966	CAG-CGG	Gln22Arg	65A>G	Q22R	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM070964	aCAG-GAG	Gln22Glu	64C>G	Q22E	Cardio-facio-cutaneous syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM116919	CAGa-CAT	Gln25His	75G>T	Q25H	Gallbladder carcinoma, increased risk, assoc with	Pramanik (2011) Genet Test Mol Biomarkers 15:431	PubMed 21375404
+CM106704	AAT-ATT	Asn26Ile	77A>T	N26I	Noonan syndrome	Leventopoulos (2010) Clin Exp Rheumatol 28:556	PubMed 20810036
+CM061081	CCA-CGA	Pro34Arg	101C>G	P34R	Cardio-facio-cutaneous syndrome	Schubbert (2006) Nat Genet 38:331	PubMed 16474405
+CM070967	CCA-CAA	Pro34Gln	101C>A	P34Q	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM070968	CCA-CTA	Pro34Leu	101C>T	P34L	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM070965	ATAg-ATG	Ile36Met	108A>G	I36M	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM061079	ACA-ATA	Thr58Ile	173C>T	T58I	Noonan syndrome	Schubbert (2006) Nat Genet 38:331	PubMed 16474405
+CM061080	aGGT-CGT	Gly60Arg	178G>C	G60R	Cardio-facio-cutaneous syndrome	Niihori (2006) Nat Genet 38:294	PubMed 16474404
+CM092327	aGGT-AGT	Gly60Ser	178G>A	G60S	Noonan syndrome	Kratz (2009) Am J Med Genet A 149A:1036	PubMed 19396835
+CM1111357	gTAC-CAC	Tyr71His	211T>C	Y71H	Cardio-facio-cutaneous syndrome	Stark (2011) Clin Genet :	PubMed 21797849
+CM123160	cATG-CTG	Met72Leu	214A>C	M72L	Noonan syndrome	Brasil (2012) Am J Med Genet A 158A:1178	PubMed 22488932
+CM121363	AAT-AGT	Asn116Ser	347A>G	N116S	Noonan syndrome	Razzaque (2012) Am J Med Genet A 158A:524	PubMed 22302539
+CM1111358	aAAG-GAG	Lys147Glu	439A>G	K147E	Cardio-facio-cutaneous syndrome	Stark (2011) Clin Genet :	PubMed 21797849
+CM061830	GTT-GGT	Val152Gly	455T>G	V152G	Noonan syndrome	Carta (2006) Am J Hum Genet 79:129	PubMed 16773572
+CM061083	GAT-GTT	Asp153Val	458A>T	D153V	Noonan syndrome	Schubbert (2006) Nat Genet 38:331	PubMed 16474405
+CM070969	cTTC-ATC	Phe156Ile	466T>A	F156I	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636
+CM070970	TTCt-TTG	Phe156Leu	468C>G	F156L	Noonan syndrome	Zenker (2007) J Med Genet 44:131	PubMed 17056636

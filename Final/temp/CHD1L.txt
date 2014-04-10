@@ -1,0 +1,5 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM067658	CACc-CAG	His350Gln	1050C>G	H350Q	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM1110400	tGGG-AGG	Gly700Arg	2098G>A	G700R	Congenital anomalies of the kidney and urinary tract	Brockschmidt (2011) Nephrol Dial Transplant epub:epub	PubMed 22146311
+CM1110402	ATAt-ATG	Ile765Met	2295A>G	I765M	Congenital anomalies of the kidney and urinary tract	Brockschmidt (2011) Nephrol Dial Transplant epub:epub	PubMed 22146311
+CM1110401	gATA-GTA	Ile827Val	2479A>G	I827V	Congenital anomalies of the kidney and urinary tract	Brockschmidt (2011) Nephrol Dial Transplant epub:epub	PubMed 22146311

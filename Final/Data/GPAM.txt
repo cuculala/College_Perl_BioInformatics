@@ -1,0 +1,4 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM109862	cGTT-ATT	Val112Ile	334G>A	V112I	Complex I deficiency	Calvo (2010) Nat Genet 42:851	PubMed 20818383
+CM067418	GAA-GGA	Glu131Gly	392A>G	E131G	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
+CM109861	ACG-ATG	Thr447Met	1340C>T	T447M	Complex I deficiency	Calvo (2010) Nat Genet 42:851	PubMed 20818383

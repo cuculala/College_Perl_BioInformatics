@@ -1,0 +1,12 @@
+HGMD accession	HGMD codon change	HGMD amino acid change	HGVS(nucleotide)	HGVS(protein)	Phenotype	Reference	Source
+CM076015	gCCC-TCC	Pro24Ser	70C>T	P24S	Breast cancer, reduced risk, association with	Huo (2007) Breast Cancer Res Treat 102:329	PubMed 17028982
+CM021948	AAT-AGT	Asn295Ser	884A>G	N295S	Breast cancer	Ghimenti (2002) Genes Chromosomes Cancer 33:235	PubMed 11807980
+CM021949	AAAt-AAT	Lys312Asn	936A>T	K312N	Breast and/or ovarian cancer	Ghimenti (2002) Genes Chromosomes Cancer 33:235	PubMed 11807980
+CM076014	AGGa-AGC	Arg378Ser	1134G>C	R378S	Breast cancer, reduced risk, association with	Huo (2007) Breast Cancer Res Treat 102:329	PubMed 17028982
+CM034383	AAT-AGT	Asn470Ser	1409A>G	N470S	Breast cancer	Ishitobi (2003) Cancer Lett 200:1	PubMed 14550946
+CM034384	cGTG-ATG	Val507Met	1519G>A	V507M	Breast cancer, association with	Ishitobi (2003) Cancer Lett 200:1	PubMed 14550946
+CM101407	ATA-ACA	Ile509Thr	1526T>C	I509T	Breast cancer, increased risk De	Brakeleer (2010) Hum Mutat 31:E1175	PubMed 20077502
+CM021950	TGC-TCC	Cys557Ser	1670G>C	C557S	Breast cancer, association with	Karpinnen (2004) J Med Genet 41:e114	PubMed 15342711
+CM980211	CAGc-CAC	Gln564His	1692G>C	Q564H	Ovarian cancer	Thai (1998) Hum Mol Genet 7:195	PubMed 9425226
+CM117928	gCAG-TAG	Gln564Term	1690C>T	Q564X	Breast and/or ovarian cancer	Ratajska (2011) Breast Cancer Res Treat 131:89	PubMed 21344236
+CM067650	aCGC-TGC	Arg658Cys	1972C>T	R658C	Lung cancer, susceptibility to, association with	Rudd (2006) Genome Res 16:693	PubMed 16741161
